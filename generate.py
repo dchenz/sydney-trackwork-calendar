@@ -167,6 +167,11 @@ def saveCalendarFile(calendar: Calendar, transportMode: str, route: str):
         f.writelines(calendar.serialize_iter())
 
 
+def logSkippedAlert(entity: AlertEntity):
+    headerText = getEnglishText(entity["alert"]["headerText"])
+    print(f'Skipped: id={entity["id"]}, headerText="{headerText}"')
+
+
 def main():
     mode = MODE_SYDNEY_TRAINS
     alertsData = fetchAlerts(mode)
@@ -175,16 +180,19 @@ def main():
     for entity in alertsData["entity"]:
         alert = entity["alert"]
         if not isRelevant(alert):
+            logSkippedAlert(entity)
             continue
 
         headerText = getEnglishText(alert["headerText"])
         if not headerText:
+            logSkippedAlert(entity)
             continue
 
         timeRange = getDatesFromDescription(alert)
         if not timeRange:
             timeRange = getActivePeriod(alert)
         if not timeRange:
+            logSkippedAlert(entity)
             continue
 
         event = Event()
