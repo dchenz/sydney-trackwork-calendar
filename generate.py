@@ -1,10 +1,14 @@
 import os
 import sys
+from datetime import datetime
 from typing import NotRequired, TypedDict
 
+import pytz
 import requests
 
 ENV_TFNSW_OPENDATA_API_KEY = "TFNSW_OPENDATA_API_KEY"
+
+SYDNEY_TIME = pytz.timezone("Australia/Sydney")
 
 MODE_BUSES = "buses"
 MODE_FERRIES = "ferries"
@@ -78,6 +82,32 @@ def fetchAlerts(transportType: str) -> GetAlertsResponse:
         raise
 
 
+def getEnglishText(text: TextWithTranslation) -> str | None:
+    for translation in text["translation"]:
+        if translation["language"] == "en":
+            return translation["text"]
+
+
+def getActivePeriod(alert: Alert) -> tuple[datetime, datetime] | None:
+    for period in alert["activePeriod"]:
+        start = period["start"]
+        end = period.get("end", start)
+        activePeriodStart = datetime.fromtimestamp(int(start)).astimezone(SYDNEY_TIME)
+        activePeriodEnd = datetime.fromtimestamp(int(end)).astimezone(SYDNEY_TIME)
+        return activePeriodStart, activePeriodEnd
+
+
+def parseAlerts(alertsData: GetAlertsResponse):
+    for entity in alertsData["entity"]:
+        alert = entity["alert"]
+
+        print(getActivePeriod(alert), getEnglishText(alert["headerText"]))
+
+
+def main():
+    alertsData = fetchAlerts(MODE_SYDNEY_TRAINS)
+    parseAlerts(alertsData)
+
+
 if __name__ == "__main__":
-    alerts = fetchAlerts(MODE_SYDNEY_TRAINS)
-    print(alerts)
+    main()
