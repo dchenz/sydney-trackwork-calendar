@@ -149,12 +149,21 @@ def isRelevant(alert: Alert) -> bool:
     )
 
 
+def getAffectedRoutes(alert: Alert) -> list[str]:
+    routes: set[str] = set()
+    for entity in alert["informedEntity"]:
+        if "routeId" in entity:
+            # Treat route IDs like IWL_2d as IWL, no need to keep the suffix.
+            routes.add(entity["routeId"].split("_")[0])
+    return list(routes)
+
+
 def parseAlerts(alertsData: GetAlertsResponse):
     for entity in alertsData["entity"]:
         alert = entity["alert"]
         if not isRelevant(alert):
             continue
-        print(getDatesFromDescription(alert), getEnglishText(alert["headerText"]))
+        print(getAffectedRoutes(alert), getEnglishText(alert["headerText"]))
 
 
 def main():
