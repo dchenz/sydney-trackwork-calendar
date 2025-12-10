@@ -1,7 +1,7 @@
 import os
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import NotRequired, TypedDict
 
 import pytz
@@ -128,6 +128,14 @@ def logSkippedAlert(entity: AlertEntity):
     print(f'Skipped: id={entity["id"]}, headerText="{headerText}"')
 
 
+# Weekend trackwork often includes Monday 12am-2am, which should be removed because
+# people aren't traveling at that time and it shows up in calendars as Monday.
+def adjustEndTimeForWeekends(end: datetime) -> datetime:
+    if end.weekday() == 0 and end.hour <= 2:
+        end = (end - timedelta(days=1)).replace(hour=23, minute=59)
+    return end
+
+
 def main():
     mode = MODE_SYDNEY_TRAINS
     alertsData = fetchAlerts(mode)
@@ -155,7 +163,7 @@ def main():
             event.name = headerText
             event.description = getEnglishText(alert["descriptionText"])
             event.begin = start
-            event.end = end
+            event.end = adjustEndTimeForWeekends(end)
 
             if url := getEnglishText(alert["url"]):
                 event.url = url
