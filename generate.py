@@ -11,6 +11,7 @@ from ics import Calendar, Event
 ENV_TFNSW_OPENDATA_API_KEY = "TFNSW_OPENDATA_API_KEY"
 
 SYDNEY_TIME = pytz.timezone("Australia/Sydney")
+NOW = datetime.now().timestamp()
 
 MODE_BUSES = "buses"
 MODE_FERRIES = "ferries"
@@ -93,10 +94,12 @@ def getEnglishText(text: TextWithTranslation) -> str | None:
 def getActivePeriod(alert: Alert) -> list[tuple[datetime, datetime]]:
     schedule: list[tuple[datetime, datetime]] = []
     for period in alert["activePeriod"]:
-        start = period["start"]
-        end = period.get("end", start)
-        activePeriodStart = datetime.fromtimestamp(int(start)).astimezone(SYDNEY_TIME)
-        activePeriodEnd = datetime.fromtimestamp(int(end)).astimezone(SYDNEY_TIME)
+        start = int(period["start"])
+        end = int(period.get("end", start))
+        if end < NOW:
+            continue
+        activePeriodStart = datetime.fromtimestamp(start).astimezone(SYDNEY_TIME)
+        activePeriodEnd = datetime.fromtimestamp(end).astimezone(SYDNEY_TIME)
         schedule.append((activePeriodStart, activePeriodEnd))
     return schedule
 
