@@ -154,9 +154,12 @@ def main():
             event.uid = entity["id"]
             event.name = headerText
             event.description = getEnglishText(alert["descriptionText"])
-            event.location = getEnglishText(alert["url"])
             event.begin = start
             event.end = end
+
+            if url := getEnglishText(alert["url"]):
+                event.url = url
+                event.description = f"{url}\n\n{event.description}"
 
             for route in getAffectedRoutes(alert):
                 if route not in calendarsByRoute:
