@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63222\n\nFriday 26 to Sunday 28 December Buses replace trains between Parramatta and Olympic Park.
+DTEND:20251228T125900Z
+DTSTART:20251225T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Parramatta or Blacktown and Olympic Park
+UID:a0fd1703-1758-5464-9c8b-024e9c8fa710
+URL:https://transportnsw.info/alerts/details#/ems-63222
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63698\n\nSaturday 3 and Sunday 4 January Richmond trains run between Richmond and Liverpool. Change at Parramatta for trains towards the City.
+DTEND:20260104T125900Z
+DTSTART:20260102T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed stopping pattern. Buses replace some trains between Richmond and Riverstone
+UID:89c1c8a8-cab5-5b91-81dc-d9a3641478b2
+URL:https://transportnsw.info/alerts/details#/ems-63698
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64203\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
+DTEND:20260105T153000Z
+DTSTART:20260105T125000Z
+SUMMARY:T1 Western Line: Buses replace trains from Blacktown to Penrith
+UID:91596db4-5422-5711-9394-294a5789562b
+URL:https://transportnsw.info/alerts/details#/ems-64203
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63229\n\nSaturday 20 and Sunday 21 December    \nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong. Frequent metro services run between Tallawong and the City.
+DTEND:20251221T125900Z
+DTSTART:20251219T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
+UID:edd1a8c6-9d9b-50fc-b559-c227b16ea5d4
+URL:https://transportnsw.info/alerts/details#/ems-63229
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64209\n\nSaturday 10 and Sunday 11 January Richmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool.
+DTEND:20260111T125900Z
+DTSTART:20260109T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains between Penrith and Blacktown
+UID:52f3d088-2cd1-51fc-8925-86248134bdf4
+URL:https://transportnsw.info/alerts/details#/ems-64209
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64203\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
+DTEND:20260106T153000Z
+DTSTART:20260106T125000Z
+SUMMARY:T1 Western Line: Buses replace trains from Blacktown to Penrith
+UID:91596db4-5422-5711-9394-294a5789562b
+URL:https://transportnsw.info/alerts/details#/ems-64203
+END:VEVENT
+END:VCALENDAR

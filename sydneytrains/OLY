@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64233\n\nSaturday 10 and Sunday 11 January Buses replace trains between Olympic Park and Lidcombe.
+DTEND:20260111T125900Z
+DTSTART:20260109T150000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:ff8069fc-6d28-592a-a388-aef0a49467e8
+URL:https://transportnsw.info/alerts/details#/ems-64233
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63293\n\nFriday 26 to Sunday 28 December Buses replace trains between Olympic Park and Lidcombe\, continuing to Parramatta or Bankstown.
+DTEND:20251228T125900Z
+DTSTART:20251225T150000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe. Trains run between Olympic Park and the City
+UID:0eedf5c8-6515-5f4b-a0db-11e554d56537
+URL:https://transportnsw.info/alerts/details#/ems-63293
+END:VEVENT
+END:VCALENDAR

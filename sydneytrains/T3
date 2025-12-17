@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64217\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM\, buses replace trains between Liverpool and Lidcombe.
+DTEND:20260108T150000Z
+DTSTART:20260108T104000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:0d09f58e-6d5d-5c4d-832d-59b898ce9585
+URL:https://transportnsw.info/alerts/details#/ems-64217
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64217\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM\, buses replace trains between Liverpool and Lidcombe.
+DTEND:20260107T150000Z
+DTSTART:20260107T104000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:0d09f58e-6d5d-5c4d-832d-59b898ce9585
+URL:https://transportnsw.info/alerts/details#/ems-64217
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63239\n\nMonday 29 and Tuesday 30 December Buses replace Inner West trains between Ashfield and Central.
+DTEND:20251230T150000Z
+DTSTART:20251228T150000Z
+SUMMARY:Buses replace Inner West trains between Ashfield and Central. Change at Strathfield for express trains
+UID:5ed62c13-f154-5bc4-b112-5d4ac28ee01f
+URL:https://transportnsw.info/alerts/details#/ems-63239
+END:VEVENT
+END:VCALENDAR
