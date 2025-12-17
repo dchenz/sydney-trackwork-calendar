@@ -35,3 +35,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TFNSW_OPENDATA_API_KEY: ${{ secrets.TFNSW_OPENDATA_API_KEY }}
+          DATA_BRANCH: ics

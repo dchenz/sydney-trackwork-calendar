@@ -7,7 +7,7 @@ if [ "$(git config user.name)" != "github-actions[bot]" ]; then
     exit 1
 fi
 
-git checkout --orphan ics
+git checkout --orphan "$DATA_BRANCH"
 
 python3 generate.py
 
@@ -17,4 +17,4 @@ git add sydneytrains
 
 git commit -m "Update calendar data"
 
-git push -f origin ics
+git push -f origin "$DATA_BRANCH"
