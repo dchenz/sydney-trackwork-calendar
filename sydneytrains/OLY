@@ -10,6 +10,14 @@ UID:ff8069fc-6d28-592a-a388-aef0a49467e8
 URL:https://transportnsw.info/alerts/details#/ems-64233
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64554\n\nSaturday 17 and Sunday 18 January \nBuses replace trains between Olympic Park and Lidcombe\, with some continuing to Parramatta.\nTrains run between Olympic Park and the City.
+DTEND:20260118T125900Z
+DTSTART:20260116T150000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe. Trains run between Olympic Park and the City
+UID:66c15a69-2270-5a51-98da-d3679d9efb8c
+URL:https://transportnsw.info/alerts/details#/ems-64554
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63293\n\nFriday 26 to Sunday 28 December Buses replace trains between Olympic Park and Lidcombe\, continuing to Parramatta or Bankstown.
 DTEND:20251228T125900Z
 DTSTART:20251225T150000Z

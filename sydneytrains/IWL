@@ -57,4 +57,12 @@ SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:0003d8f0-c4b8-55e6-92ae-60e8edc5430e
 URL:https://transportnsw.info/alerts/details#/ems-64211
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64537\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T2 Leppington Line stations and the City.\nBuses replace trains between Parramatta and Olympic Park.\nTrains run to a changed timetable between:\n- Leppington and St Marys\n- Liverpool and Richmond\n- Olympic Park and the City.\nChange at:\n- Glenfield for trains to the City via the Airport\, or\n- Parramatta for buses towards Olympic Park\, then trains from Olympic Park to the City.
+DTEND:20260118T125900Z
+DTSTART:20260116T150000Z
+SUMMARY:Buses replace trains between Parramatta and Olympic Park
+UID:8c114638-285d-5ec1-aa80-0ef7d0441628
+URL:https://transportnsw.info/alerts/details#/ems-64537
+END:VEVENT
 END:VCALENDAR
