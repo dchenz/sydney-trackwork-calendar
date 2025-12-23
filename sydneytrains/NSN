@@ -9,12 +9,4 @@ SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
 UID:e21e4418-3489-590d-b1d5-40296c115f91
 URL:https://transportnsw.info/alerts/details#/ems-63690
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63687\n\nMonday 22 and Tuesday 23 December Nightly buses replace trains between Hornsby and Milsons Point.
-DTEND:20251223T143000Z
-DTSTART:20251223T102000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
-UID:fd8f4d60-4a70-5cb6-9bdd-fe10c73c0de9
-URL:https://transportnsw.info/alerts/details#/ems-63687
-END:VEVENT
 END:VCALENDAR
