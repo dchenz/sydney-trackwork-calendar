@@ -10,14 +10,6 @@ UID:ba9c14e0-bdc3-5e4e-8b2d-70ea82ee6598
 URL:https://transportnsw.info/alerts/details#/ems-64231
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63285\n\nFriday 26 to Sunday 28 December Buses replace trains between Bankstown and Olympic Park.
-DTEND:20251228T125900Z
-DTSTART:20251225T150000Z
-SUMMARY:Buses replace trains between Bankstown and Olympic Park
-UID:79eb4136-a723-54ac-b2c1-eb64fc667369
-URL:https://transportnsw.info/alerts/details#/ems-63285
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64231\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Bankstown and Lidcombe.
 DTEND:20260107T143000Z
 DTSTART:20260107T104000Z

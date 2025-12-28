@@ -26,14 +26,6 @@ UID:0d10c1e9-d763-5b93-9851-fb6cd93c5cfc
 URL:https://transportnsw.info/alerts/details#/ems-64225
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63274\n\nFriday 26 to Sunday 28 December Trains run to a changed timetable and stopping pattern between Richmond and Liverpool\, and between Penrith and Leppington.
-DTEND:20251228T125900Z
-DTSTART:20251225T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:a210f999-48af-5389-ae33-03d1e8dac843
-URL:https://transportnsw.info/alerts/details#/ems-63274
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63713\n\nSaturday 3 and Sunday 4 January Trains run to a changed timetable between Richmond or Schofields and Liverpool.
 DTEND:20260104T125900Z
 DTSTART:20260102T150000Z

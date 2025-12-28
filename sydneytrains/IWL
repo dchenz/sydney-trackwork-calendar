@@ -10,6 +10,14 @@ UID:31f66e50-6624-56b8-919f-80377e48470e
 URL:https://transportnsw.info/alerts/details#/ems-63234
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64213\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
+DTEND:20260107T143000Z
+DTSTART:20260107T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:f393ca8a-3bcd-5c0e-877e-87238e2bd3ae
+URL:https://transportnsw.info/alerts/details#/ems-64213
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63232\n\nMonday 29 and Tuesday 30 December Buses replace Inner West trains between Ashfield and Central.
 DTEND:20251230T150000Z
 DTSTART:20251228T150000Z
@@ -19,27 +27,11 @@ URL:https://transportnsw.info/alerts/details#/ems-63232
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64213\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20260107T143000Z
-DTSTART:20260107T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:f393ca8a-3bcd-5c0e-877e-87238e2bd3ae
-URL:https://transportnsw.info/alerts/details#/ems-64213
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64213\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
 DTEND:20260108T143000Z
 DTSTART:20260108T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:f393ca8a-3bcd-5c0e-877e-87238e2bd3ae
 URL:https://transportnsw.info/alerts/details#/ems-64213
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63227\n\nFriday 26 to Sunday 28 December Buses replace trains between Parramatta and Olympic Park.
-DTEND:20251228T125900Z
-DTSTART:20251225T150000Z
-SUMMARY:Buses replace trains between Parramatta or Cabramatta and Olympic Park. Use T8 trains between Glenfield and the City
-UID:bfffb230-fd51-5994-8dee-c4f9c0cc2b9f
-URL:https://transportnsw.info/alerts/details#/ems-63227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64211\n\nMonday 5 and Tuesday 6 January Nightly from 9 50 PM to 1 30 AM\, buses replace trains between Leppington and Glenfield.
