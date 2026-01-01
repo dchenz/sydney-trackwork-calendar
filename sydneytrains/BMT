@@ -10,16 +10,16 @@ UID:b3887718-aac2-5e49-9082-c3a4410e3bed
 URL:https://transportnsw.info/alerts/details#/ems-64559
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM\, buses replace trains from Blacktown to Penrith\, in that direction only.
-DTEND:20260105T150000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
+DTEND:20260105T153000Z
 DTSTART:20260105T125000Z
 SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
 UID:19e97ed7-eb44-57f2-ba79-7c8fb87c2bdf
 URL:https://transportnsw.info/alerts/details#/ems-64245
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM\, buses replace trains from Blacktown to Penrith\, in that direction only.
-DTEND:20260106T150000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
+DTEND:20260106T153000Z
 DTSTART:20260106T125000Z
 SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
 UID:19e97ed7-eb44-57f2-ba79-7c8fb87c2bdf
