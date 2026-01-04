@@ -10,20 +10,20 @@ UID:d1aaaf80-4bfc-572f-b23e-bd4624fc5ad2
 URL:https://transportnsw.info/alerts/details#/ems-64531
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63698\n\nSaturday 3 and Sunday 4 January Richmond trains run between Richmond and Liverpool. Change at Parramatta for trains towards the City.
-DTEND:20260104T125900Z
-DTSTART:20260102T150000Z
-SUMMARY:T1 Western Line: Trains run to a changed stopping pattern. Buses replace some trains between Richmond and Riverstone
-UID:89c1c8a8-cab5-5b91-81dc-d9a3641478b2
-URL:https://transportnsw.info/alerts/details#/ems-63698
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64203\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
 DTEND:20260105T153000Z
 DTSTART:20260105T125000Z
 SUMMARY:T1 Western Line: Buses replace trains from Blacktown to Penrith
 UID:91596db4-5422-5711-9394-294a5789562b
 URL:https://transportnsw.info/alerts/details#/ems-64203
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64535\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T1 Western Line stations and the City.\nBuses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park.\nTrains run to a changed timetable between:\n- St Marys and Leppington\n- Richmond and Liverpool\n- Olympic Park and the City\nChange at:\n- Parramatta for buses towards Olympic Park\, then trains from Olympic Park to the City\, or\n- Glenfield for trains to the City via the Airport.
+DTEND:20260118T125900Z
+DTSTART:20260116T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park
+UID:f3710efd-88dd-557c-9331-ce868f4efb3f
+URL:https://transportnsw.info/alerts/details#/ems-64535
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64209\n\nSaturday 10 and Sunday 11 January Richmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool.
@@ -40,14 +40,6 @@ DTSTART:20260116T102000Z
 SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and St Marys
 UID:d8254f82-5ac3-594b-9e6b-1bdebf1be6d2
 URL:https://transportnsw.info/alerts/details#/ems-64533
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64535\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T1 Western Line stations and the City.\nBuses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park.\nTrains run to a changed timetable between:\n- St Marys and Leppington\n- Richmond and Liverpool\n- Olympic Park and the City\nChange at:\n- Parramatta for buses towards Olympic Park\, then trains from Olympic Park to the City\, or\n- Glenfield for trains to the City via the Airport.
-DTEND:20260118T125900Z
-DTSTART:20260116T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park
-UID:f3710efd-88dd-557c-9331-ce868f4efb3f
-URL:https://transportnsw.info/alerts/details#/ems-64535
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64203\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
