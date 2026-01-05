@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-64242
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64239\n\nMonday 5 and Tuesday 6 January Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Glenfield and Sydenham.
-DTEND:20260105T143000Z
-DTSTART:20260105T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:4843398e-1462-5bc8-a884-d0a0e57f4ad9
-URL:https://transportnsw.info/alerts/details#/ems-64239
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64239\n\nMonday 5 and Tuesday 6 January Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Glenfield and Sydenham.
 DTEND:20260106T143000Z
 DTSTART:20260106T103000Z
 SUMMARY:Buses replace trains between Glenfield and Sydenham

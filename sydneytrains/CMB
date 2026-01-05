@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64225\n\nMonday 5 and Tuesday 6 January Nightly from 9 50 PM to 1 30 AM\, buses replace trains between Leppington and Glenfield.
-DTEND:20260105T143000Z
-DTSTART:20260105T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:0d10c1e9-d763-5b93-9851-fb6cd93c5cfc
-URL:https://transportnsw.info/alerts/details#/ems-64225
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64225\n\nMonday 5 and Tuesday 6 January Nightly from 9 50 PM to 1 30 AM\, buses replace trains between Leppington and Glenfield.
 DTEND:20260106T143000Z
 DTSTART:20260106T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
@@ -27,16 +19,16 @@ URL:https://transportnsw.info/alerts/details#/ems-65011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64227\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20260107T143000Z
-DTSTART:20260107T104000Z
+DTEND:20260108T143000Z
+DTSTART:20260108T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:efd90215-957f-55c0-a540-2baf6d2f2c36
 URL:https://transportnsw.info/alerts/details#/ems-64227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64227\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20260108T143000Z
-DTSTART:20260108T104000Z
+DTEND:20260107T143000Z
+DTSTART:20260107T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:efd90215-957f-55c0-a540-2baf6d2f2c36
 URL:https://transportnsw.info/alerts/details#/ems-64227
