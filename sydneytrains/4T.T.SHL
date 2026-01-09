@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65237\n\nUntil end of service Saturday 10 January.\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting equipment at a number of locations along the Line.\nA limited number of buses are providing a replacement service.\nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates.
-DTEND:20260109T082922Z
-DTSTART:20260109T002922Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65259\n\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations. \n \nA limited number of buses are providing a replacement service. \n \nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates. \n \nIt is forecast that trains will not run until Sunday morning when heat conditions ease.
+DTEND:20260109T170513Z
+DTSTART:20260109T084313Z
 SUMMARY:Buses replace trains between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations.
-UID:cd59aa30-1b7f-5943-9f08-9adf2197fc10
-URL:https://transportnsw.info/alerts/details#/ems-65237
+UID:99b8b845-61d7-5cef-b623-55a1f65ad643
+URL:https://transportnsw.info/alerts/details#/ems-65259
 END:VEVENT
 END:VCALENDAR
