@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains between Hurstville\, Sydenham and Central. Trains v
 UID:be01ae52-442f-535d-9509-d4936326c92d
 URL:https://transportnsw.info/alerts/details#/ems-64242
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65259\n\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations. \n \nA limited number of buses are providing a replacement service. \n \nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates. \n \nIt is forecast that trains will not run until Sunday morning when heat conditions ease.
-DTEND:20260109T170513Z
-DTSTART:20260109T084313Z
-SUMMARY:Buses replace trains between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations.
-UID:99b8b845-61d7-5cef-b623-55a1f65ad643
-URL:https://transportnsw.info/alerts/details#/ems-65259
-END:VEVENT
 END:VCALENDAR

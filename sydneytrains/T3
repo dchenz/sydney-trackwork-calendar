@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65259\n\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations. \n \nA limited number of buses are providing a replacement service. \n \nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates. \n \nIt is forecast that trains will not run until Sunday morning when heat conditions ease.
-DTEND:20260109T170513Z
-DTSTART:20260109T084313Z
-SUMMARY:Buses replace trains between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations.
-UID:99b8b845-61d7-5cef-b623-55a1f65ad643
-URL:https://transportnsw.info/alerts/details#/ems-65259
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64539\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T3 Liverpool Line stations and the City.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nBuses replace trains between Lidcombe and Olympic Park or Parramatta.\nChange at:\n- Lidcombe for buses to Olympic Park\, then trains from Olympic Park to the City\, or\n- Cabramatta for trains towards Leppington or T1 Western Line stations.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z
