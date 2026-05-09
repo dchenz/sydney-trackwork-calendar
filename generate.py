@@ -126,9 +126,16 @@ def saveCalendarFile(calendar: Calendar, transportMode: str, route: str):
         f.writelines(calendar.serialize_iter())
 
 
-def logSkippedAlert(entity: AlertEntity):
-    headerText = getEnglishText(entity["alert"]["headerText"])
-    print(f'Skipped: id={entity["id"]}, headerText="{headerText}"')
+def logSkippedAlert(entity: AlertEntity, reason: str):
+    print(
+        "Skipped:",
+        {
+            "routes": getAffectedRoutes(entity["alert"]),
+            "id": entity["id"],
+            "headerText": getEnglishText(entity["alert"]["headerText"]),
+            "reason": reason,
+        },
+    )
 
 
 # Weekend trackwork often includes Monday 12am-2am, which should be removed because
@@ -147,17 +154,17 @@ def main():
     for entity in alertsData["entity"]:
         alert = entity["alert"]
         if not isRelevant(alert):
-            logSkippedAlert(entity)
+            logSkippedAlert(entity, "not relevant")
             continue
 
         headerText = getEnglishText(alert["headerText"])
         if not headerText:
-            logSkippedAlert(entity)
+            logSkippedAlert(entity, "no header text")
             continue
 
         timeRange = getActivePeriod(alert)
         if not timeRange:
-            logSkippedAlert(entity)
+            logSkippedAlert(entity, "no time range")
             continue
 
         for start, end in timeRange:
