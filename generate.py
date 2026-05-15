@@ -104,10 +104,6 @@ def getActivePeriod(alert: Alert) -> list[tuple[datetime, datetime]]:
     return schedule
 
 
-def isRelevant(alert: Alert) -> bool:
-    headerText = getEnglishText(alert["headerText"]) or ""
-    return re.search("buses replace", headerText, flags=re.IGNORECASE) is not None
-
 
 def getAffectedRoutes(alert: Alert) -> list[str]:
     routes: set[str] = set()
@@ -153,9 +149,6 @@ def main():
 
     for entity in alertsData["entity"]:
         alert = entity["alert"]
-        if not isRelevant(alert):
-            logSkippedAlert(entity, "not relevant")
-            continue
 
         headerText = getEnglishText(alert["headerText"])
         if not headerText:
