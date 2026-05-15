@@ -1,0 +1,28 @@
+name: Squash calendar data
+
+on:
+  schedule:
+    - cron: "0 0 1 */3 *"
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Squash all commits in data branch
+        run: |
+          ./squash.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DATA_BRANCH: ics
