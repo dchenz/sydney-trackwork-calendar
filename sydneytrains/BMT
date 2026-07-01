@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73671\n\nMonday 29 June to Thursday 2 July  \nNightly from 10PM to 2AM\, buses replace trains between Springwood and Penrith.\nTrains run to a changed timetable between Lithgow or Mount Victoria and Springwood\, and between Penrith and Central.
-DTEND:20260702T160000Z
-DTSTART:20260702T120000Z
-SUMMARY:Buses replace trains between Springwood and Penrith
-UID:cad60ea7-f469-58ae-a756-4a72809c354b
-URL:https://transportnsw.info/alerts/details#/ems-73671
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74029\n\nOn Saturday 11 and Sunday 12 July\, the 06.08AM Bathurst to Central and the 15.05PM Central to Bathurst trains will run between Bathurst and Lithgow only.
 DTEND:20260712T070544Z
 DTSTART:20260710T200800Z
@@ -27,8 +19,8 @@ URL:https://transportnsw.info/alerts/details#/ems-74462
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73671\n\nMonday 29 June to Thursday 2 July  \nNightly from 10PM to 2AM\, buses replace trains between Springwood and Penrith.\nTrains run to a changed timetable between Lithgow or Mount Victoria and Springwood\, and between Penrith and Central.
-DTEND:20260701T160000Z
-DTSTART:20260701T120000Z
+DTEND:20260702T160000Z
+DTSTART:20260702T120000Z
 SUMMARY:Buses replace trains between Springwood and Penrith
 UID:cad60ea7-f469-58ae-a756-4a72809c354b
 URL:https://transportnsw.info/alerts/details#/ems-73671
