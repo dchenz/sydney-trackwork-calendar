@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74433\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Inner West trains do not run on T1 Western or T9.
+DTEND:20260716T153015Z
+DTSTART:20260716T114015Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:1fd8dbb4-633c-5427-a3bc-beead2b3b636
+URL:https://transportnsw.info/alerts/details#/ems-74433
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73972\n\nWednesday 8 July\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.\nYou may need to change trains to continue your journey.
+DTEND:20260708T153023Z
+DTSTART:20260708T123000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:519cf3e7-43ab-527d-95a7-b9c54091d55c
+URL:https://transportnsw.info/alerts/details#/ems-73972
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73976\n\nFriday 10 July\nFrom 10:40PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Olympic Park via Granville.\nChange trains at Lidcombe to continue your journey.\nThe last Inner West train leaves Central at 22:26\, arriving Ashfield at 22:44.
+DTEND:20260710T160010Z
+DTSTART:20260710T124000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central
+UID:94905e6d-b62e-503f-8c7e-3c2d6899fda7
+URL:https://transportnsw.info/alerts/details#/ems-73976
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
+DTEND:20260714T153044Z
+DTSTART:20260714T112044Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:4c47428d-10c1-5b06-9eaf-53b286932402
+URL:https://transportnsw.info/alerts/details#/ems-74431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74433\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Inner West trains do not run on T1 Western or T9.
+DTEND:20260715T153015Z
+DTSTART:20260715T114015Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:1fd8dbb4-633c-5427-a3bc-beead2b3b636
+URL:https://transportnsw.info/alerts/details#/ems-74433
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
+DTEND:20260713T153044Z
+DTSTART:20260713T112044Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:4c47428d-10c1-5b06-9eaf-53b286932402
+URL:https://transportnsw.info/alerts/details#/ems-74431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73980\n\nSaturday 11 and Sunday 12 July \nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Olympic Park via Granville and between Leppington and Lidcombe via Regents Park.\nChange trains at Lidcombe to continue your journey.
+DTEND:20260712T135925Z
+DTSTART:20260710T160000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Express trains continue to run. City Circle and metro trackwork may affect how you travel
+UID:5ece049d-e750-5f2c-a21e-ca4ee3961cbb
+URL:https://transportnsw.info/alerts/details#/ems-73980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
+DTEND:20260714T153003Z
+DTSTART:20260713T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:a2d6efd6-3f42-5c10-b61e-86607027e423
+URL:https://transportnsw.info/alerts/details#/ems-74411
+END:VEVENT
+END:VCALENDAR

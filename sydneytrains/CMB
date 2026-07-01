@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74483\n\nNightly from 11.50PM to 1.30AM on Tuesday 14 and Wednesday 15 July\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.
+DTEND:20260715T053005Z
+DTSTART:20260714T135005Z
+SUMMARY:You may need to change trains at Granville
+UID:10321100-63ce-53e3-8761-30e54663db59
+URL:https://transportnsw.info/alerts/details#/ems-74483
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74483\n\nNightly from 11.50PM to 1.30AM on Tuesday 14 and Wednesday 15 July\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.
+DTEND:20260716T053005Z
+DTSTART:20260715T135005Z
+SUMMARY:You may need to change trains at Granville
+UID:10321100-63ce-53e3-8761-30e54663db59
+URL:https://transportnsw.info/alerts/details#/ems-74483
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74512\n\nSaturday 18 and Sunday 19 July     \nBuses replace trains between Richmond and Granville.\nT2 Leppington Line & Inner West Line trains run to the normal timetable between Leppington\, Granville and the City.
+DTEND:20260819T160036Z
+DTSTART:20260817T160000Z
+SUMMARY:Buses replace trains between Richmond and Granville
+UID:74dd17a5-5ec7-5939-a27d-60dd0d5cd56d
+URL:https://transportnsw.info/alerts/details#/ems-74512
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74096\n\nSaturday 11 and Sunday 12 July\nEarly morning and late night trains run to a changed timetable and stopping pattern between Richmond and Liverpool only. You may need to change trains at Liverpool to continue your journey.\nExtra trains run between Richmond and Liverpool.
+DTEND:20260712T135904Z
+DTSTART:20260710T160000Z
+SUMMARY:Some trains run to a changed timetable and stopping pattern
+UID:564ad6a4-8480-5cfc-bd17-b2c0388baec3
+URL:https://transportnsw.info/alerts/details#/ems-74096
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73665\n\nTuesday 30 June and Wednesday 1 July \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20260701T153000Z
+DTSTART:20260701T135000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:bb19aa35-bda6-57b1-9d3b-7397b0c9c73b
+URL:https://transportnsw.info/alerts/details#/ems-73665
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74487\n\nOn Friday 17 July\, buses replace trains between Richmond and Clarendon.
+DTEND:20260717T160005Z
+DTSTART:20260716T160044Z
+SUMMARY:Buses replace trains between Richmond and Clarendon
+UID:6595c7e0-8213-5475-a65b-c97c5c4dfd06
+URL:https://transportnsw.info/alerts/details#/ems-74487
+END:VEVENT
+END:VCALENDAR

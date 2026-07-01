@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74086\n\nFriday 10 July\nFrom 10:40PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
+DTEND:20260710T160025Z
+DTSTART:20260710T124000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central
+UID:54cb5b74-51c0-51d7-b3e6-24f1976a3e36
+URL:https://transportnsw.info/alerts/details#/ems-74086
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74448\n\nNightly from 9.20PM to 1.30AM on Monday 13 and Tuesday 14 July\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
+DTEND:20260713T153043Z
+DTSTART:20260713T112043Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:a7e4f664-e1bb-5309-a4cc-276755a96398
+URL:https://transportnsw.info/alerts/details#/ems-74448
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74448\n\nNightly from 9.20PM to 1.30AM on Monday 13 and Tuesday 14 July\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
+DTEND:20260714T153043Z
+DTSTART:20260714T112043Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:a7e4f664-e1bb-5309-a4cc-276755a96398
+URL:https://transportnsw.info/alerts/details#/ems-74448
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74088\n\nSaturday 11 and Sunday 12 July\nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Lidcombe only. Change trains at Lidcombe to continue your journey.
+DTEND:20260712T135952Z
+DTSTART:20260710T160000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Express trains continue to run. City Circle and metro trackwork may affect how you travel
+UID:de3eab76-77dd-5ebf-97f2-d9ead521639b
+URL:https://transportnsw.info/alerts/details#/ems-74088
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73982\n\nWednesday 8 July\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nInner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at\, Croydon and Ashfield.
+DTEND:20260708T153040Z
+DTSTART:20260708T122000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:6000cb99-8b88-58d1-beb0-41b3631868c4
+URL:https://transportnsw.info/alerts/details#/ems-73982
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73657\n\nSaturday 4 July  \nFrom 6:30AM to 10:30AM\, trains run between Liverpool and Lidcombe\, and between Homebush and the City only\, some to a changed timetable.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington trains run between Lidcombe and the City.
+DTEND:20260704T003009Z
+DTSTART:20260703T203000Z
+SUMMARY:Trains run to a changed stopping pattern. You may need to change trains
+UID:55bb8ae4-544c-55f1-bdfb-971eaf1aa9d0
+URL:https://transportnsw.info/alerts/details#/ems-73657
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
+DTEND:20260714T153003Z
+DTSTART:20260713T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:a2d6efd6-3f42-5c10-b61e-86607027e423
+URL:https://transportnsw.info/alerts/details#/ems-74411
+END:VEVENT
+END:VCALENDAR

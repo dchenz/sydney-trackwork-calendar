@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74394\n\nSaturday 4 July\nFrom 10:50am to 12:30pm\, route 311\, 324\, 325\, and rail replacement service 23T4 buses will divert due to road closures in place for a planned Police Operation protest march around Town Hall.\nBuses will not run to or from Millers Point/Walsh Bay\, services will start and end at Hyde Park instead.\nBuses to the city will end trips at Hyde Park\, Park St Stand C. Buses leaving the city will start trips from William St Opp Australian Museum (201154).\nAllow extra travel time or consider catching trains or continue on foot instead.
+DTEND:20260704T023021Z
+DTSTART:20260704T005000Z
+SUMMARY:Sydney CBD diversions due to Police Operation
+UID:2bb344f3-7e43-5422-acaf-0617b1442d62
+URL:https://transportnsw.info/alerts/details#/ems-74394
+END:VEVENT
+END:VCALENDAR

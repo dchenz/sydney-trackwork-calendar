@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74092\n\nFriday 10 July   \nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.
+DTEND:20260710T160037Z
+DTSTART:20260710T124000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:15254773-a6e8-5746-8512-d323ba978302
+URL:https://transportnsw.info/alerts/details#/ems-74092
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73663\n\nSaturday 4 and Sunday 5 July   \nBuses replace trains between Sydenham\, Central and Bondi Junction.\nTrains run between Waterfall or Cronulla and Sydenham only.\nChange at:\n- Wolli Creek for trains to the City Circle via the Airport\n- Sydenham for metro services to Central\, Martin Place or Gadigal (Town Hall)\, or buses to St Peters\, Erskineville or Redfern\n- Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n- Town Hall for express buses to Bondi Junction\nReplacement buses do not leave from Martin Place Station\, use metro services.
+DTEND:20260705T135907Z
+DTSTART:20260703T160000Z
+SUMMARY:Buses replace trains between Sydenham\, Central and Bondi Junction
+UID:5da5e1bb-21b5-5c40-95b4-2f0e9841c6e8
+URL:https://transportnsw.info/alerts/details#/ems-73663
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73661\n\nWednesday 1 and Thursday 2 July      \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Cronulla\, Waterfall and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260702T163000Z
+DTSTART:20260702T115000Z
+SUMMARY:Buses replace trains between Sutherland and Hurstville
+UID:328b8e37-c02e-5be1-8d05-73327345f716
+URL:https://transportnsw.info/alerts/details#/ems-73661
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73661\n\nWednesday 1 and Thursday 2 July      \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Cronulla\, Waterfall and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260701T163000Z
+DTSTART:20260701T115000Z
+SUMMARY:Buses replace trains between Sutherland and Hurstville
+UID:328b8e37-c02e-5be1-8d05-73327345f716
+URL:https://transportnsw.info/alerts/details#/ems-73661
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74094\n\nSaturday 11 and Sunday 12 July\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.
+DTEND:20260712T135902Z
+DTSTART:20260710T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle and metro trackwork may affect how you travel
+UID:f63f9bd3-7679-54a2-b8b5-69eea56464bf
+URL:https://transportnsw.info/alerts/details#/ems-74094
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74090\n\nWednesday 8 and Thursday 9 July\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\n\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20260708T153000Z
+DTSTART:20260708T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:e61a142c-466c-53fe-a46b-58ecb93bb18e
+URL:https://transportnsw.info/alerts/details#/ems-74090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74090\n\nWednesday 8 and Thursday 9 July\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\n\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20260709T153000Z
+DTSTART:20260709T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:e61a142c-466c-53fe-a46b-58ecb93bb18e
+URL:https://transportnsw.info/alerts/details#/ems-74090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
+DTEND:20260714T153047Z
+DTSTART:20260714T113047Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
+URL:https://transportnsw.info/alerts/details#/ems-74466
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
+DTEND:20260713T153047Z
+DTSTART:20260713T113047Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
+URL:https://transportnsw.info/alerts/details#/ems-74466
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74475\n\nOn Saturday 18 and Sunday 19 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Tallawong.
+DTEND:20260719T135910Z
+DTSTART:20260717T160017Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:231a641b-e6e8-59b6-8edf-3430374790ef
+URL:https://transportnsw.info/alerts/details#/ems-74475
+END:VEVENT
+END:VCALENDAR

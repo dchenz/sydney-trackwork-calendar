@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73671\n\nMonday 29 June to Thursday 2 July  \nNightly from 10PM to 2AM\, buses replace trains between Springwood and Penrith.\nTrains run to a changed timetable between Lithgow or Mount Victoria and Springwood\, and between Penrith and Central.
+DTEND:20260702T160000Z
+DTSTART:20260702T120000Z
+SUMMARY:Buses replace trains between Springwood and Penrith
+UID:cad60ea7-f469-58ae-a756-4a72809c354b
+URL:https://transportnsw.info/alerts/details#/ems-73671
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74029\n\nOn Saturday 11 and Sunday 12 July\, the 06.08AM Bathurst to Central and the 15.05PM Central to Bathurst trains will run between Bathurst and Lithgow only.
+DTEND:20260712T070544Z
+DTSTART:20260710T200800Z
+SUMMARY:Some trains run to a changed timetable and stopping pattern
+UID:64e3f737-fed2-50bc-8bad-b0b70f35c6ae
+URL:https://transportnsw.info/alerts/details#/ems-74029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74462\n\nSaturday 18 and Sunday 19 July\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 45 minutes later than the normal timetable.\nMost Bathurst trains run between Bathurst and Lithgow only\, some to a changed timetable.\nThe 07:40 Bathurst to Central and 17:51 Central to Bathurst services run between Bathurst and Central\, to a changed timetable.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DTEND:20260719T135916Z
+DTSTART:20260717T160000Z
+SUMMARY:Buses replace trains between Penrith and Granville. Some trains run between Bathurst and Central
+UID:a17fc310-2933-53ef-9dd6-09d3886bdffe
+URL:https://transportnsw.info/alerts/details#/ems-74462
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73671\n\nMonday 29 June to Thursday 2 July  \nNightly from 10PM to 2AM\, buses replace trains between Springwood and Penrith.\nTrains run to a changed timetable between Lithgow or Mount Victoria and Springwood\, and between Penrith and Central.
+DTEND:20260701T160000Z
+DTSTART:20260701T120000Z
+SUMMARY:Buses replace trains between Springwood and Penrith
+UID:cad60ea7-f469-58ae-a756-4a72809c354b
+URL:https://transportnsw.info/alerts/details#/ems-73671
+END:VEVENT
+END:VCALENDAR

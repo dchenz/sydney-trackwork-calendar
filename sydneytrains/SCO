@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73673\n\nMonday 29 June to Thursday 2 July      \nTrains may run to a changed timetable\, trains may run to a changed timetable due to trackwork between Sutherland and Hurstville.
+DTEND:20260702T160023Z
+DTSTART:20260628T160000Z
+SUMMARY:Trains may run to a changed timetable
+UID:8182ea0f-2c7e-569b-8724-1439304b65c2
+URL:https://transportnsw.info/alerts/details#/ems-73673
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74443\n\nFriday 17 July \nThe 13:16 Bomaderry to Kiama service runs 30 minutes earlier than the normal timetable\, leaving Bomaderry at 12:46.\nA replacement bus service leaves Bomaderry at 13:16\, stopping all stations to Kiama\, then express to Wollongong.\nThe 14:31 Bomaderry to Berry service runs 10 minutes later than the normal timetable\, leaving Bomaderry at 14:41.
+DTEND:20260717T053000Z
+DTSTART:20260717T020000Z
+SUMMARY:Some trains run to a changed timetable. Buses replace some trains
+UID:c8bc05dc-ac21-5ca1-b44d-1282045298b6
+URL:https://transportnsw.info/alerts/details#/ems-74443
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74446\n\nThursday 16 July \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
+DTEND:20260716T041043Z
+DTSTART:20260715T232000Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:a2ebbc8e-ab06-5209-ad6e-bcdf8eb64192
+URL:https://transportnsw.info/alerts/details#/ems-74446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74441\n\nSaturday 18 and Sunday 19 July   \nBuses replace trains between Bomaderry and Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.\nMonday\, buses also replace the 02:39 Kiama to Bondi Junction service from Kiama to Wollongong.
+DTEND:20260719T173030Z
+DTSTART:20260717T145000Z
+SUMMARY:Buses replace trains between Bomaderry and Wollongong
+UID:b4c29d0e-183a-5033-a0a0-e19be5f3631f
+URL:https://transportnsw.info/alerts/details#/ems-74441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73679\n\nSunday 5 July   \nFrom 7:30AM to 11:30AM\, at Scarborough\, Wombarra and Coledale\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coledale\, Wombarra and Scarborough\, all trains leave from platform 2.
+DTEND:20260705T060044Z
+DTSTART:20260704T213000Z
+SUMMARY:At Scarborough\, Wombarra and Coledale\, trains leave from different platforms
+UID:285a070d-4a57-52ec-87f4-35cddf74f512
+URL:https://transportnsw.info/alerts/details#/ems-73679
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
+DTEND:20260715T153000Z
+DTSTART:20260715T120000Z
+SUMMARY:Some trains run around the City Circle
+UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
+URL:https://transportnsw.info/alerts/details#/ems-74450
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
+DTEND:20260716T153000Z
+DTSTART:20260716T120000Z
+SUMMARY:Some trains run around the City Circle
+UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
+URL:https://transportnsw.info/alerts/details#/ems-74450
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74061\n\nOn Sunday 12 July\, from 7.30AM to 11.30AM\, at Helensburgh and Otford\, all trains leave from platform 1. From 12pm to 4pm\, at Otford and Helensburgh\, all trains leave from platform 2.
+DTEND:20260712T060000Z
+DTSTART:20260711T213047Z
+SUMMARY:At Helensburgh and Otford\, trains leave from different platforms
+UID:4e46676c-6b7a-5add-8bab-bb5824365684
+URL:https://transportnsw.info/alerts/details#/ems-74061
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74268\n\nSaturday 11 and Sunday 12 July  \nCity Circle and Sydney Metro trackwork may affect how you travel.\nSaturday and Sunday\, trains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail or local buses to City stations.\nSunday only\, metro services do not run between Sydenham and Tallawong.
+DTEND:20260712T135949Z
+DTSTART:20260710T160000Z
+SUMMARY:City Circle and Sydney Metro trackwork may affect how you travel
+UID:dd21a671-4c0e-56db-b134-15c221bb6fb3
+URL:https://transportnsw.info/alerts/details#/ems-74268
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73677\n\nSaturday 4 July   \nFrom 7:30AM to 11:30AM\, at Stanwell Park and Coalcliff\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coalcliff and Stanwell Park\, all trains leave from platform 2.
+DTEND:20260704T060017Z
+DTSTART:20260703T213000Z
+SUMMARY:At Stanwell Park and Coalcliff\, trains leave from different platforms
+UID:7bc69743-3187-5fae-b568-269cdd691709
+URL:https://transportnsw.info/alerts/details#/ems-73677
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74053\n\nOn Wednesday 8 and Thursday 9 July\, nightly from 9.50PM to 1.30am\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.
+DTEND:20260708T153000Z
+DTSTART:20260708T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:668b6eea-097f-5a80-b3e1-0ba9ca14b14f
+URL:https://transportnsw.info/alerts/details#/ems-74053
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74053\n\nOn Wednesday 8 and Thursday 9 July\, nightly from 9.50PM to 1.30am\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.
+DTEND:20260709T153000Z
+DTSTART:20260709T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:668b6eea-097f-5a80-b3e1-0ba9ca14b14f
+URL:https://transportnsw.info/alerts/details#/ems-74053
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73675\n\nSaturday 4 and Sunday 5 July   \nTrains run to a changed timetable between South Coast Line stations and Hurstville only. Change trains at Hurstville to continue your journey.\nBuses replace trains between Sydenham\, Central and Bondi Junction.
+DTEND:20260705T135911Z
+DTSTART:20260703T160000Z
+SUMMARY:Trains start and end at Hurstville. Buses replace trains between Sydenham and Bondi Junction
+UID:8c94b117-84f3-5022-9b13-6281e267a8b1
+URL:https://transportnsw.info/alerts/details#/ems-73675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74059\n\nOn Saturday 11 from 7.30am to 11.30am\, at Waterfall and Helensburgh\, all trains leave from platform 1. From 12pm to 4pm\, at Helensburgh and Waterfall\, all trains leave from platform 2.
+DTEND:20260711T060038Z
+DTSTART:20260710T213000Z
+SUMMARY:At Waterfall and Helensburgh\, trains leave from different platforms
+UID:79e9bd42-3db4-5697-a703-bb47d9f2660d
+URL:https://transportnsw.info/alerts/details#/ems-74059
+END:VEVENT
+END:VCALENDAR
