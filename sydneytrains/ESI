@@ -18,14 +18,6 @@ UID:5da5e1bb-21b5-5c40-95b4-2f0e9841c6e8
 URL:https://transportnsw.info/alerts/details#/ems-73663
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73661\n\nWednesday 1 and Thursday 2 July      \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Cronulla\, Waterfall and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260702T163000Z
-DTSTART:20260702T115000Z
-SUMMARY:Buses replace trains between Sutherland and Hurstville
-UID:328b8e37-c02e-5be1-8d05-73327345f716
-URL:https://transportnsw.info/alerts/details#/ems-73661
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74094\n\nSaturday 11 and Sunday 12 July\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.
 DTEND:20260712T135902Z
 DTSTART:20260710T160000Z

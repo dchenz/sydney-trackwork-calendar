@@ -59,16 +59,16 @@ URL:https://transportnsw.info/alerts/details#/ems-74420
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73963\n\nMonday 6 and Tuesday 7 July  \nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260706T153000Z
-DTSTART:20260706T115000Z
+DTEND:20260707T153000Z
+DTSTART:20260707T115000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14 only
 UID:7bfdb6b8-a9cf-56aa-92c8-13278035251d
 URL:https://transportnsw.info/alerts/details#/ems-73963
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73963\n\nMonday 6 and Tuesday 7 July  \nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260707T153000Z
-DTSTART:20260707T115000Z
+DTEND:20260706T153000Z
+DTSTART:20260706T115000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14 only
 UID:7bfdb6b8-a9cf-56aa-92c8-13278035251d
 URL:https://transportnsw.info/alerts/details#/ems-73963
@@ -88,13 +88,5 @@ DTSTART:20260716T160041Z
 SUMMARY:T1 Western Line: Buses replace trains between Richmond and Clarendon
 UID:cf4bb51c-ae7c-5bcd-a2a6-6679f555a9cd
 URL:https://transportnsw.info/alerts/details#/ems-74427
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73655\n\nMonday 29 June to Thursday 2 July\nNightly from 9:30PM to 3:10AM\, buses replace trains between Emu Plains and Penrith.\nTrains run between Penrith and Central\, some to a changed timetable.\nTuesday to Friday\, the 03:09 Emu Plains to Central service starts from Penrith at 03:13.
-DTEND:20260702T171000Z
-DTSTART:20260702T113000Z
-SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and Penrith
-UID:3af347ad-fa62-5cfd-9509-adf4f12b5a4f
-URL:https://transportnsw.info/alerts/details#/ems-73655
 END:VEVENT
 END:VCALENDAR
