@@ -66,14 +66,6 @@ UID:dd21a671-4c0e-56db-b134-15c221bb6fb3
 URL:https://transportnsw.info/alerts/details#/ems-74268
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73677\n\nSaturday 4 July   \nFrom 7:30AM to 11:30AM\, at Stanwell Park and Coalcliff\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coalcliff and Stanwell Park\, all trains leave from platform 2.
-DTEND:20260704T060017Z
-DTSTART:20260703T213000Z
-SUMMARY:At Stanwell Park and Coalcliff\, trains leave from different platforms
-UID:7bc69743-3187-5fae-b568-269cdd691709
-URL:https://transportnsw.info/alerts/details#/ems-73677
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74053\n\nOn Wednesday 8 and Thursday 9 July\, nightly from 9.50PM to 1.30am\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.
 DTEND:20260709T153000Z
 DTSTART:20260709T115000Z
