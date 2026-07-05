@@ -26,14 +26,6 @@ UID:b4c29d0e-183a-5033-a0a0-e19be5f3631f
 URL:https://transportnsw.info/alerts/details#/ems-74441
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73679\n\nSunday 5 July   \nFrom 7:30AM to 11:30AM\, at Scarborough\, Wombarra and Coledale\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coledale\, Wombarra and Scarborough\, all trains leave from platform 2.
-DTEND:20260705T060044Z
-DTSTART:20260704T213000Z
-SUMMARY:At Scarborough\, Wombarra and Coledale\, trains leave from different platforms
-UID:285a070d-4a57-52ec-87f4-35cddf74f512
-URL:https://transportnsw.info/alerts/details#/ems-73679
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
 DTEND:20260715T153000Z
 DTSTART:20260715T120000Z
