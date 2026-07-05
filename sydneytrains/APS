@@ -34,14 +34,6 @@ UID:bcccbf38-1aca-50fe-96aa-a22c60285958
 URL:https://transportnsw.info/alerts/details#/ems-74479
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
-DTEND:20260714T153003Z
-DTSTART:20260713T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:a2d6efd6-3f42-5c10-b61e-86607027e423
-URL:https://transportnsw.info/alerts/details#/ems-74411
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74477\n\nSunday 19 July\nFrom 8:40AM to 3PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
 DTEND:20260719T050014Z
 DTSTART:20260718T224000Z
@@ -90,11 +82,11 @@ UID:17145f0f-8859-5874-9c39-5ca72dcc7c7a
 URL:https://transportnsw.info/alerts/details#/ems-74106
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73669\n\nSaturday 4 and Sunday 5 July   \nBuses replace T8 trains between Sydenham and Central.\nTrains run to the normal timetable between Macarthur\, Revesby and the City via the Airport.\nMetro services continue to run between Sydenham and Tallawong.
-DTEND:20260705T135901Z
-DTSTART:20260703T160000Z
-SUMMARY:Buses replace trains between Sydenham and Central
-UID:8fdc1716-74b3-50d1-8bbb-435ae93888c7
-URL:https://transportnsw.info/alerts/details#/ems-73669
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
+DTEND:20260714T153003Z
+DTSTART:20260713T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:a2d6efd6-3f42-5c10-b61e-86607027e423
+URL:https://transportnsw.info/alerts/details#/ems-74411
 END:VEVENT
 END:VCALENDAR

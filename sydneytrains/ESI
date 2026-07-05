@@ -10,14 +10,6 @@ UID:15254773-a6e8-5746-8512-d323ba978302
 URL:https://transportnsw.info/alerts/details#/ems-74092
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73663\n\nSaturday 4 and Sunday 5 July   \nBuses replace trains between Sydenham\, Central and Bondi Junction.\nTrains run between Waterfall or Cronulla and Sydenham only.\nChange at:\n- Wolli Creek for trains to the City Circle via the Airport\n- Sydenham for metro services to Central\, Martin Place or Gadigal (Town Hall)\, or buses to St Peters\, Erskineville or Redfern\n- Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n- Town Hall for express buses to Bondi Junction\nReplacement buses do not leave from Martin Place Station\, use metro services.
-DTEND:20260705T135907Z
-DTSTART:20260703T160000Z
-SUMMARY:Buses replace trains between Sydenham\, Central and Bondi Junction
-UID:5da5e1bb-21b5-5c40-95b4-2f0e9841c6e8
-URL:https://transportnsw.info/alerts/details#/ems-73663
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74094\n\nSaturday 11 and Sunday 12 July\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.
 DTEND:20260712T135902Z
 DTSTART:20260710T160000Z

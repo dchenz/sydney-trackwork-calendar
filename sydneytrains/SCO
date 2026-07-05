@@ -74,14 +74,6 @@ UID:668b6eea-097f-5a80-b3e1-0ba9ca14b14f
 URL:https://transportnsw.info/alerts/details#/ems-74053
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73675\n\nSaturday 4 and Sunday 5 July   \nTrains run to a changed timetable between South Coast Line stations and Hurstville only. Change trains at Hurstville to continue your journey.\nBuses replace trains between Sydenham\, Central and Bondi Junction.
-DTEND:20260705T135911Z
-DTSTART:20260703T160000Z
-SUMMARY:Trains start and end at Hurstville. Buses replace trains between Sydenham and Bondi Junction
-UID:8c94b117-84f3-5022-9b13-6281e267a8b1
-URL:https://transportnsw.info/alerts/details#/ems-73675
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74059\n\nOn Saturday 11 from 7.30am to 11.30am\, at Waterfall and Helensburgh\, all trains leave from platform 1. From 12pm to 4pm\, at Helensburgh and Waterfall\, all trains leave from platform 2.
 DTEND:20260711T060038Z
 DTSTART:20260710T213000Z
