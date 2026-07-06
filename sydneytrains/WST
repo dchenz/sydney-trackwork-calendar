@@ -82,14 +82,6 @@ UID:7bfdb6b8-a9cf-56aa-92c8-13278035251d
 URL:https://transportnsw.info/alerts/details#/ems-73963
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73963\n\nMonday 6 and Tuesday 7 July  \nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260706T153000Z
-DTSTART:20260706T115000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14 only
-UID:7bfdb6b8-a9cf-56aa-92c8-13278035251d
-URL:https://transportnsw.info/alerts/details#/ems-73963
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73969\n\nSaturday 11 and Sunday 12 July  \nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Liverpool\n- Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.
 DTEND:20260712T135947Z
 DTSTART:20260710T160000Z
