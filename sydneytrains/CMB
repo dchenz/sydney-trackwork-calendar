@@ -18,6 +18,22 @@ UID:10321100-63ce-53e3-8761-30e54663db59
 URL:https://transportnsw.info/alerts/details#/ems-74483
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
+DTEND:20260722T153001Z
+DTSTART:20260722T114001Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
+URL:https://transportnsw.info/alerts/details#/ems-74775
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
+DTEND:20260723T153001Z
+DTSTART:20260723T114001Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
+URL:https://transportnsw.info/alerts/details#/ems-74775
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74512\n\nSaturday 18 and Sunday 19 July     \nBuses replace trains between Richmond and Granville.\nT2 Leppington Line & Inner West Line trains run to the normal timetable between Leppington\, Granville and the City.
 DTEND:20260819T160036Z
 DTSTART:20260817T160000Z
@@ -26,12 +42,36 @@ UID:74dd17a5-5ec7-5939-a27d-60dd0d5cd56d
 URL:https://transportnsw.info/alerts/details#/ems-74512
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74777\n\nOn Saturday 25 July from 6.30AM to 3.30PM\, most trains run to a changed timetable between Liverpool and Lidcombe only.
+DTEND:20260725T053023Z
+DTSTART:20260724T203000Z
+SUMMARY:Most trains run between Liverpool and Lidcombe only
+UID:cdac9bfc-595d-53ee-ac13-73aebfeb7744
+URL:https://transportnsw.info/alerts/details#/ems-74777
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74096\n\nSaturday 11 and Sunday 12 July\nEarly morning and late night trains run to a changed timetable and stopping pattern between Richmond and Liverpool only. You may need to change trains at Liverpool to continue your journey.\nExtra trains run between Richmond and Liverpool.
 DTEND:20260712T135904Z
 DTSTART:20260710T160000Z
 SUMMARY:Some trains run to a changed timetable and stopping pattern
 UID:564ad6a4-8480-5cfc-bd17-b2c0388baec3
 URL:https://transportnsw.info/alerts/details#/ems-74096
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74771\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
+DTEND:20260720T153002Z
+DTSTART:20260720T115002Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:88c52e90-67cf-5339-aad3-b4a5c1970d80
+URL:https://transportnsw.info/alerts/details#/ems-74771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74771\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
+DTEND:20260721T153002Z
+DTSTART:20260721T115002Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:88c52e90-67cf-5339-aad3-b4a5c1970d80
+URL:https://transportnsw.info/alerts/details#/ems-74771
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74487\n\nOn Friday 17 July\, buses replace trains between Richmond and Clarendon.

@@ -34,6 +34,22 @@ UID:72a8d8c5-29a8-5e17-9685-e5148ee80298
 URL:https://transportnsw.info/alerts/details#/ems-73967
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260721T153008Z
+DTSTART:20260721T153008Z
+SUMMARY:T1 Western Line: Trains may run to a changed timetable and make extra stops
+UID:05fe4975-0993-52e7-af5d-497f79a3635c
+URL:https://transportnsw.info/alerts/details#/ems-74753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260722T153008Z
+DTSTART:20260722T153008Z
+SUMMARY:T1 Western Line: Trains may run to a changed timetable and make extra stops
+UID:05fe4975-0993-52e7-af5d-497f79a3635c
+URL:https://transportnsw.info/alerts/details#/ems-74753
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74429\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
 DTEND:20260719T135926Z
 DTSTART:20260717T160026Z
