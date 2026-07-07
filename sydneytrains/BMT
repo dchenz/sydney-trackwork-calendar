@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74462\n\nSaturday 18 and Sunday 19 July\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 45 minutes later than the normal timetable.\nMost Bathurst trains run between Bathurst and Lithgow only\, some to a changed timetable.\nThe 07:40 Bathurst to Central and 17:51 Central to Bathurst services run between Bathurst and Central\, to a changed timetable.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74462\n\nSaturday 18 and Sunday 19 July\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 45 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Penrith only.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20260719T135916Z
 DTSTART:20260717T160000Z
-SUMMARY:Buses replace trains between Penrith and Granville. Some trains run between Bathurst and Central
+SUMMARY:Buses replace trains between Penrith and Granville
 UID:a17fc310-2933-53ef-9dd6-09d3886bdffe
 URL:https://transportnsw.info/alerts/details#/ems-74462
 END:VEVENT
