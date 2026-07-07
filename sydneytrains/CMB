@@ -42,14 +42,6 @@ UID:74dd17a5-5ec7-5939-a27d-60dd0d5cd56d
 URL:https://transportnsw.info/alerts/details#/ems-74512
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74777\n\nOn Saturday 25 July from 6.30AM to 3.30PM\, most trains run to a changed timetable between Liverpool and Lidcombe only.
-DTEND:20260725T053023Z
-DTSTART:20260724T203000Z
-SUMMARY:Most trains run between Liverpool and Lidcombe only
-UID:cdac9bfc-595d-53ee-ac13-73aebfeb7744
-URL:https://transportnsw.info/alerts/details#/ems-74777
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74096\n\nSaturday 11 and Sunday 12 July\nEarly morning and late night trains run to a changed timetable and stopping pattern between Richmond and Liverpool only. You may need to change trains at Liverpool to continue your journey.\nExtra trains run between Richmond and Liverpool.
 DTEND:20260712T135904Z
 DTSTART:20260710T160000Z

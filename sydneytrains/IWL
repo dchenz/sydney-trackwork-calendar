@@ -66,14 +66,6 @@ UID:94905e6d-b62e-503f-8c7e-3c2d6899fda7
 URL:https://transportnsw.info/alerts/details#/ems-73976
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74777\n\nOn Saturday 25 July from 6.30AM to 3.30PM\, most trains run to a changed timetable between Liverpool and Lidcombe only.
-DTEND:20260725T053023Z
-DTSTART:20260724T203000Z
-SUMMARY:Most trains run between Liverpool and Lidcombe only
-UID:cdac9bfc-595d-53ee-ac13-73aebfeb7744
-URL:https://transportnsw.info/alerts/details#/ems-74777
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
 DTEND:20260714T153044Z
 DTSTART:20260714T112044Z

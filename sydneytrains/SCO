@@ -26,6 +26,14 @@ UID:b4c29d0e-183a-5033-a0a0-e19be5f3631f
 URL:https://transportnsw.info/alerts/details#/ems-74441
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74851\n\nOn Sunday 26 July\, from 2.20AM to 11.50AM\, buses replace trains between Bomaderry\, Port Kembla and Wollongong.
+DTEND:20260726T135000Z
+DTSTART:20260725T162059Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
+UID:4087c5d1-5e20-5d18-9087-c4dc2317772d
+URL:https://transportnsw.info/alerts/details#/ems-74851
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
 DTEND:20260715T153000Z
 DTSTART:20260715T120000Z
@@ -72,6 +80,14 @@ DTSTART:20260708T115000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:668b6eea-097f-5a80-b3e1-0ba9ca14b14f
 URL:https://transportnsw.info/alerts/details#/ems-74053
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.
+DTEND:20260725T130000Z
+DTSTART:20260724T170008Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
+UID:acee4a0d-781e-5fa9-a42a-28ba83804969
+URL:https://transportnsw.info/alerts/details#/ems-74849
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74059\n\nOn Saturday 11 from 7.30am to 11.30am\, at Waterfall and Helensburgh\, all trains leave from platform 1. From 12pm to 4pm\, at Helensburgh and Waterfall\, all trains leave from platform 2.

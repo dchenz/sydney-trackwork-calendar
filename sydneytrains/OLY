@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74825\n\nOn Thursday 23 July\, from 11pm to 1am\, buses replace trains between Olympic Park and Lidcombe.
+DTEND:20260723T150014Z
+DTSTART:20260723T130003Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:bf9d7755-f754-5bc4-a16a-c8b6d36ce0f9
+URL:https://transportnsw.info/alerts/details#/ems-74825
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74823\n\nOn Saturday 25 and Sunday 26 July\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260722T160057Z
+DTSTART:20260720T160032Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:3ad2e965-ef46-5331-84b5-ca6ffe775e58
+URL:https://transportnsw.info/alerts/details#/ems-74823
+END:VEVENT
+END:VCALENDAR

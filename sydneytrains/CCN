@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74835\n\nNightly from 8.30PM to 2AM on Tuesday 21 and Wednesday 22 July\, buses replace trains from Newcastle Interchange to Wyong.
+DTEND:20260721T160028Z
+DTSTART:20260721T103028Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
+UID:afa07462-34cc-5338-a51c-27f4718dae60
+URL:https://transportnsw.info/alerts/details#/ems-74835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74835\n\nNightly from 8.30PM to 2AM on Tuesday 21 and Wednesday 22 July\, buses replace trains from Newcastle Interchange to Wyong.
+DTEND:20260722T160028Z
+DTSTART:20260722T103028Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
+UID:afa07462-34cc-5338-a51c-27f4718dae60
+URL:https://transportnsw.info/alerts/details#/ems-74835
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74458\n\nMonday 13 and Tuesday 14 July   \nNightly from 9:40PM to 1:30AM\, buses replace trains between Gosford\, Hornsby and Epping. You may need to change buses at Hornsby to continue your journey.\nTrains run to a changed timetable between Newcastle Interchange and Gosford. T9 Northern Line trains run between Epping and Central\, platforms 1-14.\nMetro services run between Epping and the City.\nT1 North Shore Line trains run between Hornsby and Wynyard only\, due to City Circle trackwork.
 DTEND:20260713T153000Z
 DTSTART:20260713T114000Z
@@ -24,6 +40,14 @@ DTSTART:20260715T152000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:26bcac11-aeb2-5e6d-b535-95d1598c9914
 URL:https://transportnsw.info/alerts/details#/ems-74456
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74837\n\nOn Saturday 25 and Sunday 26 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.
+DTEND:20260726T135928Z
+DTSTART:20260724T160028Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:efc2639a-022b-5178-9299-d5d644d737fd
+URL:https://transportnsw.info/alerts/details#/ems-74837
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74031\n\nOn Saturday 11 and Sunday 12 July\, Sydney Metro and City Circle train trackwork may affect how you travel.

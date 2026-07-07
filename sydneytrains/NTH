@@ -73,4 +73,12 @@ SUMMARY:Sydney Metro trackwork may affect how you travel
 UID:b5dfe4e5-336e-52aa-a645-449a7b35aec8
 URL:https://transportnsw.info/alerts/details#/ems-74464
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74830\n\nOn Saturday 25 and Sunday 26 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.
+DTEND:20260726T135910Z
+DTSTART:20260724T160058Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:4cf5a112-d8ac-5861-913b-cb3b9f93b60e
+URL:https://transportnsw.info/alerts/details#/ems-74830
+END:VEVENT
 END:VCALENDAR

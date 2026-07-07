@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74832\n\nOn Saturday 25 and Sunday 26 July\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.
+DTEND:20260726T135910Z
+DTSTART:20260724T160036Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:f30ea1d7-cc3a-570f-977d-7b94087bbb9e
+URL:https://transportnsw.info/alerts/details#/ems-74832
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74104\n\nFriday 10 July\nFrom 10:40PM\, trains via the Airport start and end at Central.\nT8 trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20260710T160010Z
 DTSTART:20260710T124000Z
@@ -50,6 +58,14 @@ UID:4198700b-0629-5edb-aecb-8f38bc764554
 URL:https://transportnsw.info/alerts/details#/ems-74477
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74827\n\nNightly from 9.30pm to 1.30am on Monday 20 and Tuesday 21 July\, buses replace trains between Glenfield\,
+DTEND:20260720T153034Z
+DTSTART:20260720T113034Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:375d5ad1-bfd0-5c35-9291-d052d053e851
+URL:https://transportnsw.info/alerts/details#/ems-74827
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74485\n\nMonday 13 and Tuesday 14 July\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail or local buses.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20260713T153000Z
 DTSTART:20260713T113000Z
@@ -88,6 +104,14 @@ DTSTART:20260710T160000Z
 SUMMARY:Buses replace trains between Macarthur and Glenfield. City Circle and metro trackwork may affect how you travel
 UID:17145f0f-8859-5874-9c39-5ca72dcc7c7a
 URL:https://transportnsw.info/alerts/details#/ems-74106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74827\n\nNightly from 9.30pm to 1.30am on Monday 20 and Tuesday 21 July\, buses replace trains between Glenfield\,
+DTEND:20260721T153034Z
+DTSTART:20260721T113034Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:375d5ad1-bfd0-5c35-9291-d052d053e851
+URL:https://transportnsw.info/alerts/details#/ems-74827
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
