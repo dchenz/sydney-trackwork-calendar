@@ -42,14 +42,6 @@ UID:c7df4e03-7441-5065-a33e-82cf63559a83
 URL:https://transportnsw.info/alerts/details#/ems-74110
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74108\n\nMonday 6 and Tuesday 7 July\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses
-DTEND:20260707T153000Z
-DTSTART:20260707T111000Z
-SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
-UID:807116ae-2105-55a2-9e60-03236f2476a6
-URL:https://transportnsw.info/alerts/details#/ems-74108
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74112\n\nFriday 10 July   \nFrom 11PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
 DTEND:20260710T160001Z
 DTSTART:20260710T130000Z
