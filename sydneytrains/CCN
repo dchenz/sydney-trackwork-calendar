@@ -26,6 +26,14 @@ UID:f2fe15b3-0fc2-5873-bec7-a3c826aa0d57
 URL:https://transportnsw.info/alerts/details#/ems-74458
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74920\n\nDue to a nation-wide Telstra outage today causing issues across the rail network\, your NSW TrainLink service has been cancelled and replaced by coaches for the entire journey
+DTEND:20260708T130400Z
+DTSTART:20260708T050400Z
+SUMMARY:635 replaced by coach entire journey 8/7/26
+UID:7a4da8d2-89e6-5010-84a6-18112f327732
+URL:https://transportnsw.info/alerts/details#/ems-74920
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74458\n\nMonday 13 and Tuesday 14 July   \nNightly from 9:40PM to 1:30AM\, buses replace trains between Gosford\, Hornsby and Epping. You may need to change buses at Hornsby to continue your journey.\nTrains run to a changed timetable between Newcastle Interchange and Gosford. T9 Northern Line trains run between Epping and Central\, platforms 1-14.\nMetro services run between Epping and the City.\nT1 North Shore Line trains run between Hornsby and Wynyard only\, due to City Circle trackwork.
 DTEND:20260714T153000Z
 DTSTART:20260714T114000Z
