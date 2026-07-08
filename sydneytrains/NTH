@@ -34,14 +34,6 @@ UID:5efc243b-c26a-5d02-a20e-a3eff5c5e81f
 URL:https://transportnsw.info/alerts/details#/ems-74473
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74110\n\nWednesday 8 July\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
-DTEND:20260708T153000Z
-DTSTART:20260708T123000Z
-SUMMARY:Some trains make extra stops at Croydon and Ashfield
-UID:c7df4e03-7441-5065-a33e-82cf63559a83
-URL:https://transportnsw.info/alerts/details#/ems-74110
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74112\n\nFriday 10 July   \nFrom 11PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
 DTEND:20260710T160001Z
 DTSTART:20260710T130000Z

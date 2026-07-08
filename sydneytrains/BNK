@@ -35,16 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-74086
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74448\n\nNightly from 9.20PM to 1.30AM on Monday 13 and Tuesday 14 July\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
-DTEND:20260714T153043Z
-DTSTART:20260714T112043Z
+DTEND:20260713T153043Z
+DTSTART:20260713T112043Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:a7e4f664-e1bb-5309-a4cc-276755a96398
 URL:https://transportnsw.info/alerts/details#/ems-74448
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74448\n\nNightly from 9.20PM to 1.30AM on Monday 13 and Tuesday 14 July\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
-DTEND:20260713T153043Z
-DTSTART:20260713T112043Z
+DTEND:20260714T153043Z
+DTSTART:20260714T112043Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:a7e4f664-e1bb-5309-a4cc-276755a96398
 URL:https://transportnsw.info/alerts/details#/ems-74448
@@ -64,14 +64,6 @@ DTSTART:20260710T160000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Express trains continue to run. City Circle and metro trackwork may affect how you travel
 UID:de3eab76-77dd-5ebf-97f2-d9ead521639b
 URL:https://transportnsw.info/alerts/details#/ems-74088
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73982\n\nWednesday 8 July\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nInner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at\, Croydon and Ashfield.
-DTEND:20260708T153040Z
-DTSTART:20260708T122000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:6000cb99-8b88-58d1-beb0-41b3631868c4
-URL:https://transportnsw.info/alerts/details#/ems-73982
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.

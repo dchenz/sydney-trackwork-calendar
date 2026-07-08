@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73965\n\nWednesday 8 July\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20260708T153020Z
-DTSTART:20260708T125000Z
-SUMMARY:T1 Western Line: Some trains run to a changed stopping pattern
-UID:3c2a714b-1c9d-5851-9ff5-d4b6ce1ed292
-URL:https://transportnsw.info/alerts/details#/ems-73965
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260715T153049Z
 DTSTART:20260715T114049Z
