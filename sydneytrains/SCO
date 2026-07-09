@@ -66,14 +66,6 @@ UID:dd21a671-4c0e-56db-b134-15c221bb6fb3
 URL:https://transportnsw.info/alerts/details#/ems-74268
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74053\n\nOn Wednesday 8 and Thursday 9 July\, nightly from 9.50PM to 1.30am\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.
-DTEND:20260709T153000Z
-DTSTART:20260709T115000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:668b6eea-097f-5a80-b3e1-0ba9ca14b14f
-URL:https://transportnsw.info/alerts/details#/ems-74053
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20260725T010000Z
 DTSTART:20260724T170008Z

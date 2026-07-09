@@ -26,25 +26,17 @@ UID:f63f9bd3-7679-54a2-b8b5-69eea56464bf
 URL:https://transportnsw.info/alerts/details#/ems-74094
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74090\n\nWednesday 8 and Thursday 9 July\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\n\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
-DTEND:20260709T153000Z
-DTSTART:20260709T115000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:e61a142c-466c-53fe-a46b-58ecb93bb18e
-URL:https://transportnsw.info/alerts/details#/ems-74090
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260713T153047Z
-DTSTART:20260713T113047Z
+DTEND:20260714T153047Z
+DTSTART:20260714T113047Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
 URL:https://transportnsw.info/alerts/details#/ems-74466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260714T153047Z
-DTSTART:20260714T113047Z
+DTEND:20260713T153047Z
+DTSTART:20260713T113047Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
 URL:https://transportnsw.info/alerts/details#/ems-74466
