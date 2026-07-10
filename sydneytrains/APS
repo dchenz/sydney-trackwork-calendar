@@ -10,14 +10,6 @@ UID:f30ea1d7-cc3a-570f-977d-7b94087bbb9e
 URL:https://transportnsw.info/alerts/details#/ems-74832
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74104\n\nFriday 10 July\nFrom 10:40PM\, trains via the Airport start and end at Central.\nT8 trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
-DTEND:20260710T160010Z
-DTSTART:20260710T124000Z
-SUMMARY:Trains via the Airport start and end at Central
-UID:aafb18ca-0b6a-5a04-9f98-101837f30114
-URL:https://transportnsw.info/alerts/details#/ems-74104
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74750\n\nOn Saturday 25 and Sunday 26 July\, trains run in one direction only\, from Central first stop Museum.
 DTEND:20260726T135918Z
 DTSTART:20260724T160059Z
@@ -32,6 +24,14 @@ DTSTART:20260717T230000Z
 SUMMARY:Trains may run to a changed timetable
 UID:bcccbf38-1aca-50fe-96aa-a22c60285958
 URL:https://transportnsw.info/alerts/details#/ems-74479
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
+DTEND:20260714T153003Z
+DTSTART:20260713T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:a2d6efd6-3f42-5c10-b61e-86607027e423
+URL:https://transportnsw.info/alerts/details#/ems-74411
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74477\n\nSunday 19 July\nFrom 8:40AM to 3PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
@@ -98,11 +98,11 @@ UID:375d5ad1-bfd0-5c35-9291-d052d053e851
 URL:https://transportnsw.info/alerts/details#/ems-74827
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
-DTEND:20260714T153003Z
-DTSTART:20260713T114000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74020\n\nFrom 10:40pm Friday 10 to Sunday 12 July\, trains do not run on the City Circle\, or between Central and Wynyard.
+DTEND:20260712T135911Z
+DTSTART:20260710T124000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:a2d6efd6-3f42-5c10-b61e-86607027e423
-URL:https://transportnsw.info/alerts/details#/ems-74411
+UID:8d3eb6dc-d969-5fea-b22e-af706286ca90
+URL:https://transportnsw.info/alerts/details#/ems-74020
 END:VEVENT
 END:VCALENDAR

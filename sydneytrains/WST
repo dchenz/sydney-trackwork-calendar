@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260715T153049Z
-DTSTART:20260715T114049Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:a7df4346-55d7-5076-acba-e0a66fdab611
-URL:https://transportnsw.info/alerts/details#/ems-74424
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260716T153049Z
 DTSTART:20260716T114049Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
@@ -18,12 +10,12 @@ UID:a7df4346-55d7-5076-acba-e0a66fdab611
 URL:https://transportnsw.info/alerts/details#/ems-74424
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73967\n\nFriday 10 July   \nFrom 11PM\, trains run to a changed timetable and stopping pattern between Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.\nRichmond trains run to a changed timetable and stopping pattern between Richmond and Leppington.
-DTEND:20260710T160016Z
-DTSTART:20260710T130000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14\, and between Richmond and Leppington
-UID:72a8d8c5-29a8-5e17-9685-e5148ee80298
-URL:https://transportnsw.info/alerts/details#/ems-73967
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
+DTEND:20260715T153049Z
+DTSTART:20260715T114049Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:a7df4346-55d7-5076-acba-e0a66fdab611
+URL:https://transportnsw.info/alerts/details#/ems-74424
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
@@ -51,16 +43,16 @@ URL:https://transportnsw.info/alerts/details#/ems-74429
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74420\n\nNightly from 9.40PM to 1.30AM on Monday 13 and Tuesday 14 July\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.
-DTEND:20260714T153000Z
-DTSTART:20260714T114000Z
+DTEND:20260713T153000Z
+DTSTART:20260713T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:c2976082-f84b-5da8-b675-ee3165262f5e
 URL:https://transportnsw.info/alerts/details#/ems-74420
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74420\n\nNightly from 9.40PM to 1.30AM on Monday 13 and Tuesday 14 July\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.
-DTEND:20260713T153000Z
-DTSTART:20260713T114000Z
+DTEND:20260714T153000Z
+DTSTART:20260714T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:c2976082-f84b-5da8-b675-ee3165262f5e
 URL:https://transportnsw.info/alerts/details#/ems-74420

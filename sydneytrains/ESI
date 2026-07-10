@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74092\n\nFriday 10 July   \nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260710T160037Z
-DTSTART:20260710T124000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:15254773-a6e8-5746-8512-d323ba978302
-URL:https://transportnsw.info/alerts/details#/ems-74092
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74841\n\nOn Saturday 25 and Sunday 26 July buses replace trains between Cronulla and Sutherland\, and some trains from Hurstville to Waterfall.
 DTEND:20260726T135909Z
 DTSTART:20260724T160000Z
