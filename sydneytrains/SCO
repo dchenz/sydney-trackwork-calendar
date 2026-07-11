@@ -35,16 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-74851
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
-DTEND:20260715T153000Z
-DTSTART:20260715T120000Z
+DTEND:20260716T153000Z
+DTSTART:20260716T120000Z
 SUMMARY:Some trains run around the City Circle
 UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
 URL:https://transportnsw.info/alerts/details#/ems-74450
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
-DTEND:20260716T153000Z
-DTSTART:20260716T120000Z
+DTEND:20260715T153000Z
+DTSTART:20260715T120000Z
 SUMMARY:Some trains run around the City Circle
 UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
 URL:https://transportnsw.info/alerts/details#/ems-74450
@@ -72,13 +72,5 @@ DTSTART:20260724T170008Z
 SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
 UID:acee4a0d-781e-5fa9-a42a-28ba83804969
 URL:https://transportnsw.info/alerts/details#/ems-74849
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74059\n\nOn Saturday 11 from 7.30am to 11.30am\, at Waterfall and Helensburgh\, all trains leave from platform 1. From 12pm to 4pm\, at Helensburgh and Waterfall\, all trains leave from platform 2.
-DTEND:20260711T060038Z
-DTSTART:20260710T213000Z
-SUMMARY:At Waterfall and Helensburgh\, trains leave from different platforms
-UID:79e9bd42-3db4-5697-a703-bb47d9f2660d
-URL:https://transportnsw.info/alerts/details#/ems-74059
 END:VEVENT
 END:VCALENDAR
