@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains between Penrith and Granville
 UID:a17fc310-2933-53ef-9dd6-09d3886bdffe
 URL:https://transportnsw.info/alerts/details#/ems-74462
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74029\n\nOn Saturday 11 and Sunday 12 July\, the 06.08AM Bathurst to Central and the 15.05PM Central to Bathurst trains will run between Bathurst and Lithgow only.
-DTEND:20260712T070544Z
-DTSTART:20260710T200800Z
-SUMMARY:Some trains run to a changed timetable and stopping pattern
-UID:64e3f737-fed2-50bc-8bad-b0b70f35c6ae
-URL:https://transportnsw.info/alerts/details#/ems-74029
-END:VEVENT
 END:VCALENDAR
