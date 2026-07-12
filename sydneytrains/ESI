@@ -2,33 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74841\n\nOn Saturday 25 and Sunday 26 July buses replace trains between Cronulla and Sutherland\, and some trains from Hurstville to Waterfall.
-DTEND:20260726T135909Z
-DTSTART:20260724T160000Z
-SUMMARY:Buses replace trains between Cronulla and Sutherland\, and some trains from Hurstville to Waterfall
-UID:e9e6a504-2326-576b-adb9-4b5564729032
-URL:https://transportnsw.info/alerts/details#/ems-74841
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74094\n\nSaturday 11 and Sunday 12 July\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.
-DTEND:20260712T135902Z
-DTSTART:20260710T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle and metro trackwork may affect how you travel
-UID:f63f9bd3-7679-54a2-b8b5-69eea56464bf
-URL:https://transportnsw.info/alerts/details#/ems-74094
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260714T153047Z
-DTSTART:20260714T113047Z
+DTEND:20260713T153047Z
+DTSTART:20260713T113047Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
 URL:https://transportnsw.info/alerts/details#/ems-74466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260713T153047Z
-DTSTART:20260713T113047Z
+DTEND:20260714T153047Z
+DTSTART:20260714T113047Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
 URL:https://transportnsw.info/alerts/details#/ems-74466
@@ -40,5 +24,13 @@ DTSTART:20260717T160017Z
 SUMMARY:Sydney Metro trackwork may affect how you travel
 UID:231a641b-e6e8-59b6-8edf-3430374790ef
 URL:https://transportnsw.info/alerts/details#/ems-74475
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74841\n\nOn Saturday 25 and Sunday 26 July buses replace trains between Cronulla and Sutherland\, and some trains from Hurstville to Waterfall.
+DTEND:20260726T135909Z
+DTSTART:20260724T160000Z
+SUMMARY:Buses replace trains between Cronulla and Sutherland\, and some trains from Hurstville to Waterfall
+UID:e9e6a504-2326-576b-adb9-4b5564729032
+URL:https://transportnsw.info/alerts/details#/ems-74841
 END:VEVENT
 END:VCALENDAR

@@ -58,14 +58,6 @@ UID:87c04856-6299-5f72-a76e-be1cd3293486
 URL:https://transportnsw.info/alerts/details#/ems-74856
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74096\n\nSaturday 11 and Sunday 12 July\nEarly morning and late night trains run to a changed timetable and stopping pattern between Richmond and Liverpool only. You may need to change trains at Liverpool to continue your journey.\nExtra trains run between Richmond and Liverpool.
-DTEND:20260712T135904Z
-DTSTART:20260710T160000Z
-SUMMARY:Some trains run to a changed timetable and stopping pattern
-UID:564ad6a4-8480-5cfc-bd17-b2c0388baec3
-URL:https://transportnsw.info/alerts/details#/ems-74096
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74771\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
 DTEND:20260720T153002Z
 DTSTART:20260720T115002Z

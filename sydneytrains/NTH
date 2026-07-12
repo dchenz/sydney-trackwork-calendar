@@ -34,14 +34,6 @@ UID:5efc243b-c26a-5d02-a20e-a3eff5c5e81f
 URL:https://transportnsw.info/alerts/details#/ems-74473
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74114\n\nSaturday 11 and Sunday 12 July\nTrains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.\nDaily until 8AM\, trains run to a reduced frequency\, every 30 minutes.\nSydney Metro and City Circle train trackwork may also affect how you travel
-DTEND:20260712T135941Z
-DTSTART:20260710T160000Z
-SUMMARY:Trains run between Hornsby and Central\, platforms 1-14. City Circle and metro trackwork may affect how you travel
-UID:90bc827c-1e8d-5fda-98de-861a059e8e64
-URL:https://transportnsw.info/alerts/details#/ems-74114
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74464\n\nSaturday 18 and Sunday 19 July     \nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
 DTEND:20260719T135954Z
 DTSTART:20260717T160000Z

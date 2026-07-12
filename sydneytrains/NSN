@@ -25,12 +25,4 @@ SUMMARY:T1 North Shore Line: Sydney Metro trackwork may affect how you travel
 UID:4302ccc6-2995-5ae5-8e00-3e11cfe4d442
 URL:https://transportnsw.info/alerts/details#/ems-74494
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-73961\n\nFriday 10 to Sunday 12 July \nFrom 11PM Friday\, trains run between Berowra and Wynyard only\, to a changed timetable.\nChange at Wynyard for light rail or local buses to continue your journey.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nSunday only\, metro services do not run between Tallawong and Sydenham. Buses replace services between Tallawong and Chatswood only.
-DTEND:20260712T135949Z
-DTSTART:20260710T130000Z
-SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. City Circle and metro trackwork may affect how you travel
-UID:b9255a70-5fbf-57ef-9a82-4475b8425348
-URL:https://transportnsw.info/alerts/details#/ems-73961
-END:VEVENT
 END:VCALENDAR

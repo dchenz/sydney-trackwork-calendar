@@ -50,14 +50,6 @@ UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
 URL:https://transportnsw.info/alerts/details#/ems-74450
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74268\n\nSaturday 11 and Sunday 12 July  \nCity Circle and Sydney Metro trackwork may affect how you travel.\nSaturday and Sunday\, trains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail or local buses to City stations.\nSunday only\, metro services do not run between Sydenham and Tallawong.
-DTEND:20260712T135949Z
-DTSTART:20260710T160000Z
-SUMMARY:City Circle and Sydney Metro trackwork may affect how you travel
-UID:dd21a671-4c0e-56db-b134-15c221bb6fb3
-URL:https://transportnsw.info/alerts/details#/ems-74268
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20260725T010000Z
 DTSTART:20260724T170008Z
