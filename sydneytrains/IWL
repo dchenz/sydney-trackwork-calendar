@@ -18,6 +18,22 @@ UID:d582db76-5c3c-5d18-934e-b4d030fb1b86
 URL:https://transportnsw.info/alerts/details#/ems-74762
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75149\n\nSunday 2 August   \nBuses replace Inner West trains between Strathfield and Ashfield.\nTrains run to a changed timetable and stopping pattern between:\n- Ashfield and the City\n- Leppington and the City via Granville\nT1 Western Line trains make extra stops at Homebush\, Flemington and Burwood.\nFrom 5:30AM to 10AM\, buses replace trains between Cabramatta and Granville.\nTrains run between Leppington and the City via Regents Park.
+DTEND:20260802T135946Z
+DTSTART:20260801T160000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Ashfield\, and some trains between Cabramatta and Granville
+UID:911e5437-ae66-5d48-b19f-d5a26dedb763
+URL:https://transportnsw.info/alerts/details#/ems-75149
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75147\n\nSaturday 1 August\nFrom 5AM to 9AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
+DTEND:20260731T230027Z
+DTSTART:20260731T190000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:cbe61bab-fa32-5418-b627-cc1797ee548c
+URL:https://transportnsw.info/alerts/details#/ems-75147
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74750\n\nOn Saturday 25 and Sunday 26 July\, trains run in one direction only\, from Central first stop Museum.
 DTEND:20260726T135918Z
 DTSTART:20260724T160059Z

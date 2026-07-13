@@ -10,6 +10,14 @@ UID:c8bc05dc-ac21-5ca1-b44d-1282045298b6
 URL:https://transportnsw.info/alerts/details#/ems-74443
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
+DTEND:20260801T022000Z
+DTSTART:20260731T203000Z
+SUMMARY:Some trains run to a changed timetable and stopping pattern
+UID:8a355308-e352-546e-9b0f-50c7afb697e1
+URL:https://transportnsw.info/alerts/details#/ems-75177
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74446\n\nThursday 16 July \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20260716T041043Z
 DTSTART:20260715T232000Z
@@ -34,6 +42,14 @@ UID:4087c5d1-5e20-5d18-9087-c4dc2317772d
 URL:https://transportnsw.info/alerts/details#/ems-74851
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
+DTEND:20260802T022000Z
+DTSTART:20260801T203000Z
+SUMMARY:Some trains run to a changed timetable and stopping pattern
+UID:8a355308-e352-546e-9b0f-50c7afb697e1
+URL:https://transportnsw.info/alerts/details#/ems-75177
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74450\n\nWednesday 15 and Thursday 16 July  \nNightly from 10PM to 1:30AM\, some trains run between South Coast Line stations and the City Circle\, to a changed timetable.
 DTEND:20260716T153000Z
 DTSTART:20260716T120000Z
@@ -50,11 +66,35 @@ UID:8f1caaa7-27a1-5d2e-bb78-0ae2ba60a3a1
 URL:https://transportnsw.info/alerts/details#/ems-74450
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75179\n\nSunday 2 August     \nFrom 1PM to 4PM\, trains do not stop at Wolli Creek but make extra stops at Arncliffe and Sydenham.\nBuses run between Arncliffe\, Wolli Creek and Sydenham.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek\, or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20260802T060035Z
+DTSTART:20260802T030000Z
+SUMMARY:Trains do not stop at Wolli Creek. Buses run between Arncliffe\, Wolli Creek and Sydenham
+UID:1c610017-1a06-58de-8cc6-7ccb908b63e9
+URL:https://transportnsw.info/alerts/details#/ems-75179
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20260725T010000Z
 DTSTART:20260724T170008Z
 SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
 UID:acee4a0d-781e-5fa9-a42a-28ba83804969
 URL:https://transportnsw.info/alerts/details#/ems-74849
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75175\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260727T163000Z
+DTSTART:20260727T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b54c231-10e4-536c-a28b-648a1f0a549f
+URL:https://transportnsw.info/alerts/details#/ems-75175
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75175\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260728T163000Z
+DTSTART:20260728T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b54c231-10e4-536c-a28b-648a1f0a549f
+URL:https://transportnsw.info/alerts/details#/ems-75175
 END:VEVENT
 END:VCALENDAR

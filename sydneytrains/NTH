@@ -34,6 +34,14 @@ UID:5efc243b-c26a-5d02-a20e-a3eff5c5e81f
 URL:https://transportnsw.info/alerts/details#/ems-74473
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75169\n\nTuesday 28 July  \nFrom 4PM to 7:30PM\, some trains between Hornsby\, Epping and Central run to a changed timetable and reduced frequency.
+DTEND:20260728T093022Z
+DTSTART:20260728T060000Z
+SUMMARY:Some trains run to a changed timetable and reduced frequency
+UID:917db2a5-648b-5a98-93e6-4fae6966c5c1
+URL:https://transportnsw.info/alerts/details#/ems-75169
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74464\n\nSaturday 18 and Sunday 19 July     \nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
 DTEND:20260719T135954Z
 DTSTART:20260717T160000Z

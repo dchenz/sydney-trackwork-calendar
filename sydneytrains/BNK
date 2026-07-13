@@ -10,6 +10,14 @@ UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
 URL:https://transportnsw.info/alerts/details#/ems-74750
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75153\n\nSunday 2 August\nBuses replace Inner West trains between Strathfield and Ashfield.\nTrains run to a changed timetable and stopping pattern between:\n- Ashfield and the City\n- Leppington and Lidcombe via Regents Park\nT1 Western Line trains make extra stops at Homebush\, Flemington and Burwood.\nYou may need to change trains to continue your journey.\nFrom 5:30AM to 11:30AM\, trains run between Leppington and the City via Regents Park.
+DTEND:20260802T135958Z
+DTSTART:20260801T160000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Ashfield. You may need to change trains
+UID:8b2af4c0-1851-5d0d-928b-85384efa04a9
+URL:https://transportnsw.info/alerts/details#/ems-75153
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74777\n\nOn Saturday 25 July from 6.30AM to 3.30PM\, most trains run to a changed timetable between Liverpool and Lidcombe only.
 DTEND:20260725T053023Z
 DTSTART:20260724T203000Z
@@ -48,6 +56,14 @@ DTSTART:20260714T112043Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:a7e4f664-e1bb-5309-a4cc-276755a96398
 URL:https://transportnsw.info/alerts/details#/ems-74448
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75151\n\nSaturday 1 August\nFrom 5AM to 9AM\, trains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
+DTEND:20260731T230020Z
+DTSTART:20260731T190000Z
+SUMMARY:Trains run between Liverpool and Lidcombe only
+UID:fec50540-69f5-5e6b-b8b5-8a8bd959f301
+URL:https://transportnsw.info/alerts/details#/ems-75151
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
