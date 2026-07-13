@@ -26,17 +26,9 @@ UID:e9e6a504-2326-576b-adb9-4b5564729032
 URL:https://transportnsw.info/alerts/details#/ems-74841
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260714T153047Z
-DTSTART:20260714T113047Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
-URL:https://transportnsw.info/alerts/details#/ems-74466
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75155\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260728T163000Z
-DTSTART:20260728T115000Z
+DTEND:20260727T163000Z
+DTSTART:20260727T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:da099350-e7d3-5d9f-8182-52e87616ddab
 URL:https://transportnsw.info/alerts/details#/ems-75155
@@ -51,16 +43,16 @@ URL:https://transportnsw.info/alerts/details#/ems-75159
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74466\n\nNightly from 9.30PM to 1.30AM on Monday 13 and Tuesday 14 July\, some trains make extra stops at St Peters and Erskineville.
-DTEND:20260713T153047Z
-DTSTART:20260713T113047Z
+DTEND:20260714T153047Z
+DTSTART:20260714T113047Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:ae9d016b-1ba5-59df-8a2b-dd7e10083fd5
 URL:https://transportnsw.info/alerts/details#/ems-74466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75155\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260727T163000Z
-DTSTART:20260727T115000Z
+DTEND:20260728T163000Z
+DTSTART:20260728T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:da099350-e7d3-5d9f-8182-52e87616ddab
 URL:https://transportnsw.info/alerts/details#/ems-75155

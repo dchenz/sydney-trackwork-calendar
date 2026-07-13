@@ -10,14 +10,6 @@ UID:5f4cadf5-5e36-5e65-8de5-d6849bdebcc3
 URL:https://transportnsw.info/alerts/details#/ems-74418
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74418\n\nNightly from 9.40PM to 1.30AM on Monday 13 and Tuesday 14 July\, buses replace trains between Berowra and Hornsby.
-DTEND:20260713T153000Z
-DTSTART:20260713T114000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby. Trains run between Hornsby and Wynyard only
-UID:5f4cadf5-5e36-5e65-8de5-d6849bdebcc3
-URL:https://transportnsw.info/alerts/details#/ems-74418
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74494\n\nSaturday 18 and Sunday 19 July\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nUse trains between Chatswood\, the City and Sydenham.
 DTEND:20260719T135941Z
 DTSTART:20260717T160000Z

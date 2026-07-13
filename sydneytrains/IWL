@@ -66,14 +66,6 @@ UID:017a6327-0f6d-5b4b-902a-e3904722673a
 URL:https://transportnsw.info/alerts/details#/ems-74755
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
-DTEND:20260714T153044Z
-DTSTART:20260714T112044Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:4c47428d-10c1-5b06-9eaf-53b286932402
-URL:https://transportnsw.info/alerts/details#/ems-74431
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74433\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Inner West trains do not run on T1 Western or T9.
 DTEND:20260716T153015Z
 DTSTART:20260716T114015Z
@@ -83,8 +75,8 @@ URL:https://transportnsw.info/alerts/details#/ems-74433
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
-DTEND:20260713T153044Z
-DTSTART:20260713T112044Z
+DTEND:20260714T153044Z
+DTSTART:20260714T112044Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:4c47428d-10c1-5b06-9eaf-53b286932402
 URL:https://transportnsw.info/alerts/details#/ems-74431

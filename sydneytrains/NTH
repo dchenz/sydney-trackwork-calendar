@@ -19,14 +19,6 @@ URL:https://transportnsw.info/alerts/details#/ems-74469
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74473\n\nMonday 13 and Tuesday 14 July\nNightly from 9:40PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
-DTEND:20260713T153000Z
-DTSTART:20260713T114000Z
-SUMMARY:Buses replace trains between Hornsby and Epping. City Circle trackwork may affect how you travel
-UID:5efc243b-c26a-5d02-a20e-a3eff5c5e81f
-URL:https://transportnsw.info/alerts/details#/ems-74473
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74473\n\nMonday 13 and Tuesday 14 July\nNightly from 9:40PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
 DTEND:20260714T153000Z
 DTSTART:20260714T114000Z
 SUMMARY:Buses replace trains between Hornsby and Epping. City Circle trackwork may affect how you travel
