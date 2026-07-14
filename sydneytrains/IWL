@@ -18,7 +18,7 @@ UID:d582db76-5c3c-5d18-934e-b4d030fb1b86
 URL:https://transportnsw.info/alerts/details#/ems-74762
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75149\n\nSunday 2 August   \nBuses replace Inner West trains between Strathfield and Ashfield.\nTrains run to a changed timetable and stopping pattern between:\n- Ashfield and the City\n- Leppington and the City via Granville\nT1 Western Line trains make extra stops at Homebush\, Flemington and Burwood.\nFrom 5:30AM to 10AM\, buses replace trains between Cabramatta and Granville.\nTrains run between Leppington and the City via Regents Park.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75149\n\nSunday 2 August   \nBuses replace Inner West trains between Strathfield and Ashfield. Trains continue to stop at Burwood.\nTrains run to a changed timetable and stopping pattern between:\n- Ashfield and the City\n- Leppington and the City via Granville\, but do not stop at Ashfield.\nT1 Western Line trains make extra stops at Homebush\, Flemington and Burwood.\nFrom 5:30AM to 10AM\, buses replace trains between Cabramatta and Granville.\nTrains run between Leppington and the City via Regents Park.
 DTEND:20260802T135946Z
 DTSTART:20260801T160000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Ashfield\, and some trains between Cabramatta and Granville
