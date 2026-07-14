@@ -59,8 +59,8 @@ URL:https://transportnsw.info/alerts/details#/ems-74757
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74755\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
-DTEND:20260721T153040Z
-DTSTART:20260721T115040Z
+DTEND:20260720T153040Z
+DTSTART:20260720T115040Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:017a6327-0f6d-5b4b-902a-e3904722673a
 URL:https://transportnsw.info/alerts/details#/ems-74755
@@ -74,25 +74,9 @@ UID:1fd8dbb4-633c-5427-a3bc-beead2b3b636
 URL:https://transportnsw.info/alerts/details#/ems-74433
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74431\n\nOn Saturday 18 and Sunday 19 July\, buses replace trains between Penrith\, Richmond and Granville.
-DTEND:20260714T153044Z
-DTSTART:20260714T112044Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:4c47428d-10c1-5b06-9eaf-53b286932402
-URL:https://transportnsw.info/alerts/details#/ems-74431
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74411\n\nNightly from 9.40PM to 1.30AM\, on Monday 13 and Tuesday 14 July\, trains do not run on the City Circle\, or between Central and Wynyard.
-DTEND:20260714T153003Z
-DTSTART:20260713T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:a2d6efd6-3f42-5c10-b61e-86607027e423
-URL:https://transportnsw.info/alerts/details#/ems-74411
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74755\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
-DTEND:20260720T153040Z
-DTSTART:20260720T115040Z
+DTEND:20260721T153040Z
+DTSTART:20260721T115040Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:017a6327-0f6d-5b4b-902a-e3904722673a
 URL:https://transportnsw.info/alerts/details#/ems-74755

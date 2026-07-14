@@ -58,14 +58,6 @@ UID:8edcacf0-f767-505b-acea-43c9710f19e1
 URL:https://transportnsw.info/alerts/details#/ems-74429
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74420\n\nNightly from 9.40PM to 1.30AM on Monday 13 and Tuesday 14 July\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.
-DTEND:20260714T153000Z
-DTSTART:20260714T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:c2976082-f84b-5da8-b675-ee3165262f5e
-URL:https://transportnsw.info/alerts/details#/ems-74420
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74427\n\nOn Friday 17 July\, buses replace trains between Richmond and Clarendon.
 DTEND:20260717T160004Z
 DTSTART:20260716T160041Z

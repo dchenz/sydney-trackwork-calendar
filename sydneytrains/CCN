@@ -26,14 +26,6 @@ UID:5f8778f1-f224-59b8-8d44-5f35d3534baa
 URL:https://transportnsw.info/alerts/details#/ems-75171
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74458\n\nMonday 13 and Tuesday 14 July   \nNightly from 9:40PM to 1:30AM\, buses replace trains between Gosford\, Hornsby and Epping. You may need to change buses at Hornsby to continue your journey.\nTrains run to a changed timetable between Newcastle Interchange and Gosford. T9 Northern Line trains run between Epping and Central\, platforms 1-14.\nMetro services run between Epping and the City.\nT1 North Shore Line trains run between Hornsby and Wynyard only\, due to City Circle trackwork.
-DTEND:20260714T153000Z
-DTSTART:20260714T114000Z
-SUMMARY:Buses replace trains between Gosford and Epping
-UID:f2fe15b3-0fc2-5873-bec7-a3c826aa0d57
-URL:https://transportnsw.info/alerts/details#/ems-74458
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74456\n\nThursday 16 and Friday 17 July  \nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
 DTEND:20260716T180000Z
 DTSTART:20260715T152000Z
