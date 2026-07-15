@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74483\n\nNightly from 11.50PM to 1.30AM on Tuesday 14 and Wednesday 15 July\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.
-DTEND:20260715T053005Z
-DTSTART:20260714T135005Z
-SUMMARY:You may need to change trains at Granville
-UID:10321100-63ce-53e3-8761-30e54663db59
-URL:https://transportnsw.info/alerts/details#/ems-74483
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74483\n\nNightly from 11.50PM to 1.30AM on Tuesday 14 and Wednesday 15 July\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.
 DTEND:20260716T053005Z
 DTSTART:20260715T135005Z
 SUMMARY:You may need to change trains at Granville
