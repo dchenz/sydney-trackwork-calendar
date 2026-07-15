@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74433\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Inner West trains do not run on T1 Western or T9.
-DTEND:20260715T153015Z
-DTSTART:20260715T114015Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:1fd8dbb4-633c-5427-a3bc-beead2b3b636
-URL:https://transportnsw.info/alerts/details#/ems-74433
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74762\n\nOn Saturday 25 and Sunday 26 July\, buses replace trains between Leppington and Glenfield.
 DTEND:20260726T135956Z
 DTSTART:20260724T160010Z

@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260715T153049Z
-DTSTART:20260715T114049Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:a7df4346-55d7-5076-acba-e0a66fdab611
-URL:https://transportnsw.info/alerts/details#/ems-74424
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260716T153049Z
 DTSTART:20260716T114049Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
@@ -35,16 +27,16 @@ URL:https://transportnsw.info/alerts/details#/ems-75141
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
-DTEND:20260722T153008Z
-DTSTART:20260722T112008Z
+DTEND:20260723T153008Z
+DTSTART:20260723T112008Z
 SUMMARY:T1 Western Line: Trains may run to a changed timetable and make extra stops
 UID:05fe4975-0993-52e7-af5d-497f79a3635c
 URL:https://transportnsw.info/alerts/details#/ems-74753
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
-DTEND:20260723T153008Z
-DTSTART:20260723T112008Z
+DTEND:20260722T153008Z
+DTSTART:20260722T112008Z
 SUMMARY:T1 Western Line: Trains may run to a changed timetable and make extra stops
 UID:05fe4975-0993-52e7-af5d-497f79a3635c
 URL:https://transportnsw.info/alerts/details#/ems-74753
