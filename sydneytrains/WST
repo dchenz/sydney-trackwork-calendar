@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74424\n\nNightly from 9.40pm to 1.30am on Wednesday 15 and Thursday 16 July\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260716T153049Z
-DTSTART:20260716T114049Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:a7df4346-55d7-5076-acba-e0a66fdab611
-URL:https://transportnsw.info/alerts/details#/ems-74424
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75143\n\nSunday 2 August\nTrains run to a changed timetable and stopping pattern.\nPenrith trains make extra stops at Homebush\, Flemington and Burwood.\nRichmond trains run between Richmond and Liverpool only. Change trains at Parramatta to continue your journey.\nFrom 5:30AM to 11:30AM\, Richmond trains run between Richmond and Olympic Park. Change trains at Lidcombe to continue your journey.
 DTEND:20260802T135909Z
 DTSTART:20260801T160000Z

@@ -25,12 +25,4 @@ SUMMARY:Sydney Metro trackwork may affect how you travel
 UID:4cf5a112-d8ac-5861-913b-cb3b9f93b60e
 URL:https://transportnsw.info/alerts/details#/ems-74830
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74469\n\nWednesday 15 and Thursday 16 July\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260716T153000Z
-DTSTART:20260716T114000Z
-SUMMARY:Trains run to a changed timetable and make extra stops
-UID:df0d70bc-889b-55af-ab7f-a62c1b6beeb7
-URL:https://transportnsw.info/alerts/details#/ems-74469
-END:VEVENT
 END:VCALENDAR
