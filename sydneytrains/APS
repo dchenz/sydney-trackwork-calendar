@@ -35,16 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-74477
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74827\n\nNightly from 9.30pm to 1.30am on Monday 20 and Tuesday 21 July\, buses replace trains between Glenfield\,
-DTEND:20260720T153034Z
-DTSTART:20260720T113034Z
+DTEND:20260721T153034Z
+DTSTART:20260721T113034Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:375d5ad1-bfd0-5c35-9291-d052d053e851
 URL:https://transportnsw.info/alerts/details#/ems-74827
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74827\n\nNightly from 9.30pm to 1.30am on Monday 20 and Tuesday 21 July\, buses replace trains between Glenfield\,
-DTEND:20260721T153034Z
-DTSTART:20260721T113034Z
+DTEND:20260720T153034Z
+DTSTART:20260720T113034Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:375d5ad1-bfd0-5c35-9291-d052d053e851
 URL:https://transportnsw.info/alerts/details#/ems-74827
@@ -53,14 +53,6 @@ BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74481\n\nWednesday 15 and Thursday 16 July \nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
 DTEND:20260717T053000Z
 DTSTART:20260716T114000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:c43a0718-c5ac-53d4-8a20-b01038639a3c
-URL:https://transportnsw.info/alerts/details#/ems-74481
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74481\n\nWednesday 15 and Thursday 16 July \nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20260716T053000Z
-DTSTART:20260715T114000Z
 SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
 UID:c43a0718-c5ac-53d4-8a20-b01038639a3c
 URL:https://transportnsw.info/alerts/details#/ems-74481
