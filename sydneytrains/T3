@@ -27,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-74777
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74765\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Liverpool and Lidcombe.
-DTEND:20260722T153025Z
-DTSTART:20260722T114025Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:78569310-8f80-5a9c-bcf4-ab698bfcef88
-URL:https://transportnsw.info/alerts/details#/ems-74765
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74765\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Liverpool and Lidcombe.
 DTEND:20260723T153025Z
 DTSTART:20260723T114025Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
@@ -42,12 +34,12 @@ UID:78569310-8f80-5a9c-bcf4-ab698bfcef88
 URL:https://transportnsw.info/alerts/details#/ems-74765
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74460\n\nNightly from 9.40PM to 1.30AM on Wednesday 15 and Thursday 16 July\, Inner West trains do not run on T1 Western or T9.
-DTEND:20260717T033046Z
-DTSTART:20260716T114046Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:7549a39f-a9bc-5f75-995a-a49d0a8d1a35
-URL:https://transportnsw.info/alerts/details#/ems-74460
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74765\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Liverpool and Lidcombe.
+DTEND:20260722T153025Z
+DTSTART:20260722T114025Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:78569310-8f80-5a9c-bcf4-ab698bfcef88
+URL:https://transportnsw.info/alerts/details#/ems-74765
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75151\n\nSaturday 1 August\nFrom 5AM to 9AM\, trains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.

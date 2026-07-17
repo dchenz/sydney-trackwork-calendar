@@ -49,12 +49,4 @@ SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the 
 UID:375d5ad1-bfd0-5c35-9291-d052d053e851
 URL:https://transportnsw.info/alerts/details#/ems-74827
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74481\n\nWednesday 15 and Thursday 16 July \nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20260717T053000Z
-DTSTART:20260716T114000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:c43a0718-c5ac-53d4-8a20-b01038639a3c
-URL:https://transportnsw.info/alerts/details#/ems-74481
-END:VEVENT
 END:VCALENDAR

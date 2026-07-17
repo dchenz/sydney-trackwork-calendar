@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74443\n\nFriday 17 July \nThe 13:16 Bomaderry to Kiama service runs 30 minutes earlier than the normal timetable\, leaving Bomaderry at 12:46.\nA replacement bus service leaves Bomaderry at 13:16\, stopping all stations to Kiama\, then express to Wollongong.\nThe 14:31 Bomaderry to Berry service runs 10 minutes later than the normal timetable\, leaving Bomaderry at 14:41.
-DTEND:20260717T053000Z
-DTSTART:20260717T020000Z
-SUMMARY:Some trains run to a changed timetable. Buses replace some trains
-UID:c8bc05dc-ac21-5ca1-b44d-1282045298b6
-URL:https://transportnsw.info/alerts/details#/ems-74443
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
 DTEND:20260801T022000Z
 DTSTART:20260731T203000Z
@@ -50,12 +42,12 @@ UID:1c610017-1a06-58de-8cc6-7ccb908b63e9
 URL:https://transportnsw.info/alerts/details#/ems-75179
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
-DTEND:20260725T010000Z
-DTSTART:20260724T170008Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:acee4a0d-781e-5fa9-a42a-28ba83804969
-URL:https://transportnsw.info/alerts/details#/ems-74849
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75175\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260728T163000Z
+DTSTART:20260728T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b54c231-10e4-536c-a28b-648a1f0a549f
+URL:https://transportnsw.info/alerts/details#/ems-75175
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75175\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
@@ -66,11 +58,11 @@ UID:9b54c231-10e4-536c-a28b-648a1f0a549f
 URL:https://transportnsw.info/alerts/details#/ems-75175
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75175\n\nMonday 27 and Tuesday 28 July\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260728T163000Z
-DTSTART:20260728T115000Z
-SUMMARY:Buses replace trains between Waterfall and Hurstville
-UID:9b54c231-10e4-536c-a28b-648a1f0a549f
-URL:https://transportnsw.info/alerts/details#/ems-75175
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
+DTEND:20260725T010000Z
+DTSTART:20260724T170008Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
+UID:acee4a0d-781e-5fa9-a42a-28ba83804969
+URL:https://transportnsw.info/alerts/details#/ems-74849
 END:VEVENT
 END:VCALENDAR
