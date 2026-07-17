@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74512\n\nSaturday 18 and Sunday 19 July     \nBuses replace trains between Richmond and Granville.\nT2 Leppington & Inner West Line trains run to the normal timetable between Leppington\, Granville and the City.
-DTEND:20260719T135936Z
-DTSTART:20260717T160000Z
-SUMMARY:Buses replace trains between Richmond and Granville
-UID:74dd17a5-5ec7-5939-a27d-60dd0d5cd56d
-URL:https://transportnsw.info/alerts/details#/ems-74512
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
 DTEND:20260722T153001Z
 DTSTART:20260722T114001Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
 URL:https://transportnsw.info/alerts/details#/ems-74775
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74512\n\nSaturday 18 and Sunday 19 July     \nBuses replace trains between Richmond and Granville.\nT2 Leppington & Inner West Line trains run to the normal timetable between Leppington\, Granville and the City.
+DTEND:20260719T135936Z
+DTSTART:20260717T160000Z
+SUMMARY:Buses replace trains between Richmond and Granville
+UID:74dd17a5-5ec7-5939-a27d-60dd0d5cd56d
+URL:https://transportnsw.info/alerts/details#/ems-74512
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
@@ -80,14 +80,6 @@ DTSTART:20260721T115002Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:88c52e90-67cf-5339-aad3-b4a5c1970d80
 URL:https://transportnsw.info/alerts/details#/ems-74771
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74487\n\nOn Friday 17 July\, buses replace trains between Richmond and Clarendon.
-DTEND:20260717T160005Z
-DTSTART:20260716T160044Z
-SUMMARY:Buses replace trains between Richmond and Clarendon
-UID:6595c7e0-8213-5475-a65b-c97c5c4dfd06
-URL:https://transportnsw.info/alerts/details#/ems-74487
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74856\n\nWednesday 22 and Thursday 23 July   \nNightly from 9:40PM to 1:30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.

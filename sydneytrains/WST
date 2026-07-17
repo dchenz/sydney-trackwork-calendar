@@ -41,12 +41,4 @@ SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Gr
 UID:8edcacf0-f767-505b-acea-43c9710f19e1
 URL:https://transportnsw.info/alerts/details#/ems-74429
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74427\n\nOn Friday 17 July\, buses replace trains between Richmond and Clarendon.
-DTEND:20260717T160004Z
-DTSTART:20260716T160041Z
-SUMMARY:T1 Western Line: Buses replace trains between Richmond and Clarendon
-UID:cf4bb51c-ae7c-5bcd-a2a6-6679f555a9cd
-URL:https://transportnsw.info/alerts/details#/ems-74427
-END:VEVENT
 END:VCALENDAR
