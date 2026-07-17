@@ -26,14 +26,6 @@ UID:5f8778f1-f224-59b8-8d44-5f35d3534baa
 URL:https://transportnsw.info/alerts/details#/ems-75171
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74456\n\nThursday 16 and Friday 17 July  \nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260716T180000Z
-DTSTART:20260715T152000Z
-SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
-UID:26bcac11-aeb2-5e6d-b535-95d1598c9914
-URL:https://transportnsw.info/alerts/details#/ems-74456
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74837\n\nOn Saturday 25 and Sunday 26 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.
 DTEND:20260726T135928Z
 DTSTART:20260724T160028Z
