@@ -18,14 +18,6 @@ UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
 URL:https://transportnsw.info/alerts/details#/ems-74750
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74479\n\nSaturday 18 July  \nFrom 9AM to 3PM\, trains may run to a changed timetable due to trackwork between Revesby and Turrella.
-DTEND:20260718T050010Z
-DTSTART:20260717T230000Z
-SUMMARY:Trains may run to a changed timetable
-UID:bcccbf38-1aca-50fe-96aa-a22c60285958
-URL:https://transportnsw.info/alerts/details#/ems-74479
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74477\n\nSunday 19 July\nFrom 8:40AM to 3PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
 DTEND:20260719T050014Z
 DTSTART:20260718T224000Z
