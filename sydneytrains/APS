@@ -10,22 +10,6 @@ UID:f30ea1d7-cc3a-570f-977d-7b94087bbb9e
 URL:https://transportnsw.info/alerts/details#/ems-74832
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74750\n\nOn Saturday 25 and Sunday 26 July\, trains run in one direction only\, from Central first stop Museum.
-DTEND:20260726T135918Z
-DTSTART:20260724T160059Z
-SUMMARY:City Circle: Trains run in one direction only\, from Central first stop Museum
-UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
-URL:https://transportnsw.info/alerts/details#/ems-74750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74477\n\nSunday 19 July\nFrom 8:40AM to 3PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
-DTEND:20260719T050014Z
-DTSTART:20260718T224000Z
-SUMMARY:Buses replace the all-stations trains between Wolli Creek and Revesby
-UID:4198700b-0629-5edb-aecb-8f38bc764554
-URL:https://transportnsw.info/alerts/details#/ems-74477
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74827\n\nNightly from 9.30pm to 1.30am on Monday 20 and Tuesday 21 July\, buses replace trains between Glenfield\,
 DTEND:20260721T153034Z
 DTSTART:20260721T113034Z
@@ -40,5 +24,13 @@ DTSTART:20260720T113034Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:375d5ad1-bfd0-5c35-9291-d052d053e851
 URL:https://transportnsw.info/alerts/details#/ems-74827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74750\n\nOn Saturday 25 and Sunday 26 July\, trains run in one direction only\, from Central first stop Museum.
+DTEND:20260726T135918Z
+DTSTART:20260724T160059Z
+SUMMARY:City Circle: Trains run in one direction only\, from Central first stop Museum
+UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
+URL:https://transportnsw.info/alerts/details#/ems-74750
 END:VEVENT
 END:VCALENDAR
