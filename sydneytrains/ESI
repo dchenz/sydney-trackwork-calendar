@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75157\n\nSaturday 1 and Sunday 2 August   \nDaily from 6:30AM to 12:20PM\, some trains run to a changed timetable and stopping pattern.\nSome trains start or end at Hurstville or Sutherland. You may need to change trains to continue your journey.\nTrains may leave from different platforms\, please check indicator screens before boarding.
-DTEND:20260801T022000Z
-DTSTART:20260731T203000Z
+DTEND:20260802T022000Z
+DTSTART:20260801T203000Z
 SUMMARY:Some trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:66ffee86-3c3f-5e0e-a0a1-18429c98ebe9
 URL:https://transportnsw.info/alerts/details#/ems-75157
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75157\n\nSaturday 1 and Sunday 2 August   \nDaily from 6:30AM to 12:20PM\, some trains run to a changed timetable and stopping pattern.\nSome trains start or end at Hurstville or Sutherland. You may need to change trains to continue your journey.\nTrains may leave from different platforms\, please check indicator screens before boarding.
-DTEND:20260802T022000Z
-DTSTART:20260801T203000Z
+DTEND:20260801T022000Z
+DTSTART:20260731T203000Z
 SUMMARY:Some trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:66ffee86-3c3f-5e0e-a0a1-18429c98ebe9
 URL:https://transportnsw.info/alerts/details#/ems-75157
@@ -48,13 +48,5 @@ DTSTART:20260728T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:da099350-e7d3-5d9f-8182-52e87616ddab
 URL:https://transportnsw.info/alerts/details#/ems-75155
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74475\n\nOn Saturday 18 and Sunday 19 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Tallawong.
-DTEND:20260719T135910Z
-DTSTART:20260717T160017Z
-SUMMARY:Sydney Metro trackwork may affect how you travel
-UID:231a641b-e6e8-59b6-8edf-3430374790ef
-URL:https://transportnsw.info/alerts/details#/ems-74475
 END:VEVENT
 END:VCALENDAR

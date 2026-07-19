@@ -41,12 +41,4 @@ SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platform
 UID:0ea305c4-fa59-597f-9687-088db4062449
 URL:https://transportnsw.info/alerts/details#/ems-75173
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74454\n\nSaturday 18 and Sunday 19 July     \nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
-DTEND:20260719T135920Z
-DTSTART:20260717T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel
-UID:367d1ec8-5f36-5945-a180-efa25b6b48f9
-URL:https://transportnsw.info/alerts/details#/ems-74454
-END:VEVENT
 END:VCALENDAR
