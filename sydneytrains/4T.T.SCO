@@ -10,14 +10,6 @@ UID:4087c5d1-5e20-5d18-9087-c4dc2317772d
 URL:https://transportnsw.info/alerts/details#/ems-74851
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74441\n\nSaturday 18 and Sunday 19 July   \nBuses replace trains between Bomaderry and Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.\nMonday\, buses also replace the 02:39 Kiama to Bondi Junction service from Kiama to Wollongong.
-DTEND:20260719T173030Z
-DTSTART:20260717T145000Z
-SUMMARY:Buses replace trains between Bomaderry and Wollongong
-UID:b4c29d0e-183a-5033-a0a0-e19be5f3631f
-URL:https://transportnsw.info/alerts/details#/ems-74441
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20260725T010000Z
 DTSTART:20260724T170008Z
