@@ -42,6 +42,14 @@ UID:78569310-8f80-5a9c-bcf4-ab698bfcef88
 URL:https://transportnsw.info/alerts/details#/ems-74765
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75526\n\nWednesday 5 August\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nInner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at Croydon and Ashfield.
+DTEND:20260805T153018Z
+DTSTART:20260805T122000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:144905bc-c1fd-5d2a-a96c-9fc554bef3cf
+URL:https://transportnsw.info/alerts/details#/ems-75526
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75151\n\nSaturday 1 August\nFrom 5AM to 9AM\, trains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
 DTEND:20260731T230020Z
 DTSTART:20260731T190000Z

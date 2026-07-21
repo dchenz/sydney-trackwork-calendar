@@ -34,6 +34,14 @@ UID:87c04856-6299-5f72-a76e-be1cd3293486
 URL:https://transportnsw.info/alerts/details#/ems-74856
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75535\n\nSaturday 8 and Sunday 9 August\nTrains run to a changed timetable between Richmond or Schofields and Liverpool.
+DTEND:20260809T135925Z
+DTSTART:20260807T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:0b293bd6-e598-5b02-9683-5467c93c7f9f
+URL:https://transportnsw.info/alerts/details#/ems-75535
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75163\n\nSunday 2 August\nFrom 5:30AM to 10AM\, buses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable between Leppington and the City via Regents Park\, and between Richmond or Schofields and Olympic Park.\nYou may need to change trains at Lidcombe to continue your journey.\nFrom 9:40AM to 11:30AM\, trains run to a changed timetable between Leppington and the City via Granville\, and between Schofields and Olympic Park.\nYou may need to change trains at Granville to continue your journey.
 DTEND:20260802T013043Z
 DTSTART:20260801T193000Z

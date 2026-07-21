@@ -10,6 +10,30 @@ UID:917db2a5-648b-5a98-93e6-4fae6966c5c1
 URL:https://transportnsw.info/alerts/details#/ems-75169
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20260803T153000Z
+DTSTART:20260803T111000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
+UID:311fd8df-ca32-528a-81d9-c1bc9f2e3662
+URL:https://transportnsw.info/alerts/details#/ems-75543
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20260804T153000Z
+DTSTART:20260804T111000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
+UID:311fd8df-ca32-528a-81d9-c1bc9f2e3662
+URL:https://transportnsw.info/alerts/details#/ems-75543
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75545\n\nWednesday 5 August\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
+DTEND:20260805T153047Z
+DTSTART:20260805T123000Z
+SUMMARY:Some trains make extra stops at Croydon and Ashfield
+UID:67d8e0cc-1aaa-5fc6-ba8f-c731a9e02dc9
+URL:https://transportnsw.info/alerts/details#/ems-75545
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74830\n\nOn Saturday 25 and Sunday 26 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.
 DTEND:20260726T135910Z
 DTSTART:20260724T160058Z

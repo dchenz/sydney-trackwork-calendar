@@ -17,4 +17,12 @@ SUMMARY:Buses replace trains between Olympic Park and Lidcombe
 UID:3ad2e965-ef46-5331-84b5-ca6ffe775e58
 URL:https://transportnsw.info/alerts/details#/ems-74823
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75539\n\nSaturday 8 and Sunday 9 August\nBuses replace trains between Olympic Park and Lidcombe.\nSaturday from 9PM to 3AM\, buses also replace trains between Parramatta\, Lidcombe and Strathfield.
+DTEND:20260809T135928Z
+DTSTART:20260807T160000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:07d9eabb-bc8b-59aa-bf4b-46c1bf31905f
+URL:https://transportnsw.info/alerts/details#/ems-75539
+END:VEVENT
 END:VCALENDAR

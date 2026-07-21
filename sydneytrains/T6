@@ -17,4 +17,12 @@ SUMMARY:Trains run to a changed timetable and reduced frequency
 UID:25619037-a758-5f0a-a1bf-64551bccea00
 URL:https://transportnsw.info/alerts/details#/ems-75167
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75537\n\nSaturday 8 August\nFrom 8:50PM to 2AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260808T160038Z
+DTSTART:20260808T105000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:b937e11c-5185-506b-aeca-6005428b90e2
+URL:https://transportnsw.info/alerts/details#/ems-75537
+END:VEVENT
 END:VCALENDAR
