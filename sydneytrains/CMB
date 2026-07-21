@@ -66,14 +66,6 @@ UID:b875b1ef-935d-5b0a-9288-dd08287aa46d
 URL:https://transportnsw.info/alerts/details#/ems-75161
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74771\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
-DTEND:20260721T153002Z
-DTSTART:20260721T115002Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:88c52e90-67cf-5339-aad3-b4a5c1970d80
-URL:https://transportnsw.info/alerts/details#/ems-74771
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74856\n\nWednesday 22 and Thursday 23 July   \nNightly from 9:40PM to 1:30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
 DTEND:20260723T153025Z
 DTSTART:20260723T114025Z

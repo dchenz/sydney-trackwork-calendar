@@ -73,12 +73,4 @@ SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace so
 UID:7ac9891b-49b9-5f0a-aa66-51825d82f443
 URL:https://transportnsw.info/alerts/details#/ems-75524
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74755\n\nNightly from 9.50PM to 1.30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
-DTEND:20260721T153040Z
-DTSTART:20260721T115040Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:017a6327-0f6d-5b4b-902a-e3904722673a
-URL:https://transportnsw.info/alerts/details#/ems-74755
-END:VEVENT
 END:VCALENDAR
