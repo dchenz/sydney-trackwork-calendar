@@ -3,27 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74835\n\nTuesday 21 and Wednesday 22 July\nNightly from 8.30PM to 2AM\, buses replace trains from Newcastle Interchange to Wyong.\nNightly from 9PM to 3:30AM\, buses replace trains from Wyong to Newcastle Interchange. \nBuses towards Wyong may leave up to 70 minutes earlier than the normal train timetable. \nTrains run between Wyong and Central\, some to a changed timetable.
-DTEND:20260721T173028Z
-DTSTART:20260721T103028Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
-UID:afa07462-34cc-5338-a51c-27f4718dae60
-URL:https://transportnsw.info/alerts/details#/ems-74835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74835\n\nTuesday 21 and Wednesday 22 July\nNightly from 8.30PM to 2AM\, buses replace trains from Newcastle Interchange to Wyong.\nNightly from 9PM to 3:30AM\, buses replace trains from Wyong to Newcastle Interchange. \nBuses towards Wyong may leave up to 70 minutes earlier than the normal train timetable. \nTrains run between Wyong and Central\, some to a changed timetable.
 DTEND:20260722T173028Z
 DTSTART:20260722T103028Z
 SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
 UID:afa07462-34cc-5338-a51c-27f4718dae60
 URL:https://transportnsw.info/alerts/details#/ems-74835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75171\n\nSaturday 1 August\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 10:30AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
-DTEND:20260801T003007Z
-DTSTART:20260731T193000Z
-SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platforms.  If travelling to Cowan you may need to change at Hawkesbury River for a bus
-UID:5f8778f1-f224-59b8-8d44-5f35d3534baa
-URL:https://transportnsw.info/alerts/details#/ems-75171
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74837\n\nOn Saturday 25 and Sunday 26 July\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.
@@ -32,6 +16,14 @@ DTSTART:20260724T160028Z
 SUMMARY:Sydney Metro trackwork may affect how you travel
 UID:efc2639a-022b-5178-9299-d5d644d737fd
 URL:https://transportnsw.info/alerts/details#/ems-74837
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75171\n\nSaturday 1 August\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 10:30AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
+DTEND:20260801T003007Z
+DTSTART:20260731T193000Z
+SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platforms.  If travelling to Cowan you may need to change at Hawkesbury River for a bus
+UID:5f8778f1-f224-59b8-8d44-5f35d3534baa
+URL:https://transportnsw.info/alerts/details#/ems-75171
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75173\n\nSunday 2 August\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
