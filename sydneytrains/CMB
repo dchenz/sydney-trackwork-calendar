@@ -10,28 +10,12 @@ UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
 URL:https://transportnsw.info/alerts/details#/ems-74775
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
-DTEND:20260722T153001Z
-DTSTART:20260722T114001Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
-URL:https://transportnsw.info/alerts/details#/ems-74775
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74991\n\nSaturday 25 and Sunday 26 July\nBuses replace trains between Leppington and Glenfield.\nTrains run between Glenfield and Central via Granville\, and between Liverpool and Schofields or Richmond\, to a changed timetable.\nYou may need to change trains to continue your journey.
 DTEND:20260726T135930Z
 DTSTART:20260724T160000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:16232a1e-3bd4-5750-bc45-38b9017400e3
 URL:https://transportnsw.info/alerts/details#/ems-74991
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74856\n\nWednesday 22 and Thursday 23 July   \nNightly from 9:40PM to 1:30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
-DTEND:20260722T153025Z
-DTSTART:20260722T114025Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:87c04856-6299-5f72-a76e-be1cd3293486
-URL:https://transportnsw.info/alerts/details#/ems-74856
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75535\n\nSaturday 8 and Sunday 9 August\nTrains run to a changed timetable between Richmond or Schofields and Liverpool.

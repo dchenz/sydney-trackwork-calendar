@@ -10,14 +10,6 @@ UID:bf9d7755-f754-5bc4-a16a-c8b6d36ce0f9
 URL:https://transportnsw.info/alerts/details#/ems-74825
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74823\n\nOn Saturday 25 and Sunday 26 July\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20260722T160057Z
-DTSTART:20260720T160032Z
-SUMMARY:Buses replace trains between Olympic Park and Lidcombe
-UID:3ad2e965-ef46-5331-84b5-ca6ffe775e58
-URL:https://transportnsw.info/alerts/details#/ems-74823
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75539\n\nSaturday 8 and Sunday 9 August\nBuses replace trains between Olympic Park and Lidcombe.\nSaturday from 9PM to 3AM\, buses also replace trains between Parramatta\, Lidcombe and Strathfield.
 DTEND:20260809T135928Z
 DTSTART:20260807T160000Z
