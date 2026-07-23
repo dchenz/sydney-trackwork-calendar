@@ -26,28 +26,20 @@ UID:0b768c86-9982-5d12-b0d0-c486a997bb38
 URL:https://transportnsw.info/alerts/details#/ems-75143
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75141\n\nSaturday 1 August\nFrom 5AM to 9AM\, Penrith trains make an extra stop at Burwood.
-DTEND:20260731T230042Z
-DTSTART:20260731T190000Z
-SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
-UID:4cbbb709-e532-5ea0-a897-b08f3307152b
-URL:https://transportnsw.info/alerts/details#/ems-75141
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74753\n\nNightly from 9.20PM to 1.30PM on Wednesday 22 and Thursday 23 July\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
-DTEND:20260723T153008Z
-DTSTART:20260723T112008Z
-SUMMARY:T1 Western Line: Trains may run to a changed timetable and make extra stops
-UID:05fe4975-0993-52e7-af5d-497f79a3635c
-URL:https://transportnsw.info/alerts/details#/ems-74753
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75502\n\nWednesday 5 August\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
 DTEND:20260805T153054Z
 DTSTART:20260805T125000Z
 SUMMARY:T1 Western Line: Trains make extra stops at Homebush and Burwood
 UID:b8f66545-9236-5b28-9e7d-ea6991b953ea
 URL:https://transportnsw.info/alerts/details#/ems-75502
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75141\n\nSaturday 1 August\nFrom 5AM to 9AM\, Penrith trains make an extra stop at Burwood.
+DTEND:20260731T230042Z
+DTSTART:20260731T190000Z
+SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
+UID:4cbbb709-e532-5ea0-a897-b08f3307152b
+URL:https://transportnsw.info/alerts/details#/ems-75141
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75505\n\nSaturday 8 and Sunday 9 August\nRichmond trains run between Richmond and Liverpool only. Change trains at Parramatta to continue your journey.\nSaturday from 9PM to 3AM\, buses replace trains between Parramatta and Strathfield.\nTrains run to a changed timetable between:\n- Penrith and Leppington\n- Strathfield and the City\nFrom T1 Western Line stations\, change at:\n- Parramatta for buses towards Strathfield\n- Glenfield for trains to the City via the Airport.

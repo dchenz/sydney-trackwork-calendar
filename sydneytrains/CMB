@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74775\n\nNightly from 9.40PM to 1.30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
-DTEND:20260723T153001Z
-DTSTART:20260723T114001Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:3dc01574-2c02-5e82-a7da-2d6507cb6a72
-URL:https://transportnsw.info/alerts/details#/ems-74775
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74991\n\nSaturday 25 and Sunday 26 July\nBuses replace trains between Leppington and Glenfield.\nTrains run between Glenfield and Central via Granville\, and between Liverpool and Schofields or Richmond\, to a changed timetable.\nYou may need to change trains to continue your journey.
 DTEND:20260726T135930Z
 DTSTART:20260724T160000Z
@@ -35,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-75163
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75161\n\nTuesday 28 and Wednesday 29 July\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260728T153000Z
-DTSTART:20260728T135000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:b875b1ef-935d-5b0a-9288-dd08287aa46d
-URL:https://transportnsw.info/alerts/details#/ems-75161
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75161\n\nTuesday 28 and Wednesday 29 July\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
 DTEND:20260729T153000Z
 DTSTART:20260729T135000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
@@ -50,11 +34,11 @@ UID:b875b1ef-935d-5b0a-9288-dd08287aa46d
 URL:https://transportnsw.info/alerts/details#/ems-75161
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74856\n\nWednesday 22 and Thursday 23 July   \nNightly from 9:40PM to 1:30AM on Wednesday 22 and Thursday 23 July\, buses replace trains between Leppington and Fairfield.
-DTEND:20260723T153025Z
-DTSTART:20260723T114025Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:87c04856-6299-5f72-a76e-be1cd3293486
-URL:https://transportnsw.info/alerts/details#/ems-74856
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75161\n\nTuesday 28 and Wednesday 29 July\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20260728T153000Z
+DTSTART:20260728T135000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:b875b1ef-935d-5b0a-9288-dd08287aa46d
+URL:https://transportnsw.info/alerts/details#/ems-75161
 END:VEVENT
 END:VCALENDAR

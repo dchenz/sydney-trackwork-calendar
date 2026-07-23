@@ -34,14 +34,6 @@ UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
 URL:https://transportnsw.info/alerts/details#/ems-74750
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74757\n\nNightly from 9:40PM to 1:30AM on Monday 20 and Tuesday 21 July\, buses replace trains between Leppington and Glenfield.
-DTEND:20260723T153035Z
-DTSTART:20260723T114035Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:79783744-f323-5446-8b20-17c2887c37fd
-URL:https://transportnsw.info/alerts/details#/ems-74757
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75522\n\nWednesday 5 August\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.\nYou may need to change trains to continue your journey.
 DTEND:20260805T153048Z
 DTSTART:20260805T003000Z
