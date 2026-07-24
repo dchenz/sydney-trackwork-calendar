@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74821\n\nOn Saturday 25 and Sunday 26 July\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260726T135921Z
+DTSTART:20260724T160016Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:2a24dc67-b7a9-5cc1-ad9a-b06baed013df
+URL:https://transportnsw.info/alerts/details#/ems-74821
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75165\n\nSaturday 1 August  \nFrom 5AM to 9AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
 DTEND:20260731T230009Z
 DTSTART:20260731T190000Z
