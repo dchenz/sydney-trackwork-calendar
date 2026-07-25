@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
-DTEND:20260801T022000Z
-DTSTART:20260731T203000Z
+DTEND:20260802T022000Z
+DTSTART:20260801T203000Z
 SUMMARY:Some trains run to a changed timetable and stopping pattern
 UID:8a355308-e352-546e-9b0f-50c7afb697e1
 URL:https://transportnsw.info/alerts/details#/ems-75177
@@ -19,8 +19,8 @@ URL:https://transportnsw.info/alerts/details#/ems-74851
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
-DTEND:20260802T022000Z
-DTSTART:20260801T203000Z
+DTEND:20260801T022000Z
+DTSTART:20260731T203000Z
 SUMMARY:Some trains run to a changed timetable and stopping pattern
 UID:8a355308-e352-546e-9b0f-50c7afb697e1
 URL:https://transportnsw.info/alerts/details#/ems-75177
@@ -64,13 +64,5 @@ DTSTART:20260727T115000Z
 SUMMARY:Buses replace trains between Waterfall and Hurstville
 UID:9b54c231-10e4-536c-a28b-648a1f0a549f
 URL:https://transportnsw.info/alerts/details#/ems-75175
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74849\n\nOn Saturday 25 July\, from 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
-DTEND:20260725T010000Z
-DTSTART:20260724T170008Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:acee4a0d-781e-5fa9-a42a-28ba83804969
-URL:https://transportnsw.info/alerts/details#/ems-74849
 END:VEVENT
 END:VCALENDAR
