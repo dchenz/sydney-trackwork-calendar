@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74832\n\nOn Saturday 25 and Sunday 26 July\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.
-DTEND:20260726T135910Z
-DTSTART:20260724T160036Z
-SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
-UID:f30ea1d7-cc3a-570f-977d-7b94087bbb9e
-URL:https://transportnsw.info/alerts/details#/ems-74832
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75541\n\nWednesday 5 and Thursday 6 August\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central if you have luggage or accessibility needs.
 DTEND:20260805T153000Z
 DTSTART:20260805T115000Z
@@ -24,13 +16,5 @@ DTSTART:20260806T115000Z
 SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
 UID:35eccb62-8b46-53e2-9a71-33de942608dd
 URL:https://transportnsw.info/alerts/details#/ems-75541
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74750\n\nOn Saturday 25 and Sunday 26 July\, trains run in one direction only\, from Central first stop Museum.
-DTEND:20260726T135918Z
-DTSTART:20260724T160059Z
-SUMMARY:City Circle: Trains run in one direction only\, from Central first stop Museum
-UID:bab0fbee-e155-50cd-ac6f-e0542e5ae6d4
-URL:https://transportnsw.info/alerts/details#/ems-74750
 END:VEVENT
 END:VCALENDAR
