@@ -10,14 +10,6 @@ UID:8a355308-e352-546e-9b0f-50c7afb697e1
 URL:https://transportnsw.info/alerts/details#/ems-75177
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-74851\n\nOn Sunday 26 July\, from 2.20AM to 11.50AM\, buses replace trains between Bomaderry\, Port Kembla and Wollongong.
-DTEND:20260726T015000Z
-DTSTART:20260725T162059Z
-SUMMARY:Buses replace trains between Bomaderry\, Port Kembla and Wollongong
-UID:4087c5d1-5e20-5d18-9087-c4dc2317772d
-URL:https://transportnsw.info/alerts/details#/ems-74851
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75177\n\nSaturday 1 and Sunday 2 August\nDaily from 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.
 DTEND:20260801T022000Z
 DTSTART:20260731T203000Z
