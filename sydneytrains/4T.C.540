@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75817\n\nThis service is delayed awaiting the late arrival of connecting InterCity services at Lithgow.
+DTEND:20260727T131000Z
+DTSTART:20260727T094000Z
+SUMMARY:543 Delay
+UID:5a873fab-7f65-56f7-96ca-c9f7aa80dd7b
+URL:https://transportnsw.info/alerts/details#/ems-75817
+END:VEVENT
+END:VCALENDAR
