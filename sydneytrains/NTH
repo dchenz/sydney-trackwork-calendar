@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75169\n\nTuesday 28 July  \nFrom 4PM to 7:30PM\, some trains between Hornsby\, Epping and Central run to a changed timetable and reduced frequency.
-DTEND:20260728T093022Z
-DTSTART:20260728T060000Z
-SUMMARY:Some trains run to a changed timetable and reduced frequency
-UID:917db2a5-648b-5a98-93e6-4fae6966c5c1
-URL:https://transportnsw.info/alerts/details#/ems-75169
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
+DTEND:20260813T153000Z
+DTSTART:20260813T114000Z
+SUMMARY:Trains run to a changed timetable and make extra stops
+UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
+URL:https://transportnsw.info/alerts/details#/ems-75928
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75926\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
+URL:https://transportnsw.info/alerts/details#/ems-75926
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75926\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
+DTEND:20260810T153000Z
+DTSTART:20260810T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
+URL:https://transportnsw.info/alerts/details#/ems-75926
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
@@ -32,5 +48,13 @@ DTSTART:20260805T123000Z
 SUMMARY:Some trains make extra stops at Croydon and Ashfield
 UID:67d8e0cc-1aaa-5fc6-ba8f-c731a9e02dc9
 URL:https://transportnsw.info/alerts/details#/ems-75545
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
+DTEND:20260812T153000Z
+DTSTART:20260812T114000Z
+SUMMARY:Trains run to a changed timetable and make extra stops
+UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
+URL:https://transportnsw.info/alerts/details#/ems-75928
 END:VEVENT
 END:VCALENDAR

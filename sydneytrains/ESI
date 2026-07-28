@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75911\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20260810T153000Z
+DTSTART:20260810T113000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:f77d6569-37ee-54d7-a7c0-e208a034bea9
+URL:https://transportnsw.info/alerts/details#/ems-75911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75911\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20260811T153000Z
+DTSTART:20260811T113000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:f77d6569-37ee-54d7-a7c0-e208a034bea9
+URL:https://transportnsw.info/alerts/details#/ems-75911
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75157\n\nSaturday 1 and Sunday 2 August   \nDaily from 6:30AM to 12:20PM\, some trains run to a changed timetable and stopping pattern.\nSome trains start or end at Hurstville or Sutherland. You may need to change trains to continue your journey.\nTrains may leave from different platforms\, please check indicator screens before boarding.
 DTEND:20260802T022000Z
 DTSTART:20260801T203000Z
@@ -24,6 +40,14 @@ DTSTART:20260806T115000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:f87a59da-e80f-59dc-b1c2-e745516ba0a5
 URL:https://transportnsw.info/alerts/details#/ems-75533
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75913\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n-  Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n-  Town Hall for express buses to Bondi Junction\nFrom Martin Place Station\, use metro services\, local buses\, or walk to Wynyard Station for trains to T4 Illawarra Line stations.
+DTEND:20260816T135908Z
+DTSTART:20260814T160000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction
+UID:5b35a268-c0fd-59e5-afaf-4404cef89027
+URL:https://transportnsw.info/alerts/details#/ems-75913
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75159\n\nSunday 2 August   \nFrom 1PM to 4PM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.

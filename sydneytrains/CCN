@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nWednesday 12 and Thursday 13 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20260812T173000Z
+DTSTART:20260812T145400Z
+SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
+UID:79291dac-1697-5f67-ad7b-a82665d6d77c
+URL:https://transportnsw.info/alerts/details#/ems-75930
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75173\n\nSunday 2 August\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
 DTEND:20260802T010010Z
 DTSTART:20260801T200000Z
 SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platforms
 UID:0ea305c4-fa59-597f-9687-088db4062449
 URL:https://transportnsw.info/alerts/details#/ems-75173
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nWednesday 12 and Thursday 13 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20260811T173000Z
+DTSTART:20260811T145400Z
+SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
+UID:79291dac-1697-5f67-ad7b-a82665d6d77c
+URL:https://transportnsw.info/alerts/details#/ems-75930
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75171\n\nSaturday 1 August\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 10:30AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
