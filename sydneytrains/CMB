@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75915\n\nTuesday 11 and Wednesday 12 August\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260812T153000Z
-DTSTART:20260812T135000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T135000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:1c8f2703-0357-5b02-8230-4628f12d6a0e
 URL:https://transportnsw.info/alerts/details#/ems-75915
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75915\n\nTuesday 11 and Wednesday 12 August\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260811T153000Z
-DTSTART:20260811T135000Z
+DTEND:20260812T153000Z
+DTSTART:20260812T135000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:1c8f2703-0357-5b02-8230-4628f12d6a0e
 URL:https://transportnsw.info/alerts/details#/ems-75915
@@ -40,13 +40,5 @@ DTSTART:20260801T193000Z
 SUMMARY:Buses replace trains between Cabramatta and Granville. Trains run to a changed timetable and stopping pattern
 UID:3088c2bc-aa59-5913-93fb-daeec5e45cdf
 URL:https://transportnsw.info/alerts/details#/ems-75163
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75161\n\nTuesday 28 and Wednesday 29 July\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260729T153000Z
-DTSTART:20260729T135000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:b875b1ef-935d-5b0a-9288-dd08287aa46d
-URL:https://transportnsw.info/alerts/details#/ems-75161
 END:VEVENT
 END:VCALENDAR
