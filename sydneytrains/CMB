@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75917\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Richmond and Parramatta.\nTrains run to a changed timetable and stopping pattern between Parramatta or Leppington and the City via Granville.\nYou may need to change services to continue your journey.\nSaturday from 7:40AM to 2PM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Parramatta or Glenfield and the City via Granville.
 DTEND:20260816T135902Z
-DTSTART:20260814T160000Z
+DTSTART:20260814T150000Z
 SUMMARY:Buses replace trains between Richmond and Parramatta\, and some trains between Leppington and Glenfield
 UID:60057a51-7cc9-5e40-af8d-9fc5357e961a
 URL:https://transportnsw.info/alerts/details#/ems-75917

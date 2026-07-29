@@ -58,14 +58,6 @@ UID:29912493-86dc-5fe7-b05a-a35cc02b0e71
 URL:https://transportnsw.info/alerts/details#/ems-75522
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75528\n\nSaturday 8 and Sunday 9 August\nTrains run to a changed timetable and stopping pattern between Leppington and the City.\nSaturday from 9PM to 3AM\, buses replace trains between Parramatta\, Lidcombe and Strathfield.\nTrains run to a changed timetable between:\n- Leppington and Lidcombe\n- Homebush or Ashfield and the City\nFrom T3 Liverpool Line stations\, change at:\n- Lidcombe for buses towards Strathfield or Parramatta\n- Cabramatta for trains towards T1 Western Line stations
-DTEND:20260809T135947Z
-DTSTART:20260807T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Parramatta and Strathfield
-UID:bbb4ce1f-6925-5b8c-ba1b-7d7a90dd89c1
-URL:https://transportnsw.info/alerts/details#/ems-75528
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75900\n\nSunday 16 August\nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
 DTEND:20260816T003045Z
 DTSTART:20260815T202000Z
