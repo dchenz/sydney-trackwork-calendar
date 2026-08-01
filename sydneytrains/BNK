@@ -74,14 +74,6 @@ UID:717f06ad-88bc-5adf-9622-3b0fb0c682f1
 URL:https://transportnsw.info/alerts/details#/ems-75906
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75151\n\nSaturday 1 August\nFrom 5AM to 9AM\, trains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
-DTEND:20260731T230020Z
-DTSTART:20260731T190000Z
-SUMMARY:Trains run between Liverpool and Lidcombe only
-UID:fec50540-69f5-5e6b-b8b5-8a8bd959f301
-URL:https://transportnsw.info/alerts/details#/ems-75151
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20260810T153000Z
 DTSTART:20260810T114000Z

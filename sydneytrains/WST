@@ -42,14 +42,6 @@ UID:b8f66545-9236-5b28-9e7d-ea6991b953ea
 URL:https://transportnsw.info/alerts/details#/ems-75502
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75141\n\nSaturday 1 August\nFrom 5AM to 9AM\, Penrith trains make an extra stop at Burwood.
-DTEND:20260731T230042Z
-DTSTART:20260731T190000Z
-SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
-UID:4cbbb709-e532-5ea0-a897-b08f3307152b
-URL:https://transportnsw.info/alerts/details#/ems-75141
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75882\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260813T153000Z
 DTSTART:20260813T114000Z
