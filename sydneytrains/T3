@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75153\n\nSunday 2 August\nBuses replace Inner West trains between Strathfield and Ashfield. Trains continue to stop at Burwood.\nTrains run to a changed timetable and stopping pattern between:\n- Ashfield and the City\n- Leppington and Lidcombe via Regents Park\nT1 Western Line trains make extra stops at Homebush\, Flemington and Burwood.\nYou may need to change trains to continue your journey.\nFrom 5:30AM to 11:30AM\, trains run between Leppington and the City via Regents Park.
-DTEND:20260802T135958Z
-DTSTART:20260801T160000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Ashfield. You may need to change trains
-UID:8b2af4c0-1851-5d0d-928b-85384efa04a9
-URL:https://transportnsw.info/alerts/details#/ems-75153
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75902\n\nMonday 10 and Tuesday 11 August\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
 DTEND:20260810T153000Z
 DTSTART:20260810T112000Z
