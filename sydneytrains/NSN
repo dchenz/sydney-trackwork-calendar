@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-75878
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75498\n\nMonday 3 and Tuesday 4 August\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
-DTEND:20260803T153000Z
-DTSTART:20260803T112000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
-UID:45473ea6-b61d-5c3d-be00-a6617dc6bb19
-URL:https://transportnsw.info/alerts/details#/ems-75498
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75498\n\nMonday 3 and Tuesday 4 August\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
 DTEND:20260804T153000Z
 DTSTART:20260804T112000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point

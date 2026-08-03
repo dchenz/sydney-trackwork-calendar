@@ -11,16 +11,16 @@ URL:https://transportnsw.info/alerts/details#/ems-75928
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75926\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
+DTEND:20260810T153000Z
+DTSTART:20260810T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
 URL:https://transportnsw.info/alerts/details#/ems-75926
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75926\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
 URL:https://transportnsw.info/alerts/details#/ems-75926
@@ -29,14 +29,6 @@ BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20260804T153000Z
 DTSTART:20260804T111000Z
-SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
-UID:311fd8df-ca32-528a-81d9-c1bc9f2e3662
-URL:https://transportnsw.info/alerts/details#/ems-75543
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260803T153000Z
-DTSTART:20260803T111000Z
 SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
 UID:311fd8df-ca32-528a-81d9-c1bc9f2e3662
 URL:https://transportnsw.info/alerts/details#/ems-75543

@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75500\n\nMonday 3 and Tuesday 4 August \nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to \nT1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260803T153000Z
-DTSTART:20260803T115000Z
-SUMMARY:T1 Western Line: Trains start and end at Central\, platforms 1-14
-UID:01fc0502-d2b9-5ac5-aad0-c9a91689a6c1
-URL:https://transportnsw.info/alerts/details#/ems-75500
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75500\n\nMonday 3 and Tuesday 4 August \nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to \nT1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20260804T153000Z
 DTSTART:20260804T115000Z
 SUMMARY:T1 Western Line: Trains start and end at Central\, platforms 1-14
@@ -59,16 +51,16 @@ URL:https://transportnsw.info/alerts/details#/ems-75884
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
 URL:https://transportnsw.info/alerts/details#/ems-75880
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
+DTEND:20260810T153000Z
+DTSTART:20260810T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
 URL:https://transportnsw.info/alerts/details#/ems-75880
