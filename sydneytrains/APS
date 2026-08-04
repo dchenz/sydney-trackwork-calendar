@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76225\n\nSaturday 22 and Sunday 23 August\nDaily from 5:40AM to 8AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20260821T220000Z
+DTSTART:20260821T194000Z
+SUMMARY:Trains between Sydenham and the City run to a changed timetable
+UID:3ac233ed-ba20-5574-afd5-29e980dac809
+URL:https://transportnsw.info/alerts/details#/ems-76225
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76225\n\nSaturday 22 and Sunday 23 August\nDaily from 5:40AM to 8AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20260822T220000Z
+DTSTART:20260822T194000Z
+SUMMARY:Trains between Sydenham and the City run to a changed timetable
+UID:3ac233ed-ba20-5574-afd5-29e980dac809
+URL:https://transportnsw.info/alerts/details#/ems-76225
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75541\n\nWednesday 5 and Thursday 6 August\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central if you have luggage or accessibility needs.
 DTEND:20260805T153000Z
 DTSTART:20260805T115000Z
@@ -26,6 +42,22 @@ UID:28b1eaa8-ab01-5573-9d8e-eb1a523168a2
 URL:https://transportnsw.info/alerts/details#/ems-75923
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76189\n\nMonday 17 August\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
+DTEND:20260817T153054Z
+DTSTART:20260817T115000Z
+SUMMARY:City Circle: Trains run in one direction only
+UID:44746840-e1c1-5e4f-839c-e924279d2858
+URL:https://transportnsw.info/alerts/details#/ems-76189
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
+DTEND:20260818T153000Z
+DTSTART:20260818T113000Z
+SUMMARY:Buses replace trains between Glenfield and Sydenham
+UID:4704ad3e-8d5c-5060-9e68-e6ca4955cefd
+URL:https://transportnsw.info/alerts/details#/ems-76223
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75921\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20260811T153000Z
 DTSTART:20260811T113000Z
@@ -40,6 +72,14 @@ DTSTART:20260810T113000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:49976d53-2810-557e-bb26-be2bc27e903f
 URL:https://transportnsw.info/alerts/details#/ems-75921
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
+DTEND:20260817T153000Z
+DTSTART:20260817T113000Z
+SUMMARY:Buses replace trains between Glenfield and Sydenham
+UID:4704ad3e-8d5c-5060-9e68-e6ca4955cefd
+URL:https://transportnsw.info/alerts/details#/ems-76223
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.

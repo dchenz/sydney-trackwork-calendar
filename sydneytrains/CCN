@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76233\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Newcastle Interchange and Gordon.\nT1 North Shore Line trains run between Gordon and the City\, some to a changed timetable.\nBuses also replace trains on the Hunter and T9 Northern lines.
+DTEND:20260823T135912Z
+DTSTART:20260821T160000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Gordon
+UID:bdd07577-32f6-5d08-bbf7-ed9851877ff6
+URL:https://transportnsw.info/alerts/details#/ems-76233
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nThursday 13 and Friday 14 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
 DTEND:20260813T173000Z
 DTSTART:20260813T145400Z
@@ -16,6 +24,14 @@ DTSTART:20260812T145400Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:79291dac-1697-5f67-ad7b-a82665d6d77c
 URL:https://transportnsw.info/alerts/details#/ems-75930
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76231\n\nFriday 21 August\nFrom 11:55PM\, buses replace trains from Gosford to Newcastle Interchange\, in that direction only.\nTrains run between Central and Gosford\, some to a changed timetable.\nThe 23:31 Newcastle Interchange to Gosford service runs to the normal timetable.
+DTEND:20260821T160039Z
+DTSTART:20260821T135500Z
+SUMMARY:Buses replace trains from Gosford to Newcastle Interchange\, in that direction only
+UID:d884931d-8216-5cfc-afab-cc241fbba3d0
+URL:https://transportnsw.info/alerts/details#/ems-76231
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75950\n\nSaturday 15 August\nFrom 7:30PM to 4:50AM\, buses replace trains from Newcastle Interchange to Wyong.\nFrom 7:50PM to 4:30AM\, buses replace trains from Wyong to Newcastle Interchange.\nBuses towards Wyong may leave up to 70 minutes earlier than the normal train timetable.\nTrains run between Wyong and Central\, some to a changed timetable.\nThe last train leaves Newcastle Interchange at 18:57\, arriving Central at 21:30.\nThe last train to Newcastle Interchange leaves Central at 17:18\, arriving Newcastle Interchange at 19:48.

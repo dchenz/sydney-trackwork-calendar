@@ -42,6 +42,30 @@ UID:71c31f65-92e0-5442-ae66-5b91dfbf2087
 URL:https://transportnsw.info/alerts/details#/ems-75505
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76195\n\nSaturday 22 and Sunday 23 August\nRichmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool only.\nChange trains at Parramatta to continue your journey.
+DTEND:20260823T135911Z
+DTSTART:20260821T160000Z
+SUMMARY:T1 Western Line: Richmond trains run between Richmond and Liverpool
+UID:2aa93246-e5d3-52bd-85c5-ec5729114bc9
+URL:https://transportnsw.info/alerts/details#/ems-76195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76193\n\nWednesday 19 and Thursday 20 August\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260819T153000Z
+DTSTART:20260819T112000Z
+SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
+UID:d589e59a-7273-57ac-9576-f9ab8f7211d1
+URL:https://transportnsw.info/alerts/details#/ems-76193
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76193\n\nWednesday 19 and Thursday 20 August\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260820T153000Z
+DTSTART:20260820T112000Z
+SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
+UID:d589e59a-7273-57ac-9576-f9ab8f7211d1
+URL:https://transportnsw.info/alerts/details#/ems-76193
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75884\n\nFriday 14 August\nFrom 11:40PM to 2AM\, buses replace some trains between Penrith\, Blacktown and Parramatta.\nTrains run between Richmond and Blacktown.\nFrom 1am\, buses replace trains between Richmond and Blacktown.
 DTEND:20260814T160004Z
 DTSTART:20260814T134000Z

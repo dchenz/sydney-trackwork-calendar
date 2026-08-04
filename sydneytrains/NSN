@@ -10,6 +10,14 @@ UID:2af13d27-4d7b-5b07-9419-a046e06cd239
 URL:https://transportnsw.info/alerts/details#/ems-75878
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
+DTEND:20260823T135906Z
+DTSTART:20260821T160000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
+UID:6e87cfbd-5304-548e-8077-42fcc0adec02
+URL:https://transportnsw.info/alerts/details#/ems-76191
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75498\n\nMonday 3 and Tuesday 4 August\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
 DTEND:20260804T153000Z
 DTSTART:20260804T112000Z
