@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260813T153000Z
-DTSTART:20260813T114000Z
+DTEND:20260812T153000Z
+DTSTART:20260812T114000Z
 SUMMARY:Trains run to a changed timetable and make extra stops
 UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
 URL:https://transportnsw.info/alerts/details#/ems-75928
@@ -26,14 +26,6 @@ UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
 URL:https://transportnsw.info/alerts/details#/ems-75926
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75543\n\nMonday 3 and Tuesday 4 August \nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260804T153000Z
-DTSTART:20260804T111000Z
-SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
-UID:311fd8df-ca32-528a-81d9-c1bc9f2e3662
-URL:https://transportnsw.info/alerts/details#/ems-75543
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75545\n\nWednesday 5 August\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
 DTEND:20260805T153047Z
 DTSTART:20260805T123000Z
@@ -51,8 +43,8 @@ URL:https://transportnsw.info/alerts/details#/ems-76227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260812T153000Z
-DTSTART:20260812T114000Z
+DTEND:20260813T153000Z
+DTSTART:20260813T114000Z
 SUMMARY:Trains run to a changed timetable and make extra stops
 UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
 URL:https://transportnsw.info/alerts/details#/ems-75928
