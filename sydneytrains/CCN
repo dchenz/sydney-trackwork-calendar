@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nWednesday 12 and Thursday 13 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260812T173000Z
-DTSTART:20260812T145400Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nThursday 13 and Friday 14 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20260813T173000Z
+DTSTART:20260813T145400Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:79291dac-1697-5f67-ad7b-a82665d6d77c
 URL:https://transportnsw.info/alerts/details#/ems-75930
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nWednesday 12 and Thursday 13 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260811T173000Z
-DTSTART:20260811T145400Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nThursday 13 and Friday 14 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20260812T173000Z
+DTSTART:20260812T145400Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:79291dac-1697-5f67-ad7b-a82665d6d77c
 URL:https://transportnsw.info/alerts/details#/ems-75930
