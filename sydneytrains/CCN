@@ -26,7 +26,7 @@ UID:79291dac-1697-5f67-ad7b-a82665d6d77c
 URL:https://transportnsw.info/alerts/details#/ems-75930
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76231\n\nFriday 21 August\nFrom 11:55PM\, buses replace trains from Gosford to Newcastle Interchange\, in that direction only.\nTrains run between Central and Gosford\, some to a changed timetable.\nThe 23:31 Newcastle Interchange to Gosford service runs to the normal timetable.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76231\n\nFriday 21 August\nFrom 11:55PM\, buses replace trains from Gosford to Newcastle Interchange\, in that direction only.\nTrains run from Central to Gosford\, some to a changed timetable.\nThe 23:31 Newcastle Interchange to Gosford service runs to the normal timetable.
 DTEND:20260821T160039Z
 DTSTART:20260821T135500Z
 SUMMARY:Buses replace trains from Gosford to Newcastle Interchange\, in that direction only
