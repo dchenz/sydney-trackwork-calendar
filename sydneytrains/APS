@@ -19,14 +19,6 @@ URL:https://transportnsw.info/alerts/details#/ems-76225
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75541\n\nWednesday 5 and Thursday 6 August\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central if you have luggage or accessibility needs.
-DTEND:20260805T153000Z
-DTSTART:20260805T115000Z
-SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
-UID:35eccb62-8b46-53e2-9a71-33de942608dd
-URL:https://transportnsw.info/alerts/details#/ems-75541
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75541\n\nWednesday 5 and Thursday 6 August\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central if you have luggage or accessibility needs.
 DTEND:20260806T153000Z
 DTSTART:20260806T115000Z
 SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
@@ -83,16 +75,16 @@ URL:https://transportnsw.info/alerts/details#/ems-76223
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
+DTEND:20260810T153000Z
+DTSTART:20260810T114000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:2cf7af00-1b25-5b6c-845e-521d4dfcf7ad
 URL:https://transportnsw.info/alerts/details#/ems-75876
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:2cf7af00-1b25-5b6c-845e-521d4dfcf7ad
 URL:https://transportnsw.info/alerts/details#/ems-75876

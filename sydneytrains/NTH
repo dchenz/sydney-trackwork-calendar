@@ -26,14 +26,6 @@ UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
 URL:https://transportnsw.info/alerts/details#/ems-75926
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75545\n\nWednesday 5 August\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
-DTEND:20260805T153047Z
-DTSTART:20260805T123000Z
-SUMMARY:Some trains make extra stops at Croydon and Ashfield
-UID:67d8e0cc-1aaa-5fc6-ba8f-c731a9e02dc9
-URL:https://transportnsw.info/alerts/details#/ems-75545
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76227\n\nSaturday 22 and Sunday 23 August \nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nFrequent metro services run between Epping and the City.
 DTEND:20260823T135928Z
 DTSTART:20260821T160000Z

@@ -18,14 +18,6 @@ UID:4fc2b9a2-972c-5148-ad24-e01a4e287cbd
 URL:https://transportnsw.info/alerts/details#/ems-75882
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75502\n\nWednesday 5 August\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20260805T153054Z
-DTSTART:20260805T125000Z
-SUMMARY:T1 Western Line: Trains make extra stops at Homebush and Burwood
-UID:b8f66545-9236-5b28-9e7d-ea6991b953ea
-URL:https://transportnsw.info/alerts/details#/ems-75502
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75505\n\nSaturday 8 and Sunday 9 August\nRichmond trains run between Richmond and Liverpool only. Change trains at Parramatta to continue your journey.\nSaturday from 9PM to 3AM\, buses replace trains between Parramatta and Strathfield.\nTrains run to a changed timetable between:\n- Penrith and Leppington\n- Strathfield and the City\nFrom T1 Western Line stations\, change at:\n- Parramatta for buses towards Strathfield\n- Glenfield for trains to the City via the Airport.
 DTEND:20260809T135911Z
 DTSTART:20260807T160000Z

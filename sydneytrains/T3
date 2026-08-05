@@ -19,16 +19,16 @@ URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75902\n\nMonday 10 and Tuesday 11 August\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20260810T153000Z
-DTSTART:20260810T112000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T112000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:19cc3581-5a74-52d0-9ef7-0bec8c6a9ff2
 URL:https://transportnsw.info/alerts/details#/ems-75902
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75902\n\nMonday 10 and Tuesday 11 August\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20260811T153000Z
-DTSTART:20260811T112000Z
+DTEND:20260810T153000Z
+DTSTART:20260810T112000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:19cc3581-5a74-52d0-9ef7-0bec8c6a9ff2
 URL:https://transportnsw.info/alerts/details#/ems-75902
@@ -64,14 +64,6 @@ DTSTART:20260813T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:829ffe9c-1833-50c9-9199-874ad2670503
 URL:https://transportnsw.info/alerts/details#/ems-75904
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75526\n\nWednesday 5 August\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nInner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at Croydon and Ashfield.
-DTEND:20260805T153018Z
-DTSTART:20260805T122000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:144905bc-c1fd-5d2a-a96c-9fc554bef3cf
-URL:https://transportnsw.info/alerts/details#/ems-75526
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75908\n\nSunday 16 August\nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only. You may need to change services to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.

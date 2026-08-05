@@ -10,14 +10,6 @@ UID:8dd46c16-945b-5d1f-bca1-ccc074aa2ba1
 URL:https://transportnsw.info/alerts/details#/ems-75549
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75549\n\nWednesday 5 and Thursday 6 August\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
-DTEND:20260805T153000Z
-DTSTART:20260805T115000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:8dd46c16-945b-5d1f-bca1-ccc074aa2ba1
-URL:https://transportnsw.info/alerts/details#/ems-75549
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76241\n\nSaturday 22 August\nFrom 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and the City Circle or Bondi Junction.\nThe first train leaves Bondi Junction at 10:13\, Wollongong at 12:08\, arriving Kiama at 12:52.
 DTEND:20260822T010009Z
 DTSTART:20260821T170000Z
