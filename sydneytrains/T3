@@ -42,14 +42,6 @@ UID:439436be-d38f-50b7-a7da-5174d1898689
 URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75528\n\nSaturday 8 and Sunday 9 August\nTrains run to a changed timetable and stopping pattern between Leppington and the City.\nSaturday from 9PM to 3AM\, buses replace trains between Parramatta\, Lidcombe and Strathfield.\nTrains run to a changed timetable between:\n- Leppington and Lidcombe\n- Homebush or Ashfield and the City\nFrom T3 Liverpool Line stations\, change at:\n- Lidcombe for buses towards Strathfield or Parramatta\n- Cabramatta for trains towards T1 Western Line stations
-DTEND:20260809T135947Z
-DTSTART:20260807T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Parramatta and Strathfield
-UID:bbb4ce1f-6925-5b8c-ba1b-7d7a90dd89c1
-URL:https://transportnsw.info/alerts/details#/ems-75528
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75904\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
 DTEND:20260812T153000Z
 DTSTART:20260812T114000Z

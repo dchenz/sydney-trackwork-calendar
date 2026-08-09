@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75882\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260812T153000Z
-DTSTART:20260812T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
-UID:4fc2b9a2-972c-5148-ad24-e01a4e287cbd
-URL:https://transportnsw.info/alerts/details#/ems-75882
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75882\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260813T153000Z
 DTSTART:20260813T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
@@ -18,12 +10,12 @@ UID:4fc2b9a2-972c-5148-ad24-e01a4e287cbd
 URL:https://transportnsw.info/alerts/details#/ems-75882
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75505\n\nSaturday 8 and Sunday 9 August\nRichmond trains run between Richmond and Liverpool only. Change trains at Parramatta to continue your journey.\nSaturday from 9PM to 3AM\, buses replace trains between Parramatta and Strathfield.\nTrains run to a changed timetable between:\n- Penrith and Leppington\n- Strathfield and the City\nFrom T1 Western Line stations\, change at:\n- Parramatta for buses towards Strathfield\n- Glenfield for trains to the City via the Airport.
-DTEND:20260809T135911Z
-DTSTART:20260807T160000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains between Parramatta and Strathfield
-UID:71c31f65-92e0-5442-ae66-5b91dfbf2087
-URL:https://transportnsw.info/alerts/details#/ems-75505
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75882\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
+DTEND:20260812T153000Z
+DTSTART:20260812T114000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:4fc2b9a2-972c-5148-ad24-e01a4e287cbd
+URL:https://transportnsw.info/alerts/details#/ems-75882
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76195\n\nSaturday 22 and Sunday 23 August\nRichmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool only.\nChange trains at Parramatta to continue your journey.
