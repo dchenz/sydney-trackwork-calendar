@@ -50,27 +50,19 @@ UID:982f3347-125b-5536-b7fa-e72456fe3028
 URL:https://transportnsw.info/alerts/details#/ems-75884
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
-URL:https://transportnsw.info/alerts/details#/ems-75880
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
-URL:https://transportnsw.info/alerts/details#/ems-75880
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75887\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Emu Plains\, Richmond and Parramatta.\nTrains run to a changed timetable and stopping pattern between Parramatta and the City.\nBuses also run between some T1 Western Line stations and Tallawong. Frequent metro services run between Tallawong and the City.
 DTEND:20260816T135953Z
 DTSTART:20260814T160000Z
 SUMMARY:T1 Western Line: Buses replace trains between Emu Plains\, Richmond and Parramatta
 UID:b58e7bc8-5343-5656-8e41-158d8ed14046
 URL:https://transportnsw.info/alerts/details#/ems-75887
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
+URL:https://transportnsw.info/alerts/details#/ems-75880
 END:VEVENT
 END:VCALENDAR

@@ -26,14 +26,6 @@ UID:19cc3581-5a74-52d0-9ef7-0bec8c6a9ff2
 URL:https://transportnsw.info/alerts/details#/ems-75902
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75902\n\nMonday 10 and Tuesday 11 August\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20260810T153000Z
-DTSTART:20260810T112000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:19cc3581-5a74-52d0-9ef7-0bec8c6a9ff2
-URL:https://transportnsw.info/alerts/details#/ems-75902
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76203\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
 DTEND:20260820T153000Z
 DTSTART:20260820T114000Z
@@ -80,14 +72,6 @@ DTSTART:20260814T203000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:717f06ad-88bc-5adf-9622-3b0fb0c682f1
 URL:https://transportnsw.info/alerts/details#/ems-75906
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:2cf7af00-1b25-5b6c-845e-521d4dfcf7ad
-URL:https://transportnsw.info/alerts/details#/ems-75876
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.

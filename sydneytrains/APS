@@ -50,28 +50,12 @@ UID:49976d53-2810-557e-bb26-be2bc27e903f
 URL:https://transportnsw.info/alerts/details#/ems-75921
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75921\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
-DTEND:20260810T153000Z
-DTSTART:20260810T113000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:49976d53-2810-557e-bb26-be2bc27e903f
-URL:https://transportnsw.info/alerts/details#/ems-75921
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
 DTEND:20260817T153000Z
 DTSTART:20260817T113000Z
 SUMMARY:Buses replace trains between Glenfield and Sydenham
 UID:4704ad3e-8d5c-5060-9e68-e6ca4955cefd
 URL:https://transportnsw.info/alerts/details#/ems-76223
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:2cf7af00-1b25-5b6c-845e-521d4dfcf7ad
-URL:https://transportnsw.info/alerts/details#/ems-75876
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75876\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.

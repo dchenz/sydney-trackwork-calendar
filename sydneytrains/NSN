@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75878\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
-SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Use metro between Chatswood and the City
-UID:2af13d27-4d7b-5b07-9419-a046e06cd239
-URL:https://transportnsw.info/alerts/details#/ems-75878
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
 DTEND:20260823T135906Z
 DTSTART:20260821T160000Z
@@ -19,8 +11,8 @@ URL:https://transportnsw.info/alerts/details#/ems-76191
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75878\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
-DTEND:20260810T153000Z
-DTSTART:20260810T114000Z
+DTEND:20260811T153000Z
+DTSTART:20260811T114000Z
 SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Use metro between Chatswood and the City
 UID:2af13d27-4d7b-5b07-9419-a046e06cd239
 URL:https://transportnsw.info/alerts/details#/ems-75878
