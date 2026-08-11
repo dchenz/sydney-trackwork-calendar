@@ -42,6 +42,14 @@ UID:4704ad3e-8d5c-5060-9e68-e6ca4955cefd
 URL:https://transportnsw.info/alerts/details#/ems-76223
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76532\n\nSaturday 29 and Sunday 30 August\nTrains between Sydenham and the City Circle run to a changed timetable.\nTrains via the Airport run to the normal timetable.
+DTEND:20260830T135912Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
+UID:0cff9c7f-c135-5ed1-8978-eef44af44569
+URL:https://transportnsw.info/alerts/details#/ems-76532
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75921\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20260811T153000Z
 DTSTART:20260811T113000Z

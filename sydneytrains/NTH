@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76227\n\nSaturday 22 and Sunday 23 August \nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nFrequent metro services run between Epping and the City.
-DTEND:20260823T135928Z
-DTSTART:20260821T160000Z
-SUMMARY:Buses replace trains between Hornsby and Strathfield
-UID:a61239eb-327c-51d9-a5b8-819f6add1dd9
-URL:https://transportnsw.info/alerts/details#/ems-76227
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
+DTEND:20260812T153000Z
+DTSTART:20260812T114000Z
+SUMMARY:Trains run to a changed timetable and make extra stops
+UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
+URL:https://transportnsw.info/alerts/details#/ems-75928
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76536\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.\nSaturday from 8PM to 2AM\, buses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping and the City.\nTrains run to a changed timetable between Hornsby and Epping\, and between Ashfield and the City Circle.\nThe last train to Hornsby leaves Central at 19:35\, arriving Hornsby at 20:44.\nThe last train to Central leaves Hornsby at 19:24\, arriving Central at 20:27.
+DTEND:20260830T135952Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Epping and Ashfield or Central
+UID:3cdf86b7-7a90-5ffc-a62a-57e11e4e616e
+URL:https://transportnsw.info/alerts/details#/ems-76536
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75926\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel. Use metro services between Epping and the City or change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
@@ -18,17 +26,25 @@ UID:e7c8c65c-8f5c-50e3-8f2a-9b2856df215a
 URL:https://transportnsw.info/alerts/details#/ems-75926
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260813T153000Z
-DTSTART:20260813T114000Z
-SUMMARY:Trains run to a changed timetable and make extra stops
-UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
-URL:https://transportnsw.info/alerts/details#/ems-75928
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76227\n\nSaturday 22 and Sunday 23 August \nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nFrequent metro services run between Epping and the City.
+DTEND:20260823T135928Z
+DTSTART:20260821T160000Z
+SUMMARY:Buses replace trains between Hornsby and Strathfield
+UID:a61239eb-327c-51d9-a5b8-819f6add1dd9
+URL:https://transportnsw.info/alerts/details#/ems-76227
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76534\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nBuses replace trains between Wynyard and North Sydney.
+DTEND:20260824T153022Z
+DTSTART:20260824T122000Z
+SUMMARY:Trains run between Hornsby and Wynyard via Strathfield
+UID:6c78bf83-3ab5-55bc-99cc-2da1ec484c84
+URL:https://transportnsw.info/alerts/details#/ems-76534
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260812T153000Z
-DTSTART:20260812T114000Z
+DTEND:20260813T153000Z
+DTSTART:20260813T114000Z
 SUMMARY:Trains run to a changed timetable and make extra stops
 UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
 URL:https://transportnsw.info/alerts/details#/ems-75928

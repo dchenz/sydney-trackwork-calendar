@@ -18,6 +18,14 @@ UID:971246da-0c2a-5a41-83fd-5e329aa0d1ef
 URL:https://transportnsw.info/alerts/details#/ems-76217
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76528\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260830T135927Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:ab4371de-6608-5437-819b-85e23c6c93d8
+URL:https://transportnsw.info/alerts/details#/ems-76528
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75919\n\nSaturday 15 and Sunday 16 August\nDaily from 6:30am to 10:30am\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
 DTEND:20260815T003000Z
 DTSTART:20260814T203000Z

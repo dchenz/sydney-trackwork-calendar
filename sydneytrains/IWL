@@ -74,6 +74,14 @@ UID:44746840-e1c1-5e4f-839c-e924279d2858
 URL:https://transportnsw.info/alerts/details#/ems-76189
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76519\n\nSaturday 29 and Sunday 30 August\nInner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central.\nMost trains run to a changed timetable between Leppington and Olympic Park via Granville\, and between Leppington and Lidcombe via Regents Park only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 8PM to 2AM\, buses replace trains between Olympic Park and Ashfield or Central. Trackwork buses do not leave from Lidcombe.\nTrains run to a changed timetable between Ashfield and the City Circle.\nSunday from 6:30AM to 10:30AM\, trains run to a changed timetable between Leppington and Schofields\, and between Leppington and Lidcombe via Regents Park only.\nChange trains at Parramatta or Lidcombe to continue your journey.
+DTEND:20260830T135951Z
+DTSTART:20260828T160000Z
+SUMMARY:Inner West trains will not run. T1 or T9 trains make extra stops. Buses replace some trains between Olympic Park and Ashfield or Central
+UID:5676afda-130f-5d83-8645-efdb8517edea
+URL:https://transportnsw.info/alerts/details#/ems-76519
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75896\n\nSaturday 15 August\nFrom 7:40AM to 2PM\, buses replace trains between Leppington and Glenfield.\nTrains run between Glenfield and the City via Granville or the Airport\, some to a changed timetable.
 DTEND:20260815T040026Z
 DTSTART:20260814T214000Z

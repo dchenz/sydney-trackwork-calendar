@@ -41,4 +41,12 @@ SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
 UID:6a314dc1-fda9-5060-ad10-c834967f4cc0
 URL:https://transportnsw.info/alerts/details#/ems-75950
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76542\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central. Some trains may leave Central earlier than the normal train timetable.\nSaturday from 8PM to 2:20AM\, trains run between Central Coast & Newcastle Line stations and Hornsby only.\nT1 North Shore Line trains run between Hornsby and Wynyard\, and T9 Northern Line trains run between Hornsby and Epping only.\nBuses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping or Chatswood and the City.
+DTEND:20260830T135941Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:df31e28d-705d-5635-8162-59a859aa218b
+URL:https://transportnsw.info/alerts/details#/ems-76542
+END:VEVENT
 END:VCALENDAR

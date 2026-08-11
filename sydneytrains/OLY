@@ -9,4 +9,12 @@ SUMMARY:Buses replace trains between Olympic Park and Lidcombe
 UID:82b8180b-c6bc-5a80-b693-9ec1344e64e7
 URL:https://transportnsw.info/alerts/details#/ems-76221
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76530\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable between Olympic Park and Lidcombe or Leppington.\nSaturday from 8PM to 2AM\, trains run to a changed timetable between Olympic Park and Lidcombe\, continuing to Leppington or Penrith.\nBuses replace trains between Olympic Park and Ashfield or Central.
+DTEND:20260830T135948Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:931a55b4-69d9-5dc7-9ccb-c9e825ead6ba
+URL:https://transportnsw.info/alerts/details#/ems-76530
+END:VEVENT
 END:VCALENDAR

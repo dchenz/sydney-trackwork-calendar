@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76207\n\nSaturday 22 August \nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Sutherland and the City Circle or Bondi Junction.\nFrom 5:40AM to 8AM\, trains run between Cronulla\, Sutherland and the City Circle\, and between Central and Bondi Junction only.\nYou may need to change trains at Central or Town Hall to continue your journey.\nTrains make extra stops at St Peters and Erskineville.
-DTEND:20260822T013005Z
-DTSTART:20260821T170000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Waterfall and Sutherland
-UID:2147ae22-1fd5-58ae-9317-4077da510689
-URL:https://transportnsw.info/alerts/details#/ems-76207
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75911\n\nMonday 10 and Tuesday 11 August\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use metro\, light rail\, local buses or walk.
 DTEND:20260811T153000Z
 DTSTART:20260811T113000Z
@@ -18,12 +10,36 @@ UID:f77d6569-37ee-54d7-a7c0-e208a034bea9
 URL:https://transportnsw.info/alerts/details#/ems-75911
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76207\n\nSaturday 22 August \nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Sutherland and the City Circle or Bondi Junction.\nFrom 5:40AM to 8AM\, trains run between Cronulla\, Sutherland and the City Circle\, and between Central and Bondi Junction only.\nYou may need to change trains at Central or Town Hall to continue your journey.\nTrains make extra stops at St Peters and Erskineville.
+DTEND:20260822T013005Z
+DTSTART:20260821T170000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Waterfall and Sutherland
+UID:2147ae22-1fd5-58ae-9317-4077da510689
+URL:https://transportnsw.info/alerts/details#/ems-76207
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75913\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n-  Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n-  Town Hall for express buses to Bondi Junction\nFrom Martin Place Station\, use metro services\, local buses\, or walk to Wynyard Station for trains to T4 Illawarra Line stations.
 DTEND:20260816T135908Z
 DTSTART:20260814T160000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction
 UID:5b35a268-c0fd-59e5-afaf-4404cef89027
 URL:https://transportnsw.info/alerts/details#/ems-75913
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20260824T163000Z
+DTSTART:20260824T115000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:30024d61-bf20-5220-ab25-67a3917a027c
+URL:https://transportnsw.info/alerts/details#/ems-76523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20260825T163000Z
+DTSTART:20260825T115000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:30024d61-bf20-5220-ab25-67a3917a027c
+URL:https://transportnsw.info/alerts/details#/ems-76523
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76209\n\nSunday 23 August\nFrom 5:40AM to 8AM\, trains run between Cronulla or Waterfall and the City Circle\, and between Central and Bondi Junction only.\nYou may need to change trains at Central or Town Hall to continue your journey.\nTrains make extra stops at St Peters and Erskineville.

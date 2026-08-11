@@ -10,12 +10,12 @@ UID:1d183846-1e43-5614-82c0-058605ed6ddb
 URL:https://transportnsw.info/alerts/details#/ems-76495
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
-DTEND:20260823T135906Z
-DTSTART:20260821T160000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
-UID:6e87cfbd-5304-548e-8077-42fcc0adec02
-URL:https://transportnsw.info/alerts/details#/ems-76191
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76517\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stopping pattern.\nPenrith trains make extra stops between Lidcombe and Ashfield.\nRichmond trains run between Richmond and Liverpool. Change trains at Parramatta to continue your journey.\nSaturday from 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\\\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.\n\n\nSaturday from 8pm to 2am\, buses replace trains between Olympic Park and Ashfield or Central. Trackwork buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Penrith and Olympic Park\n- Richmond and Liverpool\n- Ashfield and the City Circle\nYou may need to change services to continue your journey.
+DTEND:20260830T135901Z
+DTSTART:20260828T160000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:c8864a9d-20bc-51df-a47f-3280897e94ea
+URL:https://transportnsw.info/alerts/details#/ems-76517
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76493\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, buses replace trains between North Sydney and Wynyard.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, to a changed timetable.\nT9 Northern Line trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nThe last train to Hornsby leaves Wynyard at 22:16\, arriving Hornsby at 23:00.
@@ -24,6 +24,14 @@ DTSTART:20260824T122000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Wynyard
 UID:7dd52952-503a-5ee1-8f09-bed301fcbd71
 URL:https://transportnsw.info/alerts/details#/ems-76493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
+DTEND:20260823T135906Z
+DTSTART:20260821T160000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
+UID:6e87cfbd-5304-548e-8077-42fcc0adec02
+URL:https://transportnsw.info/alerts/details#/ems-76191
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75878\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
