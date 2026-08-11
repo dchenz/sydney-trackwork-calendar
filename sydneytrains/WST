@@ -74,14 +74,6 @@ UID:b58e7bc8-5343-5656-8e41-158d8ed14046
 URL:https://transportnsw.info/alerts/details#/ems-75887
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75880\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20260811T153000Z
-DTSTART:20260811T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
-URL:https://transportnsw.info/alerts/details#/ems-75880
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76497\n\nMonday 24 and Tuesday 25 August\nNightly from 7:30PM to 2AM\, buses replace trains between Emu Plains and Penrith.\nTrains run between Penrith and Central\, some to a changed timetable.\nThe 18:56 Mount Victoria to Central service will continue to run\, leaving Emu Plains at 20:22.
 DTEND:20260824T160000Z
 DTSTART:20260824T093000Z
