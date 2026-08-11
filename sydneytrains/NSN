@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76495\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nSaturday from 8:40PM to 2AM\, trains run between Berowra and Wynyard\, and between City Circle stations and Ashfield only. Change trains at Wynyard to continue your journey.\nMetro services run between Chatswood and the City.\nBuses replace trains between Central and Olympic Park or Epping.
+DTEND:20260830T135943Z
+DTSTART:20260828T160000Z
+SUMMARY:T1 North Shore Line: Trains run to a changed timetable and stopping pattern
+UID:1d183846-1e43-5614-82c0-058605ed6ddb
+URL:https://transportnsw.info/alerts/details#/ems-76495
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
 DTEND:20260823T135906Z
 DTSTART:20260821T160000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
 UID:6e87cfbd-5304-548e-8077-42fcc0adec02
 URL:https://transportnsw.info/alerts/details#/ems-76191
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76493\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, buses replace trains between North Sydney and Wynyard.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, to a changed timetable.\nT9 Northern Line trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nThe last train to Hornsby leaves Wynyard at 22:16\, arriving Hornsby at 23:00.
+DTEND:20260824T153020Z
+DTSTART:20260824T122000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Wynyard
+UID:7dd52952-503a-5ee1-8f09-bed301fcbd71
+URL:https://transportnsw.info/alerts/details#/ems-76493
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75878\n\nMonday 10 and Tuesday 11 August\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.

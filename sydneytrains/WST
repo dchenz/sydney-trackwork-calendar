@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76495\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nSaturday from 8:40PM to 2AM\, trains run between Berowra and Wynyard\, and between City Circle stations and Ashfield only. Change trains at Wynyard to continue your journey.\nMetro services run between Chatswood and the City.\nBuses replace trains between Central and Olympic Park or Epping.
+DTEND:20260830T135943Z
+DTSTART:20260828T160000Z
+SUMMARY:T1 North Shore Line: Trains run to a changed timetable and stopping pattern
+UID:1d183846-1e43-5614-82c0-058605ed6ddb
+URL:https://transportnsw.info/alerts/details#/ems-76495
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75882\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260813T153000Z
 DTSTART:20260813T114000Z
@@ -64,5 +72,21 @@ DTSTART:20260811T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:068f68e0-0adc-5f5c-989f-04a3f26b3a7d
 URL:https://transportnsw.info/alerts/details#/ems-75880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76497\n\nMonday 24 and Tuesday 25 August\nNightly from 7:30PM to 2AM\, buses replace trains between Emu Plains and Penrith.\nTrains run between Penrith and Central\, some to a changed timetable.\nThe 18:56 Mount Victoria to Central service will continue to run\, leaving Emu Plains at 20:22.
+DTEND:20260824T160000Z
+DTSTART:20260824T093000Z
+SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and Penrith
+UID:40611caa-98a4-5bf8-a59f-2729e30e2f82
+URL:https://transportnsw.info/alerts/details#/ems-76497
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76497\n\nMonday 24 and Tuesday 25 August\nNightly from 7:30PM to 2AM\, buses replace trains between Emu Plains and Penrith.\nTrains run between Penrith and Central\, some to a changed timetable.\nThe 18:56 Mount Victoria to Central service will continue to run\, leaving Emu Plains at 20:22.
+DTEND:20260825T160000Z
+DTSTART:20260825T093000Z
+SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and Penrith
+UID:40611caa-98a4-5bf8-a59f-2729e30e2f82
+URL:https://transportnsw.info/alerts/details#/ems-76497
 END:VEVENT
 END:VCALENDAR
