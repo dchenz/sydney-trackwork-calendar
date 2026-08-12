@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75928\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20260812T153000Z
-DTSTART:20260812T114000Z
-SUMMARY:Trains run to a changed timetable and make extra stops
-UID:073a5834-47b9-5421-a8b4-7806b5c3a4e0
-URL:https://transportnsw.info/alerts/details#/ems-75928
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76536\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.\nSaturday from 8PM to 2AM\, buses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping and the City.\nTrains run to a changed timetable between Hornsby and Epping\, and between Ashfield and the City Circle.\nThe last train to Hornsby leaves Central at 19:35\, arriving Hornsby at 20:44.\nThe last train to Central leaves Hornsby at 19:24\, arriving Central at 20:27.
 DTEND:20260830T135952Z
 DTSTART:20260828T160000Z
