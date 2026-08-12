@@ -18,7 +18,7 @@ UID:e34f6c30-7600-5b80-9ca4-aeca4eaef1a8
 URL:https://transportnsw.info/alerts/details#/ems-76538
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75839\n\nMonday 17 to Friday 21 August\nBuses replace trains between Lithgow and Mount Victoria.\nTrains run between Mount Victoria and Central\, some to a changed timetable.\nBathurst trains run to a changed timetable between Bathurst and Mount Victoria or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75839\n\nMonday 17 to Friday 21 August\nBuses replace trains between Lithgow and Mount Victoria.\nBuses towards Mount Victoria may leave up to 15 minutes earlier than the normal train timetable.\nTrains run between Mount Victoria and Central\, some to a changed timetable.\nBathurst trains run to a changed timetable between Bathurst and Mount Victoria or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
 DTEND:20260821T160050Z
 DTSTART:20260816T160000Z
 SUMMARY:Buses replace trains between Lithgow and Mount Victoria
