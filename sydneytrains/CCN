@@ -18,14 +18,6 @@ UID:79291dac-1697-5f67-ad7b-a82665d6d77c
 URL:https://transportnsw.info/alerts/details#/ems-75930
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75930\n\nThursday 13 and Friday 14 August\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby.\nReplacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260812T173000Z
-DTSTART:20260812T145400Z
-SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
-UID:79291dac-1697-5f67-ad7b-a82665d6d77c
-URL:https://transportnsw.info/alerts/details#/ems-75930
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76231\n\nFriday 21 August\nFrom 11:55PM\, buses replace trains from Gosford to Newcastle Interchange\, in that direction only.\nTrains run from Central to Gosford\, some to a changed timetable.\nThe 23:31 Newcastle Interchange to Gosford service runs to the normal timetable.
 DTEND:20260821T160039Z
 DTSTART:20260821T135500Z
