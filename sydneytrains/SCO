@@ -10,14 +10,6 @@ UID:88ec755a-41e5-50f2-9bbc-309e398c9adb
 URL:https://transportnsw.info/alerts/details#/ems-76546
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76241\n\nSaturday 22 August\nFrom 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and the City Circle or Bondi Junction.\nThe first train leaves Bondi Junction at 10:13\, Wollongong at 12:08\, arriving Kiama at 12:52.
-DTEND:20260822T010009Z
-DTSTART:20260821T170000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:ba346665-372f-55d8-9c21-3a685b1f61d9
-URL:https://transportnsw.info/alerts/details#/ems-76241
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76546\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
 DTEND:20260825T163000Z
 DTSTART:20260825T115000Z
@@ -26,12 +18,12 @@ UID:88ec755a-41e5-50f2-9bbc-309e398c9adb
 URL:https://transportnsw.info/alerts/details#/ems-76546
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75958\n\nThursday 13 August \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20260813T041023Z
-DTSTART:20260812T232000Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:c48179f5-cdc4-5bdc-afd5-82392655335f
-URL:https://transportnsw.info/alerts/details#/ems-75958
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76241\n\nSaturday 22 August\nFrom 3AM to 11AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and the City Circle or Bondi Junction.\nThe first train leaves Bondi Junction at 10:13\, Wollongong at 12:08\, arriving Kiama at 12:52.
+DTEND:20260822T010009Z
+DTSTART:20260821T170000Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
+UID:ba346665-372f-55d8-9c21-3a685b1f61d9
+URL:https://transportnsw.info/alerts/details#/ems-76241
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75960\n\nSaturday 15 and Sunday 16 August \nMost trains run to a changed timetable between South Coast Line stations and Hurstville only.\nT4 Illawarra Line trains run to a changed timetable between Hurstville and the City Circle.\nBuses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nChange at:\n- Hurstville for T4 Illawarra Line trains towards the City\n- Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n- Town Hall for express buses to Bondi Junction\nFrom Martin Place Station\, use metro services\, local buses\, or walk to Wynyard Station for trains to T4 Illawarra Line stations.
