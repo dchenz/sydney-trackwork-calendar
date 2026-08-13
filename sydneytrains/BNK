@@ -26,14 +26,6 @@ UID:439436be-d38f-50b7-a7da-5174d1898689
 URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75904\n\nWednesday 12 and Thursday 13 August\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20260813T153000Z
-DTSTART:20260813T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:829ffe9c-1833-50c9-9199-874ad2670503
-URL:https://transportnsw.info/alerts/details#/ems-75904
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75908\n\nSunday 16 August\nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only. You may need to change services to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
 DTEND:20260816T003015Z
 DTSTART:20260815T202000Z
