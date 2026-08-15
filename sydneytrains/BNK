@@ -49,12 +49,4 @@ SUMMARY:Inner West trains will not run. T1 or T9 trains make extra stops. Buses 
 UID:552d6ed7-8af8-5c79-a7c0-4f656683d7d5
 URL:https://transportnsw.info/alerts/details#/ems-76521
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75906\n\nSaturday 15 August\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
-DTEND:20260815T003010Z
-DTSTART:20260814T203000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:717f06ad-88bc-5adf-9622-3b0fb0c682f1
-URL:https://transportnsw.info/alerts/details#/ems-75906
-END:VEVENT
 END:VCALENDAR
