@@ -65,12 +65,4 @@ SUMMARY:Inner West trains will not run. T1 or T9 trains make extra stops. Buses 
 UID:5676afda-130f-5d83-8645-efdb8517edea
 URL:https://transportnsw.info/alerts/details#/ems-76519
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75896\n\nSaturday 15 August\nFrom 7:40AM to 2PM\, buses replace trains between Leppington and Glenfield.\nTrains run between Glenfield and the City via Granville or the Airport\, some to a changed timetable.
-DTEND:20260815T040026Z
-DTSTART:20260814T214000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:766785d6-24f7-578a-b643-8d7c34e2c518
-URL:https://transportnsw.info/alerts/details#/ems-75896
-END:VEVENT
 END:VCALENDAR
