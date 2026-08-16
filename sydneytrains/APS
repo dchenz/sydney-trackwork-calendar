@@ -42,14 +42,6 @@ UID:0cff9c7f-c135-5ed1-8978-eef44af44569
 URL:https://transportnsw.info/alerts/details#/ems-76532
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75923\n\nSaturday 15 and Sunday 16 August\nTrains between Sydenham and the City Circle run to a changed timetable.\nTrains via the Airport run to the normal timetable.
-DTEND:20260816T135955Z
-DTSTART:20260814T160000Z
-SUMMARY:Trains between Sydenham and the City run to a changed timetable
-UID:28b1eaa8-ab01-5573-9d8e-eb1a523168a2
-URL:https://transportnsw.info/alerts/details#/ems-75923
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
 DTEND:20260817T153000Z
 DTSTART:20260817T113000Z

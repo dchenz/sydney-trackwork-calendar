@@ -25,12 +25,4 @@ SUMMARY:Buses replace trains between Lithgow and Mount Victoria
 UID:7fd08432-0f1d-5e41-9323-0e18f23031f8
 URL:https://transportnsw.info/alerts/details#/ems-75839
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75837\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Bathurst and Parramatta.\nT1 Western Line trains run to a changed timetable between Parramatta and the City.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
-DTEND:20260816T135954Z
-DTSTART:20260814T160000Z
-SUMMARY:Buses replace trains between Bathurst and Parramatta
-UID:0a9d5f88-20be-5bde-a198-2b33d0ab17c9
-URL:https://transportnsw.info/alerts/details#/ems-75837
-END:VEVENT
 END:VCALENDAR

@@ -10,25 +10,9 @@ UID:2147ae22-1fd5-58ae-9317-4077da510689
 URL:https://transportnsw.info/alerts/details#/ems-76207
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75913\n\nSaturday 15 and Sunday 16 August\nBuses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n-  Central for buses to Kings Cross and Edgecliff\, or metro services to Martin Place\n-  Town Hall for express buses to Bondi Junction\nFrom Martin Place Station\, use metro services\, local buses\, or walk to Wynyard Station for trains to T4 Illawarra Line stations.
-DTEND:20260816T135908Z
-DTSTART:20260814T160000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction
-UID:5b35a268-c0fd-59e5-afaf-4404cef89027
-URL:https://transportnsw.info/alerts/details#/ems-75913
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20260824T163000Z
 DTSTART:20260824T115000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:30024d61-bf20-5220-ab25-67a3917a027c
-URL:https://transportnsw.info/alerts/details#/ems-76523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20260825T163000Z
-DTSTART:20260825T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:30024d61-bf20-5220-ab25-67a3917a027c
 URL:https://transportnsw.info/alerts/details#/ems-76523
@@ -40,5 +24,13 @@ DTSTART:20260822T194000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:95d38614-dbfd-5b50-a1d0-218ce8da24e2
 URL:https://transportnsw.info/alerts/details#/ems-76209
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20260825T163000Z
+DTSTART:20260825T115000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:30024d61-bf20-5220-ab25-67a3917a027c
+URL:https://transportnsw.info/alerts/details#/ems-76523
 END:VEVENT
 END:VCALENDAR
