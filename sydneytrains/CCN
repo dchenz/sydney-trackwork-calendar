@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75950\n\nSaturday 15 August\nFrom 7:30PM to 4:50AM\, buses replace trains from Newcastle Interchange to Wyong.\nFrom 7:50PM to 4:30AM\, buses replace trains from Wyong to Newcastle Interchange.\nBuses towards Wyong may leave up to 70 minutes earlier than the normal train timetable.\nTrains run between Wyong and Central\, some to a changed timetable.\nThe last train leaves Newcastle Interchange at 18:57\, arriving Central at 21:30.\nThe last train to Newcastle Interchange leaves Central at 17:18\, arriving Newcastle Interchange at 19:48.
-DTEND:20260815T183014Z
-DTSTART:20260814T213000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Wyong
-UID:6a314dc1-fda9-5060-ad10-c834967f4cc0
-URL:https://transportnsw.info/alerts/details#/ems-75950
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76233\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Newcastle Interchange and Gordon.\nT1 North Shore Line trains run between Gordon and the City\, some to a changed timetable.\nBuses also replace trains on the Hunter and T9 Northern lines.
 DTEND:20260823T135912Z
 DTSTART:20260821T160000Z

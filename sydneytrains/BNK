@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-76205
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76203\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20260819T153000Z
-DTSTART:20260819T114000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:439436be-d38f-50b7-a7da-5174d1898689
-URL:https://transportnsw.info/alerts/details#/ems-76203
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76203\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
 DTEND:20260820T153000Z
 DTSTART:20260820T114000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
@@ -26,12 +18,12 @@ UID:439436be-d38f-50b7-a7da-5174d1898689
 URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75908\n\nSunday 16 August\nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only. You may need to change services to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
-DTEND:20260816T003015Z
-DTSTART:20260815T202000Z
-SUMMARY:Buses replace Inner West trains between Ashfield and Central. Trains run to a changed timetable and stopping pattern
-UID:65452e00-9d11-5f23-aa41-3de5bfd2b75e
-URL:https://transportnsw.info/alerts/details#/ems-75908
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76203\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
+DTEND:20260819T153000Z
+DTSTART:20260819T114000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:439436be-d38f-50b7-a7da-5174d1898689
+URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76189\n\nMonday 17 August\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.

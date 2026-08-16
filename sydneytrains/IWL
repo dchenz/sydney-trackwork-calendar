@@ -42,14 +42,6 @@ UID:2748d2ab-751b-5cc3-9c3c-135f8f3a4967
 URL:https://transportnsw.info/alerts/details#/ems-76199
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-75900\n\nSunday 16 August\nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
-DTEND:20260816T003045Z
-DTSTART:20260815T202000Z
-SUMMARY:Buses replace Inner West trains between Ashfield and Central
-UID:48f42466-8480-5780-ab23-a106393f2b3c
-URL:https://transportnsw.info/alerts/details#/ems-75900
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76189\n\nMonday 17 August\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
 DTEND:20260817T153054Z
 DTSTART:20260817T115000Z
