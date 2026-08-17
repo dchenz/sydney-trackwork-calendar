@@ -42,14 +42,6 @@ UID:72ea2e06-1802-5fcb-9d29-fd89d65e29b8
 URL:https://transportnsw.info/alerts/details#/ems-76211
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76211\n\nMonday 17 and Tuesday 18 August\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
-DTEND:20260817T153000Z
-DTSTART:20260817T115000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:72ea2e06-1802-5fcb-9d29-fd89d65e29b8
-URL:https://transportnsw.info/alerts/details#/ems-76211
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-581187\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stopping pattern.\nSaturday from 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
 DTEND:20260830T135947Z
 DTSTART:20260828T160000Z

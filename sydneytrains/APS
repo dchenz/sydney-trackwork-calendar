@@ -10,14 +10,6 @@ UID:3ac233ed-ba20-5574-afd5-29e980dac809
 URL:https://transportnsw.info/alerts/details#/ems-76225
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76189\n\nMonday 17 August\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
-DTEND:20260817T153054Z
-DTSTART:20260817T115000Z
-SUMMARY:City Circle: Trains run in one direction only
-UID:44746840-e1c1-5e4f-839c-e924279d2858
-URL:https://transportnsw.info/alerts/details#/ems-76189
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
 DTEND:20260818T153000Z
 DTSTART:20260818T113000Z
@@ -32,13 +24,5 @@ DTSTART:20260828T160000Z
 SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
 UID:0cff9c7f-c135-5ed1-8978-eef44af44569
 URL:https://transportnsw.info/alerts/details#/ems-76532
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76223\n\nMonday 17 and Tuesday 18 August\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nTrains run to a changed timetable between:\n- Macarthur and the City via Granville\n- Turrella and the City via the Airport\n- Sydenham and the City\n\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
-DTEND:20260817T153000Z
-DTSTART:20260817T113000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:4704ad3e-8d5c-5060-9e68-e6ca4955cefd
-URL:https://transportnsw.info/alerts/details#/ems-76223
 END:VEVENT
 END:VCALENDAR
