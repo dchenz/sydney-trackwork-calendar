@@ -19,14 +19,6 @@ URL:https://transportnsw.info/alerts/details#/ems-76525
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76215\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 11:55PM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.\nNightly from 11:55PM to 1:30AM\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Olympic Park\, Granville and Richmond.
-DTEND:20260820T153000Z
-DTSTART:20260820T114000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield or Granville
-UID:d4dc4ede-e953-5b16-b09d-78bdc139e338
-URL:https://transportnsw.info/alerts/details#/ems-76215
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76215\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 11:55PM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.\nNightly from 11:55PM to 1:30AM\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Olympic Park\, Granville and Richmond.
 DTEND:20260819T153000Z
 DTSTART:20260819T114000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield or Granville
@@ -34,12 +26,12 @@ UID:d4dc4ede-e953-5b16-b09d-78bdc139e338
 URL:https://transportnsw.info/alerts/details#/ems-76215
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76211\n\nMonday 17 and Tuesday 18 August\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
-DTEND:20260818T153000Z
-DTSTART:20260818T115000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:72ea2e06-1802-5fcb-9d29-fd89d65e29b8
-URL:https://transportnsw.info/alerts/details#/ems-76211
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76215\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 11:55PM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.\nNightly from 11:55PM to 1:30AM\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Olympic Park\, Granville and Richmond.
+DTEND:20260820T153000Z
+DTSTART:20260820T114000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield or Granville
+UID:d4dc4ede-e953-5b16-b09d-78bdc139e338
+URL:https://transportnsw.info/alerts/details#/ems-76215
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-581187\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stopping pattern.\nSaturday from 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.

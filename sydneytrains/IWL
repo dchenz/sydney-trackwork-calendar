@@ -10,14 +10,6 @@ UID:abe45834-bcde-587f-b197-c5de1717f19b
 URL:https://transportnsw.info/alerts/details#/ems-76897
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76197\n\nMonday 17 and Tuesday 18 August\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20260818T153000Z
-DTSTART:20260818T115000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:900c6ead-62e4-5179-b8fd-2f5a5bbd2a3c
-URL:https://transportnsw.info/alerts/details#/ems-76197
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76201\n\nSaturday 22 and Sunday 23 August\nTrains run to a changed timetable and stopping pattern between Leppington and the City via Granville or Regents Park.\nInner West trains run between Homebush and the City\, some to a changed timetable.
 DTEND:20260823T135913Z
 DTSTART:20260821T160000Z
