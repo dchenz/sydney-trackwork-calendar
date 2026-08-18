@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76528\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20260830T135927Z
-DTSTART:20260828T160000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:ab4371de-6608-5437-819b-85e23c6c93d8
-URL:https://transportnsw.info/alerts/details#/ems-76528
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76217\n\nWednesday 19 and Thursday 20 August\nNightly from 9:10PM to 1:30AM\, buses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
 DTEND:20260819T153000Z
 DTSTART:20260819T111000Z
@@ -18,19 +10,35 @@ UID:971246da-0c2a-5a41-83fd-5e329aa0d1ef
 URL:https://transportnsw.info/alerts/details#/ems-76217
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76219\n\nSaturday 22 and Sunday 23 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20260823T135911Z
-DTSTART:20260821T160000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:1f278096-7069-516e-8fb6-768a75c89456
-URL:https://transportnsw.info/alerts/details#/ems-76219
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76217\n\nWednesday 19 and Thursday 20 August\nNightly from 9:10PM to 1:30AM\, buses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
 DTEND:20260820T153000Z
 DTSTART:20260820T111000Z
 SUMMARY:Buses replace trains between Bankstown and Lidcombe
 UID:971246da-0c2a-5a41-83fd-5e329aa0d1ef
 URL:https://transportnsw.info/alerts/details#/ems-76217
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76528\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260830T135927Z
+DTSTART:20260828T160000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:ab4371de-6608-5437-819b-85e23c6c93d8
+URL:https://transportnsw.info/alerts/details#/ems-76528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76909\n\nSaturday 5 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260905T003021Z
+DTSTART:20260904T203000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:328647b3-4f50-57da-9b01-bd0f0e1a649c
+URL:https://transportnsw.info/alerts/details#/ems-76909
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76219\n\nSaturday 22 and Sunday 23 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260823T135911Z
+DTSTART:20260821T160000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:1f278096-7069-516e-8fb6-768a75c89456
+URL:https://transportnsw.info/alerts/details#/ems-76219
 END:VEVENT
 END:VCALENDAR

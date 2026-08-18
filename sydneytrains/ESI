@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76903\n\nWednesday 2 and Thursday 3 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20260902T153000Z
+DTSTART:20260902T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:86e1de99-3879-522a-ba99-7ca0ae348d72
+URL:https://transportnsw.info/alerts/details#/ems-76903
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76903\n\nWednesday 2 and Thursday 3 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20260903T153000Z
+DTSTART:20260903T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:86e1de99-3879-522a-ba99-7ca0ae348d72
+URL:https://transportnsw.info/alerts/details#/ems-76903
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76207\n\nSaturday 22 August \nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Sutherland and Bondi Junction.
 DTEND:20260822T013005Z
 DTSTART:20260821T170000Z
@@ -10,9 +26,25 @@ UID:2147ae22-1fd5-58ae-9317-4077da510689
 URL:https://transportnsw.info/alerts/details#/ems-76207
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76907\n\nSaturday 5 and Sunday 6 September\nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.\nSunday\, metro services do not run between Sydenham and Tallawong.
+DTEND:20260906T135911Z
+DTSTART:20260904T160000Z
+SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
+UID:f9f64484-d775-53b0-8cba-fb15b1b9539b
+URL:https://transportnsw.info/alerts/details#/ems-76907
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20260824T163000Z
 DTSTART:20260824T115000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:30024d61-bf20-5220-ab25-67a3917a027c
+URL:https://transportnsw.info/alerts/details#/ems-76523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20260825T163000Z
+DTSTART:20260825T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:30024d61-bf20-5220-ab25-67a3917a027c
 URL:https://transportnsw.info/alerts/details#/ems-76523
@@ -26,11 +58,11 @@ UID:95d38614-dbfd-5b50-a1d0-218ce8da24e2
 URL:https://transportnsw.info/alerts/details#/ems-76209
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20260825T163000Z
-DTSTART:20260825T115000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:30024d61-bf20-5220-ab25-67a3917a027c
-URL:https://transportnsw.info/alerts/details#/ems-76523
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76905\n\nFriday 4 September\nFrom 10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nFrom 11:55PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Mortdale or Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20260904T153056Z
+DTSTART:20260904T120000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville. Trains do not stop at Wolli Creek
+UID:aa75a1b0-c6ae-58c5-b140-4c7f584c652d
+URL:https://transportnsw.info/alerts/details#/ems-76905
 END:VEVENT
 END:VCALENDAR

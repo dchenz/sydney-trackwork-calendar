@@ -18,6 +18,46 @@ UID:c8864a9d-20bc-51df-a47f-3280897e94ea
 URL:https://transportnsw.info/alerts/details#/ems-76517
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20260831T153000Z
+DTSTART:20260831T115000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
+UID:9aaae738-3220-506f-9569-30695a5f6692
+URL:https://transportnsw.info/alerts/details#/ems-76891
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20260901T153000Z
+DTSTART:20260901T115000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
+UID:9aaae738-3220-506f-9569-30695a5f6692
+URL:https://transportnsw.info/alerts/details#/ems-76891
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76887\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nT9 Northern Line trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
+DTEND:20260831T153000Z
+DTSTART:20260831T112000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
+UID:53d15145-e672-5056-a5f6-bbc1e42feaeb
+URL:https://transportnsw.info/alerts/details#/ems-76887
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76887\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nT9 Northern Line trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
+DTEND:20260901T153000Z
+DTSTART:20260901T112000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
+UID:53d15145-e672-5056-a5f6-bbc1e42feaeb
+URL:https://transportnsw.info/alerts/details#/ems-76887
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76893\n\nWednesday 2 September\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
+DTEND:20260902T153022Z
+DTSTART:20260902T125000Z
+SUMMARY:T1 Western Line: Some trains make extra stops at Homebush and Burwood
+UID:3f95a6c7-212b-5a2c-9759-2b38c34c0598
+URL:https://transportnsw.info/alerts/details#/ems-76893
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76493\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, buses replace trains between North Sydney and Wynyard.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, to a changed timetable.\nT9 Northern Line trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nThe last train to Hornsby leaves Wynyard at 22:16\, arriving Hornsby at 23:00.
 DTEND:20260824T153020Z
 DTSTART:20260824T122000Z
@@ -32,5 +72,21 @@ DTSTART:20260821T160000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
 UID:6e87cfbd-5304-548e-8077-42fcc0adec02
 URL:https://transportnsw.info/alerts/details#/ems-76191
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
+DTEND:20260905T230030Z
+DTSTART:20260905T210000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:52c688a4-e990-551c-b233-1234187c0d83
+URL:https://transportnsw.info/alerts/details#/ems-76895
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76889\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only.\nUse trains between Chatswood and the City.\nBuses also replace T4 Illawarra and T8 Airport & South Line trains between Central and Sydenham.
+DTEND:20260906T135950Z
+DTSTART:20260905T160000Z
+SUMMARY:T1 North Shore Line: Sydney Metro trackwork may affect how you travel. Metro services do not run
+UID:f2b95511-8702-52cc-8a9c-274cc2e0a06f
+URL:https://transportnsw.info/alerts/details#/ems-76889
 END:VEVENT
 END:VCALENDAR
