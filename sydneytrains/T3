@@ -26,14 +26,6 @@ UID:439436be-d38f-50b7-a7da-5174d1898689
 URL:https://transportnsw.info/alerts/details#/ems-76203
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76203\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20260819T153000Z
-DTSTART:20260819T114000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:439436be-d38f-50b7-a7da-5174d1898689
-URL:https://transportnsw.info/alerts/details#/ems-76203
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76521\n\nSaturday 29 and Sunday 30 August\nInner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central.\nTrains run between Leppington and Lidcombe via Regents Park only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 8PM to 2AM\, buses replace trains between Olympic Park and Ashfield or Central. Trackwork buses do not leave from Lidcombe. You may need to change services to continue your journey.\nTrains run to a changed timetable between Ashfield and the City Circle.
 DTEND:20260830T135923Z
 DTSTART:20260828T160000Z
