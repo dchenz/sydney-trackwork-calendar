@@ -10,14 +10,6 @@ UID:ab4371de-6608-5437-819b-85e23c6c93d8
 URL:https://transportnsw.info/alerts/details#/ems-76528
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76217\n\nWednesday 19 and Thursday 20 August\nNightly from 9:10PM to 1:30AM\, buses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
-DTEND:20260820T153000Z
-DTSTART:20260820T111000Z
-SUMMARY:Buses replace trains between Bankstown and Lidcombe
-UID:971246da-0c2a-5a41-83fd-5e329aa0d1ef
-URL:https://transportnsw.info/alerts/details#/ems-76217
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76219\n\nSaturday 22 and Sunday 23 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
 DTEND:20260823T135911Z
 DTSTART:20260821T160000Z

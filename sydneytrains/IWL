@@ -25,12 +25,4 @@ SUMMARY:Inner West trains will not run. T1 or T9 trains make extra stops. Buses 
 UID:5676afda-130f-5d83-8645-efdb8517edea
 URL:https://transportnsw.info/alerts/details#/ems-76519
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76199\n\nWednesday 19 and Thursday 20 August\nNightly from 9:40PM to 11:55PM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nNightly from 11:55PM to 1:30AM\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Granville and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
-DTEND:20260820T153000Z
-DTSTART:20260820T114000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield or Granville
-UID:2748d2ab-751b-5cc3-9c3c-135f8f3a4967
-URL:https://transportnsw.info/alerts/details#/ems-76199
-END:VEVENT
 END:VCALENDAR

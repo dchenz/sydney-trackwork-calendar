@@ -50,14 +50,6 @@ UID:2aa93246-e5d3-52bd-85c5-ec5729114bc9
 URL:https://transportnsw.info/alerts/details#/ems-76195
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76193\n\nWednesday 19 and Thursday 20 August\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
-DTEND:20260820T153000Z
-DTSTART:20260820T112000Z
-SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
-UID:d589e59a-7273-57ac-9576-f9ab8f7211d1
-URL:https://transportnsw.info/alerts/details#/ems-76193
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
 DTEND:20260905T230030Z
 DTSTART:20260905T210000Z
