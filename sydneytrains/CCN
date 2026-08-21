@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76925\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
+DTEND:20260906T135916Z
+DTSTART:20260905T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run
+UID:a27e945e-eff3-565c-8d74-9ca193e3f6e8
+URL:https://transportnsw.info/alerts/details#/ems-76925
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76923\n\nSunday 6 September\nFrom 3PM to 7PM\, some trains may run up to 10 minutes later than the normal timetable\, due to trackwork between Gosford and Hawkesbury River.
 DTEND:20260906T090010Z
 DTSTART:20260906T050000Z
@@ -16,22 +24,6 @@ DTSTART:20260821T160000Z
 SUMMARY:Buses replace trains between Newcastle Interchange and Gordon
 UID:bdd07577-32f6-5d08-bbf7-ed9851877ff6
 URL:https://transportnsw.info/alerts/details#/ems-76233
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76925\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
-DTEND:20260906T135916Z
-DTSTART:20260905T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run
-UID:a27e945e-eff3-565c-8d74-9ca193e3f6e8
-URL:https://transportnsw.info/alerts/details#/ems-76925
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76231\n\nFriday 21 August\nFrom 11:55PM\, buses replace trains from Gosford to Newcastle Interchange\, in that direction only.\nTrains run from Central to Gosford\, some to a changed timetable.\nThe 23:31 Newcastle Interchange to Gosford service runs to the normal timetable.
-DTEND:20260821T160039Z
-DTSTART:20260821T135500Z
-SUMMARY:Buses replace trains from Gosford to Newcastle Interchange\, in that direction only
-UID:d884931d-8216-5cfc-afab-cc241fbba3d0
-URL:https://transportnsw.info/alerts/details#/ems-76231
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76542\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central. Some trains may leave Central earlier than the normal train timetable.\nSaturday from 8PM to 2:20AM\, trains run between Central Coast & Newcastle Line stations and Hornsby only.\nT1 North Shore Line trains run between Hornsby and Wynyard\, and T9 Northern Line trains run between Hornsby and Epping only.\nBuses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping or Chatswood and the City.
