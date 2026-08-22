@@ -18,14 +18,6 @@ UID:86e1de99-3879-522a-ba99-7ca0ae348d72
 URL:https://transportnsw.info/alerts/details#/ems-76903
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76207\n\nSaturday 22 August \nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Sutherland and Bondi Junction.
-DTEND:20260822T013005Z
-DTSTART:20260821T170000Z
-SUMMARY:Buses replace trains between Waterfall and Sutherland
-UID:2147ae22-1fd5-58ae-9317-4077da510689
-URL:https://transportnsw.info/alerts/details#/ems-76207
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76907\n\nSaturday 5 and Sunday 6 September\nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.\nSunday\, metro services do not run between Sydenham and Tallawong.
 DTEND:20260906T135911Z
 DTSTART:20260904T160000Z
