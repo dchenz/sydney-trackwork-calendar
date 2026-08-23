@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76221\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Olympic Park and Lidcombe.
-DTEND:20260823T135952Z
-DTSTART:20260821T160000Z
-SUMMARY:Buses replace trains between Olympic Park and Lidcombe
-UID:82b8180b-c6bc-5a80-b693-9ec1344e64e7
-URL:https://transportnsw.info/alerts/details#/ems-76221
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76530\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable between Olympic Park and Lidcombe or Leppington.\nSaturday from 8PM to 2AM\, trains run to a changed timetable between Olympic Park and Lidcombe\, continuing to Leppington or Penrith.\nBuses replace trains between Olympic Park and Ashfield or Central.
 DTEND:20260830T135948Z
 DTSTART:20260828T160000Z

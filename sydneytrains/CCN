@@ -18,14 +18,6 @@ UID:09c8bc58-7c90-55ab-8922-bf03ff760652
 URL:https://transportnsw.info/alerts/details#/ems-76923
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76233\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Newcastle Interchange and Gordon.\nT1 North Shore Line trains run between Gordon and the City\, some to a changed timetable.\nBuses also replace trains on the Hunter and T9 Northern lines.
-DTEND:20260823T135912Z
-DTSTART:20260821T160000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Gordon
-UID:bdd07577-32f6-5d08-bbf7-ed9851877ff6
-URL:https://transportnsw.info/alerts/details#/ems-76233
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76542\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central. Some trains may leave Central earlier than the normal train timetable.\nSaturday from 8PM to 2:20AM\, trains run between Central Coast & Newcastle Line stations and Hornsby only.\nT1 North Shore Line trains run between Hornsby and Wynyard\, and T9 Northern Line trains run between Hornsby and Epping only.\nBuses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping or Chatswood and the City.
 DTEND:20260830T135941Z
 DTSTART:20260828T160000Z

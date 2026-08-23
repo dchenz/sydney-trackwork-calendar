@@ -42,14 +42,6 @@ UID:bf9b668d-7b10-58ec-9e40-682d0b753c4e
 URL:https://transportnsw.info/alerts/details#/ems-76921
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76227\n\nSaturday 22 and Sunday 23 August \nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nFrequent metro services run between Epping and the City.
-DTEND:20260823T135928Z
-DTSTART:20260821T160000Z
-SUMMARY:Buses replace trains between Hornsby and Strathfield
-UID:a61239eb-327c-51d9-a5b8-819f6add1dd9
-URL:https://transportnsw.info/alerts/details#/ems-76227
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76534\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nBuses replace trains between Wynyard and North Sydney.
 DTEND:20260824T153022Z
 DTSTART:20260824T122000Z

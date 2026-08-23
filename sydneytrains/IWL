@@ -10,14 +10,6 @@ UID:abe45834-bcde-587f-b197-c5de1717f19b
 URL:https://transportnsw.info/alerts/details#/ems-76897
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76201\n\nSaturday 22 and Sunday 23 August\nTrains run to a changed timetable and stopping pattern between Leppington and the City via Granville or Regents Park.\nInner West trains run between Homebush and the City\, some to a changed timetable.
-DTEND:20260823T135913Z
-DTSTART:20260821T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:7e25b4fb-5704-54b2-8441-062fb3dbe25b
-URL:https://transportnsw.info/alerts/details#/ems-76201
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76519\n\nSaturday 29 and Sunday 30 August\nInner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central.\nMost trains run to a changed timetable between Leppington and Olympic Park via Granville\, and between Leppington and Lidcombe via Regents Park only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 8PM to 2AM\, buses replace trains between Olympic Park and Ashfield or Central. Trackwork buses do not leave from Lidcombe.\nTrains run to a changed timetable between Ashfield and the City Circle.\nSunday from 6:30AM to 10:30AM\, trains run to a changed timetable between Leppington and Schofields\, and between Leppington and Lidcombe via Regents Park only.\nChange trains at Parramatta or Lidcombe to continue your journey.
 DTEND:20260830T135951Z
 DTSTART:20260828T160000Z

@@ -35,16 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-76891
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76887\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nT9 Northern Line trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
-DTEND:20260831T153000Z
-DTSTART:20260831T112000Z
+DTEND:20260901T153000Z
+DTSTART:20260901T112000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
 UID:53d15145-e672-5056-a5f6-bbc1e42feaeb
 URL:https://transportnsw.info/alerts/details#/ems-76887
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76887\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nT9 Northern Line trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
-DTEND:20260901T153000Z
-DTSTART:20260901T112000Z
+DTEND:20260831T153000Z
+DTSTART:20260831T112000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
 UID:53d15145-e672-5056-a5f6-bbc1e42feaeb
 URL:https://transportnsw.info/alerts/details#/ems-76887
@@ -64,14 +64,6 @@ DTSTART:20260824T122000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Wynyard
 UID:7dd52952-503a-5ee1-8f09-bed301fcbd71
 URL:https://transportnsw.info/alerts/details#/ems-76493
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76191\n\nSaturday 22 and Sunday 23 August\nBuses replace trains between Berowra and Gordon.\nTrains run between Gordon and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.
-DTEND:20260823T135906Z
-DTSTART:20260821T160000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Gordon
-UID:6e87cfbd-5304-548e-8077-42fcc0adec02
-URL:https://transportnsw.info/alerts/details#/ems-76191
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
