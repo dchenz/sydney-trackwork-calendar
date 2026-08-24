@@ -58,14 +58,6 @@ UID:3f95a6c7-212b-5a2c-9759-2b38c34c0598
 URL:https://transportnsw.info/alerts/details#/ems-76893
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76493\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, buses replace trains between North Sydney and Wynyard.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, to a changed timetable.\nT9 Northern Line trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nThe last train to Hornsby leaves Wynyard at 22:16\, arriving Hornsby at 23:00.
-DTEND:20260824T153020Z
-DTSTART:20260824T122000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Wynyard
-UID:7dd52952-503a-5ee1-8f09-bed301fcbd71
-URL:https://transportnsw.info/alerts/details#/ems-76493
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
 DTEND:20260905T230030Z
 DTSTART:20260905T210000Z

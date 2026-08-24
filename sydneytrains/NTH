@@ -41,12 +41,4 @@ SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not 
 UID:bf9b668d-7b10-58ec-9e40-682d0b753c4e
 URL:https://transportnsw.info/alerts/details#/ems-76921
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76534\n\nMonday 24 August\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Hornsby and Wynyard via Strathfield.\nBuses replace trains between Wynyard and North Sydney.
-DTEND:20260824T153022Z
-DTSTART:20260824T122000Z
-SUMMARY:Trains run between Hornsby and Wynyard via Strathfield
-UID:6c78bf83-3ab5-55bc-99cc-2da1ec484c84
-URL:https://transportnsw.info/alerts/details#/ems-76534
-END:VEVENT
 END:VCALENDAR
