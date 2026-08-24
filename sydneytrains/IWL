@@ -10,11 +10,75 @@ UID:abe45834-bcde-587f-b197-c5de1717f19b
 URL:https://transportnsw.info/alerts/details#/ems-76897
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77316\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
+DTEND:20260909T153000Z
+DTSTART:20260909T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:6b0fed7f-17eb-5133-a092-9a25539668cf
+URL:https://transportnsw.info/alerts/details#/ems-77316
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77316\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
+DTEND:20260910T153000Z
+DTSTART:20260910T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:6b0fed7f-17eb-5133-a092-9a25539668cf
+URL:https://transportnsw.info/alerts/details#/ems-77316
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20260907T153000Z
+DTSTART:20260907T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:b698578e-4e76-5435-a07f-52b3675c99df
+URL:https://transportnsw.info/alerts/details#/ems-77299
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77314\n\nTuesday 8 September\nFrom 10:30AM to 1:30PM\, buses replace trains between Leppington and Liverpool.\nTrains run to a changed timetable between Liverpool and the City via Granville.\nT8 Airport & South Line trains run between Glenfield and the City via the Airport.
+DTEND:20260908T033009Z
+DTSTART:20260908T003000Z
+SUMMARY:Buses replace trains between Leppington and Liverpool
+UID:249cb17a-0c74-5fca-ac39-f440581fd489
+URL:https://transportnsw.info/alerts/details#/ems-77314
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77312\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.
+DTEND:20260907T153000Z
+DTSTART:20260907T112000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:ed3490c1-53b9-5016-83b8-f489d9dbd5df
+URL:https://transportnsw.info/alerts/details#/ems-77312
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77312\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.
+DTEND:20260908T153000Z
+DTSTART:20260908T112000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:ed3490c1-53b9-5016-83b8-f489d9dbd5df
+URL:https://transportnsw.info/alerts/details#/ems-77312
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76519\n\nSaturday 29 and Sunday 30 August\nInner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central.\nMost trains run to a changed timetable between Leppington and Olympic Park via Granville\, and between Leppington and Lidcombe via Regents Park only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 8PM to 2AM\, buses replace trains between Olympic Park and Ashfield or Central. Trackwork buses do not leave from Lidcombe.\nTrains run to a changed timetable between Ashfield and the City Circle.\nSunday from 6:30AM to 10:30AM\, trains run to a changed timetable between Leppington and Schofields\, and between Leppington and Lidcombe via Regents Park only.\nChange trains at Parramatta or Lidcombe to continue your journey.
 DTEND:20260830T135951Z
 DTSTART:20260828T160000Z
 SUMMARY:Inner West trains will not run. T1 or T9 trains make extra stops. Buses replace some trains between Olympic Park and Ashfield or Central
 UID:5676afda-130f-5d83-8645-efdb8517edea
 URL:https://transportnsw.info/alerts/details#/ems-76519
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20260908T153000Z
+DTSTART:20260908T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:b698578e-4e76-5435-a07f-52b3675c99df
+URL:https://transportnsw.info/alerts/details#/ems-77299
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77318\n\nSaturday 12 and Sunday 13 September\nBuses replace trains between Leppington and Liverpool.\nTrains run to a changed timetable between Liverpool and the City via Granville.\nBuses also replace T8 Airport & South Line trains between Macarthur and East Hills.
+DTEND:20260913T135945Z
+DTSTART:20260911T160000Z
+SUMMARY:Buses replace trains between Leppington and Liverpool
+UID:71f9b56b-d7ed-560d-a528-0ff9be5bebe2
+URL:https://transportnsw.info/alerts/details#/ems-77318
 END:VEVENT
 END:VCALENDAR

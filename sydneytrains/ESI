@@ -18,12 +18,44 @@ UID:86e1de99-3879-522a-ba99-7ca0ae348d72
 URL:https://transportnsw.info/alerts/details#/ems-76903
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
+DTEND:20260907T153000Z
+DTSTART:20260907T113000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:143a0bfe-9157-5261-8f79-840684e338b8
+URL:https://transportnsw.info/alerts/details#/ems-77326
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
+DTEND:20260908T153000Z
+DTSTART:20260908T113000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:143a0bfe-9157-5261-8f79-840684e338b8
+URL:https://transportnsw.info/alerts/details#/ems-77326
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77328\n\nSaturday 12 September\nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
+DTEND:20260912T013053Z
+DTSTART:20260911T170000Z
+SUMMARY:Buses replace trains between Waterfall and Sutherland
+UID:b915d54f-b9ff-5514-934c-99181e3b7708
+URL:https://transportnsw.info/alerts/details#/ems-77328
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76907\n\nSaturday 5 and Sunday 6 September\nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.\nSunday\, metro services do not run between Sydenham and Tallawong.
 DTEND:20260906T135911Z
 DTSTART:20260904T160000Z
 SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
 UID:f9f64484-d775-53b0-8cba-fb15b1b9539b
 URL:https://transportnsw.info/alerts/details#/ems-76907
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77330\n\nSunday 13 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Tallawong.\nUse trains between Sydenham\, the City and Chatswood.\nBuses replace services between Tallawong and Chatswood only.
+DTEND:20260913T135938Z
+DTSTART:20260912T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:0ca4b6c6-f339-5cb4-9447-702a8176c4ce
+URL:https://transportnsw.info/alerts/details#/ems-77330
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
