@@ -27,16 +27,16 @@ URL:https://transportnsw.info/alerts/details#/ems-77309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260901T153000Z
-DTSTART:20260901T115000Z
+DTEND:20260831T153000Z
+DTSTART:20260831T115000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
 UID:9aaae738-3220-506f-9569-30695a5f6692
 URL:https://transportnsw.info/alerts/details#/ems-76891
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260831T153000Z
-DTSTART:20260831T115000Z
+DTEND:20260901T153000Z
+DTSTART:20260901T115000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
 UID:9aaae738-3220-506f-9569-30695a5f6692
 URL:https://transportnsw.info/alerts/details#/ems-76891
@@ -64,14 +64,6 @@ DTSTART:20260905T210000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:52c688a4-e990-551c-b233-1234187c0d83
 URL:https://transportnsw.info/alerts/details#/ems-76895
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76497\n\nMonday 24 and Tuesday 25 August\nNightly from 7:30PM to 2AM\, buses replace trains between Emu Plains and Penrith.\nTrains run between Penrith and Central\, some to a changed timetable.\nThe 18:56 Mount Victoria to Central service will continue to run\, leaving Emu Plains at 20:22.
-DTEND:20260825T160000Z
-DTSTART:20260825T093000Z
-SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and Penrith
-UID:40611caa-98a4-5bf8-a59f-2729e30e2f82
-URL:https://transportnsw.info/alerts/details#/ems-76497
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77307\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nCity Circle trackwork may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
