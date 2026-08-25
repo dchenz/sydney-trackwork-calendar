@@ -59,14 +59,6 @@ URL:https://transportnsw.info/alerts/details#/ems-77330
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20260824T163000Z
-DTSTART:20260824T115000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:30024d61-bf20-5220-ab25-67a3917a027c
-URL:https://transportnsw.info/alerts/details#/ems-76523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76523\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20260825T163000Z
 DTSTART:20260825T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville

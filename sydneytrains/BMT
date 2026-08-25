@@ -10,6 +10,22 @@ UID:e34f6c30-7600-5b80-9ca4-aeca4eaef1a8
 URL:https://transportnsw.info/alerts/details#/ems-76538
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77369\n\nFriday 11 September\nFrom 10PM\, trains run between Blue Mountains Line stations and Strathfield only.\nChange trains at Strathfield to continue your journey.
+DTEND:20260911T160033Z
+DTSTART:20260911T120000Z
+SUMMARY:Trains run between Blue Mountains Line stations and Strathfield only
+UID:dde94ef5-2f91-5a06-80dd-a77279e44bd6
+URL:https://transportnsw.info/alerts/details#/ems-77369
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77371\n\nSaturday 12 and Sunday 13 September\nMost trains run between Blue Mountains Line stations and Blacktown only.\nUse T1 Western Line trains between Blacktown and the City.\nTrains from Blacktown to Blue Mountains Line stations run up to 30 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Blacktown.
+DTEND:20260913T135953Z
+DTSTART:20260911T160000Z
+SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only
+UID:767b7d00-c329-5d5b-8b37-e69ad9de82d1
+URL:https://transportnsw.info/alerts/details#/ems-77371
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76540\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nSaturday from 8:10AM to 2AM\, trains run between Blue Mountains Line stations and Blacktown only.\nTrains from Blacktown to Blue Mountains Line stations run up to 15 minutes later than the normal timetable.\nBathurst trains run between Bathurst and Lithgow or Central.\nT1 Western Line trains run between Penrith\, Blacktown and the City.\nFrom 8PM to 2AM\, T1 Western Line trains run to a changed timetable between Penrith and Olympic Park.\nBuses replace trains between Olympic Park and Central.\nSunday from 11AM to 1:30PM\, buses replace trains between Mount Victoria and Lithgow.\nTrains run to a changed timetable between Mount Victoria and Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
 DTEND:20260830T135952Z
 DTSTART:20260828T160000Z
