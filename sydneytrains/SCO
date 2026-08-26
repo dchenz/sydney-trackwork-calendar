@@ -34,14 +34,6 @@ UID:6d638227-ad98-56d7-9ec9-c93c879173d0
 URL:https://transportnsw.info/alerts/details#/ems-76935
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76546\n\nMonday 24 and Tuesday 25 August\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260825T163000Z
-DTSTART:20260825T115000Z
-SUMMARY:Buses replace trains between Waterfall and Hurstville
-UID:88ec755a-41e5-50f2-9bbc-309e398c9adb
-URL:https://transportnsw.info/alerts/details#/ems-76546
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76931\n\nWednesday 2 and Thursday 3 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20260903T153000Z
 DTSTART:20260903T115000Z
