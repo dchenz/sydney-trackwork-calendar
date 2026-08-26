@@ -10,14 +10,6 @@ UID:5b0e09d9-c936-5f95-9ef1-b857e4726c57
 URL:https://transportnsw.info/alerts/details#/ems-77351
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76525\n\nTuesday 25 and Wednesday 26 August\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260826T153000Z
-DTSTART:20260826T135000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:35bb4696-aee8-5cc7-b8f9-700024e604b0
-URL:https://transportnsw.info/alerts/details#/ems-76525
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-581187\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stopping pattern.\nSaturday from 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
 DTEND:20260830T135947Z
 DTSTART:20260828T160000Z
