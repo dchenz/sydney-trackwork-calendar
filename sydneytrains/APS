@@ -58,14 +58,6 @@ UID:5a937857-aea9-519b-8c56-a467bde37ee1
 URL:https://transportnsw.info/alerts/details#/ems-76915
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76532\n\nSaturday 29 and Sunday 30 August\nTrains between Sydenham and the City Circle run to a changed timetable.\nTrains via the Airport run to the normal timetable.
-DTEND:20260830T135912Z
-DTSTART:20260828T160000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:0cff9c7f-c135-5ed1-8978-eef44af44569
-URL:https://transportnsw.info/alerts/details#/ems-76532
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20260907T153000Z
 DTSTART:20260907T114000Z

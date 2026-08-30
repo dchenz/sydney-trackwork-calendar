@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76540\n\nSaturday 29 and Sunday 30 August\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nSaturday from 8:10AM to 2AM\, trains run between Blue Mountains Line stations and Blacktown only.\nTrains from Blacktown to Blue Mountains Line stations run up to 15 minutes later than the normal timetable.\nBathurst trains run between Bathurst and Lithgow or Central.\nT1 Western Line trains run between Penrith\, Blacktown and the City.\nFrom 8PM to 2AM\, T1 Western Line trains run to a changed timetable between Penrith and Olympic Park.\nBuses replace trains between Olympic Park and Central.\nSunday from 11AM to 1:30PM\, buses replace trains between Mount Victoria and Lithgow.\nTrains run to a changed timetable between Mount Victoria and Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
-DTEND:20260830T135952Z
-DTSTART:20260828T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:0a3df08b-d9ad-5ae2-83c2-ae5c60a341da
-URL:https://transportnsw.info/alerts/details#/ems-76540
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77369\n\nFriday 11 September\nFrom 10PM\, trains run between Blue Mountains Line stations and Strathfield only.\nChange trains at Strathfield to continue your journey.
 DTEND:20260911T160033Z
 DTSTART:20260911T120000Z

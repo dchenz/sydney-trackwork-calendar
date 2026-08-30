@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76528\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20260830T135927Z
-DTSTART:20260828T160000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76909\n\nSaturday 5 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260905T003021Z
+DTSTART:20260904T203000Z
 SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:ab4371de-6608-5437-819b-85e23c6c93d8
-URL:https://transportnsw.info/alerts/details#/ems-76528
+UID:328647b3-4f50-57da-9b01-bd0f0e1a649c
+URL:https://transportnsw.info/alerts/details#/ems-76909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77355\n\nSaturday 12 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
@@ -16,13 +16,5 @@ DTSTART:20260911T203000Z
 SUMMARY:Trains run to a changed timetable and reduced frequency
 UID:a8aa761a-6ee7-56bb-8bb7-07afffef3ba4
 URL:https://transportnsw.info/alerts/details#/ems-77355
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76909\n\nSaturday 5 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20260905T003021Z
-DTSTART:20260904T203000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:328647b3-4f50-57da-9b01-bd0f0e1a649c
-URL:https://transportnsw.info/alerts/details#/ems-76909
 END:VEVENT
 END:VCALENDAR

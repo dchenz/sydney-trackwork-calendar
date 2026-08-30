@@ -26,14 +26,6 @@ UID:574c9e8d-45dc-5226-afe4-bc8605125b09
 URL:https://transportnsw.info/alerts/details#/ems-76919
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76536\n\nSaturday 29 and Sunday 30 August\nTrains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.\nSaturday from 8PM to 2AM\, buses replace trains between Epping and Ashfield or Central.\nUse metro services between Epping and the City.\nTrains run to a changed timetable between Hornsby and Epping\, and between Ashfield and the City Circle.\nThe last train to Hornsby leaves Central at 19:35\, arriving Hornsby at 20:44.\nThe last train to Central leaves Hornsby at 19:24\, arriving Central at 20:27.
-DTEND:20260830T135952Z
-DTSTART:20260828T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Epping and Ashfield or Central
-UID:3cdf86b7-7a90-5ffc-a62a-57e11e4e616e
-URL:https://transportnsw.info/alerts/details#/ems-76536
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77367\n\nSunday 13 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
 DTEND:20260913T135934Z
 DTSTART:20260912T160000Z
@@ -50,20 +42,20 @@ UID:a091339c-ee83-5b4b-9fcf-7baf5f029b6e
 URL:https://transportnsw.info/alerts/details#/ems-76917
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76917\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260831T153000Z
-DTSTART:20260831T111000Z
-SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
-UID:a091339c-ee83-5b4b-9fcf-7baf5f029b6e
-URL:https://transportnsw.info/alerts/details#/ems-76917
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77363\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nSydney Metro and City Circle trackwork may also affect how you travel. Change at Central for T4 Eastern Suburbs Line trains\, light rail\, local buses or walk to continue your journey.
 DTEND:20260907T153000Z
 DTSTART:20260907T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:9ba3945f-7247-5ba7-89b1-287b5813f535
 URL:https://transportnsw.info/alerts/details#/ems-77363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76917\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20260831T153000Z
+DTSTART:20260831T111000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
+UID:a091339c-ee83-5b4b-9fcf-7baf5f029b6e
+URL:https://transportnsw.info/alerts/details#/ems-76917
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77363\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nSydney Metro and City Circle trackwork may also affect how you travel. Change at Central for T4 Eastern Suburbs Line trains\, light rail\, local buses or walk to continue your journey.
