@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77569\n\nSunday 30 August\nFrom 6AM to 1:40PM\, at Helensburgh and Otford\, all trains leave from platform 1.
-DTEND:20260830T034057Z
-DTSTART:20260829T200000Z
-SUMMARY:At Helensburgh and Otford\, all trains leave from platform 1
-UID:11401301-69d6-55de-be66-0ca9a324d879
-URL:https://transportnsw.info/alerts/details#/ems-77569
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77379\n\nThursday 10 September\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20260910T041011Z
 DTSTART:20260909T232000Z
