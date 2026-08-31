@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-77309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260831T153000Z
-DTSTART:20260831T115000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
-UID:9aaae738-3220-506f-9569-30695a5f6692
-URL:https://transportnsw.info/alerts/details#/ems-76891
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20260901T153000Z
 DTSTART:20260901T115000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
