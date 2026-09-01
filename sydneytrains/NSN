@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76891\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20260901T153000Z
-DTSTART:20260901T115000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-12 only
-UID:9aaae738-3220-506f-9569-30695a5f6692
-URL:https://transportnsw.info/alerts/details#/ems-76891
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77740\n\nMonday 14 and Tuesday 15 September\nNightly from 9:10PM to 3AM\, buses replace trains Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nThe last train to Central leaves Berowra at 21:13\, arriving Central at 22:17.\nBuses also replace Central Coast & Newcastle Line trains between Wyong and Hornsby.
 DTEND:20260914T170000Z
 DTSTART:20260914T111000Z
@@ -18,12 +10,12 @@ UID:e153ed23-4a36-532f-a229-05bedbc23168
 URL:https://transportnsw.info/alerts/details#/ems-77740
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76887\n\nMonday 31 August and Tuesday 1 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nT9 Northern Line trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
-DTEND:20260901T153000Z
-DTSTART:20260901T112000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point
-UID:53d15145-e672-5056-a5f6-bbc1e42feaeb
-URL:https://transportnsw.info/alerts/details#/ems-76887
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77740\n\nMonday 14 and Tuesday 15 September\nNightly from 9:10PM to 3AM\, buses replace trains Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nThe last train to Central leaves Berowra at 21:13\, arriving Central at 22:17.\nBuses also replace Central Coast & Newcastle Line trains between Wyong and Hornsby.
+DTEND:20260915T170000Z
+DTSTART:20260915T111000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
+UID:e153ed23-4a36-532f-a229-05bedbc23168
+URL:https://transportnsw.info/alerts/details#/ems-77740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76893\n\nWednesday 2 September\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
@@ -32,14 +24,6 @@ DTSTART:20260902T125000Z
 SUMMARY:T1 Western Line: Some trains make extra stops at Homebush and Burwood
 UID:3f95a6c7-212b-5a2c-9759-2b38c34c0598
 URL:https://transportnsw.info/alerts/details#/ems-76893
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77740\n\nMonday 14 and Tuesday 15 September\nNightly from 9:10PM to 3AM\, buses replace trains Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nThe last train to Central leaves Berowra at 21:13\, arriving Central at 22:17.\nBuses also replace Central Coast & Newcastle Line trains between Wyong and Hornsby.
-DTEND:20260915T170000Z
-DTSTART:20260915T111000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
-UID:e153ed23-4a36-532f-a229-05bedbc23168
-URL:https://transportnsw.info/alerts/details#/ems-77740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77746\n\nSaturday 19 and Sunday 20 September\nBuses replace trains between Hornsby and Milsons Point\, also stopping at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood and the City\, or ferry services between Milsons Point and Circular Quay.\nT9 Northern Line trains run between Berowra and Central\, platforms 1-14 only.\nOn Sunday\, some late-night buses run between T1 North Shore Line stations and Wynyard.
