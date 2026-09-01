@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77758\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
+DTEND:20260916T153000Z
+DTSTART:20260916T114000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
+URL:https://transportnsw.info/alerts/details#/ems-77758
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76899\n\nWednesday 2 September\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nInner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at Croydon and Ashfield.
 DTEND:20260902T153027Z
 DTSTART:20260902T122000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:cca3781b-a95a-596a-b977-62cf6af4e937
 URL:https://transportnsw.info/alerts/details#/ems-76899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77758\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
+DTEND:20260917T153000Z
+DTSTART:20260917T114000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
+URL:https://transportnsw.info/alerts/details#/ems-77758
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77320\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.

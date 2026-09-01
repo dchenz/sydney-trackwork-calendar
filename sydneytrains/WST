@@ -34,6 +34,14 @@ UID:3f95a6c7-212b-5a2c-9759-2b38c34c0598
 URL:https://transportnsw.info/alerts/details#/ems-76893
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77750\n\nSaturday 19 and Sunday 20 September\\\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Olympic Park. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only.\nSunday from 6:30AM to 10:30AM\, Richmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.
+DTEND:20260920T135923Z
+DTSTART:20260918T160000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:027fd233-51ce-5d16-9591-53f97ad47dd7
+URL:https://transportnsw.info/alerts/details#/ems-77750
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
 DTEND:20260905T230030Z
 DTSTART:20260905T210000Z
@@ -56,5 +64,21 @@ DTSTART:20260908T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:cee43f41-e124-52ae-93c5-92fc48bfa236
 URL:https://transportnsw.info/alerts/details#/ems-77307
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77748\n\nWednesday 16 and Thursday 17 September\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260917T153000Z
+DTSTART:20260917T112000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:504c2de3-c1bf-528e-8bdb-bd959a2b0307
+URL:https://transportnsw.info/alerts/details#/ems-77748
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77748\n\nWednesday 16 and Thursday 17 September\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20260916T153000Z
+DTSTART:20260916T112000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:504c2de3-c1bf-528e-8bdb-bd959a2b0307
+URL:https://transportnsw.info/alerts/details#/ems-77748
 END:VEVENT
 END:VCALENDAR

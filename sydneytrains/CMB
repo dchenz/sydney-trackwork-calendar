@@ -10,12 +10,36 @@ UID:5b0e09d9-c936-5f95-9ef1-b857e4726c57
 URL:https://transportnsw.info/alerts/details#/ems-77351
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77349\n\nTuesday 8 and Wednesday 9 September\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20260909T153000Z
-DTSTART:20260909T135000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:96a399c7-1597-58d7-b8db-1d74db37bcce
-URL:https://transportnsw.info/alerts/details#/ems-77349
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77761\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20260914T153000Z
+DTSTART:20260914T115000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:7c53994a-7bdf-57b3-8f5b-6f577dde7765
+URL:https://transportnsw.info/alerts/details#/ems-77761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77761\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20260915T153000Z
+DTSTART:20260915T115000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:7c53994a-7bdf-57b3-8f5b-6f577dde7765
+URL:https://transportnsw.info/alerts/details#/ems-77761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20260916T153000Z
+DTSTART:20260916T114000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:43c708a8-065e-5d71-bc28-5c403486c3a5
+URL:https://transportnsw.info/alerts/details#/ems-77763
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20260917T153000Z
+DTSTART:20260917T114000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:43c708a8-065e-5d71-bc28-5c403486c3a5
+URL:https://transportnsw.info/alerts/details#/ems-77763
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77353\n\nSaturday 12 and Sunday 13 September\nBuses replace trains between Leppington and Liverpool.\nTrains run between Liverpool and Schofields\, some to a changed timetable.
@@ -24,6 +48,14 @@ DTSTART:20260911T160000Z
 SUMMARY:Buses replace trains between Leppington and Liverpool
 UID:ac54d891-a5c5-56f1-b086-814af9349274
 URL:https://transportnsw.info/alerts/details#/ems-77353
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77349\n\nTuesday 8 and Wednesday 9 September\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20260909T153000Z
+DTSTART:20260909T135000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:96a399c7-1597-58d7-b8db-1d74db37bcce
+URL:https://transportnsw.info/alerts/details#/ems-77349
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77349\n\nTuesday 8 and Wednesday 9 September\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.

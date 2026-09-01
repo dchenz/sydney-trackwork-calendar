@@ -18,6 +18,22 @@ UID:a27e945e-eff3-565c-8d74-9ca193e3f6e8
 URL:https://transportnsw.info/alerts/details#/ems-76925
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77776\n\nMonday 14 and Tuesday 15 September\nNightly from 8:30PM to 3:30AM\, buses replace trains between Wyong and Hornsby.\nTrains run between Newcastle Interchange and Wyong\, and between Hornsby and Central\, some to a changed timetable.\nTuesday and Wednesday\, the 02:38 Wyong to Central service starts from Gosford at 03:30 and runs 30 minutes later than the normal timetable towards Central.
+DTEND:20260914T173000Z
+DTSTART:20260914T103000Z
+SUMMARY:Buses replace trains between Wyong and Hornsby
+UID:b0102a88-bcb9-5e2b-b020-57c54a86e17a
+URL:https://transportnsw.info/alerts/details#/ems-77776
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77776\n\nMonday 14 and Tuesday 15 September\nNightly from 8:30PM to 3:30AM\, buses replace trains between Wyong and Hornsby.\nTrains run between Newcastle Interchange and Wyong\, and between Hornsby and Central\, some to a changed timetable.\nTuesday and Wednesday\, the 02:38 Wyong to Central service starts from Gosford at 03:30 and runs 30 minutes later than the normal timetable towards Central.
+DTEND:20260915T173000Z
+DTSTART:20260915T103000Z
+SUMMARY:Buses replace trains between Wyong and Hornsby
+UID:b0102a88-bcb9-5e2b-b020-57c54a86e17a
+URL:https://transportnsw.info/alerts/details#/ems-77776
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77375\n\nFriday 11 to Sunday 13 September \nFrom 10PM Friday\, most trains run between Central Coast & Newcastle Line stations and Strathfield only.\nChange at Epping for metro services to the City or change trains at Strathfield to continue your journey.\nSunday\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
 DTEND:20260913T135910Z
 DTSTART:20260911T120000Z

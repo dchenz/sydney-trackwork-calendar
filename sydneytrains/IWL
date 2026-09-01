@@ -26,6 +26,22 @@ UID:6b0fed7f-17eb-5133-a092-9a25539668cf
 URL:https://transportnsw.info/alerts/details#/ems-77316
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77752\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
+DTEND:20260914T153000Z
+DTSTART:20260914T115000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:1bd1cb3a-ae9f-507d-8ce1-e35be3df05c0
+URL:https://transportnsw.info/alerts/details#/ems-77752
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77752\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
+DTEND:20260915T153000Z
+DTSTART:20260915T115000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:1bd1cb3a-ae9f-507d-8ce1-e35be3df05c0
+URL:https://transportnsw.info/alerts/details#/ems-77752
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20260908T153000Z
 DTSTART:20260908T114000Z
@@ -56,6 +72,22 @@ DTSTART:20260908T112000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
 UID:ed3490c1-53b9-5016-83b8-f489d9dbd5df
 URL:https://transportnsw.info/alerts/details#/ems-77312
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77754\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City via Granville\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
+DTEND:20260916T153000Z
+DTSTART:20260916T114000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:b961cac8-0a10-51fd-96b1-9fe939e887d3
+URL:https://transportnsw.info/alerts/details#/ems-77754
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77754\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City via Granville\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
+DTEND:20260917T153000Z
+DTSTART:20260917T114000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:b961cac8-0a10-51fd-96b1-9fe939e887d3
+URL:https://transportnsw.info/alerts/details#/ems-77754
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.

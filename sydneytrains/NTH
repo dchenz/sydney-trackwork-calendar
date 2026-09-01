@@ -65,4 +65,12 @@ SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not 
 UID:bf9b668d-7b10-58ec-9e40-682d0b753c4e
 URL:https://transportnsw.info/alerts/details#/ems-76921
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77774\n\nSaturday 19 and Sunday 20 September\nTrains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations\, change at Epping or Central for metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for a bus.
+DTEND:20260920T135954Z
+DTSTART:20260918T160000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:e1329f88-385f-5689-9a27-934865f326bd
+URL:https://transportnsw.info/alerts/details#/ems-77774
+END:VEVENT
 END:VCALENDAR
