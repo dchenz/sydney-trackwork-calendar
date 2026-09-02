@@ -26,20 +26,20 @@ UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
 URL:https://transportnsw.info/alerts/details#/ems-77758
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77320\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.
-DTEND:20260907T153000Z
-DTSTART:20260907T112000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:f5e55902-b3a1-5eec-b9dd-346a7bcc0ea7
-URL:https://transportnsw.info/alerts/details#/ems-77320
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20260907T153000Z
 DTSTART:20260907T114000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:b698578e-4e76-5435-a07f-52b3675c99df
 URL:https://transportnsw.info/alerts/details#/ems-77299
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77320\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.
+DTEND:20260907T153000Z
+DTSTART:20260907T112000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:f5e55902-b3a1-5eec-b9dd-346a7bcc0ea7
+URL:https://transportnsw.info/alerts/details#/ems-77320
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77320\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.
@@ -72,6 +72,14 @@ DTSTART:20260909T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:6641f7e0-c58e-5bc3-8029-35d1df0f96ec
 URL:https://transportnsw.info/alerts/details#/ems-77322
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
+DTEND:20260902T135900Z
+DTSTART:20260901T224600Z
+SUMMARY:Opal top up and ticket machine outage
+UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
+URL:https://transportnsw.info/alerts/details#/ems-77799
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76901\n\nSaturday 5 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.

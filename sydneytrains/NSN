@@ -50,6 +50,14 @@ UID:52c688a4-e990-551c-b233-1234187c0d83
 URL:https://transportnsw.info/alerts/details#/ems-76895
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77301\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nChange at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nSydney Metro trackwork may also affect how you travel. Metro services do not run between Tallawong and Sydenham. Buses replace services between Chatswood and Tallawong only.
+DTEND:20260908T153000Z
+DTSTART:20260908T114000Z
+SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Sydney Metro trackwork may also affect how you travel
+UID:3fb6fd16-d5f8-5e94-baef-25de879e1417
+URL:https://transportnsw.info/alerts/details#/ems-77301
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77303\n\nWednesday 9 September\nFrom 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only. Use trains between Chatswood\, the City and Sydenham.
 DTEND:20260909T160055Z
 DTSTART:20260909T111000Z
@@ -67,19 +75,19 @@ URL:https://transportnsw.info/alerts/details#/ems-77305
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77301\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nChange at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nSydney Metro trackwork may also affect how you travel. Metro services do not run between Tallawong and Sydenham. Buses replace services between Chatswood and Tallawong only.
-DTEND:20260908T153000Z
-DTSTART:20260908T114000Z
-SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Sydney Metro trackwork may also affect how you travel
-UID:3fb6fd16-d5f8-5e94-baef-25de879e1417
-URL:https://transportnsw.info/alerts/details#/ems-77301
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77301\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nChange at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nSydney Metro trackwork may also affect how you travel. Metro services do not run between Tallawong and Sydenham. Buses replace services between Chatswood and Tallawong only.
 DTEND:20260907T153000Z
 DTSTART:20260907T114000Z
 SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Sydney Metro trackwork may also affect how you travel
 UID:3fb6fd16-d5f8-5e94-baef-25de879e1417
 URL:https://transportnsw.info/alerts/details#/ems-77301
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
+DTEND:20260902T135900Z
+DTSTART:20260901T224600Z
+SUMMARY:Opal top up and ticket machine outage
+UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
+URL:https://transportnsw.info/alerts/details#/ems-77799
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76889\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only.\nUse trains between Chatswood and the City.\nBuses also replace T4 Illawarra and T8 Airport & South Line trains between Central and Sydenham.
