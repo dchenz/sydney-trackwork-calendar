@@ -66,14 +66,6 @@ UID:504c2de3-c1bf-528e-8bdb-bd959a2b0307
 URL:https://transportnsw.info/alerts/details#/ems-77748
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
-DTEND:20260902T135900Z
-DTSTART:20260901T224600Z
-SUMMARY:Opal top up and ticket machine outage
-UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
-URL:https://transportnsw.info/alerts/details#/ems-77799
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77748\n\nWednesday 16 and Thursday 17 September\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
 DTEND:20260916T153000Z
 DTSTART:20260916T112000Z

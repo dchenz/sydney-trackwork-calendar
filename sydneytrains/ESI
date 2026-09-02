@@ -58,14 +58,6 @@ UID:0ca4b6c6-f339-5cb4-9447-702a8176c4ce
 URL:https://transportnsw.info/alerts/details#/ems-77330
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
-DTEND:20260902T135900Z
-DTSTART:20260901T224600Z
-SUMMARY:Opal top up and ticket machine outage
-UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
-URL:https://transportnsw.info/alerts/details#/ems-77799
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76905\n\nFriday 4 September\nFrom 10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nFrom 11:55PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Mortdale or Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20260904T153056Z
 DTSTART:20260904T120000Z

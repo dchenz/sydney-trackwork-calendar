@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
-DTEND:20260902T135900Z
-DTSTART:20260901T224600Z
-SUMMARY:Opal top up and ticket machine outage
-UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
-URL:https://transportnsw.info/alerts/details#/ems-77799
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77369\n\nFriday 11 September\nFrom 10PM\, trains run between Blue Mountains Line stations and Strathfield only.\nChange trains at Strathfield to continue your journey.
 DTEND:20260911T160033Z
 DTSTART:20260911T120000Z

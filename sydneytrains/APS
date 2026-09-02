@@ -66,14 +66,6 @@ UID:29fdfea0-73b7-55ac-bb2a-4d899b30b169
 URL:https://transportnsw.info/alerts/details#/ems-77767
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77769\n\nSaturday 19 September\nFrom 9AM to 3PM\, trains may run to a changed timetable due to trackwork between Revesby and Turrella.
-DTEND:20260919T050046Z
-DTSTART:20260918T230000Z
-SUMMARY:Trains may run to a changed timetable
-UID:871c63df-4862-5c7a-a1a1-fc9d6465d1bb
-URL:https://transportnsw.info/alerts/details#/ems-77769
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77361\n\nSaturday 12 and Sunday 13 September \nBuses replace trains between Macarthur and East Hills.\nTrains run to a changed timetable between East Hills and the City via the Airport.
 DTEND:20260913T135937Z
 DTSTART:20260911T160000Z
@@ -106,12 +98,12 @@ UID:78a1f723-21ba-53cf-8f09-a5017b31d5f2
 URL:https://transportnsw.info/alerts/details#/ems-77357
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77799\n\nA system outage is impacting in person Opal top ups and train ticket machines at Sydney train stations. Top up online or at Opal retailers. You can still tap on and off using your opal card or a contactless card.
-DTEND:20260902T135900Z
-DTSTART:20260901T224600Z
-SUMMARY:Opal top up and ticket machine outage
-UID:07b166c0-b3ff-57cc-a864-55570c9f86a7
-URL:https://transportnsw.info/alerts/details#/ems-77799
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77769\n\nSaturday 19 September\nFrom 9AM to 3PM\, trains may run to a changed timetable due to trackwork between Revesby and Turrella.
+DTEND:20260919T050046Z
+DTSTART:20260918T230000Z
+SUMMARY:Trains may run to a changed timetable
+UID:871c63df-4862-5c7a-a1a1-fc9d6465d1bb
+URL:https://transportnsw.info/alerts/details#/ems-77769
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77357\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
