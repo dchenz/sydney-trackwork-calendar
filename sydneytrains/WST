@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77309\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260909T153000Z
-DTSTART:20260909T114000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
-UID:8aa2560a-83d1-5a1f-a711-8c7728ba5139
-URL:https://transportnsw.info/alerts/details#/ems-77309
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77309\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20260910T153000Z
 DTSTART:20260910T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
@@ -18,12 +10,12 @@ UID:8aa2560a-83d1-5a1f-a711-8c7728ba5139
 URL:https://transportnsw.info/alerts/details#/ems-77309
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76893\n\nWednesday 2 September\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20260902T153022Z
-DTSTART:20260902T125000Z
-SUMMARY:T1 Western Line: Some trains make extra stops at Homebush and Burwood
-UID:3f95a6c7-212b-5a2c-9759-2b38c34c0598
-URL:https://transportnsw.info/alerts/details#/ems-76893
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77309\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
+DTEND:20260909T153000Z
+DTSTART:20260909T114000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:8aa2560a-83d1-5a1f-a711-8c7728ba5139
+URL:https://transportnsw.info/alerts/details#/ems-77309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77750\n\nSaturday 19 and Sunday 20 September\\\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Olympic Park. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only.\nSunday from 6:30AM to 10:30AM\, Richmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.
