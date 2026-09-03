@@ -105,12 +105,4 @@ SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:78a1f723-21ba-53cf-8f09-a5017b31d5f2
 URL:https://transportnsw.info/alerts/details#/ems-77357
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76911\n\nWednesday 2 and Thursday 3 September\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
-DTEND:20260903T153000Z
-DTSTART:20260903T115000Z
-SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
-UID:3c0f03f8-dde1-5fb7-873a-2e152449c483
-URL:https://transportnsw.info/alerts/details#/ems-76911
-END:VEVENT
 END:VCALENDAR
