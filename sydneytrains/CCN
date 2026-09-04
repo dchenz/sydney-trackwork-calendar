@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77948\n\nMonday 7 to Wednesday 9 September\nNightly from 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
+DTEND:20260909T160000Z
+DTSTART:20260909T111000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:4a3ca608-3dbb-5462-b5ab-700d62172f4d
+URL:https://transportnsw.info/alerts/details#/ems-77948
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76923\n\nSunday 6 September\nFrom 3PM to 7PM\, some trains may run up to 10 minutes later than the normal timetable\, due to trackwork between Gosford and Hawkesbury River.
 DTEND:20260906T090010Z
 DTSTART:20260906T050000Z
 SUMMARY:Some trains may run to a changed timetable
 UID:09c8bc58-7c90-55ab-8922-bf03ff760652
 URL:https://transportnsw.info/alerts/details#/ems-76923
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77948\n\nMonday 7 to Wednesday 9 September\nNightly from 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
+DTEND:20260907T160000Z
+DTSTART:20260907T111000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:4a3ca608-3dbb-5462-b5ab-700d62172f4d
+URL:https://transportnsw.info/alerts/details#/ems-77948
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76925\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
@@ -56,5 +72,13 @@ DTSTART:20260910T152000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:7c30ad93-2b27-5d43-a7f4-8a372d6942ad
 URL:https://transportnsw.info/alerts/details#/ems-77373
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77948\n\nMonday 7 to Wednesday 9 September\nNightly from 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
+DTEND:20260908T160000Z
+DTSTART:20260908T111000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:4a3ca608-3dbb-5462-b5ab-700d62172f4d
+URL:https://transportnsw.info/alerts/details#/ems-77948
 END:VEVENT
 END:VCALENDAR
