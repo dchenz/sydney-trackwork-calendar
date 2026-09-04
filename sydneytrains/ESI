@@ -49,12 +49,4 @@ SUMMARY:Sydney Metro trackwork may affect how you travel
 UID:1e198182-9f66-55e0-8162-d59f206d1e50
 URL:https://transportnsw.info/alerts/details#/ems-77946
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76905\n\nFriday 4 September\nFrom 10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nFrom 11:55PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Mortdale or Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20260904T153056Z
-DTSTART:20260904T120000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville. Trains do not stop at Wolli Creek
-UID:aa75a1b0-c6ae-58c5-b140-4c7f584c652d
-URL:https://transportnsw.info/alerts/details#/ems-76905
-END:VEVENT
 END:VCALENDAR
