@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77309\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260910T153000Z
-DTSTART:20260910T114000Z
+DTEND:20260909T153000Z
+DTSTART:20260909T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
 UID:8aa2560a-83d1-5a1f-a711-8c7728ba5139
 URL:https://transportnsw.info/alerts/details#/ems-77309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77309\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20260909T153000Z
-DTSTART:20260909T114000Z
+DTEND:20260910T153000Z
+DTSTART:20260910T114000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
 UID:8aa2560a-83d1-5a1f-a711-8c7728ba5139
 URL:https://transportnsw.info/alerts/details#/ems-77309
@@ -24,14 +24,6 @@ DTSTART:20260918T160000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:027fd233-51ce-5d16-9591-53f97ad47dd7
 URL:https://transportnsw.info/alerts/details#/ems-77750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
-DTEND:20260905T230030Z
-DTSTART:20260905T210000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:52c688a4-e990-551c-b233-1234187c0d83
-URL:https://transportnsw.info/alerts/details#/ems-76895
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77307\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nCity Circle trackwork may also affect how you travel. For travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.

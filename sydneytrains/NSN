@@ -34,14 +34,6 @@ UID:9b133fbd-6f13-5534-8fb0-c4c9734db170
 URL:https://transportnsw.info/alerts/details#/ems-77744
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76895\n\nSunday 6 September\nFrom 7AM to 9AM\, trains from the City to Penrith do not stop at Wentworthville\, Pendle Hill or Toongabbie. You may need to change trains to continue your journey.\nT5 Cumberland Line trains continue to stop at Wentworthville\, Pendle Hill and Toongabbie.
-DTEND:20260905T230030Z
-DTSTART:20260905T210000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:52c688a4-e990-551c-b233-1234187c0d83
-URL:https://transportnsw.info/alerts/details#/ems-76895
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77303\n\nWednesday 9 September\nFrom 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only. Use trains between Chatswood\, the City and Sydenham.
 DTEND:20260909T160055Z
 DTSTART:20260909T111000Z
