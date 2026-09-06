@@ -26,14 +26,6 @@ UID:b915d54f-b9ff-5514-934c-99181e3b7708
 URL:https://transportnsw.info/alerts/details#/ems-77328
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76907\n\nSaturday 5 and Sunday 6 September\nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.\nSunday\, metro services do not run between Sydenham and Tallawong.
-DTEND:20260906T135911Z
-DTSTART:20260904T160000Z
-SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
-UID:f9f64484-d775-53b0-8cba-fb15b1b9539b
-URL:https://transportnsw.info/alerts/details#/ems-76907
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77330\n\nSunday 13 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Tallawong.\nUse trains between Sydenham\, the City and Chatswood.\nBuses replace services between Tallawong and Chatswood only.
 DTEND:20260913T135938Z
 DTSTART:20260912T160000Z

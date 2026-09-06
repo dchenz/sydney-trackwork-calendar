@@ -18,14 +18,6 @@ UID:4a3ca608-3dbb-5462-b5ab-700d62172f4d
 URL:https://transportnsw.info/alerts/details#/ems-77948
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76925\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
-DTEND:20260906T135916Z
-DTSTART:20260905T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run
-UID:a27e945e-eff3-565c-8d74-9ca193e3f6e8
-URL:https://transportnsw.info/alerts/details#/ems-76925
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77776\n\nMonday 14 and Tuesday 15 September\nNightly from 8:30PM to 3:30AM\, buses replace trains between Wyong and Hornsby.\nTrains run between Newcastle Interchange and Wyong\, and between Hornsby and Central\, some to a changed timetable.\nTuesday and Wednesday\, the 02:38 Wyong to Central service starts from Gosford at 03:30 and runs 30 minutes later than the normal timetable towards Central.
 DTEND:20260914T173000Z
 DTSTART:20260914T103000Z
@@ -51,16 +43,16 @@ URL:https://transportnsw.info/alerts/details#/ems-77375
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77373\n\nThursday 10 and Friday 11 September\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260909T170000Z
-DTSTART:20260909T152000Z
+DTEND:20260910T170000Z
+DTSTART:20260910T152000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:7c30ad93-2b27-5d43-a7f4-8a372d6942ad
 URL:https://transportnsw.info/alerts/details#/ems-77373
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77373\n\nThursday 10 and Friday 11 September\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260910T170000Z
-DTSTART:20260910T152000Z
+DTEND:20260909T170000Z
+DTSTART:20260909T152000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:7c30ad93-2b27-5d43-a7f4-8a372d6942ad
 URL:https://transportnsw.info/alerts/details#/ems-77373

@@ -65,12 +65,4 @@ SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Sydney
 UID:3fb6fd16-d5f8-5e94-baef-25de879e1417
 URL:https://transportnsw.info/alerts/details#/ems-77301
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76889\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only.\nUse trains between Chatswood and the City.\nBuses also replace T4 Illawarra and T8 Airport & South Line trains between Central and Sydenham.
-DTEND:20260906T135950Z
-DTSTART:20260905T160000Z
-SUMMARY:T1 North Shore Line: Sydney Metro trackwork may affect how you travel. Metro services do not run
-UID:f2b95511-8702-52cc-8a9c-274cc2e0a06f
-URL:https://transportnsw.info/alerts/details#/ems-76889
-END:VEVENT
 END:VCALENDAR

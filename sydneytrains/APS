@@ -58,14 +58,6 @@ UID:553fe1f4-3fc2-5cb3-b27e-baafbd4615e5
 URL:https://transportnsw.info/alerts/details#/ems-77361
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76915\n\nSaturday 5 and Sunday 6 September\nBuses replace trains between Sydenham and Central.\nTrains run to the normal timetable between Macarthur\, Revesby and the City via the Airport.\nTrackwork on the T4 Illawarra and South Coast lines may also affect how you travel.\nChange at Central for trains towards Bondi Junction\, buses to T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.\nSunday\, metro services do not run between Sydenham and Tallawong.
-DTEND:20260906T135921Z
-DTSTART:20260904T160000Z
-SUMMARY:Buses replace trains between Sydenham and Central
-UID:5a937857-aea9-519b-8c56-a467bde37ee1
-URL:https://transportnsw.info/alerts/details#/ems-76915
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77299\n\nMonday 7 and Tuesday 8 September\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20260908T153000Z
 DTSTART:20260908T114000Z
@@ -75,8 +67,8 @@ URL:https://transportnsw.info/alerts/details#/ems-77299
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77357\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
-DTEND:20260908T153000Z
-DTSTART:20260908T113000Z
+DTEND:20260907T153000Z
+DTSTART:20260907T113000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:78a1f723-21ba-53cf-8f09-a5017b31d5f2
 URL:https://transportnsw.info/alerts/details#/ems-77357
@@ -91,8 +83,8 @@ URL:https://transportnsw.info/alerts/details#/ems-77769
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77357\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
-DTEND:20260907T153000Z
-DTSTART:20260907T113000Z
+DTEND:20260908T153000Z
+DTSTART:20260908T113000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:78a1f723-21ba-53cf-8f09-a5017b31d5f2
 URL:https://transportnsw.info/alerts/details#/ems-77357

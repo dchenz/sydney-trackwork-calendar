@@ -42,14 +42,6 @@ UID:9ba3945f-7247-5ba7-89b1-287b5813f535
 URL:https://transportnsw.info/alerts/details#/ems-77363
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-76921\n\nSunday 6 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nUse trains between Epping and the City.\nBuses also replace T4 Illawarra and T8 Airport & South Line trains between Central and Sydenham.
-DTEND:20260906T135912Z
-DTSTART:20260905T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run
-UID:bf9b668d-7b10-58ec-9e40-682d0b753c4e
-URL:https://transportnsw.info/alerts/details#/ems-76921
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77774\n\nSaturday 19 and Sunday 20 September\nTrains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations\, change at Epping or Central for metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for a bus.
 DTEND:20260920T135954Z
 DTSTART:20260918T160000Z
