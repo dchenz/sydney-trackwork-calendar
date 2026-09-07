@@ -26,6 +26,14 @@ UID:d1248b74-e85c-5df1-9976-c3d6a76a783c
 URL:https://transportnsw.info/alerts/details#/ems-77746
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78117\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Chatswood\, the City and Sydenham.
+DTEND:20260927T135955Z
+DTSTART:20260925T160000Z
+SUMMARY:T1 North Shore Line: Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
+UID:8158d1cb-dcf1-51d8-b04c-77f1abafe3af
+URL:https://transportnsw.info/alerts/details#/ems-78117
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77744\n\nFriday 18 September\nFrom 11:30PM\, buses replace trains between Gordon and Milsons Point\, also stopping at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood and the City.\nTrains run between Berowra and Gordon\, some to a changed timetable.
 DTEND:20260918T160028Z
 DTSTART:20260918T133000Z
