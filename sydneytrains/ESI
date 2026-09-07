@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
-DTEND:20260908T153000Z
-DTSTART:20260908T113000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:143a0bfe-9157-5261-8f79-840684e338b8
-URL:https://transportnsw.info/alerts/details#/ems-77326
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
-DTEND:20260907T153000Z
-DTSTART:20260907T113000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:143a0bfe-9157-5261-8f79-840684e338b8
-URL:https://transportnsw.info/alerts/details#/ems-77326
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77946\n\nWednesday 9 September\nFrom 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nUse trains between Sydenham\, the City and Chatswood. Buses replace services between Tallawong and Chatswood only.
+DTEND:20260909T160026Z
+DTSTART:20260909T111000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel
+UID:1e198182-9f66-55e0-8162-d59f206d1e50
+URL:https://transportnsw.info/alerts/details#/ems-77946
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77328\n\nSaturday 12 September\nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
@@ -34,11 +26,11 @@ UID:0ca4b6c6-f339-5cb4-9447-702a8176c4ce
 URL:https://transportnsw.info/alerts/details#/ems-77330
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77946\n\nWednesday 9 September\nFrom 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nUse trains between Sydenham\, the City and Chatswood. Buses replace services between Tallawong and Chatswood only.
-DTEND:20260909T160026Z
-DTSTART:20260909T111000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel
-UID:1e198182-9f66-55e0-8162-d59f206d1e50
-URL:https://transportnsw.info/alerts/details#/ems-77946
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
+DTEND:20260908T153000Z
+DTSTART:20260908T113000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:143a0bfe-9157-5261-8f79-840684e338b8
+URL:https://transportnsw.info/alerts/details#/ems-77326
 END:VEVENT
 END:VCALENDAR
