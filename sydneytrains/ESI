@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77326\n\nMonday 7 and Tuesday 8 September\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nSydney Metro and City Circle trackwork may also affect how you travel. For travel in the City use light rail\, local buses or walk.
-DTEND:20260908T153000Z
-DTSTART:20260908T113000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:143a0bfe-9157-5261-8f79-840684e338b8
-URL:https://transportnsw.info/alerts/details#/ems-77326
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77328\n\nSaturday 12 September\nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
 DTEND:20260912T013053Z
 DTSTART:20260911T170000Z
