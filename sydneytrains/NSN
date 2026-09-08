@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78143\n\nTuesday 22 and Wednesday 23 September\nNightly from 8:30PM to 5AM\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Newcastle Interchange. \nT1 North Shore Line trains continue to run between Hornsby and Berowra.
+DTEND:20260922T190000Z
+DTSTART:20260922T103000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby and Newcastle Interchange
+UID:46b069c9-d979-5c79-bb59-0c3cb9113a61
+URL:https://transportnsw.info/alerts/details#/ems-78143
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78143\n\nTuesday 22 and Wednesday 23 September\nNightly from 8:30PM to 5AM\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Newcastle Interchange. \nT1 North Shore Line trains continue to run between Hornsby and Berowra.
+DTEND:20260923T190000Z
+DTSTART:20260923T103000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby and Newcastle Interchange
+UID:46b069c9-d979-5c79-bb59-0c3cb9113a61
+URL:https://transportnsw.info/alerts/details#/ems-78143
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77740\n\nMonday 14 and Tuesday 15 September\nNightly from 9:10PM to 3AM\, buses replace trains Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nThe last train to Central leaves Berowra at 21:13\, arriving Central at 22:17.\nBuses also replace Central Coast & Newcastle Line trains between Wyong and Hornsby.
 DTEND:20260915T170000Z
 DTSTART:20260915T111000Z
