@@ -10,6 +10,14 @@ UID:dde94ef5-2f91-5a06-80dd-a77279e44bd6
 URL:https://transportnsw.info/alerts/details#/ems-77369
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78198\n\nSaturday 26 and Sunday 27 September\nTrains may run to a changed timetable due to trackwork between Blacktown and Lidcombe.\nSome trains between Bathurst and Lithgow also run to a changed timetable.
+DTEND:20260927T135952Z
+DTSTART:20260925T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:3926e2a1-cf79-532a-a7c8-0787fb3006a2
+URL:https://transportnsw.info/alerts/details#/ems-78198
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77371\n\nSaturday 12 and Sunday 13 September\nMost trains run between Blue Mountains Line stations and Blacktown only.\nUse T1 Western Line trains between Blacktown and the City.\nTrains from Blacktown to Blue Mountains Line stations run up to 30 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Blacktown.
 DTEND:20260913T135953Z
 DTSTART:20260911T160000Z

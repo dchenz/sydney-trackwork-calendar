@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78194\n\nMonday 21 September\nFrom 8PM to 1AM\, buses replace trains between Olympic Park and Lidcombe.
+DTEND:20260921T150033Z
+DTSTART:20260921T100000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:3592c6c7-855b-5427-9d35-18a806a5ddd9
+URL:https://transportnsw.info/alerts/details#/ems-78194
+END:VEVENT
+END:VCALENDAR

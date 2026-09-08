@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77351\n\nTuesday 8 September\nFrom 10:30AM to 1:30PM\, buses replace trains between Leppington and Liverpool.\nTrains run between Liverpool and Schofields\, some to a changed timetable.
-DTEND:20260908T033046Z
-DTSTART:20260908T003000Z
-SUMMARY:Buses replace trains between Leppington and Liverpool
-UID:5b0e09d9-c936-5f95-9ef1-b857e4726c57
-URL:https://transportnsw.info/alerts/details#/ems-77351
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77761\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20260915T153000Z
+DTSTART:20260915T115000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:7c53994a-7bdf-57b3-8f5b-6f577dde7765
+URL:https://transportnsw.info/alerts/details#/ems-77761
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77761\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
@@ -18,12 +18,20 @@ UID:7c53994a-7bdf-57b3-8f5b-6f577dde7765
 URL:https://transportnsw.info/alerts/details#/ems-77761
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77761\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
-DTEND:20260915T153000Z
-DTSTART:20260915T115000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:7c53994a-7bdf-57b3-8f5b-6f577dde7765
-URL:https://transportnsw.info/alerts/details#/ems-77761
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78186\n\nTuesday 22 and Wednesday 23 September\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20260922T153000Z
+DTSTART:20260922T135000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:57854255-0585-5e83-b4c1-59b55fd72731
+URL:https://transportnsw.info/alerts/details#/ems-78186
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78186\n\nTuesday 22 and Wednesday 23 September\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20260923T153000Z
+DTSTART:20260923T135000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:57854255-0585-5e83-b4c1-59b55fd72731
+URL:https://transportnsw.info/alerts/details#/ems-78186
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
@@ -64,5 +72,13 @@ DTSTART:20260908T135000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:96a399c7-1597-58d7-b8db-1d74db37bcce
 URL:https://transportnsw.info/alerts/details#/ems-77349
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78190\n\nSaturday 26 and Sunday 27 September\nBuses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable and stopping pattern between Leppington and the City via Regents Park\, and between Schofields and Olympic Park.
+DTEND:20260927T135939Z
+DTSTART:20260925T160000Z
+SUMMARY:Buses replace trains between Cabramatta and Granville
+UID:7a1297c1-0f7c-5fc3-95c7-fd1e7b580d1a
+URL:https://transportnsw.info/alerts/details#/ems-78190
 END:VEVENT
 END:VCALENDAR

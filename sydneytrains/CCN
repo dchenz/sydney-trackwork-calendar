@@ -26,6 +26,22 @@ UID:b0102a88-bcb9-5e2b-b020-57c54a86e17a
 URL:https://transportnsw.info/alerts/details#/ems-77776
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78201\n\nTuesday 22 and Wednesday 23 September\nNightly from 8:30PM to 4AM\, buses replace most trains between Newcastle Interchange and Hornsby.\nT9 Northern Line trains run between Hornsby and Central\, to a changed timetable.\nWednesday and Thursday\, the 02:38 Wyong to Central service starts from Gosford at 03:15 and runs 15 minutes later than the normal timetable towards Central.
+DTEND:20260923T180027Z
+DTSTART:20260922T103000Z
+SUMMARY:Buses replace most trains between Newcastle Interchange and Hornsby
+UID:8a5ba36d-a983-5411-869a-caac50eda0f1
+URL:https://transportnsw.info/alerts/details#/ems-78201
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78203\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
+DTEND:20260927T135933Z
+DTSTART:20260925T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
+UID:8a446d44-d955-5598-9b14-a1b87d68622d
+URL:https://transportnsw.info/alerts/details#/ems-78203
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77375\n\nFriday 11 to Sunday 13 September \nFrom 10PM Friday\, most trains run between Central Coast & Newcastle Line stations and Strathfield only.\nChange at Epping for metro services to the City or change trains at Strathfield to continue your journey.\nSunday\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only.\nFor travel to T1 North Shore Line stations change at Hornsby\, not Epping.
 DTEND:20260913T135910Z
 DTSTART:20260911T120000Z

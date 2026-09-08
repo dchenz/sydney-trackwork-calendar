@@ -18,6 +18,14 @@ UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
 URL:https://transportnsw.info/alerts/details#/ems-77758
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78180\n\nSaturday 26 and Sunday 27 September\nTrains run to a changed timetable and stopping pattern between Leppington and the City.\nYou may need to change trains if travelling to Inner West stations.
+DTEND:20260927T135947Z
+DTSTART:20260925T160000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:039b54e3-bd3b-5f93-b4c1-9fa68ae248a8
+URL:https://transportnsw.info/alerts/details#/ems-78180
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77320\n\nMonday 7 and Tuesday 8 September\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.
 DTEND:20260908T153000Z
 DTSTART:20260908T112000Z

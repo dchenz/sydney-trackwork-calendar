@@ -81,4 +81,12 @@ SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only. Sydney
 UID:3fb6fd16-d5f8-5e94-baef-25de879e1417
 URL:https://transportnsw.info/alerts/details#/ems-77301
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.
+DTEND:20260927T135911Z
+DTSTART:20260925T160000Z
+SUMMARY:T1 Western Line: Some trains run to a changed timetable and stopping pattern
+UID:15cfea4d-aaf6-5fa7-bce8-46e151981d40
+URL:https://transportnsw.info/alerts/details#/ems-78176
+END:VEVENT
 END:VCALENDAR

@@ -18,6 +18,14 @@ UID:91ea86df-391a-58a5-9ee7-713ff8a87c81
 URL:https://transportnsw.info/alerts/details#/ems-77365
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78196\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
+DTEND:20260926T160024Z
+DTSTART:20260925T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
+UID:561e24bf-423a-52ba-83a5-ee081376535d
+URL:https://transportnsw.info/alerts/details#/ems-78196
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77367\n\nSunday 13 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Tallawong and Chatswood only. Use trains between Epping\, the City and Sydenham.
 DTEND:20260913T135934Z
 DTSTART:20260912T160000Z

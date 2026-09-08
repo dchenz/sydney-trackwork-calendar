@@ -17,4 +17,52 @@ SUMMARY:Buses replace trains between Port Kembla and Wollongong
 UID:03d07094-e90a-51f8-bafd-ed70e59d9e99
 URL:https://transportnsw.info/alerts/details#/ems-77379
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260921T163000Z
+DTSTART:20260921T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
+URL:https://transportnsw.info/alerts/details#/ems-78207
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260922T163000Z
+DTSTART:20260922T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
+URL:https://transportnsw.info/alerts/details#/ems-78207
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78215\n\nSunday 27 September\nFrom 7:30AM to 11:30AM\, at Scarborough\, Wombarra and Coledale\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coledale\, Wombarra and Scarborough\, all trains leave from platform 2.
+DTEND:20260927T060044Z
+DTSTART:20260926T213000Z
+SUMMARY:At Scarborough\, Wombarra and Coledale\, trains leave from different platforms
+UID:e80e6ea1-2a2a-584d-b2f9-a0efa3433717
+URL:https://transportnsw.info/alerts/details#/ems-78215
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78211\n\nSaturday 26 and Sunday 27 September\nBuses replace trains between Bomaderry and Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Central and Epping or Chatswood.
+DTEND:20260927T135925Z
+DTSTART:20260925T160000Z
+SUMMARY:Buses replace trains between Bomaderry and Wollongong
+UID:458650b8-76af-5f3c-b00c-a3a2e2d130be
+URL:https://transportnsw.info/alerts/details#/ems-78211
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78213\n\nSaturday 26 September\nFrom 7:30AM to 11:30AM\, at Stanwell Park and Coalcliff\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coalcliff and Stanwell Park\, all trains leave from platform 2.
+DTEND:20260926T060035Z
+DTSTART:20260925T213000Z
+SUMMARY:At Stanwell Park and Coalcliff\, trains leave from different platforms
+UID:c06ef39b-1f78-5836-a122-fa5ee67a2ce4
+URL:https://transportnsw.info/alerts/details#/ems-78213
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78209\n\nFriday 25 September\nFrom 2:50PM\, buses replace trains from Wollongong to Bomaderry.\nFrom 3:50PM\, buses replace trains from Bomaderry to Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.
+DTEND:20260925T160044Z
+DTSTART:20260925T045000Z
+SUMMARY:Buses replace trains between Bomaderry and Wollongong
+UID:9f75f272-9f9e-5380-9282-df94e8dd6ffa
+URL:https://transportnsw.info/alerts/details#/ems-78209
+END:VEVENT
 END:VCALENDAR

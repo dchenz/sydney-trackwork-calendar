@@ -25,4 +25,12 @@ SUMMARY:Trains run to a changed timetable and reduced frequency
 UID:a8aa761a-6ee7-56bb-8bb7-07afffef3ba4
 URL:https://transportnsw.info/alerts/details#/ems-77355
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78192\n\nSaturday 26 and Sunday 27 September\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20260927T135903Z
+DTSTART:20260925T160000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:f412b473-65bf-5133-8c12-5b4d2d09865b
+URL:https://transportnsw.info/alerts/details#/ems-78192
+END:VEVENT
 END:VCALENDAR
