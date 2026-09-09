@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77316\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20260909T153000Z
-DTSTART:20260909T114000Z
+DTEND:20260910T153000Z
+DTSTART:20260910T114000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:6b0fed7f-17eb-5133-a092-9a25539668cf
 URL:https://transportnsw.info/alerts/details#/ems-77316
@@ -16,14 +16,6 @@ DTSTART:20260914T115000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:1bd1cb3a-ae9f-507d-8ce1-e35be3df05c0
 URL:https://transportnsw.info/alerts/details#/ems-77752
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77316\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20260910T153000Z
-DTSTART:20260910T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:6b0fed7f-17eb-5133-a092-9a25539668cf
-URL:https://transportnsw.info/alerts/details#/ems-77316
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77752\n\nMonday 14 and Tuesday 15 September\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.

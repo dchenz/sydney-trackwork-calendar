@@ -58,14 +58,6 @@ UID:9b133fbd-6f13-5534-8fb0-c4c9734db170
 URL:https://transportnsw.info/alerts/details#/ems-77744
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77303\n\nWednesday 9 September\nFrom 9:10PM\, Sydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only. Use trains between Chatswood\, the City and Sydenham.
-DTEND:20260909T160055Z
-DTSTART:20260909T111000Z
-SUMMARY:T1 North Shore Line: Sydney Metro trackwork may affect how you travel
-UID:89013075-694f-50bb-af0a-6c368b3db9ae
-URL:https://transportnsw.info/alerts/details#/ems-77303
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77305\n\nSunday 13 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Tallawong and Sydenham.\nBuses replace services between Chatswood and Tallawong only. Use trains between Chatswood\, the City and Sydenham.
 DTEND:20260913T135956Z
 DTSTART:20260912T160000Z

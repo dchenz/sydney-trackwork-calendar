@@ -41,12 +41,4 @@ SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to 
 UID:6641f7e0-c58e-5bc3-8029-35d1df0f96ec
 URL:https://transportnsw.info/alerts/details#/ems-77322
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77322\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20260909T153000Z
-DTSTART:20260909T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:6641f7e0-c58e-5bc3-8029-35d1df0f96ec
-URL:https://transportnsw.info/alerts/details#/ems-77322
-END:VEVENT
 END:VCALENDAR
