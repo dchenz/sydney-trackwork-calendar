@@ -50,7 +50,7 @@ UID:504c2de3-c1bf-528e-8bdb-bd959a2b0307
 URL:https://transportnsw.info/alerts/details#/ems-77748
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.\nRichmond trains run between Richmond and Olympic Park. You may need to change trains to continue your journey.
 DTEND:20260927T135911Z
 DTSTART:20260925T160000Z
 SUMMARY:T1 Western Line: Some trains run to a changed timetable and stopping pattern
