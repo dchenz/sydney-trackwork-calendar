@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77359\n\nWednesday 9 and Thursday 10 September\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20260910T153000Z
-DTSTART:20260910T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:23b0ecf4-777f-52d9-8908-a608abe59448
-URL:https://transportnsw.info/alerts/details#/ems-77359
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77767\n\nMonday 14 and Tuesday 15 September\nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
 DTEND:20260915T153000Z
 DTSTART:20260915T113000Z

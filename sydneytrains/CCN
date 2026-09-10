@@ -41,12 +41,4 @@ SUMMARY:Trains run between Central Coast & Newcastle Line stations and Strathfie
 UID:5ec33a02-5094-549d-bb69-7a29d24cd536
 URL:https://transportnsw.info/alerts/details#/ems-77375
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77373\n\nThursday 10 and Friday 11 September\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20260910T170000Z
-DTSTART:20260910T152000Z
-SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
-UID:7c30ad93-2b27-5d43-a7f4-8a372d6942ad
-URL:https://transportnsw.info/alerts/details#/ems-77373
-END:VEVENT
 END:VCALENDAR
