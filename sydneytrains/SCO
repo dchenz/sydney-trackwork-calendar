@@ -10,14 +10,6 @@ UID:4c43f2b5-1515-583f-8a29-6bec3a51ba1d
 URL:https://transportnsw.info/alerts/details#/ems-77381
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77379\n\nThursday 10 September\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20260910T041011Z
-DTSTART:20260909T232000Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:03d07094-e90a-51f8-bafd-ed70e59d9e99
-URL:https://transportnsw.info/alerts/details#/ems-77379
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
 DTEND:20260921T163000Z
 DTSTART:20260921T115000Z
