@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77369\n\nFriday 11 September\nFrom 10PM\, trains run between Blue Mountains Line stations and Strathfield only.\nChange trains at Strathfield to continue your journey.
-DTEND:20260911T160033Z
-DTSTART:20260911T120000Z
-SUMMARY:Trains run between Blue Mountains Line stations and Strathfield only
-UID:dde94ef5-2f91-5a06-80dd-a77279e44bd6
-URL:https://transportnsw.info/alerts/details#/ems-77369
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78198\n\nSaturday 26 and Sunday 27 September\nTrains may run to a changed timetable due to trackwork between Blacktown and Lidcombe.\nSome trains between Bathurst and Lithgow also run to a changed timetable.
 DTEND:20260927T135952Z
 DTSTART:20260925T160000Z
