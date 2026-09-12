@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77324\n\nSaturday 12 September\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
-DTEND:20260912T003042Z
-DTSTART:20260911T203000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78180\n\nSaturday 26 and Sunday 27 September\nTrains run to a changed timetable and stopping pattern between Leppington and the City.\nYou may need to change trains if travelling to Inner West stations.
+DTEND:20260927T135947Z
+DTSTART:20260925T160000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:43076261-fdff-5bb3-8054-e55b4020365b
-URL:https://transportnsw.info/alerts/details#/ems-77324
+UID:039b54e3-bd3b-5f93-b4c1-9fa68ae248a8
+URL:https://transportnsw.info/alerts/details#/ems-78180
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77758\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
@@ -24,13 +24,5 @@ DTSTART:20260917T114000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
 URL:https://transportnsw.info/alerts/details#/ems-77758
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78180\n\nSaturday 26 and Sunday 27 September\nTrains run to a changed timetable and stopping pattern between Leppington and the City.\nYou may need to change trains if travelling to Inner West stations.
-DTEND:20260927T135947Z
-DTSTART:20260925T160000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:039b54e3-bd3b-5f93-b4c1-9fa68ae248a8
-URL:https://transportnsw.info/alerts/details#/ems-78180
 END:VEVENT
 END:VCALENDAR

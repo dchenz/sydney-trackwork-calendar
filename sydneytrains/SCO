@@ -2,25 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77381\n\nSaturday 12 September\nFrom 3AM to 11:30AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.\nThe first train leaves Bondi Junction at 10:13\, Wollongong at 12:08\, arriving Kiama at 12:52.
-DTEND:20260912T013024Z
-DTSTART:20260911T170000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:4c43f2b5-1515-583f-8a29-6bec3a51ba1d
-URL:https://transportnsw.info/alerts/details#/ems-77381
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
 DTEND:20260921T163000Z
 DTSTART:20260921T115000Z
-SUMMARY:Buses replace trains between Waterfall and Hurstville
-UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
-URL:https://transportnsw.info/alerts/details#/ems-78207
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20260922T163000Z
-DTSTART:20260922T115000Z
 SUMMARY:Buses replace trains between Waterfall and Hurstville
 UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
 URL:https://transportnsw.info/alerts/details#/ems-78207
@@ -32,6 +16,14 @@ DTSTART:20260926T213000Z
 SUMMARY:At Scarborough\, Wombarra and Coledale\, trains leave from different platforms
 UID:e80e6ea1-2a2a-584d-b2f9-a0efa3433717
 URL:https://transportnsw.info/alerts/details#/ems-78215
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20260922T163000Z
+DTSTART:20260922T115000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
+URL:https://transportnsw.info/alerts/details#/ems-78207
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78211\n\nSaturday 26 and Sunday 27 September\nBuses replace trains between Bomaderry and Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Central and Epping or Chatswood.
