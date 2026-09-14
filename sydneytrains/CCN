@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-78201
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77776\n\nMonday 14 and Tuesday 15 September\nNightly from 8:30PM to 3:30AM\, buses replace trains between Wyong and Hornsby.\nTrains run between Newcastle Interchange and Wyong\, and between Hornsby and Central\, some to a changed timetable.\nTuesday and Wednesday\, the 02:38 Wyong to Central service starts from Gosford at 03:30 and runs 30 minutes later than the normal timetable towards Central.
-DTEND:20260914T173000Z
-DTSTART:20260914T103000Z
-SUMMARY:Buses replace trains between Wyong and Hornsby
-UID:b0102a88-bcb9-5e2b-b020-57c54a86e17a
-URL:https://transportnsw.info/alerts/details#/ems-77776
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77776\n\nMonday 14 and Tuesday 15 September\nNightly from 8:30PM to 3:30AM\, buses replace trains between Wyong and Hornsby.\nTrains run between Newcastle Interchange and Wyong\, and between Hornsby and Central\, some to a changed timetable.\nTuesday and Wednesday\, the 02:38 Wyong to Central service starts from Gosford at 03:30 and runs 30 minutes later than the normal timetable towards Central.
 DTEND:20260915T173000Z
 DTSTART:20260915T103000Z
 SUMMARY:Buses replace trains between Wyong and Hornsby
