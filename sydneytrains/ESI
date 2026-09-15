@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78184\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Sydenham\, the City and Chatswood.
-DTEND:20260927T135924Z
-DTSTART:20260925T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood
-UID:a8c4b063-061e-5050-bdde-9f94fc8dce91
-URL:https://transportnsw.info/alerts/details#/ems-78184
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78547\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20260930T153000Z
+DTSTART:20260930T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:32531557-1c2e-5a29-a8a1-9871eb185350
+URL:https://transportnsw.info/alerts/details#/ems-78547
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78547\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nMost trains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20261001T153000Z
+DTSTART:20261001T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:32531557-1c2e-5a29-a8a1-9871eb185350
+URL:https://transportnsw.info/alerts/details#/ems-78547
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78182\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
@@ -24,5 +32,13 @@ DTSTART:20260922T115000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:7ef68f64-75e9-5e4b-9c31-588195f8fe45
 URL:https://transportnsw.info/alerts/details#/ems-78182
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78184\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Sydenham\, the City and Chatswood.
+DTEND:20260927T135924Z
+DTSTART:20260925T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood
+UID:a8c4b063-061e-5050-bdde-9f94fc8dce91
+URL:https://transportnsw.info/alerts/details#/ems-78184
 END:VEVENT
 END:VCALENDAR

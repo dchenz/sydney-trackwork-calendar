@@ -18,6 +18,14 @@ UID:0c3f595e-6aac-5fbf-965f-e63e1098dd36
 URL:https://transportnsw.info/alerts/details#/ems-77765
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78553\n\nSaturday 3 October\nFrom 9:30AM to 1PM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.​
+DTEND:20261003T030058Z
+DTSTART:20261002T233000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:6d45fcc6-a371-5981-aec1-119ae204ddf0
+URL:https://transportnsw.info/alerts/details#/ems-78553
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78192\n\nSaturday 26 and Sunday 27 September\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.
 DTEND:20260927T135903Z
 DTSTART:20260925T160000Z

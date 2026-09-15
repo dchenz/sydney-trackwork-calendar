@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78564\n\nSaturday 3 October\nFrom 9:20AM to 4:40PM\, buses replace trains between Lithgow and Katoomba.\nTrains run to a changed timetable between Katoomba and Central.
+DTEND:20261003T064001Z
+DTSTART:20261002T232000Z
+SUMMARY:Buses replace trains between Lithgow and Katoomba
+UID:dfc94053-1fd9-567e-9324-e8f3b60388e0
+URL:https://transportnsw.info/alerts/details#/ems-78564
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78198\n\nSaturday 26 and Sunday 27 September\nTrains may run to a changed timetable due to trackwork between Blacktown and Lidcombe.\nSome trains between Bathurst and Lithgow also run to a changed timetable.
 DTEND:20260927T135952Z
 DTSTART:20260925T160000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:3926e2a1-cf79-532a-a7c8-0787fb3006a2
 URL:https://transportnsw.info/alerts/details#/ems-78198
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78562\n\nMonday 28 and Tuesday 29 September\nNightly from 8:20PM to 3AM\, buses replace trains between Lithgow and St Marys.\nT1 trains run between St Marys and Central\, platforms 1-14 only.\nTuesday and Wednesday\, the 02:26 Mount Victoria to Central train will run up to 15 minutes later than the normal timetable.
+DTEND:20260929T170000Z
+DTSTART:20260929T102000Z
+SUMMARY:Buses replace trains between Lithgow and St Marys
+UID:264b6132-01c2-54c2-a84e-de9f4dc216cd
+URL:https://transportnsw.info/alerts/details#/ems-78562
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78562\n\nMonday 28 and Tuesday 29 September\nNightly from 8:20PM to 3AM\, buses replace trains between Lithgow and St Marys.\nT1 trains run between St Marys and Central\, platforms 1-14 only.\nTuesday and Wednesday\, the 02:26 Mount Victoria to Central train will run up to 15 minutes later than the normal timetable.
+DTEND:20260928T170000Z
+DTSTART:20260928T102000Z
+SUMMARY:Buses replace trains between Lithgow and St Marys
+UID:264b6132-01c2-54c2-a84e-de9f4dc216cd
+URL:https://transportnsw.info/alerts/details#/ems-78562
 END:VEVENT
 END:VCALENDAR

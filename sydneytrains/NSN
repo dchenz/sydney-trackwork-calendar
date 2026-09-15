@@ -50,6 +50,30 @@ UID:9b133fbd-6f13-5534-8fb0-c4c9734db170
 URL:https://transportnsw.info/alerts/details#/ems-77744
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78526\n\nMonday 28 and Tuesday 29 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.
+DTEND:20260928T153000Z
+DTSTART:20260928T112000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro services between Chatswood and the City
+UID:2ded9af6-6f3d-5fb4-b035-a8aa19c29de9
+URL:https://transportnsw.info/alerts/details#/ems-78526
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78526\n\nMonday 28 and Tuesday 29 September\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nUse metro services between Chatswood and the City.
+DTEND:20260929T153000Z
+DTSTART:20260929T112000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro services between Chatswood and the City
+UID:2ded9af6-6f3d-5fb4-b035-a8aa19c29de9
+URL:https://transportnsw.info/alerts/details#/ems-78526
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78528\n\nMonday 5 October\nFrom 6PM to 2AM\, trains run between Berowra and the City\, continuing to Ashfield.\nExpress buses replace trains between Central and Olympic Park or Rhodes.
+DTEND:20261005T150031Z
+DTSTART:20261005T070000Z
+SUMMARY:T1 North Shore Line: Trains run to a changed timetable and stopping pattern
+UID:bb9f6b1e-829a-54f7-b18a-5f4433680e63
+URL:https://transportnsw.info/alerts/details#/ems-78528
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.\nRichmond trains run between Richmond and Olympic Park. You may need to change trains to continue your journey.
 DTEND:20260927T135911Z
 DTSTART:20260925T160000Z

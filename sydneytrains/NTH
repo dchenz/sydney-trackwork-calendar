@@ -2,6 +2,38 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78196\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
+DTEND:20260926T160024Z
+DTSTART:20260925T160000Z
+SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
+UID:561e24bf-423a-52ba-83a5-ee081376535d
+URL:https://transportnsw.info/alerts/details#/ems-78196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78516\n\nMonday 28 and Tuesday 29 September\nFrom 9:10PM trains run between Berowra or Hornsby and Central.\nChange at Hornsby for replacement buses.
+DTEND:20260928T153000Z
+DTSTART:20260928T111000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
+UID:49968444-84fd-5711-a996-0bbb9e3f71ee
+URL:https://transportnsw.info/alerts/details#/ems-78516
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78518\n\nWednesday 30 September\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
+DTEND:20260930T153001Z
+DTSTART:20260930T123000Z
+SUMMARY:Some trains make extra stops at Croydon and Ashfield
+UID:b2682c57-646a-5eb3-aad0-0dbfc88f6491
+URL:https://transportnsw.info/alerts/details#/ems-78518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78522\n\nMonday 5 October\nFrom 6:00PM to 2:00AM\, buses replace trains between Rhodes and Ashfield. \nUse metro services between Epping and the City.\nTrains run to a changed timetable between Hornsby and Rhodes\, and between Ashfield and the City.
+DTEND:20261005T150021Z
+DTSTART:20261005T070000Z
+SUMMARY:Buses replace trains between Rhodes and Ashfield or Central
+UID:dcf27602-c9ca-5554-b0d8-65d342dc6e9e
+URL:https://transportnsw.info/alerts/details#/ems-78522
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78106\n\nFriday 18 September\nFrom 11:30PM\, trains run between Hornsby and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations\, change at Epping or Central for metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for a bus.
 DTEND:20260918T160044Z
 DTSTART:20260918T133000Z
@@ -10,19 +42,19 @@ UID:4d047aad-f9ec-5b2f-8b1c-6002867e7338
 URL:https://transportnsw.info/alerts/details#/ems-78106
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78516\n\nMonday 28 and Tuesday 29 September\nFrom 9:10PM trains run between Berowra or Hornsby and Central.\nChange at Hornsby for replacement buses.
+DTEND:20260929T153000Z
+DTSTART:20260929T111000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14 only
+UID:49968444-84fd-5711-a996-0bbb9e3f71ee
+URL:https://transportnsw.info/alerts/details#/ems-78516
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77774\n\nSaturday 19 and Sunday 20 September\nTrains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nIf travelling to T1 North Shore Line stations\, change at Epping or Central for metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for a bus.
 DTEND:20260920T135954Z
 DTSTART:20260918T160000Z
 SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
 UID:e1329f88-385f-5689-9a27-934865f326bd
 URL:https://transportnsw.info/alerts/details#/ems-77774
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78196\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
-DTEND:20260926T160024Z
-DTSTART:20260925T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
-UID:561e24bf-423a-52ba-83a5-ee081376535d
-URL:https://transportnsw.info/alerts/details#/ems-78196
 END:VEVENT
 END:VCALENDAR
