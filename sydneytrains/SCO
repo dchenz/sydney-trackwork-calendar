@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78610\n\nSaturday 3 October\nFrom 7:30AM to 11:30AM\, at Waterfall and Helensburgh\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Helensburgh and Waterfall\, all trains leave from platform 2.
+DTEND:20261003T060011Z
+DTSTART:20261002T213000Z
+SUMMARY:At Waterfall and Helensburgh\, trains leave from different platforms
+UID:9b2f8085-0c84-59f4-bc71-b8abd9de657c
+URL:https://transportnsw.info/alerts/details#/ems-78610
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78207\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
 DTEND:20260921T163000Z
 DTSTART:20260921T115000Z
@@ -26,6 +34,22 @@ UID:9b451136-c729-5d60-9bfe-58ac9ae899bb
 URL:https://transportnsw.info/alerts/details#/ems-78207
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78608\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20260930T153000Z
+DTSTART:20260930T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:08a0093d-dd5a-58bb-b15a-e35aed2f906a
+URL:https://transportnsw.info/alerts/details#/ems-78608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78608\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20261001T153000Z
+DTSTART:20261001T115000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:08a0093d-dd5a-58bb-b15a-e35aed2f906a
+URL:https://transportnsw.info/alerts/details#/ems-78608
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78211\n\nSaturday 26 and Sunday 27 September\nBuses replace trains between Bomaderry and Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Central and Epping or Chatswood.
 DTEND:20260927T135925Z
 DTSTART:20260925T160000Z
@@ -34,12 +58,28 @@ UID:458650b8-76af-5f3c-b00c-a3a2e2d130be
 URL:https://transportnsw.info/alerts/details#/ems-78211
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78612\n\nSunday 4 October\nFrom 7:30AM to 11:30AM\, at Helensburgh and Otford\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Otford and Helensburgh\, all trains leave from platform 2.
+DTEND:20261004T050004Z
+DTSTART:20261003T203000Z
+SUMMARY:At Helensburgh and Otford\, trains leave from different platforms
+UID:6bbebaa6-05b7-5784-b3c1-9aa38c44d685
+URL:https://transportnsw.info/alerts/details#/ems-78612
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78213\n\nSaturday 26 September\nFrom 7:30AM to 11:30AM\, at Stanwell Park and Coalcliff\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coalcliff and Stanwell Park\, all trains leave from platform 2.
 DTEND:20260926T060035Z
 DTSTART:20260925T213000Z
 SUMMARY:At Stanwell Park and Coalcliff\, trains leave from different platforms
 UID:c06ef39b-1f78-5836-a122-fa5ee67a2ce4
 URL:https://transportnsw.info/alerts/details#/ems-78213
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78614\n\nSaturday 3 to Monday 5 October \nBuses replace trains between Port Kembla and Wollongong.\nTrains run between Bomaderry\, Kiama and Bondi Junction\, some to a changed timetable.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
+DTEND:20261005T150027Z
+DTSTART:20261002T160000Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:c6c4ee06-2ddc-5b1c-97bf-78c7d70a8d40
+URL:https://transportnsw.info/alerts/details#/ems-78614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78209\n\nFriday 25 September\nFrom 2:50PM\, buses replace trains from Wollongong to Bomaderry.\nFrom 3:50PM\, buses replace trains from Bomaderry to Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.

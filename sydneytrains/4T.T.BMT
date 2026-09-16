@@ -19,7 +19,7 @@ URL:https://transportnsw.info/alerts/details#/ems-78198
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78562\n\nMonday 28 and Tuesday 29 September\nNightly from 8:20PM to 3AM\, buses replace trains between Lithgow and St Marys.\nT1 trains run between St Marys and Central\, platforms 1-14 only.\nTuesday and Wednesday\, the 02:26 Mount Victoria to Central train will run up to 15 minutes later than the normal timetable.
-DTEND:20260929T170000Z
+DTEND:20260929T180000Z
 DTSTART:20260929T102000Z
 SUMMARY:Buses replace trains between Lithgow and St Marys
 UID:264b6132-01c2-54c2-a84e-de9f4dc216cd
@@ -27,7 +27,7 @@ URL:https://transportnsw.info/alerts/details#/ems-78562
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78562\n\nMonday 28 and Tuesday 29 September\nNightly from 8:20PM to 3AM\, buses replace trains between Lithgow and St Marys.\nT1 trains run between St Marys and Central\, platforms 1-14 only.\nTuesday and Wednesday\, the 02:26 Mount Victoria to Central train will run up to 15 minutes later than the normal timetable.
-DTEND:20260928T170000Z
+DTEND:20260928T180000Z
 DTSTART:20260928T102000Z
 SUMMARY:Buses replace trains between Lithgow and St Marys
 UID:264b6132-01c2-54c2-a84e-de9f4dc216cd
