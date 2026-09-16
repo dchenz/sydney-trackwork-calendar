@@ -27,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-78186
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
-DTEND:20260916T153000Z
-DTSTART:20260916T114000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:43c708a8-065e-5d71-bc28-5c403486c3a5
-URL:https://transportnsw.info/alerts/details#/ems-77763
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
 DTEND:20260917T153000Z
 DTSTART:20260917T114000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
