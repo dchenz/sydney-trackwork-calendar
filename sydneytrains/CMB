@@ -26,14 +26,6 @@ UID:57854255-0585-5e83-b4c1-59b55fd72731
 URL:https://transportnsw.info/alerts/details#/ems-78186
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77763\n\nWednesday 16 and Thursday 17 September \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
-DTEND:20260917T153000Z
-DTSTART:20260917T114000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:43c708a8-065e-5d71-bc28-5c403486c3a5
-URL:https://transportnsw.info/alerts/details#/ems-77763
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78549\n\nSunday 4 October\nFrom 5:30AM to 9:40AM\, buses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable between Leppington and the City via Regents Park\, and between Richmond or Schofields and Olympic Park.\nYou may need to change trains at Lidcombe to continue your journey.\nFrom 9:40AM to 11:30AM\, trains run to a changed timetable between Leppington and the City via Granville\, and between Schofields and Olympic Park.\nYou may need to change trains at Granville to continue your journey.
 DTEND:20261004T003000Z
 DTSTART:20261003T183000Z

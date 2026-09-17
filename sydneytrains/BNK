@@ -34,14 +34,6 @@ UID:039b54e3-bd3b-5f93-b4c1-9fa68ae248a8
 URL:https://transportnsw.info/alerts/details#/ems-78180
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77758\n\nWednesday 16 and Thursday 17 September\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20260917T153000Z
-DTSTART:20260917T114000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:2ad7fb1d-1308-50c1-b8a0-fb227dc90a53
-URL:https://transportnsw.info/alerts/details#/ems-77758
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78545\n\nMonday 5 October\nFrom 6PM to 2AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Liverpool and Lidcombe\n- Lidcombe and Olympic Park\n- Ashfield and the City\, continuing to T1 North Shore Line stations.\nYou may need to change services to continue your journey.
 DTEND:20261005T150053Z
 DTSTART:20261005T070000Z

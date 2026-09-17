@@ -18,14 +18,6 @@ UID:ec6e4c02-fc7d-51ab-8e57-8dcf792d6c6f
 URL:https://transportnsw.info/alerts/details#/ems-78530
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78534\n\nMonday 5 October\nFrom 6PM to 2AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Penrith and Olympic Park\n- Richmond and Liverpool\n- Ashfield and the City\, continuing to T1 North Shore Line stations.\nYou may need to change services to continue your journey.
-DTEND:20261005T150028Z
-DTSTART:20261005T070000Z
-SUMMARY:T1 Western Line: Buses replace trains between Olympic Park and Ashfield or Central
-UID:cbec43e6-b4dd-55dc-93a8-c2fd507d9bd8
-URL:https://transportnsw.info/alerts/details#/ems-78534
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77750\n\nSaturday 19 and Sunday 20 September\\\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Olympic Park. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only.\nSunday from 6:30AM to 10:30AM\, Richmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.
 DTEND:20260920T135923Z
 DTSTART:20260918T160000Z
@@ -42,12 +34,12 @@ UID:2d69d46a-db04-5e40-b7bb-17fba51e249d
 URL:https://transportnsw.info/alerts/details#/ems-78104
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77748\n\nWednesday 16 and Thursday 17 September\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
-DTEND:20260917T153000Z
-DTSTART:20260917T112000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
-UID:504c2de3-c1bf-528e-8bdb-bd959a2b0307
-URL:https://transportnsw.info/alerts/details#/ems-77748
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78534\n\nMonday 5 October\nFrom 6PM to 2AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Penrith and Olympic Park\n- Richmond and Liverpool\n- Ashfield and the City\, continuing to T1 North Shore Line stations.\nYou may need to change services to continue your journey.
+DTEND:20261005T150028Z
+DTSTART:20261005T070000Z
+SUMMARY:T1 Western Line: Buses replace trains between Olympic Park and Ashfield or Central
+UID:cbec43e6-b4dd-55dc-93a8-c2fd507d9bd8
+URL:https://transportnsw.info/alerts/details#/ems-78534
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.\nRichmond trains run between Richmond and Olympic Park. You may need to change trains to continue your journey.
