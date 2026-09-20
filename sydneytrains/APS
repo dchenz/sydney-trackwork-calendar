@@ -17,12 +17,4 @@ SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may aff
 UID:b44c15ce-6501-59ae-adb4-eaf1a5b73e6c
 URL:https://transportnsw.info/alerts/details#/ems-78557
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-77772\n\nSunday 20 September\nFrom 8:40AM to 3PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
-DTEND:20260920T050007Z
-DTSTART:20260919T224000Z
-SUMMARY:Buses replace the all-stations trains between Wolli Creek and Revesby
-UID:6d17c60f-f62e-519a-96dd-cea7953b1650
-URL:https://transportnsw.info/alerts/details#/ems-77772
-END:VEVENT
 END:VCALENDAR
