@@ -26,6 +26,22 @@ UID:cbec43e6-b4dd-55dc-93a8-c2fd507d9bd8
 URL:https://transportnsw.info/alerts/details#/ems-78534
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78889\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.
+DTEND:20261011T125918Z
+DTSTART:20261009T130000Z
+SUMMARY:T1 Western Line: Buses replace trains between Parramatta and Olympic Park
+UID:3b1e0b6a-5a53-5bf2-a488-65ee3040c7c6
+URL:https://transportnsw.info/alerts/details#/ems-78889
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78885\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central. \nT1 North Shore Line trains start from Wynyard.
+DTEND:20261006T143022Z
+DTSTART:20261006T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:da5be4f7-d4a0-5397-a427-ac8f8e6b32a1
+URL:https://transportnsw.info/alerts/details#/ems-78885
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.\nRichmond trains run between Richmond and Olympic Park. You may need to change trains to continue your journey.
 DTEND:20260927T135911Z
 DTSTART:20260925T160000Z

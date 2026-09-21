@@ -42,6 +42,14 @@ UID:2ded9af6-6f3d-5fb4-b035-a8aa19c29de9
 URL:https://transportnsw.info/alerts/details#/ems-78526
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78879\n\nTuesday 6 October  \n9:40PM to 1:30AM\, trains run between Berowra and Wynyard only.\nUse metro services between Chatswood and the City. \nTrains do not run between Wynyard and Central\, or on the City Circle. \n\n\nPlan your trip before you travel for up-to-date real time information. You can also subscribe to planned trackwork alerts.
+DTEND:20261006T143000Z
+DTSTART:20261006T104000Z
+SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
+UID:de932c83-3c55-5d30-bfa2-ec8f465bd900
+URL:https://transportnsw.info/alerts/details#/ems-78879
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78528\n\nMonday 5 October\nFrom 6PM to 2AM\, trains run between Berowra and the City\, continuing to Ashfield.\nExpress buses replace trains between Central and Olympic Park or Rhodes.
 DTEND:20261005T150031Z
 DTSTART:20261005T070000Z

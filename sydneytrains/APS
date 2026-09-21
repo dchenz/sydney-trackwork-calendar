@@ -17,4 +17,12 @@ SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may aff
 UID:b44c15ce-6501-59ae-adb4-eaf1a5b73e6c
 URL:https://transportnsw.info/alerts/details#/ems-78557
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78877\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20261006T143051Z
+DTSTART:20261006T104000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
+URL:https://transportnsw.info/alerts/details#/ems-78877
+END:VEVENT
 END:VCALENDAR
