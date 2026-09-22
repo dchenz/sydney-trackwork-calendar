@@ -25,4 +25,36 @@ SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central a
 UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
 URL:https://transportnsw.info/alerts/details#/ems-78877
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 October\nFrom 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20261007T143028Z
+DTSTART:20261007T104000Z
+SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
+UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
+URL:https://transportnsw.info/alerts/details#/ems-78945
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78949\n\nSaturday 10 and Sunday 11 October\nTrackwork on the T4 Illawarra and South Coast lines may affect how you travel.\nChange at Central for buses towards Bondi Junction\, T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
+DTEND:20261011T125903Z
+DTSTART:20261009T150000Z
+SUMMARY:Trackwork on the T4 Illawarra and South Coast lines may affect how you travel
+UID:2ea09cb5-cb8c-5c3b-a52d-1a240f5971af
+URL:https://transportnsw.info/alerts/details#/ems-78949
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78943\n\nTuesday 6 October\nFrom 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
+DTEND:20261006T143021Z
+DTSTART:20261006T103000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:0a9d4688-2872-5c73-808a-9a2eb8551cf8
+URL:https://transportnsw.info/alerts/details#/ems-78943
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78947\n\nThursday 8 October\nFrom 9:40PM\, trains between Sydenham and the City Circle run to a changed timetable.\nFrom 10:40PM to 1:30AM\, buses replace trains between Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between Macarthur and the City via Sydenham.
+DTEND:20261008T150011Z
+DTSTART:20261008T104000Z
+SUMMARY:Buses replace trains between Sydenham and the City via the Airport. Trains run to a changed timetable
+UID:620b22be-27f8-5b1e-b09e-39eb3df5ee7d
+URL:https://transportnsw.info/alerts/details#/ems-78947
+END:VEVENT
 END:VCALENDAR

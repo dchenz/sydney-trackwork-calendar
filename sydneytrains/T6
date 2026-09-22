@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78939\n\nSaturday 10 and Sunday 11 October\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.​
+DTEND:20261011T125927Z
+DTSTART:20261009T150000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:f7a3c437-e6af-57cc-9824-6fa1d53394ef
+URL:https://transportnsw.info/alerts/details#/ems-78939
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78553\n\nSaturday 3 October\nFrom 9:30AM to 1PM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.​
 DTEND:20261003T030058Z
 DTSTART:20261002T233000Z

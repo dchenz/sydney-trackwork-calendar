@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78959\n\nThursday 8 October \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
+DTEND:20261008T031000Z
+DTSTART:20261007T222034Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
+URL:https://transportnsw.info/alerts/details#/ems-78959
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78610\n\nSaturday 3 October\nFrom 7:30AM to 11:30AM\, at Waterfall and Helensburgh\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Helensburgh and Waterfall\, all trains leave from platform 2.
 DTEND:20261003T060011Z
 DTSTART:20261002T213000Z
@@ -72,6 +80,14 @@ DTSTART:20261002T160000Z
 SUMMARY:Buses replace trains between Port Kembla and Wollongong
 UID:c6c4ee06-2ddc-5b1c-97bf-78c7d70a8d40
 URL:https://transportnsw.info/alerts/details#/ems-78614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78961\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
+DTEND:20261011T125914Z
+DTSTART:20261009T150000Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
+UID:f0cf77f8-fb31-5b7f-9eab-4f5fa0a44b7a
+URL:https://transportnsw.info/alerts/details#/ems-78961
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78209\n\nFriday 25 September\nFrom 2:50PM\, buses replace trains from Wollongong to Bomaderry.\nFrom 3:50PM\, buses replace trains from Bomaderry to Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong you may need to catch an earlier bus to ensure you meet your train connection.

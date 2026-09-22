@@ -59,8 +59,8 @@ URL:https://transportnsw.info/alerts/details#/ems-78893
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78902\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.\nT3 Liverpool & Inner West Line trains run between Liverpool and Lidcombe only.
-DTEND:20261011T125959Z
-DTSTART:20261009T130000Z
+DTEND:20261010T150059Z
+DTSTART:20261009T150000Z
 SUMMARY:Buses replace trains between Parramatta and Olympic Park
 UID:5d3d1958-ea77-5cfc-89eb-2e31b461cf57
 URL:https://transportnsw.info/alerts/details#/ems-78902

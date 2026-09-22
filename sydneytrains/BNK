@@ -51,8 +51,16 @@ URL:https://transportnsw.info/alerts/details#/ems-78545
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78883\n\nWednesday 7 and Thursday 8 October \n• Nightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\n.
-DTEND:20261008T143051Z
+DTEND:20261007T143000Z
 DTSTART:20261007T104000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:1f6dc200-f51a-5949-aa37-6f8baf305b58
+URL:https://transportnsw.info/alerts/details#/ems-78883
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78883\n\nWednesday 7 and Thursday 8 October \n• Nightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\n.
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:1f6dc200-f51a-5949-aa37-6f8baf305b58
 URL:https://transportnsw.info/alerts/details#/ems-78883
@@ -66,7 +74,7 @@ UID:ac71d643-a400-56c3-b12e-d713546f3470
 URL:https://transportnsw.info/alerts/details#/ems-78881
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78887\n\nSaturday 10 and Sunday 11 October\nTrains do not run between Lidcombe and the City.\nBuses replace all trains between Parramatta\, Lidcombe and Olympic Park.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78887\n\nSaturday 10 and Sunday 11 October\nTrains run to a changed timetable and stopping pattern between:\n- Liverpool and Lidcombe\n- Olympic Park and the City.\nBuses replace all trains between Parramatta\, Lidcombe and Olympic Park.
 DTEND:20261011T125953Z
 DTSTART:20261009T150000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace trains between Lidcombe and Olympic Park

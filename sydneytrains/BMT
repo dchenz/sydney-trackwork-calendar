@@ -26,6 +26,14 @@ UID:264b6132-01c2-54c2-a84e-de9f4dc216cd
 URL:https://transportnsw.info/alerts/details#/ems-78562
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78955\n\nSaturday 10 and Sunday 11 October\nTrains run between Blue Mountains Line stations and Blacktown only.\nT1 Western Line trains run between Penrith\, Blacktown and Leppington. Buses replace trains between Parramatta and Olympic Park.\nChange at:\n- Parramatta for buses towards Olympic Park\, then take a train from Olympic Park to the City\, or\n- Glenfield for trains to the City via the Airport.\nTrains from Blacktown to Blue Mountains Line stations run 30 minutes later than the normal timetable.\nBathurst trains run between Bathurst and Lithgow\, some to a changed timetable.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DTEND:20261011T125959Z
+DTSTART:20261009T150000Z
+SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only
+UID:053af258-b82f-5859-b31d-6e53c681cbca
+URL:https://transportnsw.info/alerts/details#/ems-78955
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78564\n\nSaturday 3 October\nFrom 9:20AM to 4:40PM\, buses replace trains between Lithgow and Katoomba.\nTrains run to a changed timetable between Katoomba and Central.
 DTEND:20261003T064001Z
 DTSTART:20261002T232000Z

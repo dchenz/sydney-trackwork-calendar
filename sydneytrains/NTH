@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78951\n\nTuesday 6 October\nFrom 9:30PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nCity Circle trackwork may also affect how you travel. Change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
+DTEND:20261006T143020Z
+DTSTART:20261006T103000Z
+SUMMARY:Trains run between Hornsby and Central\, platforms 1-14 only\, and make extra stops
+UID:b329e627-c4da-5d5b-97ce-b0d9aa2d2322
+URL:https://transportnsw.info/alerts/details#/ems-78951
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78196\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
 DTEND:20260926T160024Z
 DTSTART:20260925T160000Z
@@ -32,6 +40,22 @@ DTSTART:20261005T070000Z
 SUMMARY:Buses replace trains between Rhodes and Ashfield or Central
 UID:dcf27602-c9ca-5554-b0d8-65d342dc6e9e
 URL:https://transportnsw.info/alerts/details#/ems-78522
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78953\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
+DTEND:20261007T143000Z
+DTSTART:20261007T104000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:6add0fa7-a528-5d06-8c06-63bfc717bec8
+URL:https://transportnsw.info/alerts/details#/ems-78953
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78953\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:6add0fa7-a528-5d06-8c06-63bfc717bec8
+URL:https://transportnsw.info/alerts/details#/ems-78953
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78516\n\nMonday 28 and Tuesday 29 September\nFrom 9:10PM trains run between Berowra or Hornsby and Central.\nChange at Hornsby for replacement buses.
