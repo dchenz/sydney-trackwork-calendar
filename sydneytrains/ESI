@@ -34,14 +34,6 @@ UID:32531557-1c2e-5a29-a8a1-9871eb185350
 URL:https://transportnsw.info/alerts/details#/ems-78547
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78182\n\nMonday 21 and Tuesday 22 September\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20260922T163000Z
-DTSTART:20260922T115000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:7ef68f64-75e9-5e4b-9c31-588195f8fe45
-URL:https://transportnsw.info/alerts/details#/ems-78182
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78184\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Sydenham and Chatswood.\nUse trains between Sydenham\, the City and Chatswood.
 DTEND:20260927T135924Z
 DTSTART:20260925T160000Z
