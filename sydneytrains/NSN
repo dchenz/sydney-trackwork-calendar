@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78143\n\nTuesday 22 and Wednesday 23 September\nNightly from 8:30PM to 5AM\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Newcastle Interchange. \nT1 North Shore Line trains continue to run between Hornsby and Berowra.
-DTEND:20260923T190000Z
-DTSTART:20260923T103000Z
-SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby and Newcastle Interchange
-UID:46b069c9-d979-5c79-bb59-0c3cb9113a61
-URL:https://transportnsw.info/alerts/details#/ems-78143
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78117\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Chatswood\, the City and Sydenham.
 DTEND:20260927T135955Z
 DTSTART:20260925T160000Z

@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78597\n\nSaturday 3 October\nBuses replace trains between Newcastle Interchange and Gosford.\nTrains run between Gosford and Central\, some to a changed timetable.
-DTEND:20261003T160000Z
-DTSTART:20261002T150000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Gosford
-UID:e6814aaa-1618-5df1-b423-10576eb9f8a1
-URL:https://transportnsw.info/alerts/details#/ems-78597
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78599\n\nSaturday 3 October\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 11:10AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
 DTEND:20261003T011009Z
 DTSTART:20261002T193000Z
@@ -18,20 +10,20 @@ UID:0c8cfac9-3202-52dd-ba23-730b5566e826
 URL:https://transportnsw.info/alerts/details#/ems-78599
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78597\n\nSaturday 3 October\nBuses replace trains between Newcastle Interchange and Gosford.\nTrains run between Gosford and Central\, some to a changed timetable.
+DTEND:20261003T160000Z
+DTSTART:20261002T150000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Gosford
+UID:e6814aaa-1618-5df1-b423-10576eb9f8a1
+URL:https://transportnsw.info/alerts/details#/ems-78597
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78602\n\nSunday 4 October\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
 DTEND:20261004T000050Z
 DTSTART:20261003T190000Z
 SUMMARY:At Cowan and Hawkesbury River\, trains may leave from different platforms
 UID:47b8e043-f824-5a30-96fc-9a9ff30408a9
 URL:https://transportnsw.info/alerts/details#/ems-78602
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78201\n\nTuesday 22 and Wednesday 23 September\nNightly from 8:30PM to 4AM\, buses replace most trains between Newcastle Interchange and Hornsby.\nT9 Northern Line trains run between Hornsby and Central\, to a changed timetable.\nWednesday and Thursday\, the 02:38 Wyong to Central service starts from Gosford at 03:15 and runs 15 minutes later than the normal timetable towards Central.
-DTEND:20260923T180027Z
-DTSTART:20260922T103000Z
-SUMMARY:Buses replace most trains between Newcastle Interchange and Hornsby
-UID:8a5ba36d-a983-5411-869a-caac50eda0f1
-URL:https://transportnsw.info/alerts/details#/ems-78201
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78203\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
