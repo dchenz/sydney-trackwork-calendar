@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79105\n\nWednesday 30 September\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Homebush and Burwood.
+DTEND:20260930T153042Z
+DTSTART:20260930T003000Z
+SUMMARY:T1 Western Line: Some trains make extra stops at Homebush and Burwood
+UID:3a52e0b3-63bb-5adb-a508-b44e679d2bd1
+URL:https://transportnsw.info/alerts/details#/ems-79105
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78530\n\nMonday 28 and Tuesday 29 September\nNightly from 9:40PM to 4AM\, buses replace trains between Emu Plains and St Marys.\nTrains run between St Marys and Central\, platforms 1-14 only.\nTrackwork also affects T1 North Shore Line trains. Use metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for replacement buses.\nTuesday and Wednesday\, buses replace the 03:09 and 03:47 Emu Plains to the City trains from Emu Plains to St Marys.
 DTEND:20260928T180000Z
 DTSTART:20260928T114000Z
@@ -18,12 +26,12 @@ UID:ec6e4c02-fc7d-51ab-8e57-8dcf792d6c6f
 URL:https://transportnsw.info/alerts/details#/ems-78530
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78534\n\nMonday 5 October\nFrom 6PM to 2AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Penrith and Olympic Park\n- Richmond and Liverpool\n- Ashfield and the City\, continuing to T1 North Shore Line stations.\nYou may need to change services to continue your journey.
-DTEND:20261005T150028Z
-DTSTART:20261005T070000Z
-SUMMARY:T1 Western Line: Buses replace trains between Olympic Park and Ashfield or Central
-UID:cbec43e6-b4dd-55dc-93a8-c2fd507d9bd8
-URL:https://transportnsw.info/alerts/details#/ems-78534
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78885\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central. \nT1 North Shore Line trains start from Wynyard.
+DTEND:20261006T143022Z
+DTSTART:20261006T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:da5be4f7-d4a0-5397-a427-ac8f8e6b32a1
+URL:https://transportnsw.info/alerts/details#/ems-78885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78889\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.
@@ -34,12 +42,12 @@ UID:3b1e0b6a-5a53-5bf2-a488-65ee3040c7c6
 URL:https://transportnsw.info/alerts/details#/ems-78889
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78885\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central. \nT1 North Shore Line trains start from Wynyard.
-DTEND:20261006T143022Z
-DTSTART:20261006T104000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:da5be4f7-d4a0-5397-a427-ac8f8e6b32a1
-URL:https://transportnsw.info/alerts/details#/ems-78885
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78534\n\nMonday 5 October\nFrom 6PM to 2AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Penrith and Olympic Park\n- Richmond and Liverpool\n- Ashfield and the City\, continuing to T1 North Shore Line stations.\nYou may need to change services to continue your journey.
+DTEND:20261005T150028Z
+DTSTART:20261005T070000Z
+SUMMARY:T1 Western Line: Buses replace trains between Olympic Park and Ashfield or Central
+UID:cbec43e6-b4dd-55dc-93a8-c2fd507d9bd8
+URL:https://transportnsw.info/alerts/details#/ems-78534
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78176\n\nSaturday 26 and Sunday 27 September\nSome trains run to a changed timetable and stopping pattern.\nRichmond trains run between Richmond and Olympic Park. You may need to change trains to continue your journey.
