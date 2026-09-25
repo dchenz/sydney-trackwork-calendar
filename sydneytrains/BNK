@@ -74,10 +74,10 @@ UID:ac71d643-a400-56c3-b12e-d713546f3470
 URL:https://transportnsw.info/alerts/details#/ems-78881
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78887\n\nSaturday 10 and Sunday 11 October\nTrains run to a changed timetable and stopping pattern between:\n- Liverpool and Lidcombe\n- Olympic Park and the City.\nBuses replace all trains between Parramatta\, Lidcombe and Olympic Park.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78887\n\nSaturday 10 and Sunday 11 October\nBuses replace all trains between Parramatta\, Lidcombe and Olympic Park.\nTrains run to a changed timetable and stopping pattern between:\n- Liverpool and Lidcombe\n- Olympic Park and the City.
 DTEND:20261011T125953Z
 DTSTART:20261009T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace trains between Lidcombe and Olympic Park
+SUMMARY:Buses replace trains between Lidcombe and Olympic Park. Trains run to a changed timetable and stopping pattern
 UID:7982e1f5-1f8a-5624-95eb-37e98870513b
 URL:https://transportnsw.info/alerts/details#/ems-78887
 END:VEVENT

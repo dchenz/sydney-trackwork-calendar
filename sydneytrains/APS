@@ -26,9 +26,17 @@ UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
 URL:https://transportnsw.info/alerts/details#/ems-78877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 October\nFrom 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261007T143028Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20261007T143000Z
 DTSTART:20261007T104000Z
+SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
+UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
+URL:https://transportnsw.info/alerts/details#/ems-78945
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
 SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
 UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
 URL:https://transportnsw.info/alerts/details#/ems-78945
@@ -48,13 +56,5 @@ DTSTART:20261006T103000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:0a9d4688-2872-5c73-808a-9a2eb8551cf8
 URL:https://transportnsw.info/alerts/details#/ems-78943
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78947\n\nThursday 8 October\nFrom 9:40PM\, trains between Sydenham and the City Circle run to a changed timetable.\nFrom 10:40PM to 1:30AM\, buses replace trains between Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between Macarthur and the City via Sydenham.
-DTEND:20261008T150011Z
-DTSTART:20261008T104000Z
-SUMMARY:Buses replace trains between Sydenham and the City via the Airport. Trains run to a changed timetable
-UID:620b22be-27f8-5b1e-b09e-39eb3df5ee7d
-URL:https://transportnsw.info/alerts/details#/ems-78947
 END:VEVENT
 END:VCALENDAR
