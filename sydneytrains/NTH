@@ -10,14 +10,6 @@ UID:b329e627-c4da-5d5b-97ce-b0d9aa2d2322
 URL:https://transportnsw.info/alerts/details#/ems-78951
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78196\n\nSaturday 26 and Sunday 27 September\nSydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham.\nUse trains between Epping or Chatswood\, the City and Sydenham.
-DTEND:20260926T160024Z
-DTSTART:20260925T160000Z
-SUMMARY:Sydney Metro trackwork may affect how you travel. Metro services do not run between Chatswood and Sydenham
-UID:561e24bf-423a-52ba-83a5-ee081376535d
-URL:https://transportnsw.info/alerts/details#/ems-78196
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78516\n\nMonday 28 and Tuesday 29 September\nFrom 9:10PM trains run between Berowra or Hornsby and Central.\nChange at Hornsby for replacement buses.
 DTEND:20260929T153000Z
 DTSTART:20260929T111000Z
