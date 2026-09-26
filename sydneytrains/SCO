@@ -58,14 +58,6 @@ UID:6bbebaa6-05b7-5784-b3c1-9aa38c44d685
 URL:https://transportnsw.info/alerts/details#/ems-78612
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78213\n\nSaturday 26 September\nFrom 7:30AM to 11:30AM\, at Stanwell Park and Coalcliff\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Coalcliff and Stanwell Park\, all trains leave from platform 2.
-DTEND:20260926T060035Z
-DTSTART:20260925T213000Z
-SUMMARY:At Stanwell Park and Coalcliff\, trains leave from different platforms
-UID:c06ef39b-1f78-5836-a122-fa5ee67a2ce4
-URL:https://transportnsw.info/alerts/details#/ems-78213
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78614\n\nSaturday 3 to Monday 5 October \nBuses replace trains between Port Kembla and Wollongong.\nTrains run between Bomaderry\, Kiama and Bondi Junction\, some to a changed timetable.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20261005T150027Z
 DTSTART:20261002T160000Z
