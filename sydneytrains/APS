@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78557\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
-DTEND:20261001T153000Z
-DTSTART:20261001T115000Z
-SUMMARY:Some trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
-UID:b44c15ce-6501-59ae-adb4-eaf1a5b73e6c
-URL:https://transportnsw.info/alerts/details#/ems-78557
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78877\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20261006T143051Z
 DTSTART:20261006T104000Z
@@ -42,20 +34,20 @@ UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
 URL:https://transportnsw.info/alerts/details#/ems-78945
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261007T143000Z
-DTSTART:20261007T104000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
-URL:https://transportnsw.info/alerts/details#/ems-78945
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78949\n\nSaturday 10 and Sunday 11 October\nTrackwork on the T4 Illawarra and South Coast lines may affect how you travel.\nChange at Central for buses towards Bondi Junction\, T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
 DTEND:20261011T125903Z
 DTSTART:20261009T150000Z
 SUMMARY:Trackwork on the T4 Illawarra and South Coast lines may affect how you travel
 UID:2ea09cb5-cb8c-5c3b-a52d-1a240f5971af
 URL:https://transportnsw.info/alerts/details#/ems-78949
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
+DTEND:20261007T143000Z
+DTSTART:20261007T104000Z
+SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
+UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
+URL:https://transportnsw.info/alerts/details#/ems-78945
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.

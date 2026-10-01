@@ -26,14 +26,6 @@ UID:9b2f8085-0c84-59f4-bc71-b8abd9de657c
 URL:https://transportnsw.info/alerts/details#/ems-78610
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78608\n\nWednesday 30 September and Thursday 1 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
-DTEND:20261001T153000Z
-DTSTART:20261001T115000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:08a0093d-dd5a-58bb-b15a-e35aed2f906a
-URL:https://transportnsw.info/alerts/details#/ems-78608
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78612\n\nSunday 4 October\nFrom 7:30AM to 11:30AM\, at Helensburgh and Otford\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Otford and Helensburgh\, all trains leave from platform 2.
 DTEND:20261004T050004Z
 DTSTART:20261003T203000Z
