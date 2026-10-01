@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78551\n\nMonday 5 October\nFrom 11:50PM to 1:30AM\, some trains run between Richmond or Leppington and Olympic Park.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20261005T143022Z
+DTSTART:20261005T125000Z
+SUMMARY:Some trains run to a changed timetable and stopping pattern
+UID:a7a3ff7c-2231-5430-a38f-0ddeb000b242
+URL:https://transportnsw.info/alerts/details#/ems-78551
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78899\n\nTuesday 6 and Wednesday 7 October\nNightly from 11:50PM to 1.30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20261007T143000Z
+DTSTART:20261007T125000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:4479f661-bc83-5bc7-b3a7-fe586d32460b
+URL:https://transportnsw.info/alerts/details#/ems-78899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78899\n\nTuesday 6 and Wednesday 7 October\nNightly from 11:50PM to 1.30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20261006T143000Z
+DTSTART:20261006T125000Z
+SUMMARY:You may need to change trains at Granville to continue your journey
+UID:4479f661-bc83-5bc7-b3a7-fe586d32460b
+URL:https://transportnsw.info/alerts/details#/ems-78899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78904\n\nSaturday 10 and Sunday 11 October\nTrains run to a changed timetable and stopping pattern between Richmond and Liverpool\, and between Penrith and Leppington.
+DTEND:20261011T125957Z
+DTSTART:20261009T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:72b3d65a-edb9-54fc-8f27-bd0e7de61b9f
+URL:https://transportnsw.info/alerts/details#/ems-78904
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79370\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield. \nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20261014T143000Z
+DTSTART:20261014T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
+URL:https://transportnsw.info/alerts/details#/ems-79370
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79370\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield. \nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20261015T143000Z
+DTSTART:20261015T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
+URL:https://transportnsw.info/alerts/details#/ems-79370
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78549\n\nSunday 4 October\nFrom 5:30AM to 9:40AM\, buses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable between Leppington and the City via Regents Park\, and between Richmond or Schofields and Olympic Park.\nYou may need to change trains at Lidcombe to continue your journey.\nFrom 9:40AM to 11:30AM\, trains run to a changed timetable between Leppington and the City via Granville\, and between Schofields and Olympic Park.\nYou may need to change trains at Granville to continue your journey.
+DTEND:20261004T003000Z
+DTSTART:20261003T183000Z
+SUMMARY:Buses replace trains between Cabramatta and Granville
+UID:408bf41a-cae7-5b05-aeb4-ffb2d8bd5029
+URL:https://transportnsw.info/alerts/details#/ems-78549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79368\n\nMonday 12 and Tuesday 13 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20261013T143059Z
+DTSTART:20261012T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:b1db4bf4-0b28-5cd4-8c78-dc5efab0f638
+URL:https://transportnsw.info/alerts/details#/ems-79368
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79372\n\nSunday 18 October \nBuses replace trains between Parramatta and Cabramatta.\nTrains run to a changed timetable and stopping pattern.
+DTEND:20261018T125945Z
+DTSTART:20261017T150000Z
+SUMMARY:Buses replace trains between Parramatta and Cabramatta
+UID:b2359fe9-ef05-5bae-a598-8015f55e19e4
+URL:https://transportnsw.info/alerts/details#/ems-79372
+END:VEVENT
+END:VCALENDAR

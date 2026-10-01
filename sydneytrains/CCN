@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78599\n\nSaturday 3 October\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 11:10AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
+DTEND:20261003T011009Z
+DTSTART:20261002T193000Z
+SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platforms.  If travelling to Cowan you may need to change at Hawkesbury River for a bus
+UID:0c8cfac9-3202-52dd-ba23-730b5566e826
+URL:https://transportnsw.info/alerts/details#/ems-78599
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78597\n\nSaturday 3 October\nBuses replace trains between Newcastle Interchange and Gosford.\nTrains run between Gosford and Central\, some to a changed timetable.
+DTEND:20261003T160000Z
+DTSTART:20261002T150000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Gosford
+UID:e6814aaa-1618-5df1-b423-10576eb9f8a1
+URL:https://transportnsw.info/alerts/details#/ems-78597
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78602\n\nSunday 4 October\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
+DTEND:20261004T000050Z
+DTSTART:20261003T190000Z
+SUMMARY:At Cowan and Hawkesbury River\, trains may leave from different platforms
+UID:47b8e043-f824-5a30-96fc-9a9ff30408a9
+URL:https://transportnsw.info/alerts/details#/ems-78602
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79431\n\nThursday 8 and Friday 9 October\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20261007T170000Z
+DTSTART:20261007T142000Z
+SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
+UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
+URL:https://transportnsw.info/alerts/details#/ems-79431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79431\n\nThursday 8 and Friday 9 October\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
+DTEND:20261008T170000Z
+DTSTART:20261008T142000Z
+SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
+UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
+URL:https://transportnsw.info/alerts/details#/ems-79431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79331\n\nMonday 5 October\nBuses replace trains between Newcastle Interchange and Wyong.\nTrains run between Wyong and Central\, some to a changed timetable.\nFrom 6PM to 2AM\, trains run between Wyong and Hornsby only\, due to trackwork between Rhodes and Central.\nT1 North Shore Line trains run between Hornsby and the City\, and T9 Northern Line trains run between Hornsby and Rhodes only.\nBuses replace trains between Rhodes and Ashfield or Central.\nUse metro services between Epping or Chatswood and the City.
+DTEND:20261005T150039Z
+DTSTART:20261004T140000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Wyong. Trains run to a changed timetable and stopping pattern
+UID:929f420a-829b-5386-860c-75c3a5bcd15b
+URL:https://transportnsw.info/alerts/details#/ems-79331
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78604\n\nSunday 4 October\nSunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled.\nExtra trains run between Newcastle Interchange and Central.\nPlan your trip before you travel for up-to-date real time information.\nIf you are travelling to the NRL Grand Final\, allow extra travel time and plan to arrive early to soak up the pre-game atmosphere. Tickets include travel on transport.\nFor more info\, visit transportnsw.info/NRL-Grand-Final
+DTEND:20261004T125933Z
+DTSTART:20261003T160000Z
+SUMMARY:Sunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled. Extra trains run for the NRL Grand Final
+UID:074c6ef5-dee2-547a-a802-30866ad80ff8
+URL:https://transportnsw.info/alerts/details#/ems-78604
+END:VEVENT
+END:VCALENDAR
