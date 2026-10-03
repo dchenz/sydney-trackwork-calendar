@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78597\n\nSaturday 3 October\nBuses replace trains between Newcastle Interchange and Gosford.\nTrains run between Gosford and Central\, some to a changed timetable.
-DTEND:20261003T160000Z
-DTSTART:20261002T150000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Gosford
-UID:e6814aaa-1618-5df1-b423-10576eb9f8a1
-URL:https://transportnsw.info/alerts/details#/ems-78597
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78602\n\nSunday 4 October\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
 DTEND:20261004T000050Z
 DTSTART:20261003T190000Z
@@ -19,16 +11,16 @@ URL:https://transportnsw.info/alerts/details#/ems-78602
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79431\n\nThursday 8 and Friday 9 October\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20261007T170000Z
-DTSTART:20261007T142000Z
+DTEND:20261008T170000Z
+DTSTART:20261008T142000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
 URL:https://transportnsw.info/alerts/details#/ems-79431
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79431\n\nThursday 8 and Friday 9 October\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
-DTEND:20261008T170000Z
-DTSTART:20261008T142000Z
+DTEND:20261007T170000Z
+DTSTART:20261007T142000Z
 SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
 UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
 URL:https://transportnsw.info/alerts/details#/ems-79431
