@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78959\n\nThursday 8 October \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20261008T031000Z
-DTSTART:20261007T222034Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
-URL:https://transportnsw.info/alerts/details#/ems-78959
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79394\n\nSaturday 17 October\nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between South Coast Line stations and Waterfall only. T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20261017T003005Z
 DTSTART:20261016T160000Z
@@ -18,12 +10,12 @@ UID:9edd2eb3-5794-5330-a213-175eacafdce5
 URL:https://transportnsw.info/alerts/details#/ems-79394
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78610\n\nSaturday 3 October\nFrom 7:30AM to 11:30AM\, at Waterfall and Helensburgh\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Helensburgh and Waterfall\, all trains leave from platform 2.
-DTEND:20261003T060011Z
-DTSTART:20261002T213000Z
-SUMMARY:At Waterfall and Helensburgh\, trains leave from different platforms
-UID:9b2f8085-0c84-59f4-bc71-b8abd9de657c
-URL:https://transportnsw.info/alerts/details#/ems-78610
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78959\n\nThursday 8 October \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
+DTEND:20261008T031000Z
+DTSTART:20261007T222034Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
+URL:https://transportnsw.info/alerts/details#/ems-78959
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78612\n\nSunday 4 October\nFrom 7:30AM to 11:30AM\, at Helensburgh and Otford\, all trains leave from platform 1.\nFrom 12PM to 4PM\, at Otford and Helensburgh\, all trains leave from platform 2.
