@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78599\n\nSaturday 3 October\nFrom 5:30AM to 10:30AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 11:10AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
-DTEND:20261003T011009Z
-DTSTART:20261002T193000Z
-SUMMARY:At Hawkesbury River and Cowan\, trains may leave from different platforms.  If travelling to Cowan you may need to change at Hawkesbury River for a bus
-UID:0c8cfac9-3202-52dd-ba23-730b5566e826
-URL:https://transportnsw.info/alerts/details#/ems-78599
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78597\n\nSaturday 3 October\nBuses replace trains between Newcastle Interchange and Gosford.\nTrains run between Gosford and Central\, some to a changed timetable.
 DTEND:20261003T160000Z
 DTSTART:20261002T150000Z
