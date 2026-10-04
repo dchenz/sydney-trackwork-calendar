@@ -26,14 +26,6 @@ UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
 URL:https://transportnsw.info/alerts/details#/ems-78877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78520\n\nSunday 4 October\nFrom 5:30AM to 9:40AM\, buses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable between Leppington and the City via Regents Park.
-DTEND:20261003T224000Z
-DTSTART:20261003T183000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville
-UID:77a58cd0-8ce8-5e8d-8c92-db8cbf4b7826
-URL:https://transportnsw.info/alerts/details#/ems-78520
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
 DTEND:20261012T143000Z
 DTSTART:20261012T105000Z
@@ -51,16 +43,16 @@ URL:https://transportnsw.info/alerts/details#/ems-79342
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261007T143000Z
-DTSTART:20261007T104000Z
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:52084aa0-a919-5394-859b-6d99bc44bb1b
 URL:https://transportnsw.info/alerts/details#/ems-78897
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
+DTEND:20261007T143000Z
+DTSTART:20261007T104000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
 UID:52084aa0-a919-5394-859b-6d99bc44bb1b
 URL:https://transportnsw.info/alerts/details#/ems-78897

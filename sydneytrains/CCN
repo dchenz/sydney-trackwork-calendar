@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78602\n\nSunday 4 October\nFrom 6AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
-DTEND:20261004T000050Z
-DTSTART:20261003T190000Z
-SUMMARY:At Cowan and Hawkesbury River\, trains may leave from different platforms
-UID:47b8e043-f824-5a30-96fc-9a9ff30408a9
-URL:https://transportnsw.info/alerts/details#/ems-78602
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78604\n\nSunday 4 October\nSunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled.\nExtra trains run between Newcastle Interchange and Central.\nPlan your trip before you travel for up-to-date real time information.\nIf you are travelling to the NRL Grand Final\, allow extra travel time and plan to arrive early to soak up the pre-game atmosphere. Tickets include travel on transport.\nFor more info\, visit transportnsw.info/NRL-Grand-Final
+DTEND:20261004T125933Z
+DTSTART:20261003T160000Z
+SUMMARY:Sunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled. Extra trains run for the NRL Grand Final
+UID:074c6ef5-dee2-547a-a802-30866ad80ff8
+URL:https://transportnsw.info/alerts/details#/ems-78604
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79431\n\nThursday 8 and Friday 9 October\nBuses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21\, 26 minutes earlier than the normal train timetable.
@@ -32,13 +32,5 @@ DTSTART:20261004T140000Z
 SUMMARY:Buses replace trains between Newcastle Interchange and Wyong. Trains run to a changed timetable and stopping pattern
 UID:929f420a-829b-5386-860c-75c3a5bcd15b
 URL:https://transportnsw.info/alerts/details#/ems-79331
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78604\n\nSunday 4 October\nSunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled.\nExtra trains run between Newcastle Interchange and Central.\nPlan your trip before you travel for up-to-date real time information.\nIf you are travelling to the NRL Grand Final\, allow extra travel time and plan to arrive early to soak up the pre-game atmosphere. Tickets include travel on transport.\nFor more info\, visit transportnsw.info/NRL-Grand-Final
-DTEND:20261004T125933Z
-DTSTART:20261003T160000Z
-SUMMARY:Sunday’s planned trackwork between Newcastle Interchange and Wyong has been cancelled. Extra trains run for the NRL Grand Final
-UID:074c6ef5-dee2-547a-a802-30866ad80ff8
-URL:https://transportnsw.info/alerts/details#/ems-78604
 END:VEVENT
 END:VCALENDAR
