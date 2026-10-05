@@ -17,12 +17,4 @@ SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Ce
 UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
 URL:https://transportnsw.info/alerts/details#/ems-79431
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79331\n\nMonday 5 October\nBuses replace trains between Newcastle Interchange and Wyong.\nTrains run between Wyong and Central\, some to a changed timetable.\nFrom 6PM to 2AM\, trains run between Wyong and Hornsby only\, due to trackwork between Rhodes and Central.\nT1 North Shore Line trains run between Hornsby and the City\, and T9 Northern Line trains run between Hornsby and Rhodes only.\nBuses replace trains between Rhodes and Ashfield or Central.\nUse metro services between Epping or Chatswood and the City.
-DTEND:20261005T150039Z
-DTSTART:20261004T140000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Wyong. Trains run to a changed timetable and stopping pattern
-UID:929f420a-829b-5386-860c-75c3a5bcd15b
-URL:https://transportnsw.info/alerts/details#/ems-79331
-END:VEVENT
 END:VCALENDAR

@@ -10,14 +10,6 @@ UID:053af258-b82f-5859-b31d-6e53c681cbca
 URL:https://transportnsw.info/alerts/details#/ems-78955
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78566\n\nMonday 5 October\nFrom 6PM to 2AM\, trains run between Blue Mountains Line stations and Blacktown only.\nTrains from Blacktown to Blue Mountains Line stations run up to 30 minutes later than the normal timetable.\nT1 Western Line trains run to a changed timetable between Penrith and Olympic Park.\nBuses replace trains between Olympic Park and Central.
-DTEND:20261005T150039Z
-DTSTART:20261005T070000Z
-SUMMARY:Trains run between Blue Mountains Line stations and Blacktown
-UID:6f055ffe-b484-5dc0-ab92-efbb59afb676
-URL:https://transportnsw.info/alerts/details#/ems-78566
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79388\n\nSunday 18 October\nTrains run between Blue Mountains Line stations and Blacktown only due to trackwork between Parramatta and Lidcombe.\nT1 Western Line trains run between Penrith\, Blacktown and Parramatta only. Buses replace trains between Parramatta and Lidcombe.
 DTEND:20261018T125901Z
 DTSTART:20261017T150000Z

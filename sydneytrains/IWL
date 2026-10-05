@@ -58,14 +58,6 @@ UID:52084aa0-a919-5394-859b-6d99bc44bb1b
 URL:https://transportnsw.info/alerts/details#/ems-78897
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78532\n\nMonday 5 October\nFrom 6:00PM to 2:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between:\n- Leppington and Olympic Park\n- Glenfield and the City via the Airport\n- Ashfield and the City\, continuing to T1 North Shore Line stations.
-DTEND:20261005T150044Z
-DTSTART:20261005T070000Z
-SUMMARY:Buses replace trains between Olympic Park and Ashfield or Central
-UID:2296d332-0849-557b-9655-7b386b02a419
-URL:https://transportnsw.info/alerts/details#/ems-78532
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78893\n\nTuesday 6 October\nFrom 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. \nTrains run to a changed timetable between Leppington and Olympic Park. \nT1 Western Line trains make extra stops.
 DTEND:20261006T143045Z
 DTSTART:20261006T102000Z

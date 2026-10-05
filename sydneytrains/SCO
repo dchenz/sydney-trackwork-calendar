@@ -25,12 +25,4 @@ SUMMARY:Buses replace trains between Port Kembla and Wollongong
 UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
 URL:https://transportnsw.info/alerts/details#/ems-78959
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78614\n\nSaturday 3 to Monday 5 October \nBuses replace trains between Port Kembla and Wollongong.\nTrains run between Bomaderry\, Kiama and Bondi Junction\, some to a changed timetable.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20261005T150027Z
-DTSTART:20261002T160000Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:c6c4ee06-2ddc-5b1c-97bf-78c7d70a8d40
-URL:https://transportnsw.info/alerts/details#/ems-78614
-END:VEVENT
 END:VCALENDAR

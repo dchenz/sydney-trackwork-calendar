@@ -9,12 +9,4 @@ SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
 UID:de932c83-3c55-5d30-bfa2-ec8f465bd900
 URL:https://transportnsw.info/alerts/details#/ems-78879
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78528\n\nMonday 5 October\nFrom 6PM to 2AM\, trains run between Berowra and the City\, continuing to Ashfield.\nExpress buses replace trains between Central and Olympic Park or Rhodes.
-DTEND:20261005T150031Z
-DTSTART:20261005T070000Z
-SUMMARY:T1 North Shore Line: Trains run to a changed timetable and stopping pattern
-UID:bb9f6b1e-829a-54f7-b18a-5f4433680e63
-URL:https://transportnsw.info/alerts/details#/ems-78528
-END:VEVENT
 END:VCALENDAR
