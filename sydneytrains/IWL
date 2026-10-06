@@ -18,14 +18,6 @@ UID:c2c1e8aa-fb12-5f40-bf7a-26d88ff1ebba
 URL:https://transportnsw.info/alerts/details#/ems-79346
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78877\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261006T143051Z
-DTSTART:20261006T104000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
-URL:https://transportnsw.info/alerts/details#/ems-78877
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
 DTEND:20261012T143000Z
 DTSTART:20261012T105000Z
@@ -43,14 +35,6 @@ URL:https://transportnsw.info/alerts/details#/ems-79342
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:52084aa0-a919-5394-859b-6d99bc44bb1b
-URL:https://transportnsw.info/alerts/details#/ems-78897
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
 DTEND:20261007T143000Z
 DTSTART:20261007T104000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
@@ -58,12 +42,12 @@ UID:52084aa0-a919-5394-859b-6d99bc44bb1b
 URL:https://transportnsw.info/alerts/details#/ems-78897
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78893\n\nTuesday 6 October\nFrom 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. \nTrains run to a changed timetable between Leppington and Olympic Park. \nT1 Western Line trains make extra stops.
-DTEND:20261006T143045Z
-DTSTART:20261006T102000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:f0a38ff4-d8c4-5eae-a4a2-004a269ee5db
-URL:https://transportnsw.info/alerts/details#/ems-78893
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:52084aa0-a919-5394-859b-6d99bc44bb1b
+URL:https://transportnsw.info/alerts/details#/ems-78897
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78902\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.\nT3 Liverpool & Inner West Line trains run between Liverpool and Lidcombe only.

@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78877\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261006T143051Z
-DTSTART:20261006T104000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
-URL:https://transportnsw.info/alerts/details#/ems-78877
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79350\n\nSaturday 17 October \nFrom 9:30AM to 1:00PM\, trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.
 DTEND:20261017T020045Z
 DTSTART:20261016T223000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:e8e64614-07c7-5db6-a78d-654c8d06bfb9
 URL:https://transportnsw.info/alerts/details#/ems-79350
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:81668c01-8733-5d75-84ca-13390f9fd319
-URL:https://transportnsw.info/alerts/details#/ems-79348
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
@@ -66,12 +50,12 @@ UID:1f6dc200-f51a-5949-aa37-6f8baf305b58
 URL:https://transportnsw.info/alerts/details#/ems-78883
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78881\n\nTuesday 6 October\nFrom 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.
-DTEND:20261006T143055Z
-DTSTART:20261006T102000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:ac71d643-a400-56c3-b12e-d713546f3470
-URL:https://transportnsw.info/alerts/details#/ems-78881
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
+DTEND:20261014T143000Z
+DTSTART:20261014T104000Z
+SUMMARY:Buses replace trains between Liverpool and Lidcombe
+UID:81668c01-8733-5d75-84ca-13390f9fd319
+URL:https://transportnsw.info/alerts/details#/ems-79348
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78887\n\nSaturday 10 and Sunday 11 October\nBuses replace all trains between Parramatta\, Lidcombe and Olympic Park.\nTrains run to a changed timetable and stopping pattern between:\n- Liverpool and Lidcombe\n- Olympic Park and the City.

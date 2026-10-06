@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78877\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nIf travelling to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261006T143051Z
-DTSTART:20261006T104000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:c6eba129-47e4-574e-ae5b-f27827ee98c1
-URL:https://transportnsw.info/alerts/details#/ems-78877
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
 DTEND:20261012T143000Z
 DTSTART:20261012T103000Z
@@ -56,13 +48,5 @@ DTSTART:20261012T105049Z
 SUMMARY:City Circle: Trains run in one direction only
 UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
 URL:https://transportnsw.info/alerts/details#/ems-79335
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78943\n\nTuesday 6 October\nFrom 9:30PM to 1:30AM\, trains via the Airport start and end at Central due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
-DTEND:20261006T143021Z
-DTSTART:20261006T103000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:0a9d4688-2872-5c73-808a-9a2eb8551cf8
-URL:https://transportnsw.info/alerts/details#/ems-78943
 END:VEVENT
 END:VCALENDAR

@@ -25,12 +25,4 @@ SUMMARY:Trains make an extra stop at Ashfield
 UID:f72d4def-6cb0-5715-a29a-c5f032474a24
 URL:https://transportnsw.info/alerts/details#/ems-79386
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78951\n\nTuesday 6 October\nFrom 9:30PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nCity Circle trackwork may also affect how you travel. Change at Central for T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk to continue your journey.
-DTEND:20261006T143020Z
-DTSTART:20261006T103000Z
-SUMMARY:Trains run between Hornsby and Central\, platforms 1-14 only\, and make extra stops
-UID:b329e627-c4da-5d5b-97ce-b0d9aa2d2322
-URL:https://transportnsw.info/alerts/details#/ems-78951
-END:VEVENT
 END:VCALENDAR

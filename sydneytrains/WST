@@ -11,16 +11,16 @@ URL:https://transportnsw.info/alerts/details#/ems-79340
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79338\n\nWednesday 14 and Thursday 15 October \nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable.
-DTEND:20261014T143000Z
-DTSTART:20261014T102000Z
+DTEND:20261015T143000Z
+DTSTART:20261015T102000Z
 SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
 UID:0c790a35-abcf-5088-bf2a-2761ef9f7b7b
 URL:https://transportnsw.info/alerts/details#/ems-79338
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79338\n\nWednesday 14 and Thursday 15 October \nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable.
-DTEND:20261015T143000Z
-DTSTART:20261015T102000Z
+DTEND:20261014T143000Z
+DTSTART:20261014T102000Z
 SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
 UID:0c790a35-abcf-5088-bf2a-2761ef9f7b7b
 URL:https://transportnsw.info/alerts/details#/ems-79338
@@ -48,13 +48,5 @@ DTSTART:20261007T104000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
 UID:6116de49-2b08-594e-9f01-0f298d68d415
 URL:https://transportnsw.info/alerts/details#/ems-79458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78885\n\nTuesday 6 October\nFrom 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central. \nT1 North Shore Line trains start from Wynyard.
-DTEND:20261006T143022Z
-DTSTART:20261006T104000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:da5be4f7-d4a0-5397-a427-ac8f8e6b32a1
-URL:https://transportnsw.info/alerts/details#/ems-78885
 END:VEVENT
 END:VCALENDAR

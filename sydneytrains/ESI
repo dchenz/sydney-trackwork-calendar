@@ -17,12 +17,4 @@ SUMMARY:Buses replace trains between Waterfall and Sutherland
 UID:606d28af-f042-5e31-8e65-00e98f89dd66
 URL:https://transportnsw.info/alerts/details#/ems-79354
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78891\n\nTuesday 6 October\nFrom 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nCity Circle trackwork may also affect how you travel. For travel in the City use metro\, light rail\, local buses or walk.
-DTEND:20261006T143000Z
-DTSTART:20261006T103000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:7670d054-a6fc-5dfe-9efb-68c707be2462
-URL:https://transportnsw.info/alerts/details#/ems-78891
-END:VEVENT
 END:VCALENDAR
