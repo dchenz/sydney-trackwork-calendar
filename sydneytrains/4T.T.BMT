@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79715\n\nSaturday 24 and Sunday 25 October\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nTrackwork on the City Circle may also affect how you travel.\nSunday from 12:40AM to 6:00AM\, most trains run between Blue Mountains Line stations and Blacktown only\, due to trackwork between Olympic Park and Central.\nChange trains at Blacktown to continue your journey.\nT1 Western Line trains run to a changed timetable between Penrith and Olympic Park only.
+DTEND:20261025T125957Z
+DTSTART:20261023T150000Z
+SUMMARY:Trains may run to a changed timetable. Buses replace some trains between Olympic Park and Central
+UID:d4c343db-c239-5a82-96db-b30e9219e3bc
+URL:https://transportnsw.info/alerts/details#/ems-79715
+END:VEVENT
+END:VCALENDAR

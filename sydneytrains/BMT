@@ -5,9 +5,17 @@ BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78955\n\nSaturday 10 and Sunday 11 October\nTrains run between Blue Mountains Line stations and Blacktown only.\nT1 Western Line trains run between Penrith\, Blacktown and Leppington. Buses replace trains between Parramatta and Olympic Park.\nChange at:\n- Parramatta for buses towards Olympic Park\, then take a train from Olympic Park to the City\, or\n- Glenfield for trains to the City via the Airport.\nTrains from Blacktown to Blue Mountains Line stations run 30 minutes later than the normal timetable.\nBathurst trains run between Bathurst and Lithgow\, some to a changed timetable.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20261011T125959Z
 DTSTART:20261009T150000Z
-SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only
+SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only. Buses replace trains between Parramatta and Olympic Park
 UID:053af258-b82f-5859-b31d-6e53c681cbca
 URL:https://transportnsw.info/alerts/details#/ems-78955
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79715\n\nSaturday 24 and Sunday 25 October\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nTrackwork on the City Circle may also affect how you travel.\nSunday from 12:40AM to 6:00AM\, most trains run between Blue Mountains Line stations and Blacktown only\, due to trackwork between Olympic Park and Central.\nChange trains at Blacktown to continue your journey.\nT1 Western Line trains run to a changed timetable between Penrith and Olympic Park only.
+DTEND:20261025T125957Z
+DTSTART:20261023T150000Z
+SUMMARY:Trains may run to a changed timetable. Buses replace some trains between Olympic Park and Central
+UID:d4c343db-c239-5a82-96db-b30e9219e3bc
+URL:https://transportnsw.info/alerts/details#/ems-79715
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79388\n\nSunday 18 October\nTrains run between Blue Mountains Line stations and Blacktown only due to trackwork between Parramatta and Lidcombe.\nT1 Western Line trains run between Penrith\, Blacktown and Parramatta only. Buses replace trains between Parramatta and Lidcombe.

@@ -17,4 +17,12 @@ SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Ce
 UID:b43e50b5-a96d-5bec-b48f-afda6b67e07f
 URL:https://transportnsw.info/alerts/details#/ems-79431
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79723\n\nSaturday 24 and Sunday 25 October\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nTrackwork on the City Circle may also affect how you travel.\nSunday from 12:40AM to 5:00AM\, buses replace all trains between Strathfield and Central.\nTrains run to a changed timetable between Central Coast & Newcastle Line stations and Strathfield only.
+DTEND:20261025T125946Z
+DTSTART:20261023T150000Z
+SUMMARY:Trains may run to a changed timetable. Buses replace some trains between Strathfield and Central
+UID:d62de460-2747-5fc9-8fa9-e50f3c33b1d1
+URL:https://transportnsw.info/alerts/details#/ems-79723
+END:VEVENT
 END:VCALENDAR

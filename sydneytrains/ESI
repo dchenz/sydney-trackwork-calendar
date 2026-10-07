@@ -17,4 +17,36 @@ SUMMARY:Buses replace trains between Waterfall and Sutherland
 UID:606d28af-f042-5e31-8e65-00e98f89dd66
 URL:https://transportnsw.info/alerts/details#/ems-79354
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79747\n\nMonday 19 and Tuesday 20 October \nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20261019T153000Z
+DTSTART:20261019T105000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:2559ff9b-758e-5026-a7fb-cec03daa51c6
+URL:https://transportnsw.info/alerts/details#/ems-79747
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79747\n\nMonday 19 and Tuesday 20 October \nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
+DTEND:20261020T153000Z
+DTSTART:20261020T105000Z
+SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
+UID:2559ff9b-758e-5026-a7fb-cec03daa51c6
+URL:https://transportnsw.info/alerts/details#/ems-79747
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79751\n\nSaturday 24 and Sunday 25 October\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail\, local buses to City stations or walk.\nMetro services also run between Sydenham\, the City and Tallawong.
+DTEND:20261025T125919Z
+DTSTART:20261023T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle trackwork may also affect how you travel
+UID:2c63831d-2156-5e4a-95dd-d21397e7cf5b
+URL:https://transportnsw.info/alerts/details#/ems-79751
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79749\n\nFriday 23 October \nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.
+DTEND:20261023T150000Z
+DTSTART:20261023T114000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:0833d1f2-8922-5262-a684-cd48f85d7539
+URL:https://transportnsw.info/alerts/details#/ems-79749
+END:VEVENT
 END:VCALENDAR

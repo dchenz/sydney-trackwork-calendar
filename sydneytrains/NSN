@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79709\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable between Hornsby and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for light rail or local bus services.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nT9 Northern Line trains run between Berowra and Central\, platforms 1-14\, via Strathfield.\nDaily from 7:30AM to 8:00PM\, buses replace trains between Hornsby and Gordon.\nTrains run to a changed timetable between Gordon and Wynyard only.
+DTEND:20261025T125900Z
+DTSTART:20261023T150000Z
+SUMMARY:T1 North Shore Line: Trains run between Hornsby and Wynyard only. Buses replace some trains between Hornsby and Gordon
+UID:deef3cd5-cc9d-52df-be66-96d4f926b613
+URL:https://transportnsw.info/alerts/details#/ems-79709
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79696\n\nFriday 23 October\nFrom 11:00PM Friday\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for light rail or local bus services.
+DTEND:20261023T150054Z
+DTSTART:20261023T120000Z
+SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
+UID:4ab7f0ef-0b7d-5ca0-be31-2db6ae7df020
+URL:https://transportnsw.info/alerts/details#/ems-79696
+END:VEVENT
+END:VCALENDAR

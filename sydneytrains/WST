@@ -10,6 +10,22 @@ UID:13282b0a-77c3-5c6c-bc7c-46e06a2f9937
 URL:https://transportnsw.info/alerts/details#/ems-79340
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79713\n\nFriday 23 October\nFrom 10:50PM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.
+DTEND:20261023T150018Z
+DTSTART:20261023T115000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:7aa42c45-d8fa-5aba-bf6e-e7ab78d63d1f
+URL:https://transportnsw.info/alerts/details#/ems-79713
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79717\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace trains between Olympic Park and Central.\nTrains run to a changed timetable between Penrith and Olympic Park.\nReplacement buses do not leave from Lidcombe.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20261025T125959Z
+DTSTART:20261023T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:5ef3cb29-30b3-5e60-bd7a-343519598275
+URL:https://transportnsw.info/alerts/details#/ems-79717
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79338\n\nWednesday 14 and Thursday 15 October \nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable.
 DTEND:20261015T143000Z
 DTSTART:20261015T102000Z

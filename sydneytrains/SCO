@@ -10,19 +10,35 @@ UID:9edd2eb3-5794-5330-a213-175eacafdce5
 URL:https://transportnsw.info/alerts/details#/ems-79394
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78961\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
-DTEND:20261011T125914Z
-DTSTART:20261009T150000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
-UID:f0cf77f8-fb31-5b7f-9eab-4f5fa0a44b7a
-URL:https://transportnsw.info/alerts/details#/ems-78961
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78959\n\nThursday 8 October \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20261008T031000Z
 DTSTART:20261007T222034Z
 SUMMARY:Buses replace trains between Port Kembla and Wollongong
 UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
 URL:https://transportnsw.info/alerts/details#/ems-78959
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79727\n\nMonday 19 and Tuesday 20 October\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20261019T153000Z
+DTSTART:20261019T105000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
+URL:https://transportnsw.info/alerts/details#/ems-79727
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79727\n\nMonday 19 and Tuesday 20 October\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20261020T153000Z
+DTSTART:20261020T105000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
+URL:https://transportnsw.info/alerts/details#/ems-79727
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78961\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
+DTEND:20261011T125914Z
+DTSTART:20261009T150000Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
+UID:f0cf77f8-fb31-5b7f-9eab-4f5fa0a44b7a
+URL:https://transportnsw.info/alerts/details#/ems-78961
 END:VEVENT
 END:VCALENDAR

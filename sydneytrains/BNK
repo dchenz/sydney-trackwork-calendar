@@ -18,6 +18,46 @@ UID:81668c01-8733-5d75-84ca-13390f9fd319
 URL:https://transportnsw.info/alerts/details#/ems-79348
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79743\n\nFriday 23 October\nFrom 10:40PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
+DTEND:20261023T150051Z
+DTSTART:20261023T114000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central
+UID:57e910d3-718e-593b-905a-54c19a6b23be
+URL:https://transportnsw.info/alerts/details#/ems-79743
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79745\n\nSaturday 24 and Sunday 25 October\nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Liverpool and Bankstown. Buses replace T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.\nChange at Bankstown for buses towards Lidcombe.\nT2 Leppington & Inner West Line trains run between Leppington and Olympic Park via Granville.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace all trains between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261025T125913Z
+DTSTART:20261023T150000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Buses also replace some trains between Olympic Park and Central
+UID:52be5068-4a74-532f-92f3-be5c728f4590
+URL:https://transportnsw.info/alerts/details#/ems-79745
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261023T150000Z
+DTSTART:20261023T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
+URL:https://transportnsw.info/alerts/details#/ems-79692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261024T150000Z
+DTSTART:20261024T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
+URL:https://transportnsw.info/alerts/details#/ems-79692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261025T125900Z
+DTSTART:20261025T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
+URL:https://transportnsw.info/alerts/details#/ems-79692
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.
 DTEND:20261012T143000Z
 DTSTART:20261012T105049Z
