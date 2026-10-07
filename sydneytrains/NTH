@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79707\n\nFriday 23 October  \nFrom 10:50PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
-DTEND:20261023T150036Z
-DTSTART:20261023T115000Z
-SUMMARY:Trains run between Hornsby and Central\, platforms 1-14
-UID:035e2343-bc4b-54ac-a0bd-3e49537683f2
-URL:https://transportnsw.info/alerts/details#/ems-79707
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78953\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20261007T143000Z
-DTSTART:20261007T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:6add0fa7-a528-5d06-8c06-63bfc717bec8
-URL:https://transportnsw.info/alerts/details#/ems-78953
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78953\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
 DTEND:20261008T143000Z
 DTSTART:20261008T104000Z
@@ -40,5 +24,13 @@ DTSTART:20261024T124000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains between Strathfield and Central
 UID:25385491-e301-5840-a7a9-565f8249816e
 URL:https://transportnsw.info/alerts/details#/ems-79711
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79707\n\nFriday 23 October  \nFrom 10:50PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
+DTEND:20261023T150036Z
+DTSTART:20261023T115000Z
+SUMMARY:Trains run between Hornsby and Central\, platforms 1-14
+UID:035e2343-bc4b-54ac-a0bd-3e49537683f2
+URL:https://transportnsw.info/alerts/details#/ems-79707
 END:VEVENT
 END:VCALENDAR

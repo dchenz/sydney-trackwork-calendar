@@ -26,14 +26,6 @@ UID:aa10239a-04b2-5906-90fb-b0ec18ef68dd
 URL:https://transportnsw.info/alerts/details#/ems-79755
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78899\n\nTuesday 6 and Wednesday 7 October\nNightly from 11:50PM to 1.30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20261007T143000Z
-DTSTART:20261007T125000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:4479f661-bc83-5bc7-b3a7-fe586d32460b
-URL:https://transportnsw.info/alerts/details#/ems-78899
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79370\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield. \nTrains run to a changed timetable between Fairfield and Richmond.
 DTEND:20261015T143000Z
 DTSTART:20261015T104000Z

@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
-DTEND:20261012T143000Z
-DTSTART:20261012T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:68734867-b709-583d-aa24-9cefcd5f9cb4
-URL:https://transportnsw.info/alerts/details#/ems-79380
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
 DTEND:20261013T143000Z
 DTSTART:20261013T103000Z
 SUMMARY:Buses replace trains between Glenfield and Sydenham
@@ -18,12 +10,12 @@ UID:68734867-b709-583d-aa24-9cefcd5f9cb4
 URL:https://transportnsw.info/alerts/details#/ems-79380
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
-URL:https://transportnsw.info/alerts/details#/ems-78945
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
+DTEND:20261012T143000Z
+DTSTART:20261012T103000Z
+SUMMARY:Buses replace trains between Glenfield and Sydenham
+UID:68734867-b709-583d-aa24-9cefcd5f9cb4
+URL:https://transportnsw.info/alerts/details#/ems-79380
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78949\n\nSaturday 10 and Sunday 11 October\nTrackwork on the T4 Illawarra and South Coast lines may affect how you travel.\nChange at Central for buses towards Bondi Junction\, T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
@@ -35,8 +27,8 @@ URL:https://transportnsw.info/alerts/details#/ems-78949
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261007T143000Z
-DTSTART:20261007T104000Z
+DTEND:20261008T143000Z
+DTSTART:20261008T104000Z
 SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
 UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
 URL:https://transportnsw.info/alerts/details#/ems-78945
