@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79807\n\nFrom 2:00PM until 3:00PM on Sunday 11 October\, route 311\, 324\, 325 and 23T4 services will divert and miss stops due to road closures in place for a planned Police Operation.\nBuses travelling towards Millers Point/Walsh Point will end trips at Hyde Park\, Park St\, Stand C (2000412).\nBuses travelling towards Central/Watsons Bay will start trips from William St opp Australian Museum (201154).\nStops between Hyde Park and Millers Point/Walsh Point will be missed in both directions.\nCheck signs at stops\, catch trains or continue on foot.
+DTEND:20261011T040041Z
+DTSTART:20261011T030000Z
+SUMMARY:Sydney CBD diversions due to Police Operation
+UID:4a596383-5599-5549-a5db-4fcaa0d55004
+URL:https://transportnsw.info/alerts/details#/ems-79807
+END:VEVENT
+END:VCALENDAR

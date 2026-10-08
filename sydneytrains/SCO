@@ -2,33 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79394\n\nSaturday 17 October\nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between South Coast Line stations and Waterfall only. T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
-DTEND:20261017T003005Z
-DTSTART:20261016T160000Z
-SUMMARY:Buses replace trains between Waterfall and Sutherland
-UID:9edd2eb3-5794-5330-a213-175eacafdce5
-URL:https://transportnsw.info/alerts/details#/ems-79394
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78959\n\nThursday 8 October \nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20261008T031000Z
-DTSTART:20261007T222034Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:fd60ee3a-706b-52ad-b31f-5fa31e5013b1
-URL:https://transportnsw.info/alerts/details#/ems-78959
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79727\n\nMonday 19 and Tuesday 20 October\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
 DTEND:20261019T153000Z
 DTSTART:20261019T105000Z
-SUMMARY:Buses replace trains between Waterfall and Hurstville
-UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
-URL:https://transportnsw.info/alerts/details#/ems-79727
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79727\n\nMonday 19 and Tuesday 20 October\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
-DTEND:20261020T153000Z
-DTSTART:20261020T105000Z
 SUMMARY:Buses replace trains between Waterfall and Hurstville
 UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
 URL:https://transportnsw.info/alerts/details#/ems-79727
@@ -40,5 +16,21 @@ DTSTART:20261009T150000Z
 SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
 UID:f0cf77f8-fb31-5b7f-9eab-4f5fa0a44b7a
 URL:https://transportnsw.info/alerts/details#/ems-78961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79394\n\nSaturday 17 October\nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between South Coast Line stations and Waterfall only. T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
+DTEND:20261017T003005Z
+DTSTART:20261016T160000Z
+SUMMARY:Buses replace trains between Waterfall and Sutherland
+UID:9edd2eb3-5794-5330-a213-175eacafdce5
+URL:https://transportnsw.info/alerts/details#/ems-79394
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79727\n\nMonday 19 and Tuesday 20 October\nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.
+DTEND:20261020T153000Z
+DTSTART:20261020T105000Z
+SUMMARY:Buses replace trains between Waterfall and Hurstville
+UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
+URL:https://transportnsw.info/alerts/details#/ems-79727
 END:VEVENT
 END:VCALENDAR
