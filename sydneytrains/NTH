@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78953\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable and stop at all stations between Ashfield and Macdonaldtown.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:6add0fa7-a528-5d06-8c06-63bfc717bec8
-URL:https://transportnsw.info/alerts/details#/ems-78953
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79386\n\nSaturday 17 October\nFrom 6:30AM to 10:30AM\, trains make an extra stop at Ashfield.
 DTEND:20261016T233000Z
 DTSTART:20261016T193000Z

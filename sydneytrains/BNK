@@ -74,14 +74,6 @@ UID:6a9e44ca-a0df-5606-9873-f4a066565ed5
 URL:https://transportnsw.info/alerts/details#/ems-79352
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78883\n\nWednesday 7 and Thursday 8 October \n• Nightly from 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\n.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:1f6dc200-f51a-5949-aa37-6f8baf305b58
-URL:https://transportnsw.info/alerts/details#/ems-78883
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
 DTEND:20261014T143000Z
 DTSTART:20261014T104000Z

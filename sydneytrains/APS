@@ -26,14 +26,6 @@ UID:2ea09cb5-cb8c-5c3b-a52d-1a240f5971af
 URL:https://transportnsw.info/alerts/details#/ems-78949
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78945\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:b46f9e45-1770-5e21-a6a3-a5f8cc61796e
-URL:https://transportnsw.info/alerts/details#/ems-78945
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79702\n\nFriday 23 October  \nFrom 10:40PM\, trains via the Airport start and end at Central due to City Circle trackwork.\nT8 trains do not run between Sydenham and the City.
 DTEND:20261023T150054Z
 DTSTART:20261023T114000Z

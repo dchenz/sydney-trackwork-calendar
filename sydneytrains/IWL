@@ -27,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-79721
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
-DTEND:20261013T143000Z
-DTSTART:20261013T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
-URL:https://transportnsw.info/alerts/details#/ems-79342
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
 DTEND:20261012T143000Z
 DTSTART:20261012T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
@@ -42,12 +34,12 @@ UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
 URL:https://transportnsw.info/alerts/details#/ems-79342
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78897\n\nWednesday 7 and Thursday 8 October\nNightly from 9:40PM to 1:30AM\, Inner West trains do not run. \nTrains run between Leppington and Olympic Park.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261008T143000Z
-DTSTART:20261008T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:52084aa0-a919-5394-859b-6d99bc44bb1b
-URL:https://transportnsw.info/alerts/details#/ems-78897
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
+DTEND:20261013T143000Z
+DTSTART:20261013T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
+URL:https://transportnsw.info/alerts/details#/ems-79342
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
@@ -66,20 +58,20 @@ UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
 URL:https://transportnsw.info/alerts/details#/ems-79692
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78902\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.\nT3 Liverpool & Inner West Line trains run between Liverpool and Lidcombe only.
-DTEND:20261010T150059Z
-DTSTART:20261009T150000Z
-SUMMARY:Buses replace trains between Parramatta and Olympic Park
-UID:5d3d1958-ea77-5cfc-89eb-2e31b461cf57
-URL:https://transportnsw.info/alerts/details#/ems-78902
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.
 DTEND:20261012T143000Z
 DTSTART:20261012T105049Z
 SUMMARY:City Circle: Trains run in one direction only
 UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
 URL:https://transportnsw.info/alerts/details#/ems-79335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78902\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.\nT3 Liverpool & Inner West Line trains run between Liverpool and Lidcombe only.
+DTEND:20261010T150059Z
+DTSTART:20261009T150000Z
+SUMMARY:Buses replace trains between Parramatta and Olympic Park
+UID:5d3d1958-ea77-5cfc-89eb-2e31b461cf57
+URL:https://transportnsw.info/alerts/details#/ems-78902
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
