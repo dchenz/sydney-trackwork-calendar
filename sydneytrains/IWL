@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261015T143000Z
-DTSTART:20261015T104000Z
+DTEND:20261014T143000Z
+DTSTART:20261014T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:3287071a-da7d-5553-85ff-35e91ba750be
 URL:https://transportnsw.info/alerts/details#/ems-79344
@@ -66,17 +66,9 @@ UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
 URL:https://transportnsw.info/alerts/details#/ems-79335
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78902\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.\nT3 Liverpool & Inner West Line trains run between Liverpool and Lidcombe only.
-DTEND:20261010T150059Z
-DTSTART:20261009T150000Z
-SUMMARY:Buses replace trains between Parramatta and Olympic Park
-UID:5d3d1958-ea77-5cfc-89eb-2e31b461cf57
-URL:https://transportnsw.info/alerts/details#/ems-78902
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
+DTEND:20261015T143000Z
+DTSTART:20261015T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:3287071a-da7d-5553-85ff-35e91ba750be
 URL:https://transportnsw.info/alerts/details#/ems-79344

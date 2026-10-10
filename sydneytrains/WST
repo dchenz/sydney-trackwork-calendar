@@ -41,12 +41,4 @@ SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping patt
 UID:0c790a35-abcf-5088-bf2a-2761ef9f7b7b
 URL:https://transportnsw.info/alerts/details#/ems-79338
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78889\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Parramatta and Olympic Park.
-DTEND:20261010T150018Z
-DTSTART:20261009T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Parramatta and Olympic Park
-UID:3b1e0b6a-5a53-5bf2-a488-65ee3040c7c6
-URL:https://transportnsw.info/alerts/details#/ems-78889
-END:VEVENT
 END:VCALENDAR
