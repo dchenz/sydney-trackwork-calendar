@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78895\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Cronulla\, Waterfall and Central\, and between Central and Bondi Junction\, but do not stop at Martin Place.\nIf travelling to the Airport change at Central for a T8 Airport train.
-DTEND:20261011T125900Z
-DTSTART:20261009T150000Z
-SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central\, and between Central and Bondi Junction
-UID:b235d3f8-9717-57f7-96c5-f4cfc38e2852
-URL:https://transportnsw.info/alerts/details#/ems-78895
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79354\n\nSaturday 17 October \nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
 DTEND:20261017T003031Z
 DTSTART:20261016T160000Z
@@ -34,19 +26,19 @@ UID:2559ff9b-758e-5026-a7fb-cec03daa51c6
 URL:https://transportnsw.info/alerts/details#/ems-79747
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79751\n\nSaturday 24 and Sunday 25 October\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail\, local buses to City stations or walk.\nMetro services also run between Sydenham\, the City and Tallawong.
-DTEND:20261025T125919Z
-DTSTART:20261023T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle trackwork may also affect how you travel
-UID:2c63831d-2156-5e4a-95dd-d21397e7cf5b
-URL:https://transportnsw.info/alerts/details#/ems-79751
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79749\n\nFriday 23 October \nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.
 DTEND:20261023T150000Z
 DTSTART:20261023T114000Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
 UID:0833d1f2-8922-5262-a684-cd48f85d7539
 URL:https://transportnsw.info/alerts/details#/ems-79749
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79751\n\nSaturday 24 and Sunday 25 October\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail\, local buses to City stations or walk.\nMetro services also run between Sydenham\, the City and Tallawong.
+DTEND:20261025T125919Z
+DTSTART:20261023T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle trackwork may also affect how you travel
+UID:2c63831d-2156-5e4a-95dd-d21397e7cf5b
+URL:https://transportnsw.info/alerts/details#/ems-79751
 END:VEVENT
 END:VCALENDAR

@@ -42,14 +42,6 @@ UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
 URL:https://transportnsw.info/alerts/details#/ems-79370
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78904\n\nSaturday 10 and Sunday 11 October\nTrains run to a changed timetable and stopping pattern between Richmond and Liverpool\, and between Penrith and Leppington.
-DTEND:20261011T125957Z
-DTSTART:20261009T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:72b3d65a-edb9-54fc-8f27-bd0e7de61b9f
-URL:https://transportnsw.info/alerts/details#/ems-78904
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79368\n\nMonday 12 and Tuesday 13 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
 DTEND:20261013T143059Z
 DTSTART:20261012T105000Z

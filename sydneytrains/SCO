@@ -10,14 +10,6 @@ UID:8b8b2f46-57bf-53a0-9ac6-3f718d5a3970
 URL:https://transportnsw.info/alerts/details#/ems-79727
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-78961\n\nSaturday 10 and Sunday 11 October\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
-DTEND:20261011T125914Z
-DTSTART:20261009T150000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
-UID:f0cf77f8-fb31-5b7f-9eab-4f5fa0a44b7a
-URL:https://transportnsw.info/alerts/details#/ems-78961
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79394\n\nSaturday 17 October\nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between South Coast Line stations and Waterfall only. T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
 DTEND:20261017T003005Z
 DTSTART:20261016T160000Z
