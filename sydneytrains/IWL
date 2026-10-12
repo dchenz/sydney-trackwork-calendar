@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:3287071a-da7d-5553-85ff-35e91ba750be
-URL:https://transportnsw.info/alerts/details#/ems-79344
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79346\n\nSunday 18 October \nBuses replace trains between Cabramatta and Parramatta.\nTrains run to a changed timetable between Leppington and the City via Regents Park.
 DTEND:20261018T125925Z
 DTSTART:20261017T150000Z
 SUMMARY:Buses replace trains between Cabramatta and Parramatta
 UID:c2c1e8aa-fb12-5f40-bf7a-26d88ff1ebba
 URL:https://transportnsw.info/alerts/details#/ems-79346
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
+DTEND:20261014T143000Z
+DTSTART:20261014T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:3287071a-da7d-5553-85ff-35e91ba750be
+URL:https://transportnsw.info/alerts/details#/ems-79344
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79721\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Olympic Park via Granville.\nChange trains at Lidcombe to continue your journey.
@@ -27,27 +27,11 @@ URL:https://transportnsw.info/alerts/details#/ems-79721
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
-DTEND:20261012T143000Z
-DTSTART:20261012T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
-URL:https://transportnsw.info/alerts/details#/ems-79342
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
 DTEND:20261013T143000Z
 DTSTART:20261013T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
 URL:https://transportnsw.info/alerts/details#/ems-79342
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.
-DTEND:20261012T143000Z
-DTSTART:20261012T105049Z
-SUMMARY:City Circle: Trains run in one direction only
-UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
-URL:https://transportnsw.info/alerts/details#/ems-79335
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.

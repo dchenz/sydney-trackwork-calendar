@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
-DTEND:20261013T143000Z
-DTSTART:20261013T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:68734867-b709-583d-aa24-9cefcd5f9cb4
-URL:https://transportnsw.info/alerts/details#/ems-79380
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
-DTEND:20261012T143000Z
-DTSTART:20261012T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:68734867-b709-583d-aa24-9cefcd5f9cb4
-URL:https://transportnsw.info/alerts/details#/ems-79380
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79702\n\nFriday 23 October  \nFrom 10:40PM\, trains via the Airport start and end at Central due to City Circle trackwork.\nT8 trains do not run between Sydenham and the City.
-DTEND:20261023T150054Z
-DTSTART:20261023T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:e7f74845-cd55-57e1-bf20-7bb804e61101
-URL:https://transportnsw.info/alerts/details#/ems-79702
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.
-DTEND:20261012T143000Z
-DTSTART:20261012T105049Z
-SUMMARY:City Circle: Trains run in one direction only
-UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
-URL:https://transportnsw.info/alerts/details#/ems-79335
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79705\n\nSaturday 24 and Sunday 25 October\nMost trains run to a changed timetable between Macarthur and Sydenham\, or between Revesby and Central via the Airport\, due to City Circle trackwork.
 DTEND:20261025T125943Z
 DTSTART:20261023T150000Z
@@ -48,5 +16,21 @@ DTSTART:20261023T114000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
 URL:https://transportnsw.info/alerts/details#/ems-79692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79702\n\nFriday 23 October  \nFrom 10:40PM\, trains via the Airport start and end at Central due to City Circle trackwork.\nT8 trains do not run between Sydenham and the City.
+DTEND:20261023T150054Z
+DTSTART:20261023T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:e7f74845-cd55-57e1-bf20-7bb804e61101
+URL:https://transportnsw.info/alerts/details#/ems-79702
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
+DTEND:20261013T143000Z
+DTSTART:20261013T103000Z
+SUMMARY:Buses replace trains between Glenfield and Sydenham
+UID:68734867-b709-583d-aa24-9cefcd5f9cb4
+URL:https://transportnsw.info/alerts/details#/ems-79380
 END:VEVENT
 END:VCALENDAR

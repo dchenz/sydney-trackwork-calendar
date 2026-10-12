@@ -11,8 +11,8 @@ URL:https://transportnsw.info/alerts/details#/ems-79350
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
-DTEND:20261015T143000Z
-DTSTART:20261015T104000Z
+DTEND:20261014T143000Z
+DTSTART:20261014T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:81668c01-8733-5d75-84ca-13390f9fd319
 URL:https://transportnsw.info/alerts/details#/ems-79348
@@ -42,14 +42,6 @@ UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
 URL:https://transportnsw.info/alerts/details#/ems-79692
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79335\n\nMonday 12 October\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.
-DTEND:20261012T143000Z
-DTSTART:20261012T105049Z
-SUMMARY:City Circle: Trains run in one direction only
-UID:080b5f3a-6120-5d22-b699-46c5f507d7ca
-URL:https://transportnsw.info/alerts/details#/ems-79335
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79352\n\nSunday 18 October \nTrains run to a changed timetable and stopping pattern between Leppington and the City.
 DTEND:20261018T125934Z
 DTSTART:20261017T150000Z
@@ -59,8 +51,8 @@ URL:https://transportnsw.info/alerts/details#/ems-79352
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
+DTEND:20261015T143000Z
+DTSTART:20261015T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:81668c01-8733-5d75-84ca-13390f9fd319
 URL:https://transportnsw.info/alerts/details#/ems-79348
