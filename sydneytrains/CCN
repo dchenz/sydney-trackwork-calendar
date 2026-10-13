@@ -9,4 +9,12 @@ SUMMARY:Trains may run to a changed timetable. Buses replace some trains between
 UID:d62de460-2747-5fc9-8fa9-e50f3c33b1d1
 URL:https://transportnsw.info/alerts/details#/ems-79723
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80102\n\nSaturday 31 October and Sunday 1 November \nBuses replace trains between Newcastle Interchange and Hornsby.\nT1 North Shore Line trains run between Hornsby and the City\, some to a changed timetable.\nBuses also replace trains on the T9 Northern and Hunter lines.
+DTEND:20261101T125952Z
+DTSTART:20261030T140000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Hornsby
+UID:95143074-f965-57fb-b35e-25eb968cea07
+URL:https://transportnsw.info/alerts/details#/ems-80102
+END:VEVENT
 END:VCALENDAR

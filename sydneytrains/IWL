@@ -34,6 +34,22 @@ UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
 URL:https://transportnsw.info/alerts/details#/ems-79342
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80096\n\nWednesday 28 October\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.
+DTEND:20261028T143052Z
+DTSTART:20261028T113000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:3ac8fc71-18ef-5b43-9400-50ad43b82c4e
+URL:https://transportnsw.info/alerts/details#/ems-80096
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80106\n\nSaturday 31 October and Sunday 1 November\nInner West trains do not run. T1 Western and T2 Leppington trains make extra stops.\nTrains run to a changed timetable between Leppington and T1 North Shore Line stations via Granville or Regents Park\, stopping at all stations between Ashfield and Central.\n T1 Western Line trains make extra stops at all stations between Lidcombe and Ashfield.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 4:00PM to 1:30AM\, extra trains run between Leppington and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
+DTEND:20261101T125951Z
+DTSTART:20261030T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:d41e3381-c0cc-5cc6-8903-08e4704a8355
+URL:https://transportnsw.info/alerts/details#/ems-80106
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
 DTEND:20261015T143000Z
 DTSTART:20261015T104000Z

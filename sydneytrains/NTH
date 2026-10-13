@@ -2,6 +2,38 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80094\n\nSaturday 31 October and Sunday 1 November\nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nUse metro services run between Epping and the City.\nSunday from 2:00AM to 10:00AM\, buses also replace trains between Strathfield and Central.
+DTEND:20261101T125934Z
+DTSTART:20261030T150000Z
+SUMMARY:Buses replace trains between Hornsby and Strathfield\, and some trains between Strathfield and Central
+UID:30836f50-02a7-537b-80d2-ffd58631fddf
+URL:https://transportnsw.info/alerts/details#/ems-80094
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79707\n\nFriday 23 October  \nFrom 10:50PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
+DTEND:20261023T150036Z
+DTSTART:20261023T115000Z
+SUMMARY:Trains run between Hornsby and Central\, platforms 1-14
+UID:035e2343-bc4b-54ac-a0bd-3e49537683f2
+URL:https://transportnsw.info/alerts/details#/ems-79707
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80086\n\nMonday 26 and Tuesday 27 October\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261027T143000Z
+DTSTART:20261027T101000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:461d4053-9044-5bf3-9597-c057fd3fda11
+URL:https://transportnsw.info/alerts/details#/ems-80086
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80086\n\nMonday 26 and Tuesday 27 October\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261026T143000Z
+DTSTART:20261026T101000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:461d4053-9044-5bf3-9597-c057fd3fda11
+URL:https://transportnsw.info/alerts/details#/ems-80086
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79386\n\nSaturday 17 October\nFrom 6:30AM to 10:30AM\, trains make an extra stop at Ashfield.
 DTEND:20261016T233000Z
 DTSTART:20261016T193000Z
@@ -18,11 +50,11 @@ UID:25385491-e301-5840-a7a9-565f8249816e
 URL:https://transportnsw.info/alerts/details#/ems-79711
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79707\n\nFriday 23 October  \nFrom 10:50PM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only.
-DTEND:20261023T150036Z
-DTSTART:20261023T115000Z
-SUMMARY:Trains run between Hornsby and Central\, platforms 1-14
-UID:035e2343-bc4b-54ac-a0bd-3e49537683f2
-URL:https://transportnsw.info/alerts/details#/ems-79707
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80090\n\nWednesday 28 October\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
+DTEND:20261028T143000Z
+DTSTART:20261028T113000Z
+SUMMARY:Some trains make extra stops at Croydon and Ashfield
+UID:e144a92e-e98d-55f7-8158-117aa03cc1cb
+URL:https://transportnsw.info/alerts/details#/ems-80090
 END:VEVENT
 END:VCALENDAR

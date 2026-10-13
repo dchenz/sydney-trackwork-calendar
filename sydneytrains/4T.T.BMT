@@ -10,6 +10,14 @@ UID:7b119bac-4e43-5935-8ae6-842029968d10
 URL:https://transportnsw.info/alerts/details#/ems-80021
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80098\n\nSaturday 31 October and Sunday 1 November\nTrains run to a changed timetable between Blue Mountains Line stations and Blacktown only.\nUse T1 Western Line trains between Blacktown and Central.\nTrains from Blacktown to Blue Mountains Line stations run 30 minutes later than the normal timetable.\nBathurst trains continue to run between Bathurst and Lithgow or Central.\nIf travelling to Lithgow to connect with a NSW TrainLink Regional Coach\, call 132 232 before travelling to confirm departure times.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Central.\nT1 Western Line trains run to a changed timetable between Penrith and Olympic Park.
+DTEND:20261101T125909Z
+DTSTART:20261030T150000Z
+SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only
+UID:525254ee-7174-5d6d-9b03-aa4ed1ce287f
+URL:https://transportnsw.info/alerts/details#/ems-80098
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79715\n\nSaturday 24 and Sunday 25 October\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nTrackwork on the City Circle may also affect how you travel.\nSunday from 12:40AM to 6:00AM\, most trains run between Blue Mountains Line stations and Blacktown only\, due to trackwork between Olympic Park and Central.\nChange trains at Blacktown to continue your journey.\nT1 Western Line trains run to a changed timetable between Penrith and Olympic Park only.
 DTEND:20261025T125957Z
 DTSTART:20261023T150000Z

@@ -18,6 +18,14 @@ UID:de1ce2c5-3870-5f04-bf5c-59dcee4ec705
 URL:https://transportnsw.info/alerts/details#/ems-79753
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80128\n\nSaturday 31 October and Sunday 1 November\nSome trains run to a changed timetable.\nExtra trains run between Richmond and Liverpool.\nSunday from 8:00AM to 2:00PM\, buses replace trains between Leppington and Glenfield.\nTrains run between Richmond or Schofields and Liverpool.
+DTEND:20261101T125912Z
+DTSTART:20261030T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:ae64575c-5344-5f3a-a688-b4e40b139f6a
+URL:https://transportnsw.info/alerts/details#/ems-80128
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79755\n\nSaturday 24 and Sunday 25 October \nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Liverpool\n- Schofields and Leppington.
 DTEND:20261025T125956Z
 DTSTART:20261023T150000Z

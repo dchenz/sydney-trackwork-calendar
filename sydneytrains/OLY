@@ -9,4 +9,20 @@ SUMMARY:Trains run to a changed timetable. At times\, buses replace trains betwe
 UID:254599e4-3f86-5088-b156-930e69d44a46
 URL:https://transportnsw.info/alerts/details#/ems-79698
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80078\n\nSunday 1 November\nFrom 2:00AM to 10:00AM\, trains run to a changed timetable and stopping pattern between Olympic Park and Penrith or Leppington.\nBuses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
+DTEND:20261031T230041Z
+DTSTART:20261031T150000Z
+SUMMARY:Buses replace trains between Olympic Park and Ashfield or Central
+UID:668d0f97-2512-5e4a-bbe8-a3ee6ae9446d
+URL:https://transportnsw.info/alerts/details#/ems-80078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80072\n\nSaturday 31 October\nFrom 4:00PM to 1:30AM\, trains run to a changed timetable between Olympic Park and Lidcombe\, continuing to Penrith\, Richmond or Leppington.
+DTEND:20261031T143007Z
+DTSTART:20261031T050000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:76a5e8c8-ff1c-527d-9ef1-54503461f061
+URL:https://transportnsw.info/alerts/details#/ems-80072
+END:VEVENT
 END:VCALENDAR

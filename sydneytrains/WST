@@ -18,6 +18,30 @@ UID:7aa42c45-d8fa-5aba-bf6e-e7ab78d63d1f
 URL:https://transportnsw.info/alerts/details#/ems-79713
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261026T143000Z
+DTSTART:20261026T105000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
+URL:https://transportnsw.info/alerts/details#/ems-80080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261027T143000Z
+DTSTART:20261027T105000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
+URL:https://transportnsw.info/alerts/details#/ems-80080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
+DTEND:20261028T143013Z
+DTSTART:20261028T115000Z
+SUMMARY:T1 Western Line: Trains make extra stops at Homebush and Burwood
+UID:a850ffa6-71e9-576b-9386-751807479223
+URL:https://transportnsw.info/alerts/details#/ems-80084
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79717\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace trains between Olympic Park and Central.\nTrains run to a changed timetable between Penrith and Olympic Park.\nReplacement buses do not leave from Lidcombe.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
 DTEND:20261025T125959Z
 DTSTART:20261023T150000Z
@@ -40,6 +64,14 @@ DTSTART:20261014T102000Z
 SUMMARY:T1 Western Line: Trains may run to a changed timetable and stopping pattern
 UID:0c790a35-abcf-5088-bf2a-2761ef9f7b7b
 URL:https://transportnsw.info/alerts/details#/ems-79338
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80088\n\nSaturday 31 October and Sunday 1 November\nTrains run to a changed timetable and stopping pattern.\nPenrith trains make extra stops at all stations between Lidcombe and Ashfield.\nRichmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\nSaturday from 4:00PM to 1:30AM\, some trains run between Penrith or Richmond and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\n\n\nTrains run to a changed timetable between: \n- Penrith and Olympic Park \n- Richmond and Liverpool \n- Ashfield and the City\, continuing to T1 North Shore Line stations.
+DTEND:20261101T125927Z
+DTSTART:20261030T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:d2bce4da-54d0-5dd2-b906-25cc9bb1f8ae
+URL:https://transportnsw.info/alerts/details#/ems-80088
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80012\n\nSaturday 17 October\nFrom 3:30AM to 8:20AM\, buses replace trains between Penrith and St Marys.\nTrains run between St Marys and the City\, some to a changed timetable.

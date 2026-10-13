@@ -57,4 +57,12 @@ SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:81668c01-8733-5d75-84ca-13390f9fd319
 URL:https://transportnsw.info/alerts/details#/ems-79348
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80116\n\nSaturday 31 October and Sunday 1 November\nInner West trains do not run. T1 Western and T2 Leppington trains make extra stops.\nTrains run between Leppington and T1 North Shore Line stations via Regents Park\, stopping at all stations between Ashfield and Central.\nT1 Western Line trains make extra stops at all stations between Lidcombe and Ashfield.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 4:00PM to 1:30AM\, some trains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between: \n- Liverpool and Lidcombe \n- Lidcombe and Olympic Park \n- Ashfield and the City\, continuing to T1 North Shore Line stations.
+DTEND:20261101T125927Z
+DTSTART:20261030T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:e198299e-266b-5c9a-8666-3bb8e8379910
+URL:https://transportnsw.info/alerts/details#/ems-80116
+END:VEVENT
 END:VCALENDAR
