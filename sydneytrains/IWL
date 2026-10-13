@@ -26,14 +26,6 @@ UID:43e30d53-bc38-5250-bd74-77dd9b3b9ef0
 URL:https://transportnsw.info/alerts/details#/ems-79721
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79342\n\nMonday 12 and Tuesday 13 October \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville.
-DTEND:20261013T143000Z
-DTSTART:20261013T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:2bf5dc18-8902-5f49-99f7-bd2a34be2052
-URL:https://transportnsw.info/alerts/details#/ems-79342
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80096\n\nWednesday 28 October\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.
 DTEND:20261028T143052Z
 DTSTART:20261028T113000Z

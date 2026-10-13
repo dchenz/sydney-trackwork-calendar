@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79380\n\nMonday 12 and Tuesday 13 October\n Nightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield and Sydenham.\nMonday from 9:50PM\, trains run between Turrella and Central only\, due to City Circle trackwork.
-DTEND:20261013T143000Z
-DTSTART:20261013T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:68734867-b709-583d-aa24-9cefcd5f9cb4
-URL:https://transportnsw.info/alerts/details#/ems-79380
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80082\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
 DTEND:20261029T143000Z
 DTSTART:20261029T105000Z

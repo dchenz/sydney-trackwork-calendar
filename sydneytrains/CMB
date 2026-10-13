@@ -50,14 +50,6 @@ UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
 URL:https://transportnsw.info/alerts/details#/ems-79370
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79368\n\nMonday 12 and Tuesday 13 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
-DTEND:20261013T143059Z
-DTSTART:20261012T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:b1db4bf4-0b28-5cd4-8c78-dc5efab0f638
-URL:https://transportnsw.info/alerts/details#/ems-79368
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79372\n\nSunday 18 October \nBuses replace trains between Parramatta and Cabramatta.\nTrains run to a changed timetable and stopping pattern.
 DTEND:20261018T125945Z
 DTSTART:20261017T150000Z
