@@ -42,14 +42,6 @@ UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
 URL:https://transportnsw.info/alerts/details#/ems-79370
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79370\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield. \nTrains run to a changed timetable between Fairfield and Richmond.
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:82788bb4-44cf-5c95-869a-feb97e4e6e7a
-URL:https://transportnsw.info/alerts/details#/ems-79370
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79372\n\nSunday 18 October \nBuses replace trains between Parramatta and Cabramatta.\nTrains run to a changed timetable and stopping pattern.
 DTEND:20261018T125945Z
 DTSTART:20261017T150000Z

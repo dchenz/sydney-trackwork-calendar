@@ -2,17 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79346\n\nSunday 18 October \nBuses replace trains between Cabramatta and Parramatta.\nTrains run to a changed timetable between Leppington and the City via Regents Park.
-DTEND:20261018T125925Z
-DTSTART:20261017T150000Z
-SUMMARY:Buses replace trains between Cabramatta and Parramatta
-UID:c2c1e8aa-fb12-5f40-bf7a-26d88ff1ebba
-URL:https://transportnsw.info/alerts/details#/ems-79346
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261014T143000Z
-DTSTART:20261014T104000Z
+DTEND:20261015T143000Z
+DTSTART:20261015T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:3287071a-da7d-5553-85ff-35e91ba750be
 URL:https://transportnsw.info/alerts/details#/ems-79344
@@ -42,12 +34,12 @@ UID:d41e3381-c0cc-5cc6-8903-08e4704a8355
 URL:https://transportnsw.info/alerts/details#/ems-80106
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261015T143000Z
-DTSTART:20261015T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:3287071a-da7d-5553-85ff-35e91ba750be
-URL:https://transportnsw.info/alerts/details#/ems-79344
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79346\n\nSunday 18 October \nBuses replace trains between Cabramatta and Parramatta.\nTrains run to a changed timetable between Leppington and the City via Regents Park.
+DTEND:20261018T125925Z
+DTSTART:20261017T150000Z
+SUMMARY:Buses replace trains between Cabramatta and Parramatta
+UID:c2c1e8aa-fb12-5f40-bf7a-26d88ff1ebba
+URL:https://transportnsw.info/alerts/details#/ems-79346
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
