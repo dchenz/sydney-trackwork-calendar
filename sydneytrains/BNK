@@ -26,14 +26,6 @@ UID:52be5068-4a74-532f-92f3-be5c728f4590
 URL:https://transportnsw.info/alerts/details#/ems-79745
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20261025T125924Z
-DTSTART:20261023T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
-URL:https://transportnsw.info/alerts/details#/ems-79692
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79352\n\nSunday 18 October \nTrains run to a changed timetable and stopping pattern between Leppington and the City.
 DTEND:20261018T125934Z
 DTSTART:20261017T150000Z
@@ -42,12 +34,12 @@ UID:6a9e44ca-a0df-5606-9873-f4a066565ed5
 URL:https://transportnsw.info/alerts/details#/ems-79352
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79348\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe. \nTrains run between Lidcombe and the City\, to a changed timetable
-DTEND:20261015T143000Z
-DTSTART:20261015T104000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:81668c01-8733-5d75-84ca-13390f9fd319
-URL:https://transportnsw.info/alerts/details#/ems-79348
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261025T125924Z
+DTSTART:20261023T114000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
+URL:https://transportnsw.info/alerts/details#/ems-79692
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80116\n\nSaturday 31 October and Sunday 1 November\nInner West trains do not run. T1 Western and T2 Leppington trains make extra stops.\nTrains run between Leppington and T1 North Shore Line stations via Regents Park\, stopping at all stations between Ashfield and Central.\nT1 Western Line trains make extra stops at all stations between Lidcombe and Ashfield.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 4:00PM to 1:30AM\, some trains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\nTrains run to a changed timetable between: \n- Liverpool and Lidcombe \n- Lidcombe and Olympic Park \n- Ashfield and the City\, continuing to T1 North Shore Line stations.

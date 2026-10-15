@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79344\n\nWednesday 14 and Thursday 15 October \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20261015T143000Z
-DTSTART:20261015T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:3287071a-da7d-5553-85ff-35e91ba750be
-URL:https://transportnsw.info/alerts/details#/ems-79344
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79721\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Olympic Park via Granville.\nChange trains at Lidcombe to continue your journey.
 DTEND:20261023T150009Z
 DTSTART:20261023T112000Z
