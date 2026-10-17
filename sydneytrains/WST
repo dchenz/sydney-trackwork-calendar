@@ -11,6 +11,14 @@ URL:https://transportnsw.info/alerts/details#/ems-79340
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261027T143000Z
+DTSTART:20261027T105000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
+URL:https://transportnsw.info/alerts/details#/ems-80080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20261026T143000Z
 DTSTART:20261026T105000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
@@ -24,14 +32,6 @@ DTSTART:20261023T115000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:7aa42c45-d8fa-5aba-bf6e-e7ab78d63d1f
 URL:https://transportnsw.info/alerts/details#/ems-79713
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20261027T143000Z
-DTSTART:20261027T105000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
-UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
-URL:https://transportnsw.info/alerts/details#/ems-80080
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
@@ -56,13 +56,5 @@ DTSTART:20261030T150000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:d2bce4da-54d0-5dd2-b906-25cc9bb1f8ae
 URL:https://transportnsw.info/alerts/details#/ems-80088
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80012\n\nSaturday 17 October\nFrom 3:30AM to 8:20AM\, buses replace trains between Penrith and St Marys.\nTrains run between St Marys and the City\, some to a changed timetable.
-DTEND:20261016T212040Z
-DTSTART:20261016T163000Z
-SUMMARY:Buses replace trains between Penrith and St Marys
-UID:f13b517f-1780-5a67-854d-a1f9abb53c62
-URL:https://transportnsw.info/alerts/details#/ems-80012
 END:VEVENT
 END:VCALENDAR

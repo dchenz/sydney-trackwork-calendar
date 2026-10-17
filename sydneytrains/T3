@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79350\n\nSaturday 17 October \nFrom 9:30AM to 1:00PM\, trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.
-DTEND:20261017T020045Z
-DTSTART:20261016T223000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:e8e64614-07c7-5db6-a78d-654c8d06bfb9
-URL:https://transportnsw.info/alerts/details#/ems-79350
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79743\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
 DTEND:20261023T150051Z
 DTSTART:20261023T112000Z

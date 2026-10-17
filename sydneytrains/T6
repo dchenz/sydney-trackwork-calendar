@@ -10,14 +10,6 @@ UID:82bc6e6d-2c7e-5cc9-842e-27409934c4a8
 URL:https://transportnsw.info/alerts/details#/ems-79378
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79376\n\nSaturday 17 October\nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20261016T233000Z
-DTSTART:20261016T193000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:6c53eae7-ddb4-5003-9756-251fdfe7b466
-URL:https://transportnsw.info/alerts/details#/ems-79376
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79763\n\nSaturday 24 and Sunday 25 October\nBuses replace trains between Bankstown and Lidcombe.\nTrains run between Liverpool and Bankstown\, and between Lidcombe and the City.\nSaturday from 11:40PM to 5:30AM Sunday\, buses also replace trains between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
 DTEND:20261025T125919Z
 DTSTART:20261023T150000Z

@@ -34,14 +34,6 @@ UID:461d4053-9044-5bf3-9597-c057fd3fda11
 URL:https://transportnsw.info/alerts/details#/ems-80086
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79386\n\nSaturday 17 October\nFrom 6:30AM to 10:30AM\, trains make an extra stop at Ashfield.
-DTEND:20261016T233000Z
-DTSTART:20261016T193000Z
-SUMMARY:Trains make an extra stop at Ashfield
-UID:f72d4def-6cb0-5715-a29a-c5f032474a24
-URL:https://transportnsw.info/alerts/details#/ems-79386
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79711\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable and stopping between: \nBerowra and Central\, platforms 1-14 \nHornsby and Epping\nUse metro services between Epping and the City.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace all trains between Strathfield and Central.\nCity Circle trackwork may also affect how you travel.
 DTEND:20261024T183002Z
 DTSTART:20261024T124000Z

@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79394\n\nSaturday 17 October\nFrom 3:00AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between South Coast Line stations and Waterfall only. T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.
-DTEND:20261017T003005Z
-DTSTART:20261016T160000Z
-SUMMARY:Buses replace trains between Waterfall and Sutherland
-UID:9edd2eb3-5794-5330-a213-175eacafdce5
-URL:https://transportnsw.info/alerts/details#/ems-79394
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80175\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20261029T143000Z
 DTSTART:20261029T105000Z
