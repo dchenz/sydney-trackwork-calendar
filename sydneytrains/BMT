@@ -17,12 +17,4 @@ SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only
 UID:525254ee-7174-5d6d-9b03-aa4ed1ce287f
 URL:https://transportnsw.info/alerts/details#/ems-80098
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79388\n\nSunday 18 October\nTrains run between Blue Mountains Line stations and Blacktown only due to trackwork between Parramatta and Lidcombe.\nT1 Western Line trains run between Penrith\, Blacktown and Parramatta only. Buses replace trains between Parramatta and Lidcombe.
-DTEND:20261018T125901Z
-DTSTART:20261017T150000Z
-SUMMARY:Trains run between Blue Mountains Line stations and Blacktown only. Buses replace trains between Parramatta and Lidcombe
-UID:64071fdc-397d-5426-93fc-ca89bd2b01ae
-URL:https://transportnsw.info/alerts/details#/ems-79388
-END:VEVENT
 END:VCALENDAR

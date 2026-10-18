@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79340\n\nSunday 18 October \nBuses replace trains between Parramatta and Lidcombe.\nTrains run to a changed timetable between Penrith or Richmond and Parramatta only.
-DTEND:20261018T125938Z
-DTSTART:20261017T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Parramatta and Lidcombe
-UID:13282b0a-77c3-5c6c-bc7c-46e06a2f9937
-URL:https://transportnsw.info/alerts/details#/ems-79340
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20261027T143000Z
 DTSTART:20261027T105000Z
