@@ -50,14 +50,6 @@ UID:be392ec9-80fd-5dcf-bc81-241f72a7e56d
 URL:https://transportnsw.info/alerts/details#/ems-80175
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79747\n\nMonday 19 and Tuesday 20 October \nNightly from 9:50PM to 2:30AM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20261020T153000Z
-DTSTART:20261020T105000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:2559ff9b-758e-5026-a7fb-cec03daa51c6
-URL:https://transportnsw.info/alerts/details#/ems-79747
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79749\n\nFriday 23 October \nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.
 DTEND:20261023T150000Z
 DTSTART:20261023T114000Z

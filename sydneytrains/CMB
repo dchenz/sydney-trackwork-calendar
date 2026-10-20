@@ -10,12 +10,12 @@ UID:de1ce2c5-3870-5f04-bf5c-59dcee4ec705
 URL:https://transportnsw.info/alerts/details#/ems-79753
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79753\n\nTuesday 20 and Wednesday 21 October\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20261020T143000Z
-DTSTART:20261020T125000Z
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
+DTEND:20261103T143000Z
+DTSTART:20261103T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
-UID:de1ce2c5-3870-5f04-bf5c-59dcee4ec705
-URL:https://transportnsw.info/alerts/details#/ems-79753
+UID:6227f945-98cb-5d9b-8874-9bda4eceecee
+URL:https://transportnsw.info/alerts/details#/ems-80499
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80128\n\nSaturday 31 October and Sunday 1 November\nSome trains run to a changed timetable.\nExtra trains run between Richmond and Liverpool.\nSunday from 8:00AM to 2:00PM\, buses replace trains between Leppington and Glenfield.\nTrains run between Richmond or Schofields and Liverpool.
@@ -24,14 +24,6 @@ DTSTART:20261030T150000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:ae64575c-5344-5f3a-a688-b4e40b139f6a
 URL:https://transportnsw.info/alerts/details#/ems-80128
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
-DTEND:20261103T143000Z
-DTSTART:20261103T125000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:6227f945-98cb-5d9b-8874-9bda4eceecee
-URL:https://transportnsw.info/alerts/details#/ems-80499
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
