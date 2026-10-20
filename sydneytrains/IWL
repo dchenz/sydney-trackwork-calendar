@@ -2,12 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80445\n\nMonday 2 and Tuesday 3 November\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261102T143000Z
+DTSTART:20261102T102000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:45bc7b24-6981-582c-8e87-5384c7b66f02
+URL:https://transportnsw.info/alerts/details#/ems-80445
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80445\n\nMonday 2 and Tuesday 3 November\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
+DTEND:20261103T143000Z
+DTSTART:20261103T102000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
+UID:45bc7b24-6981-582c-8e87-5384c7b66f02
+URL:https://transportnsw.info/alerts/details#/ems-80445
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79721\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Olympic Park via Granville.\nChange trains at Lidcombe to continue your journey.
 DTEND:20261023T150009Z
 DTSTART:20261023T112000Z
 SUMMARY:Buses replace Inner West trains between Strathfield and Central
 UID:43e30d53-bc38-5250-bd74-77dd9b3b9ef0
 URL:https://transportnsw.info/alerts/details#/ems-79721
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80457\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Leppington or Homebush and North Sydney. Some trains start or end at Central\, platforms 1-14.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261106T150045Z
+DTSTART:20261106T114000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:300d9bf4-ae17-5f8f-ac13-d0bb8840b9c8
+URL:https://transportnsw.info/alerts/details#/ems-80457
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80096\n\nWednesday 28 October\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.
@@ -18,12 +42,52 @@ UID:3ac8fc71-18ef-5b43-9400-50ad43b82c4e
 URL:https://transportnsw.info/alerts/details#/ems-80096
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80433\n\nMonday 2 and Tuesday 3 November\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20261102T143000Z
+DTSTART:20261102T104000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:aff44152-38e9-5c87-ba8c-ec5b6c7f508b
+URL:https://transportnsw.info/alerts/details#/ems-80433
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80433\n\nMonday 2 and Tuesday 3 November\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20261103T143000Z
+DTSTART:20261103T104000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:aff44152-38e9-5c87-ba8c-ec5b6c7f508b
+URL:https://transportnsw.info/alerts/details#/ems-80433
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
+DTEND:20261108T125926Z
+DTSTART:20261106T114000Z
+SUMMARY:City Circle: Trains do not run to Circular Quay\, St James or Museum
+UID:28cff137-47ba-5be0-abc4-3db52babdb97
+URL:https://transportnsw.info/alerts/details#/ems-80435
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80453\n\nThursday 5 November \nFrom 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
+DTEND:20261105T143059Z
+DTSTART:20261105T104000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:30404343-3451-5e50-ada3-754f1297a7c2
+URL:https://transportnsw.info/alerts/details#/ems-80453
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80106\n\nSaturday 31 October and Sunday 1 November\nInner West trains do not run. T1 Western and T2 Leppington trains make extra stops.\nTrains run to a changed timetable between Leppington and T1 North Shore Line stations via Granville or Regents Park\, stopping at all stations between Ashfield and Central.\n T1 Western Line trains make extra stops at all stations between Lidcombe and Ashfield.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 4:00PM to 1:30AM\, extra trains run between Leppington and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
 DTEND:20261101T125951Z
 DTSTART:20261030T150000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:d41e3381-c0cc-5cc6-8903-08e4704a8355
 URL:https://transportnsw.info/alerts/details#/ems-80106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80459\n\nSaturday 7 and Sunday 8 November \nBuses replace trains between Macarthur\, Glenfield and Fairfield.\nTrains run to a changed timetable and stopping pattern between:\n- Leppington and Central\, platforms 1-14 via Sydenham\n- Fairfield and Central\, platforms 1-14\n- Homebush and North Sydney\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe via Regents Park.\nFrom 9.40pm Saturday to 3am Sunday\, buses replace trains between Leppington and East Hills.\nTrains run between East Hills and the City\, to a changed timetable.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk
+DTEND:20261108T125949Z
+DTSTART:20261106T150000Z
+SUMMARY:Buses replace trains between Macarthur\, Glenfield and Fairfield
+UID:dfd3f7c5-873d-5c23-8046-4c263349c823
+URL:https://transportnsw.info/alerts/details#/ems-80459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.

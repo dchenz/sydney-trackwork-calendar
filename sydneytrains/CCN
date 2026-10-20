@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80482\n\nFriday 6 November\nBuses replace the 01:47AM Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21AM\, 26 minutes earlier than the normal train timetable.
+DTEND:20261105T170027Z
+DTSTART:20261105T140000Z
+SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
+UID:d617e73f-1aea-56ad-b19e-30f19ce865cc
+URL:https://transportnsw.info/alerts/details#/ems-80482
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79723\n\nSaturday 24 and Sunday 25 October\nTrains may run to a changed timetable due to trackwork between Strathfield and Central.\nTrackwork on the City Circle may also affect how you travel.\nSunday from 12:40AM to 5:00AM\, buses replace all trains between Strathfield and Central.\nTrains run to a changed timetable between Central Coast & Newcastle Line stations and Strathfield only.
 DTEND:20261025T125946Z
 DTSTART:20261023T150000Z

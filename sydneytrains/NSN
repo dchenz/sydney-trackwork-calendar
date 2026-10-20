@@ -10,6 +10,14 @@ UID:a850ffa6-71e9-576b-9386-751807479223
 URL:https://transportnsw.info/alerts/details#/ems-80084
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80437\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
+DTEND:20261103T143000Z
+DTSTART:20261103T104000Z
+SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
+UID:e8b064d6-62c5-515e-8c5d-b9684c61c475
+URL:https://transportnsw.info/alerts/details#/ems-80437
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80076\n\nSaturday 31 October and Sunday 1 November\nBuses replace trains between Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nBuses also replace T9 Northern and Central Coast & Newcastle Line trains.\nSunday from 2:00AM to 10:00AM\, trains run between Hornsby\, the City and Ashfield only.\nBuses replace trains between Central and Strathfield or Olympic Park.
 DTEND:20261101T125916Z
 DTSTART:20261030T150000Z
@@ -48,5 +56,13 @@ DTSTART:20261026T102000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro services between Chatswood and the City
 UID:975fad9c-1b68-567e-9c09-539dab3232f5
 URL:https://transportnsw.info/alerts/details#/ems-80074
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80437\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
+DTEND:20261102T143000Z
+DTSTART:20261102T104000Z
+SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
+UID:e8b064d6-62c5-515e-8c5d-b9684c61c475
+URL:https://transportnsw.info/alerts/details#/ems-80437
 END:VEVENT
 END:VCALENDAR

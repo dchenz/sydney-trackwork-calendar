@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80443\n\nSaturday 7 and Sunday 8 November\n Richmond trains run to a changed timetable and stopping pattern between Richmond and Olympic Park. You may need to change trains to continue your journey.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261108T125911Z
+DTSTART:20261106T150000Z
+SUMMARY:T1 Western Line: Some trains run to a changed timetable and stopping pattern. City Circle trackwork may also affect how you travel
+UID:45dfba49-2498-52d3-bd46-190f379e210c
+URL:https://transportnsw.info/alerts/details#/ems-80443
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20261027T143000Z
 DTSTART:20261027T105000Z
@@ -40,6 +48,30 @@ DTSTART:20261023T150000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:5ef3cb29-30b3-5e60-bd7a-343519598275
 URL:https://transportnsw.info/alerts/details#/ems-79717
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80441\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
+DTEND:20261105T143056Z
+DTSTART:20261105T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:f0b9bcf6-de17-50a6-af38-9af82f4a115b
+URL:https://transportnsw.info/alerts/details#/ems-80441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80439\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20261102T143000Z
+DTSTART:20261102T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:85c1c602-b094-5b24-aed9-e86a34db743c
+URL:https://transportnsw.info/alerts/details#/ems-80439
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80439\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20261103T143000Z
+DTSTART:20261103T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:85c1c602-b094-5b24-aed9-e86a34db743c
+URL:https://transportnsw.info/alerts/details#/ems-80439
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80088\n\nSaturday 31 October and Sunday 1 November\nTrains run to a changed timetable and stopping pattern.\nPenrith trains make extra stops at all stations between Lidcombe and Ashfield.\nRichmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\nSaturday from 4:00PM to 1:30AM\, some trains run between Penrith or Richmond and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\n\n\nTrains run to a changed timetable between: \n- Penrith and Olympic Park \n- Richmond and Liverpool \n- Ashfield and the City\, continuing to T1 North Shore Line stations.

@@ -10,6 +10,22 @@ UID:1b4dc965-d040-5541-a504-c2c26e60a108
 URL:https://transportnsw.info/alerts/details#/ems-80124
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80491\n\nSaturday 7 November \nFrom 1:00PM to 4:00PM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Arncliffe\, Wolli Creek and Sydenham.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek oror change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261107T050000Z
+DTSTART:20261107T020000Z
+SUMMARY:Some trains do not stop at Wolli Creek
+UID:5d303c82-5381-580e-8b35-d4223b45572c
+URL:https://transportnsw.info/alerts/details#/ems-80491
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80488\n\nSaturday 7 November \nFrom 6.30am to 12.20pm\, trains run to a changed timetable and stopping pattern.\nSome trains start or end at Hurstville or Sutherland. You may need to change trains to continue your journey.\nTrains may leave from different platforms\, please check indicator screens before boarding.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261107T012000Z
+DTSTART:20261106T193000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
+UID:e41a1584-1d21-5f2b-97c4-c7ef739e64b0
+URL:https://transportnsw.info/alerts/details#/ems-80488
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80120\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville. \n• Change at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
 DTEND:20261029T143040Z
 DTSTART:20261028T105000Z
@@ -50,11 +66,43 @@ UID:0833d1f2-8922-5262-a684-cd48f85d7539
 URL:https://transportnsw.info/alerts/details#/ems-79749
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80480\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20261102T143000Z
+DTSTART:20261102T103000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:c97934ff-0916-5078-8400-ce09935d46c1
+URL:https://transportnsw.info/alerts/details#/ems-80480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80480\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20261103T143000Z
+DTSTART:20261103T103000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:c97934ff-0916-5078-8400-ce09935d46c1
+URL:https://transportnsw.info/alerts/details#/ems-80480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80484\n\nFriday 6 November\nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261106T150038Z
+DTSTART:20261106T114000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:b8f9d200-784f-50ca-957c-8e5ff3cd91aa
+URL:https://transportnsw.info/alerts/details#/ems-80484
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79751\n\nSaturday 24 and Sunday 25 October\nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nExtra trains run between Hurstville and Bondi Junction.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nChange at Central or Town Hall for light rail\, local buses to City stations or walk.\nMetro services also run between Sydenham\, the City and Tallawong.
 DTEND:20261025T125919Z
 DTSTART:20261023T150000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle trackwork may also affect how you travel
 UID:2c63831d-2156-5e4a-95dd-d21397e7cf5b
 URL:https://transportnsw.info/alerts/details#/ems-79751
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80486\n\nSaturday 7 and Sunday 8 November \nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
+DTEND:20261108T125943Z
+DTSTART:20261106T150000Z
+SUMMARY:Some trains make extra stops at St Peters and Erskineville
+UID:93389f55-a163-5551-bb5b-7c49d32ddf78
+URL:https://transportnsw.info/alerts/details#/ems-80486
 END:VEVENT
 END:VCALENDAR
