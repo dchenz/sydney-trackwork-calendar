@@ -2,17 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79753\n\nTuesday 20 and Wednesday 21 October\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20261021T143000Z
-DTSTART:20261021T125000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:de1ce2c5-3870-5f04-bf5c-59dcee4ec705
-URL:https://transportnsw.info/alerts/details#/ems-79753
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
-DTEND:20261103T143000Z
-DTSTART:20261103T125000Z
+DTEND:20261104T143000Z
+DTSTART:20261104T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:6227f945-98cb-5d9b-8874-9bda4eceecee
 URL:https://transportnsw.info/alerts/details#/ems-80499
@@ -27,8 +19,8 @@ URL:https://transportnsw.info/alerts/details#/ems-80128
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
-DTEND:20261104T143000Z
-DTSTART:20261104T125000Z
+DTEND:20261103T143000Z
+DTSTART:20261103T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:6227f945-98cb-5d9b-8874-9bda4eceecee
 URL:https://transportnsw.info/alerts/details#/ems-80499
