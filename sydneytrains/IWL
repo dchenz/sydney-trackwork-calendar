@@ -18,14 +18,6 @@ UID:45bc7b24-6981-582c-8e87-5384c7b66f02
 URL:https://transportnsw.info/alerts/details#/ems-80445
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79721\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Olympic Park via Granville.\nChange trains at Lidcombe to continue your journey.
-DTEND:20261023T150009Z
-DTSTART:20261023T112000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central
-UID:43e30d53-bc38-5250-bd74-77dd9b3b9ef0
-URL:https://transportnsw.info/alerts/details#/ems-79721
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80457\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Leppington or Homebush and North Sydney. Some trains start or end at Central\, platforms 1-14.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261106T150045Z
 DTSTART:20261106T114000Z

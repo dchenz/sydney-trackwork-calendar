@@ -26,14 +26,6 @@ UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
 URL:https://transportnsw.info/alerts/details#/ems-80080
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79713\n\nFriday 23 October\nFrom 10:50PM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.
-DTEND:20261023T150018Z
-DTSTART:20261023T115000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:7aa42c45-d8fa-5aba-bf6e-e7ab78d63d1f
-URL:https://transportnsw.info/alerts/details#/ems-79713
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
 DTEND:20261028T143013Z
 DTSTART:20261028T115000Z

@@ -42,14 +42,6 @@ UID:deef3cd5-cc9d-52df-be66-96d4f926b613
 URL:https://transportnsw.info/alerts/details#/ems-79709
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79696\n\nFriday 23 October\nFrom 11:00PM Friday\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for light rail or local bus services.
-DTEND:20261023T150054Z
-DTSTART:20261023T120000Z
-SUMMARY:T1 North Shore Line: Trains run between Berowra and Wynyard only
-UID:4ab7f0ef-0b7d-5ca0-be31-2db6ae7df020
-URL:https://transportnsw.info/alerts/details#/ems-79696
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80074\n\nMonday 26 and Tuesday 27 October\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
 DTEND:20261026T143000Z
 DTSTART:20261026T102000Z

@@ -42,14 +42,6 @@ UID:5ded4c12-7ec3-5679-a8f4-41e51b4aa1c7
 URL:https://transportnsw.info/alerts/details#/ems-80455
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79702\n\nFriday 23 October  \nFrom 10:40PM\, trains via the Airport start and end at Central due to City Circle trackwork.\nT8 trains do not run between Sydenham and the City.
-DTEND:20261023T150054Z
-DTSTART:20261023T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:e7f74845-cd55-57e1-bf20-7bb804e61101
-URL:https://transportnsw.info/alerts/details#/ems-79702
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
 DTEND:20261108T125926Z
 DTSTART:20261106T114000Z

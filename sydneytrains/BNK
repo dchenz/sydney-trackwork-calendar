@@ -34,14 +34,6 @@ UID:a31d2abe-2e36-5ad7-a43e-c0e7ee20e058
 URL:https://transportnsw.info/alerts/details#/ems-80468
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79743\n\nFriday 23 October\nFrom 10:20PM\, buses replace Inner West trains between Strathfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
-DTEND:20261023T150051Z
-DTSTART:20261023T112000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central
-UID:57e910d3-718e-593b-905a-54c19a6b23be
-URL:https://transportnsw.info/alerts/details#/ems-79743
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80472\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Liverpool and North Sydney.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261106T150038Z
 DTSTART:20261106T114000Z
