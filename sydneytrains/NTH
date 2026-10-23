@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80094\n\nSaturday 31 October and Sunday 1 November\nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nUse metro services run between Epping and the City.\nSunday from 2:00AM to 10:00AM\, buses also replace trains between Strathfield and Central.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80094\n\nSaturday 31 October and Sunday 1 November\nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nUse metro services between Epping and the City.\nSunday from 2:00AM to 10:00AM\, buses also replace trains between Strathfield and Central.
 DTEND:20261101T125934Z
 DTSTART:20261030T150000Z
 SUMMARY:Buses replace trains between Hornsby and Strathfield\, and some trains between Strathfield and Central
