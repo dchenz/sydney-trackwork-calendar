@@ -74,22 +74,6 @@ UID:ae3063f2-3915-5b11-8374-b7368e7751af
 URL:https://transportnsw.info/alerts/details#/ems-80461
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79705\n\nSaturday 24 and Sunday 25 October\nMost trains run to a changed timetable between Macarthur and Sydenham\, or between Revesby and Central via the Airport\, due to City Circle trackwork.
-DTEND:20261025T125943Z
-DTSTART:20261023T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. City Circle trackwork may affect how you travel
-UID:57b0cfc3-7b5c-5c6b-b9bf-387fe7f38e31
-URL:https://transportnsw.info/alerts/details#/ems-79705
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79692\n\nFriday 23 to Sunday 25 October\nFrom 10:40PM Friday\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20261025T125924Z
-DTSTART:20261023T114000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:1aa7d109-4b4c-5789-85f1-ecb5d28328d9
-URL:https://transportnsw.info/alerts/details#/ems-79692
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80082\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
 DTEND:20261028T143000Z
 DTSTART:20261028T105000Z

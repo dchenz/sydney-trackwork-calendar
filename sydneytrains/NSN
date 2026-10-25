@@ -34,14 +34,6 @@ UID:975fad9c-1b68-567e-9c09-539dab3232f5
 URL:https://transportnsw.info/alerts/details#/ems-80074
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79709\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable between Hornsby and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for light rail or local bus services.\nTrains do not run between Wynyard and Central\, or on the City Circle.\nT9 Northern Line trains run between Berowra and Central\, platforms 1-14\, via Strathfield.\nDaily from 7:30AM to 8:00PM\, buses replace trains between Hornsby and Gordon.\nTrains run to a changed timetable between Gordon and Wynyard only.
-DTEND:20261025T125900Z
-DTSTART:20261023T150000Z
-SUMMARY:T1 North Shore Line: Trains run between Hornsby and Wynyard only. Buses replace some trains between Hornsby and Gordon
-UID:deef3cd5-cc9d-52df-be66-96d4f926b613
-URL:https://transportnsw.info/alerts/details#/ems-79709
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80074\n\nMonday 26 and Tuesday 27 October\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
 DTEND:20261026T143000Z
 DTSTART:20261026T102000Z

@@ -34,14 +34,6 @@ UID:a850ffa6-71e9-576b-9386-751807479223
 URL:https://transportnsw.info/alerts/details#/ems-80084
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79717\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\n- Penrith and Central\, platforms 1-14 only\, making extra stops at Homebush\, Flemington and Burwood.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace trains between Olympic Park and Central.\nTrains run to a changed timetable between Penrith and Olympic Park.\nReplacement buses do not leave from Lidcombe.\nCity Circle trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 Eastern Suburbs & Illawarra Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20261025T125959Z
-DTSTART:20261023T150000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:5ef3cb29-30b3-5e60-bd7a-343519598275
-URL:https://transportnsw.info/alerts/details#/ems-79717
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80441\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20261105T143056Z
 DTSTART:20261105T104000Z

@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-79698\n\nSaturday 24 and Sunday 25 October\nTrains run to a changed timetable and stopping pattern between Olympic Park and Lidcombe.\nSaturday from 11:40PM to 5:30AM Sunday\, buses replace all trains between Olympic Park and Central.
-DTEND:20261025T125904Z
-DTSTART:20261023T150000Z
-SUMMARY:Trains run to a changed timetable. At times\, buses replace trains between Olympic Park and Central
-UID:254599e4-3f86-5088-b156-930e69d44a46
-URL:https://transportnsw.info/alerts/details#/ems-79698
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80078\n\nSunday 1 November\nFrom 2:00AM to 10:00AM\, trains run to a changed timetable and stopping pattern between Olympic Park and Penrith or Leppington.\nBuses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
 DTEND:20261031T230041Z
 DTSTART:20261031T150000Z
