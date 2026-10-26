@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80504\n\nSaturday 7 and Sunday 8 November\nBuses replace trains between Glenfield and Fairfield.\nTrains run to a changed timetable between:\n- Fairfield and Central\, platforms 1-14\n- Richmond and Olympic Park\n- Schofields and Parramatta\nYou may need to change trains to continue your journey.
-DTEND:20261108T125903Z
-DTSTART:20261106T150000Z
-SUMMARY:Buses replace trains between Glenfield and Fairfield
-UID:f97d030d-4e17-51ca-804d-a441a36e6a9a
-URL:https://transportnsw.info/alerts/details#/ems-80504
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20261111T143000Z
+DTSTART:20261111T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
+URL:https://transportnsw.info/alerts/details#/ems-80773
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80771\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20261110T143000Z
+DTSTART:20261110T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:fdb9db28-aef0-50d7-a090-1337c79298c2
+URL:https://transportnsw.info/alerts/details#/ems-80771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20261112T143000Z
+DTSTART:20261112T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
+URL:https://transportnsw.info/alerts/details#/ems-80773
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80499\n\nTuesday 3 and Wednesday 4 November \nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey
@@ -32,5 +48,21 @@ DTSTART:20261103T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:6227f945-98cb-5d9b-8874-9bda4eceecee
 URL:https://transportnsw.info/alerts/details#/ems-80499
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80504\n\nSaturday 7 and Sunday 8 November\nBuses replace trains between Glenfield and Fairfield.\nTrains run to a changed timetable between:\n- Fairfield and Central\, platforms 1-14\n- Richmond and Olympic Park\n- Schofields and Parramatta\nYou may need to change trains to continue your journey.
+DTEND:20261108T125903Z
+DTSTART:20261106T150000Z
+SUMMARY:Buses replace trains between Glenfield and Fairfield
+UID:f97d030d-4e17-51ca-804d-a441a36e6a9a
+URL:https://transportnsw.info/alerts/details#/ems-80504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80771\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DTEND:20261109T143000Z
+DTSTART:20261109T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:fdb9db28-aef0-50d7-a090-1337c79298c2
+URL:https://transportnsw.info/alerts/details#/ems-80771
 END:VEVENT
 END:VCALENDAR

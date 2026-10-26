@@ -18,6 +18,14 @@ UID:45bc7b24-6981-582c-8e87-5384c7b66f02
 URL:https://transportnsw.info/alerts/details#/ems-80445
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80763\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, Inner West trains run between Ashfield and the City Circle only. \nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
+DTEND:20261113T233022Z
+DTSTART:20261113T193000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:ac2eb2ef-018b-5f2c-969c-700850d3a429
+URL:https://transportnsw.info/alerts/details#/ems-80763
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80457\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Leppington or Homebush and North Sydney. Some trains start or end at Central\, platforms 1-14.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261106T150045Z
 DTSTART:20261106T114000Z
@@ -58,6 +66,14 @@ UID:28cff137-47ba-5be0-abc4-3db52babdb97
 URL:https://transportnsw.info/alerts/details#/ems-80435
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
+DTEND:20261111T143000Z
+DTSTART:20261111T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:665c6aec-7966-5668-b2ec-ad6e17faef03
+URL:https://transportnsw.info/alerts/details#/ems-80761
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80453\n\nThursday 5 November \nFrom 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
 DTEND:20261105T143059Z
 DTSTART:20261105T104000Z
@@ -96,5 +112,21 @@ DTSTART:20261110T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
+DTEND:20261112T143000Z
+DTSTART:20261112T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:665c6aec-7966-5668-b2ec-ad6e17faef03
+URL:https://transportnsw.info/alerts/details#/ems-80761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80759\n\nTuesday 10 November\nFrom 3:40PM to 11:00PM\, Inner West trains run between the City and Homebush only\, not Parramatta.\nYou may need to change trains to continue your journey.
+DTEND:20261110T120002Z
+DTSTART:20261110T044000Z
+SUMMARY:Inner West trains start and end at Homebush\, not Parramatta
+UID:91733952-0a13-545c-9286-a261d964350a
+URL:https://transportnsw.info/alerts/details#/ems-80759
 END:VEVENT
 END:VCALENDAR

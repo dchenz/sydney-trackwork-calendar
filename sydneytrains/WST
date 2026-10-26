@@ -18,14 +18,6 @@ UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
 URL:https://transportnsw.info/alerts/details#/ems-80080
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20261026T143000Z
-DTSTART:20261026T105000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
-UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
-URL:https://transportnsw.info/alerts/details#/ems-80080
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
 DTEND:20261028T143013Z
 DTSTART:20261028T115000Z
@@ -67,16 +59,16 @@ URL:https://transportnsw.info/alerts/details#/ems-80441
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80439\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20261102T143000Z
-DTSTART:20261102T104000Z
+DTEND:20261103T143000Z
+DTSTART:20261103T104000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:85c1c602-b094-5b24-aed9-e86a34db743c
 URL:https://transportnsw.info/alerts/details#/ems-80439
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80439\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
-DTEND:20261103T143000Z
-DTSTART:20261103T104000Z
+DTEND:20261102T143000Z
+DTSTART:20261102T104000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:85c1c602-b094-5b24-aed9-e86a34db743c
 URL:https://transportnsw.info/alerts/details#/ems-80439

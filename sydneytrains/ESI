@@ -66,6 +66,14 @@ UID:b8f9d200-784f-50ca-957c-8e5ff3cd91aa
 URL:https://transportnsw.info/alerts/details#/ems-80484
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80769\n\nSaturday 14 November\nFrom 5:40AM to 8:00AM\, trains run between Cronulla or Waterfall and the City Circle\, and between Central and Bondi Junction only.\nYou may need to change trains at Central or Town Hall to continue your journey.\nTrains make extra stops at St Peters and Erskineville.
+DTEND:20261113T210022Z
+DTSTART:20261113T184000Z
+SUMMARY:You may need to change trains at Central or Town Hall to continue your journey
+UID:770c223f-24f7-5fa4-96b8-a051dc0b8f16
+URL:https://transportnsw.info/alerts/details#/ems-80769
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80486\n\nSaturday 7 and Sunday 8 November \nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261108T125943Z
 DTSTART:20261106T150000Z
