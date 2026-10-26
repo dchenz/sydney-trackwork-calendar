@@ -34,6 +34,30 @@ UID:a850ffa6-71e9-576b-9386-751807479223
 URL:https://transportnsw.info/alerts/details#/ems-80084
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80753\n\nWednesday 11 and Thursday 12 November\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20261111T143000Z
+DTSTART:20261111T102000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:717adf8a-2c60-5ec4-8540-de592ce0c1b8
+URL:https://transportnsw.info/alerts/details#/ems-80753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80753\n\nWednesday 11 and Thursday 12 November\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DTEND:20261112T143000Z
+DTSTART:20261112T102000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:717adf8a-2c60-5ec4-8540-de592ce0c1b8
+URL:https://transportnsw.info/alerts/details#/ems-80753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80755\n\nSaturday 14 November\nFrom 6:30AM to 10:30AM\, Penrith trains make an extra stop at Burwood.
+DTEND:20261113T233021Z
+DTSTART:20261113T193000Z
+SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
+UID:b18c005b-4b2e-5b93-ab47-0b8ab852bffb
+URL:https://transportnsw.info/alerts/details#/ems-80755
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80441\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
 DTEND:20261105T143056Z
 DTSTART:20261105T104000Z

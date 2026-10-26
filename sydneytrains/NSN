@@ -34,6 +34,22 @@ UID:975fad9c-1b68-567e-9c09-539dab3232f5
 URL:https://transportnsw.info/alerts/details#/ems-80074
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80751\n\nMonday 9 and Wednesday 11 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nBuses also replace T9 Northern Line trains between Hornsby and Epping\, and Central Coast & Newcastle Line trains between Gosford and Hornsby.
+DTEND:20261109T143000Z
+DTSTART:20261109T104000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
+UID:909dfc1e-fee9-5c27-9199-93e066d6e8e5
+URL:https://transportnsw.info/alerts/details#/ems-80751
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80751\n\nMonday 9 and Wednesday 11 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nBuses also replace T9 Northern Line trains between Hornsby and Epping\, and Central Coast & Newcastle Line trains between Gosford and Hornsby.
+DTEND:20261111T143000Z
+DTSTART:20261111T104000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
+UID:909dfc1e-fee9-5c27-9199-93e066d6e8e5
+URL:https://transportnsw.info/alerts/details#/ems-80751
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80074\n\nMonday 26 and Tuesday 27 October\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:34.\nThe last train to Gordon leaves Wynyard at 21:55\, arriving Gordon at 22:23.
 DTEND:20261026T143000Z
 DTSTART:20261026T102000Z

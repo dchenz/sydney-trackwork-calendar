@@ -81,4 +81,20 @@ SUMMARY:Buses replace trains between Macarthur\, Glenfield and Fairfield
 UID:dfd3f7c5-873d-5c23-8046-4c263349c823
 URL:https://transportnsw.info/alerts/details#/ems-80459
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
+DTEND:20261109T143000Z
+DTSTART:20261109T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:29995024-1018-5566-b8b5-cd31e27464b4
+URL:https://transportnsw.info/alerts/details#/ems-80757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
+DTEND:20261110T143000Z
+DTSTART:20261110T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:29995024-1018-5566-b8b5-cd31e27464b4
+URL:https://transportnsw.info/alerts/details#/ems-80757
+END:VEVENT
 END:VCALENDAR
