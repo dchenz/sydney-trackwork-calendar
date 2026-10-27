@@ -42,12 +42,44 @@ UID:cb0892fe-c142-5d58-8c65-a8d0b533de6f
 URL:https://transportnsw.info/alerts/details#/ems-80478
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
+DTEND:20261109T143000Z
+DTSTART:20261109T102000Z
+SUMMARY:Buses replace trains between Hornsby and Epping
+UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
+URL:https://transportnsw.info/alerts/details#/ems-80817
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80470\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
 DTEND:20261103T143000Z
 DTSTART:20261103T103000Z
 SUMMARY:Trains run between Hornsby and Central\, platforms 1-14 only\, and make extra stops
 UID:34d42189-3ea6-5f24-a41a-c773d53f1757
 URL:https://transportnsw.info/alerts/details#/ems-80470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
+DTEND:20261110T143000Z
+DTSTART:20261110T102000Z
+SUMMARY:Buses replace trains between Hornsby and Epping
+UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
+URL:https://transportnsw.info/alerts/details#/ems-80817
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
+DTEND:20261111T143000Z
+DTSTART:20261111T102000Z
+SUMMARY:Buses replace trains between Hornsby and Epping
+UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
+URL:https://transportnsw.info/alerts/details#/ems-80817
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80819\n\nTuesday 10 November \nFrom 4:00PM to 7:30PM\, some trains between Hornsby\, Epping and Central run to a changed timetable and frequency.
+DTEND:20261110T083000Z
+DTSTART:20261110T050000Z
+SUMMARY:Some trains run to a changed timetable and reduced frequency
+UID:1aa22424-024e-526b-934e-67e16ecdce51
+URL:https://transportnsw.info/alerts/details#/ems-80819
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80090\n\nWednesday 28 October\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.

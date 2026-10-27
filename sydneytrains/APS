@@ -66,6 +66,22 @@ UID:aff44152-38e9-5c87-ba8c-ec5b6c7f508b
 URL:https://transportnsw.info/alerts/details#/ems-80433
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
+DTEND:20261109T143000Z
+DTSTART:20261109T103000Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
+URL:https://transportnsw.info/alerts/details#/ems-80815
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
+DTEND:20261110T143000Z
+DTSTART:20261110T103000Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
+URL:https://transportnsw.info/alerts/details#/ems-80815
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80461\n\nFriday 6 November\nFrom 10:40PM\, trains via the Airport start and end at Central due to City Circle trackwork.\n T8 trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20261106T150027Z
 DTSTART:20261106T114000Z
