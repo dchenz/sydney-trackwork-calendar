@@ -10,14 +10,6 @@ UID:45dfba49-2498-52d3-bd46-190f379e210c
 URL:https://transportnsw.info/alerts/details#/ems-80443
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80080\n\nMonday 26 and Tuesday 27 October\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20261027T143000Z
-DTSTART:20261027T105000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
-UID:550a1f97-0e0c-5ea5-bc74-2f2e17e494f7
-URL:https://transportnsw.info/alerts/details#/ems-80080
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
 DTEND:20261028T143013Z
 DTSTART:20261028T115000Z

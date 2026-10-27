@@ -10,14 +10,6 @@ UID:30836f50-02a7-537b-80d2-ffd58631fddf
 URL:https://transportnsw.info/alerts/details#/ems-80094
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80086\n\nMonday 26 and Tuesday 27 October\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20261027T143000Z
-DTSTART:20261027T101000Z
-SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
-UID:461d4053-9044-5bf3-9597-c057fd3fda11
-URL:https://transportnsw.info/alerts/details#/ems-80086
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80470\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, trains run to a changed timetable between Hornsby and Central\, platforms 1-14 only. Some trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
 DTEND:20261102T143000Z
 DTSTART:20261102T103000Z
