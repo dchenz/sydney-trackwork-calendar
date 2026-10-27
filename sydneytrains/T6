@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80448\n\nSaturday 7 and Sunday 8 November\nBuses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.\nChange at:\n- Lidcombe for trains towards the City or T1 Western Line stations\n- Regents Park for buses towards Liverpool \n- Bankstown for Southwest Link bus services towards Sydenham
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80448\n\nSaturday 7 and Sunday 8 November\nBuses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.\nChange at:\n- Lidcombe for trains towards the City or T1 Western Line stations\n- Regents Park for buses towards Liverpool \n- Bankstown for metro services
 DTEND:20261108T125912Z
 DTSTART:20261106T150000Z
 SUMMARY:Buses replace trains between Bankstown and Lidcombe

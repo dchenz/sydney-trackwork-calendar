@@ -59,14 +59,6 @@ URL:https://transportnsw.info/alerts/details#/ems-80470
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
-DTEND:20261110T143000Z
-DTSTART:20261110T102000Z
-SUMMARY:Buses replace trains between Hornsby and Epping
-UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
-URL:https://transportnsw.info/alerts/details#/ems-80817
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
 DTEND:20261111T143000Z
 DTSTART:20261111T102000Z
 SUMMARY:Buses replace trains between Hornsby and Epping

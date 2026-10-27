@@ -27,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-80821
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80821\n\nMonday 9 and Wednesday 11 November \nNightly from 8:50PM to 1:30AM\, buses replace trains between Gosford\, Hornsby and Epping. You may need to change buses at Hornsby to continue your journey.\nTrains run to a changed timetable between Newcastle Interchange and Gosford.\nT1 North Shore Line trains run between Hornsby and the City\, T9 Northern Line trains run between Epping and the City.
-DTEND:20261110T143000Z
-DTSTART:20261110T095000Z
-SUMMARY:Buses replace trains between Gosford\, Hornsby and Epping
-UID:d2f5e2de-34be-52b4-a6f7-58039aba4bee
-URL:https://transportnsw.info/alerts/details#/ems-80821
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80821\n\nMonday 9 and Wednesday 11 November \nNightly from 8:50PM to 1:30AM\, buses replace trains between Gosford\, Hornsby and Epping. You may need to change buses at Hornsby to continue your journey.\nTrains run to a changed timetable between Newcastle Interchange and Gosford.\nT1 North Shore Line trains run between Hornsby and the City\, T9 Northern Line trains run between Epping and the City.
 DTEND:20261109T143000Z
 DTSTART:20261109T095000Z
 SUMMARY:Buses replace trains between Gosford\, Hornsby and Epping
