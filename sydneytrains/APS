@@ -26,14 +26,6 @@ UID:1a7c57ba-8a96-58ee-94fc-8f9d3489c4e6
 URL:https://transportnsw.info/alerts/details#/ems-80451
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80082\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
-DTEND:20261029T143000Z
-DTSTART:20261029T105000Z
-SUMMARY:Trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
-UID:6d3cfcf1-0f49-5c98-b382-0a27f6b33789
-URL:https://transportnsw.info/alerts/details#/ems-80082
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80455\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
 DTEND:20261105T143014Z
 DTSTART:20261105T104000Z
@@ -91,8 +83,8 @@ URL:https://transportnsw.info/alerts/details#/ems-80461
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80082\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:30AM\, trackwork at Wolli Creek may affect how you travel to T4 Eastern Suburbs & Illawarra or South Coast Line stations.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
-DTEND:20261028T143000Z
-DTSTART:20261028T105000Z
+DTEND:20261029T143000Z
+DTSTART:20261029T105000Z
 SUMMARY:Trains run to a changed timetable. Trackwork at Wolli Creek may affect how you travel
 UID:6d3cfcf1-0f49-5c98-b382-0a27f6b33789
 URL:https://transportnsw.info/alerts/details#/ems-80082

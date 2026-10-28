@@ -10,14 +10,6 @@ UID:45dfba49-2498-52d3-bd46-190f379e210c
 URL:https://transportnsw.info/alerts/details#/ems-80443
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80084\n\nWednesday 28 October\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20261028T143013Z
-DTSTART:20261028T115000Z
-SUMMARY:T1 Western Line: Trains make extra stops at Homebush and Burwood
-UID:a850ffa6-71e9-576b-9386-751807479223
-URL:https://transportnsw.info/alerts/details#/ems-80084
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80753\n\nWednesday 11 and Thursday 12 November\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
 DTEND:20261111T143000Z
 DTSTART:20261111T102000Z
