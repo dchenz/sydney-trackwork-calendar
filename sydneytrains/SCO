@@ -10,12 +10,12 @@ UID:d7d251c1-b390-539a-8f58-9ed5b79e4917
 URL:https://transportnsw.info/alerts/details#/ems-80497
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80175\n\nWednesday 28 and Thursday 29 October\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
-DTEND:20261029T143000Z
-DTSTART:20261029T105000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:be392ec9-80fd-5dcf-bc81-241f72a7e56d
-URL:https://transportnsw.info/alerts/details#/ems-80175
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80126\n\nSunday 1 November\nFrom 9:00AM to 6:00PM\, buses replace trains from Port Kembla to Wollongong.\nFrom 10:00AM to 6.30PM\, buses replace trains from Wollongong to Port Kembla.\nTrains run to a changed timetable between Wollongong\, Thirroul and Bondi Junction.
+DTEND:20261101T073000Z
+DTSTART:20261031T220000Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:5b2827cb-1fd9-5f87-9a02-379eda5faa9a
+URL:https://transportnsw.info/alerts/details#/ems-80126
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80502\n\nSaturday 7 November\nFrom 6:30AM to 12:20PM\, some trains make extra stops between Sutherland and Hurstville.\nFrom 1:00PM to 4:00PM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham. Some trains also make an extra stop at Arncliffe.\nBuses run between Arncliffe\, Wolli Creek and Sydenham.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek\, or change at Central for a T8 Airport train if you have luggage or accessibility needs.
@@ -32,13 +32,5 @@ DTSTART:20261030T193000Z
 SUMMARY:Some trains make extra stops
 UID:2316c28a-a515-528a-940a-172abc299be5
 URL:https://transportnsw.info/alerts/details#/ems-80122
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80126\n\nSunday 1 November\nFrom 9:00AM to 6:00PM\, buses replace trains from Port Kembla to Wollongong.\nFrom 10:00AM to 6.30PM\, buses replace trains from Wollongong to Port Kembla.\nTrains run to a changed timetable between Wollongong\, Thirroul and Bondi Junction.
-DTEND:20261101T073000Z
-DTSTART:20261031T220000Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:5b2827cb-1fd9-5f87-9a02-379eda5faa9a
-URL:https://transportnsw.info/alerts/details#/ems-80126
 END:VEVENT
 END:VCALENDAR
