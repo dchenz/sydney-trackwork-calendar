@@ -10,6 +10,14 @@ UID:668d0f97-2512-5e4a-bbe8-a3ee6ae9446d
 URL:https://transportnsw.info/alerts/details#/ems-80078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80978\n\nMonday 9 November\nFrom 11:40PM to 1AM\, buses replace trains between Olympic Park and Lidcombe.\nPlan your trip before you travel for up-to-date real time information. You can also subscribe to planned trackwork alerts.\nBus route\n40T7  Olympic Park\, Lidcombe and return
+DTEND:20261109T140017Z
+DTSTART:20261109T124000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:7239d3c2-3e17-5e19-8c27-d11c3b27721b
+URL:https://transportnsw.info/alerts/details#/ems-80978
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80072\n\nSaturday 31 October\nFrom 4:00PM to 1:30AM\, trains run to a changed timetable between Olympic Park and Lidcombe\, continuing to Penrith\, Richmond or Leppington.
 DTEND:20261031T143007Z
 DTSTART:20261031T050000Z
