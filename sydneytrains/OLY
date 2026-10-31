@@ -17,12 +17,4 @@ SUMMARY:Buses replace trains between Olympic Park and Lidcombe
 UID:7239d3c2-3e17-5e19-8c27-d11c3b27721b
 URL:https://transportnsw.info/alerts/details#/ems-80978
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80072\n\nSaturday 31 October\nFrom 4:00PM to 1:30AM\, trains run to a changed timetable between Olympic Park and Lidcombe\, continuing to Penrith\, Richmond or Leppington.
-DTEND:20261031T143007Z
-DTSTART:20261031T050000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:76a5e8c8-ff1c-527d-9ef1-54503461f061
-URL:https://transportnsw.info/alerts/details#/ems-80072
-END:VEVENT
 END:VCALENDAR
