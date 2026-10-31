@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80124\n\nSaturday 31 October\nFrom 6:30AM to 12:20PM trains run to a changed timetable and stopping pattern.\nSome trains start or end at Hurstville or Sutherland. You may need to change trains to continue your journey.\nTrains may leave from different platforms\, please check indicator screens before boarding.
-DTEND:20261031T012031Z
-DTSTART:20261030T193000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:1b4dc965-d040-5541-a504-c2c26e60a108
-URL:https://transportnsw.info/alerts/details#/ems-80124
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80491\n\nSaturday 7 November \nFrom 1:00PM to 4:00PM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Arncliffe\, Wolli Creek and Sydenham.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek oror change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261107T050000Z
 DTSTART:20261107T020000Z
