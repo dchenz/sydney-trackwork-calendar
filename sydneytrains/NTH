@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80094\n\nSaturday 31 October and Sunday 1 November\nBuses replace trains between Hornsby and Strathfield.\nTrains run to a changed timetable between Strathfield and the City.\nUse metro services between Epping and the City.\nSunday from 2:00AM to 10:00AM\, buses also replace trains between Strathfield and Central.
-DTEND:20261101T125934Z
-DTSTART:20261030T150000Z
-SUMMARY:Buses replace trains between Hornsby and Strathfield\, and some trains between Strathfield and Central
-UID:30836f50-02a7-537b-80d2-ffd58631fddf
-URL:https://transportnsw.info/alerts/details#/ems-80094
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80478\n\nFriday 6 to Sunday 8 November\nFrom 10:40PM Friday\, trains make an extra stop at Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
 DTEND:20261108T125916Z
 DTSTART:20261106T114000Z

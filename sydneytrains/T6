@@ -26,14 +26,6 @@ UID:8acb01b6-e917-504f-88e3-a278c8f2c335
 URL:https://transportnsw.info/alerts/details#/ems-80811
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80068\n\nSaturday 31 October and Sunday 1 November\nTrains run to a changed timetable and reduced frequency\, every 30 minutes.\nSaturday from 4PM to 1:30AM\, trains run to a changed timetable between:\n- Bankstown and North Sydney\n- Bankstown and Lidcombe
-DTEND:20261101T125952Z
-DTSTART:20261030T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:359fe40d-41e3-5299-a2a8-64a2018b294e
-URL:https://transportnsw.info/alerts/details#/ems-80068
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80813\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
 DTEND:20261113T233000Z
 DTSTART:20261113T193000Z

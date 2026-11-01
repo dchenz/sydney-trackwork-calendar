@@ -57,12 +57,4 @@ SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:85c1c602-b094-5b24-aed9-e86a34db743c
 URL:https://transportnsw.info/alerts/details#/ems-80439
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80088\n\nSaturday 31 October and Sunday 1 November\nTrains run to a changed timetable and stopping pattern.\nPenrith trains make extra stops at all stations between Lidcombe and Ashfield.\nRichmond trains run between Richmond and Liverpool. You may need to change trains at Parramatta to continue your journey.\nSaturday from 4:00PM to 1:30AM\, some trains run between Penrith or Richmond and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.\n\n\nTrains run to a changed timetable between: \n- Penrith and Olympic Park \n- Richmond and Liverpool \n- Ashfield and the City\, continuing to T1 North Shore Line stations.
-DTEND:20261101T125927Z
-DTSTART:20261030T150000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:d2bce4da-54d0-5dd2-b906-25cc9bb1f8ae
-URL:https://transportnsw.info/alerts/details#/ems-80088
-END:VEVENT
 END:VCALENDAR

@@ -74,14 +74,6 @@ UID:30404343-3451-5e50-ada3-754f1297a7c2
 URL:https://transportnsw.info/alerts/details#/ems-80453
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80106\n\nSaturday 31 October and Sunday 1 November\nInner West trains do not run. T1 Western and T2 Leppington trains make extra stops.\nTrains run to a changed timetable between Leppington and T1 North Shore Line stations via Granville or Regents Park\, stopping at all stations between Ashfield and Central.\n T1 Western Line trains make extra stops at all stations between Lidcombe and Ashfield.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.\nSaturday from 4:00PM to 1:30AM\, extra trains run between Leppington and Olympic Park.\nSunday from 2:00AM to 10:00AM\, buses replace trains between Olympic Park and Ashfield. Express buses also run between Olympic Park and Central.\nReplacement buses do not leave from Lidcombe.
-DTEND:20261101T125951Z
-DTSTART:20261030T150000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:d41e3381-c0cc-5cc6-8903-08e4704a8355
-URL:https://transportnsw.info/alerts/details#/ems-80106
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80459\n\nSaturday 7 and Sunday 8 November \nBuses replace trains between Macarthur\, Glenfield and Fairfield.\nTrains run to a changed timetable and stopping pattern between:\n- Leppington and Central\, platforms 1-14 via Sydenham\n- Fairfield and Central\, platforms 1-14\n- Homebush and North Sydney\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe via Regents Park.\nFrom 9.40pm Saturday to 3am Sunday\, buses replace trains between Leppington and East Hills.\nTrains run between East Hills and the City\, to a changed timetable.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk
 DTEND:20261108T125949Z
 DTSTART:20261106T150000Z
