@@ -19,14 +19,6 @@ URL:https://transportnsw.info/alerts/details#/ems-80488
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80480\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
-DTEND:20261102T143000Z
-DTSTART:20261102T103000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:c97934ff-0916-5078-8400-ce09935d46c1
-URL:https://transportnsw.info/alerts/details#/ems-80480
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80480\n\nMonday 2 and Tuesday 3 November\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
 DTEND:20261103T143000Z
 DTSTART:20261103T103000Z
 SUMMARY:Some trains make extra stops at St Peters and Erskineville
