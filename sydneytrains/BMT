@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81180\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Bathurst\, Lithgow and Mount Victoria.\nNSW TrainLink also run coaches between Bathurst and Katoomba that do not require a booking.\nTrains run between Mount Victoria and Central\, some to a changed timetable.\nThe following trains run to a changed timetable between Bathurst and Mount Victoria or Central:\n- 06:07 Bathurst to Central\n- 22:16 Bathurst to Mount Victoria\n- 04:05 Mount Victoria to Bathurst\n- 17:51 Central to Bathurst\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
+DTEND:20261122T125940Z
+DTSTART:20261120T150000Z
+SUMMARY:Buses replace trains between Bathurst\, Lithgow and Mount Victoria
+UID:c143844c-3386-5bc8-9f4a-64e97ae867c9
+URL:https://transportnsw.info/alerts/details#/ems-81180
+END:VEVENT
+END:VCALENDAR

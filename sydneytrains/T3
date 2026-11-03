@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80463\n\nMonday 2 and Tuesday 3 November\nNightly from 9:20PM to 1:30AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nT1 Western Line trains make extra stops at Flemington\, Homebush and Burwood. Some T9 Northern Line trains make extra stops at Croydon and Ashfield.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.
-DTEND:20261103T143000Z
-DTSTART:20261103T102000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central. Trains run to a changed stopping pattern
-UID:8d4b235a-9ec5-5d55-a9b2-e64e93602762
-URL:https://transportnsw.info/alerts/details#/ems-80463
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80476\n\nSaturday 7 and Sunday 8 November \nBuses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable and frequency.\nInner West trains run between Homebush and North Sydney. You may need to change trains to continue your journey.\nBuses also replace trains between Macarthur\, Liverpool and Fairfield and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
 DTEND:20261108T125921Z
 DTSTART:20261106T150000Z
@@ -50,12 +42,12 @@ UID:28cff137-47ba-5be0-abc4-3db52babdb97
 URL:https://transportnsw.info/alerts/details#/ems-80435
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80433\n\nMonday 2 and Tuesday 3 November\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261103T143000Z
-DTSTART:20261103T104000Z
-SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
-UID:aff44152-38e9-5c87-ba8c-ec5b6c7f508b
-URL:https://transportnsw.info/alerts/details#/ems-80433
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81159\n\nSaturday 21 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
+DTEND:20261120T233044Z
+DTSTART:20261120T193000Z
+SUMMARY:Trains run between Liverpool and Lidcombe only
+UID:552a2a2d-719d-5d28-9c4b-043757775865
+URL:https://transportnsw.info/alerts/details#/ems-81159
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80767\n\nSaturday 14 November\nFrom 6:30AM to 10:30AM\, trains run between Liverpool and Lidcombe only.\nChange trains at Lidcombe to continue your journey.
@@ -64,6 +56,14 @@ DTSTART:20261113T193000Z
 SUMMARY:Trains run between Liverpool and Lidcombe only
 UID:5b6b7150-fbe3-552e-ac34-53cf19476b74
 URL:https://transportnsw.info/alerts/details#/ems-80767
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81161\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only. You may need to change services to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
+DTEND:20261121T233045Z
+DTSTART:20261121T192000Z
+SUMMARY:Buses replace Inner West trains between Ashfield and Central. Trains run to a changed stopping pattern
+UID:ad34ba11-7c1b-575e-ac4a-4ec916df0171
+URL:https://transportnsw.info/alerts/details#/ems-81161
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80765\n\nWednesday 11 and Thursday 12 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\n Trains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
