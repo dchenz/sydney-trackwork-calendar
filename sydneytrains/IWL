@@ -42,6 +42,14 @@ UID:aff44152-38e9-5c87-ba8c-ec5b6c7f508b
 URL:https://transportnsw.info/alerts/details#/ems-80433
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81157\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
+DTEND:20261121T233013Z
+DTSTART:20261121T192000Z
+SUMMARY:Buses replace Inner West trains between Ashfield and Central
+UID:28a01821-19fa-52d2-a279-95340eb4ba13
+URL:https://transportnsw.info/alerts/details#/ems-81157
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
 DTEND:20261111T143000Z
 DTSTART:20261111T105000Z

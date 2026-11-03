@@ -42,6 +42,14 @@ UID:f0b9bcf6-de17-50a6-af38-9af82f4a115b
 URL:https://transportnsw.info/alerts/details#/ems-80441
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81155\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and the City.\nSome Penrith trains make an extra stop at Burwood.
+DTEND:20261122T000046Z
+DTSTART:20261121T183000Z
+SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown or Schofields
+UID:6cc3c32e-459d-5f85-9ea4-fa728e21ea7d
+URL:https://transportnsw.info/alerts/details#/ems-81155
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80439\n\nMonday 2 and Tuesday 3 November \nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
 DTEND:20261103T143000Z
 DTSTART:20261103T104000Z
