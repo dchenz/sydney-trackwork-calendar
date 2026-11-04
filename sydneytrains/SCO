@@ -26,6 +26,14 @@ UID:7ddfb789-0053-5d38-b914-5b0dab558992
 URL:https://transportnsw.info/alerts/details#/ems-80502
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81288\n\nSaturday 14 November\nFrom 5:10AM to 8:30AM\, trains run between South Coast Line stations and Central\, platforms 1-14 only.\nT4 Eastern Suburbs Line trains run between Central and Bondi Junction.
+DTEND:20261113T213000Z
+DTSTART:20261113T181000Z
+SUMMARY:Trains run between South Coast Line stations and Central\, platforms 1-14
+UID:c9166a10-1a2c-5a10-9d30-af953ff48294
+URL:https://transportnsw.info/alerts/details#/ems-81288
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81166\n\nFriday 20 November \nFrom 9:30PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20261120T150051Z
 DTSTART:20261120T103000Z
