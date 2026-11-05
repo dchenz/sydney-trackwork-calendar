@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80497\n\nThursday 5 November\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
-DTEND:20261105T031001Z
-DTSTART:20261104T222000Z
-SUMMARY:Buses replace trains between Port Kembla and Wollongong
-UID:d7d251c1-b390-539a-8f58-9ed5b79e4917
-URL:https://transportnsw.info/alerts/details#/ems-80497
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81190\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
 DTEND:20261122T125901Z
 DTSTART:20261120T150000Z
