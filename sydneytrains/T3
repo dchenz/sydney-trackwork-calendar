@@ -11,19 +11,11 @@ URL:https://transportnsw.info/alerts/details#/ems-80476
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80765\n\nWednesday 11 and Thursday 12 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\n Trains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20261112T143000Z
-DTSTART:20261112T104000Z
+DTEND:20261111T143000Z
+DTSTART:20261111T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:dba7973e-2308-5537-b935-43742bb40769
 URL:https://transportnsw.info/alerts/details#/ems-80765
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80468\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Lidcombe and Central\, to a changed timetable.\nTrains run between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261105T143013Z
-DTSTART:20261105T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:a31d2abe-2e36-5ad7-a43e-c0e7ee20e058
-URL:https://transportnsw.info/alerts/details#/ems-80468
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80472\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Liverpool and North Sydney.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
@@ -67,8 +59,8 @@ URL:https://transportnsw.info/alerts/details#/ems-81161
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80765\n\nWednesday 11 and Thursday 12 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\n Trains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20261111T143000Z
-DTSTART:20261111T104000Z
+DTEND:20261112T143000Z
+DTSTART:20261112T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:dba7973e-2308-5537-b935-43742bb40769
 URL:https://transportnsw.info/alerts/details#/ems-80765

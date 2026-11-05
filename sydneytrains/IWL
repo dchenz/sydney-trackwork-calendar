@@ -42,12 +42,20 @@ UID:665c6aec-7966-5668-b2ec-ad6e17faef03
 URL:https://transportnsw.info/alerts/details#/ems-80761
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80453\n\nThursday 5 November \nFrom 9:40PM to 1:30AM\, Inner West trains do not run. T1 Western or T9 Northern Line trains make extra stops at some stations between Parramatta and Central\, to a changed timetable.\nTrains run between Leppington and Olympic Park. Change trains at Lidcombe to continue your journey.\nYou will need to change trains if travelling to Museum\, St James or Circular Quay.
-DTEND:20261105T143059Z
-DTSTART:20261105T104000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. You may need to change trains
-UID:30404343-3451-5e50-ada3-754f1297a7c2
-URL:https://transportnsw.info/alerts/details#/ems-80453
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
+DTEND:20261112T143000Z
+DTSTART:20261112T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:665c6aec-7966-5668-b2ec-ad6e17faef03
+URL:https://transportnsw.info/alerts/details#/ems-80761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
+DTEND:20261109T143000Z
+DTSTART:20261109T105000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:29995024-1018-5566-b8b5-cd31e27464b4
+URL:https://transportnsw.info/alerts/details#/ems-80757
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80459\n\nSaturday 7 and Sunday 8 November \nBuses replace trains between Macarthur\, Glenfield and Fairfield.\nTrains run to a changed timetable and stopping pattern between:\n- Leppington and Central\, platforms 1-14 via Sydenham\n- Fairfield and Central\, platforms 1-14\n- Homebush and North Sydney\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe via Regents Park.\nFrom 9.40pm Saturday to 3am Sunday\, buses replace trains between Leppington and East Hills.\nTrains run between East Hills and the City\, to a changed timetable.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk
@@ -59,27 +67,11 @@ URL:https://transportnsw.info/alerts/details#/ems-80459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261109T143000Z
-DTSTART:20261109T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:29995024-1018-5566-b8b5-cd31e27464b4
-URL:https://transportnsw.info/alerts/details#/ems-80757
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
 DTEND:20261110T143000Z
 DTSTART:20261110T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
-DTEND:20261112T143000Z
-DTSTART:20261112T105000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:665c6aec-7966-5668-b2ec-ad6e17faef03
-URL:https://transportnsw.info/alerts/details#/ems-80761
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80759\n\nTuesday 10 November\nFrom 3:40PM to 11:00PM\, Inner West trains run between the City and Homebush only\, not Parramatta.\nYou may need to change trains to continue your journey.

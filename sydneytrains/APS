@@ -10,14 +10,6 @@ UID:11d7fd31-36df-5ba9-a21b-56485c191b2c
 URL:https://transportnsw.info/alerts/details#/ems-80466
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80455\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.
-DTEND:20261105T143014Z
-DTSTART:20261105T104000Z
-SUMMARY:Trains between Sydenham and the City Circle run to a changed timetable
-UID:5ded4c12-7ec3-5679-a8f4-41e51b4aa1c7
-URL:https://transportnsw.info/alerts/details#/ems-80455
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81178\n\nSaturday 21 and Sunday 22 November \nBuses replace trains between Sydenham and Central.\nTrains run to the normal timetable between Macarthur\, Revesby and the City via the Airport.\nTrackwork may also affect how you travel to T4 Illawarra and South Coast Line stations.\nChange at Central for trains towards Bondi Junction\, buses to T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
 DTEND:20261122T125933Z
 DTSTART:20261120T150000Z
@@ -35,16 +27,16 @@ URL:https://transportnsw.info/alerts/details#/ems-80435
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
-DTEND:20261109T143000Z
-DTSTART:20261109T103000Z
+DTEND:20261110T143000Z
+DTSTART:20261110T103000Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
 URL:https://transportnsw.info/alerts/details#/ems-80815
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
-DTEND:20261110T143000Z
-DTSTART:20261110T103000Z
+DTEND:20261109T143000Z
+DTSTART:20261109T103000Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
 URL:https://transportnsw.info/alerts/details#/ems-80815

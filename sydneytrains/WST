@@ -34,14 +34,6 @@ UID:b18c005b-4b2e-5b93-ab47-0b8ab852bffb
 URL:https://transportnsw.info/alerts/details#/ems-80755
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80441\n\nThursday 5 November\nFrom 9:40PM to 1:30AM\, Penrith trains run to a changed timetable and make extra stops at some stations between Parramatta and Ashfield.
-DTEND:20261105T143056Z
-DTSTART:20261105T104000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
-UID:f0b9bcf6-de17-50a6-af38-9af82f4a115b
-URL:https://transportnsw.info/alerts/details#/ems-80441
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81155\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and the City.\nSome Penrith trains make an extra stop at Burwood.
 DTEND:20261122T000046Z
 DTSTART:20261121T183000Z
