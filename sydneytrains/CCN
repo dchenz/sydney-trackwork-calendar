@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80482\n\nFriday 6 November\nBuses replace the 01:47AM Central to Newcastle Interchange service from Central to Hornsby. Replacement buses leave Central at 01:21AM\, 26 minutes earlier than the normal train timetable.
-DTEND:20261105T170027Z
-DTSTART:20261105T140000Z
-SUMMARY:Buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby
-UID:d617e73f-1aea-56ad-b19e-30f19ce865cc
-URL:https://transportnsw.info/alerts/details#/ems-80482
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80823\n\nSunday 15 November \nFrom 3:00PM to 9:00PM\, some trains may run to a changed timetable due to trackwork between Gosford and Hawkesbury River.
 DTEND:20261115T100000Z
 DTSTART:20261115T040000Z
