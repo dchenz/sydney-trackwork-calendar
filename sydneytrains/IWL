@@ -10,14 +10,6 @@ UID:ac2eb2ef-018b-5f2c-969c-700850d3a429
 URL:https://transportnsw.info/alerts/details#/ems-80763
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80457\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping pattern between Leppington or Homebush and North Sydney. Some trains start or end at Central\, platforms 1-14.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
-DTEND:20261106T150045Z
-DTSTART:20261106T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:300d9bf4-ae17-5f8f-ac13-d0bb8840b9c8
-URL:https://transportnsw.info/alerts/details#/ems-80457
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
 DTEND:20261108T125926Z
 DTSTART:20261106T114000Z
@@ -51,8 +43,8 @@ URL:https://transportnsw.info/alerts/details#/ems-80761
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261109T143000Z
-DTSTART:20261109T105000Z
+DTEND:20261110T143000Z
+DTSTART:20261110T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757
@@ -67,8 +59,8 @@ URL:https://transportnsw.info/alerts/details#/ems-80459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261110T143000Z
-DTSTART:20261110T105000Z
+DTEND:20261109T143000Z
+DTSTART:20261109T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757

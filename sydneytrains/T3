@@ -18,14 +18,6 @@ UID:dba7973e-2308-5537-b935-43742bb40769
 URL:https://transportnsw.info/alerts/details#/ems-80765
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80472\n\nFriday 6 November \nFrom 10:40PM\, trains run to a changed timetable and stopping between Liverpool and North Sydney.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
-DTEND:20261106T150038Z
-DTSTART:20261106T114000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:b997633a-9441-5394-8da5-5ebdce1446b3
-URL:https://transportnsw.info/alerts/details#/ems-80472
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
 DTEND:20261108T125926Z
 DTSTART:20261106T114000Z

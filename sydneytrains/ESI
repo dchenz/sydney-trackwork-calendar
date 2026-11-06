@@ -34,14 +34,6 @@ UID:770c223f-24f7-5fa4-96b8-a051dc0b8f16
 URL:https://transportnsw.info/alerts/details#/ems-80769
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80484\n\nFriday 6 November\nFrom 10:40PM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
-DTEND:20261106T150038Z
-DTSTART:20261106T114000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:b8f9d200-784f-50ca-957c-8e5ff3cd91aa
-URL:https://transportnsw.info/alerts/details#/ems-80484
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81168\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Cronulla\, Waterfall and Central.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.
 DTEND:20261122T125929Z
 DTSTART:20261120T150000Z
