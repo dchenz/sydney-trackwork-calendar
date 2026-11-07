@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80491\n\nSaturday 7 November \nFrom 1:00PM to 4:00PM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Arncliffe\, Wolli Creek and Sydenham.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek oror change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
-DTEND:20261107T050000Z
-DTSTART:20261107T020000Z
-SUMMARY:Some trains do not stop at Wolli Creek
-UID:5d303c82-5381-580e-8b35-d4223b45572c
-URL:https://transportnsw.info/alerts/details#/ems-80491
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81168\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Cronulla\, Waterfall and Central.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.
+DTEND:20261122T125929Z
+DTSTART:20261120T150000Z
+SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
+UID:f68576df-a1e1-5f66-85c8-a3db44cda5fe
+URL:https://transportnsw.info/alerts/details#/ems-81168
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81166\n\nFriday 20 November \nFrom 9:30PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
@@ -24,14 +24,6 @@ DTSTART:20261113T184000Z
 SUMMARY:You may need to change trains at Central or Town Hall to continue your journey
 UID:770c223f-24f7-5fa4-96b8-a051dc0b8f16
 URL:https://transportnsw.info/alerts/details#/ems-80769
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81168\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Cronulla\, Waterfall and Central.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.
-DTEND:20261122T125929Z
-DTSTART:20261120T150000Z
-SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
-UID:f68576df-a1e1-5f66-85c8-a3db44cda5fe
-URL:https://transportnsw.info/alerts/details#/ems-81168
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80486\n\nSaturday 7 and Sunday 8 November \nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
