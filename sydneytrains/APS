@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80466\n\nSaturday 7 and Sunday 8 November\nBuses replace trains between Macarthur\, Glenfield and Fairfield.\nMost trains run to a changed timetable between:\n- Leppington and Central\, platforms 1-14 via Sydenham\n- Revesby and Central via the Airport\nT4 Eastern Suburbs & Illawarra Line trains make extra stops at St Peters and Erskineville.\nYou may need to change trains to continue your journey.\nFrom 9:40PM Saturday to 3:00AM Sunday\, buses also replace trains between Leppington and East Hills.\nTrains run between East Hills and Central via the Airport.
-DTEND:20261108T125904Z
-DTSTART:20261106T150000Z
-SUMMARY:Buses replace trains between Macarthur\, Glenfield and Fairfield\, and some trains between Leppington and East Hills
-UID:11d7fd31-36df-5ba9-a21b-56485c191b2c
-URL:https://transportnsw.info/alerts/details#/ems-80466
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
+DTEND:20261110T143000Z
+DTSTART:20261110T103000Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
+URL:https://transportnsw.info/alerts/details#/ems-80815
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81178\n\nSaturday 21 and Sunday 22 November \nBuses replace trains between Sydenham and Central.\nTrains run to the normal timetable between Macarthur\, Revesby and the City via the Airport.\nTrackwork may also affect how you travel to T4 Illawarra and South Coast Line stations.\nChange at Central for trains towards Bondi Junction\, buses to T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
@@ -19,26 +19,10 @@ URL:https://transportnsw.info/alerts/details#/ems-81178
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
-DTEND:20261110T143000Z
-DTSTART:20261110T103000Z
-SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
-UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
-URL:https://transportnsw.info/alerts/details#/ems-80815
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80815\n\nMonday 9 and Tuesday 10 November \nNightly from 9:30PM to 1:30AM\, buses replace trains between Glenfield\, Sydenham and Central via the Airport.\nTrains run to a changed timetable and stopping pattern between:\n- Macarthur and the City via Granville\n- Sydenham and the City
 DTEND:20261109T143000Z
 DTSTART:20261109T103000Z
 SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
 UID:9cc198a7-3afd-53ef-b7cc-f5fb3cccf091
 URL:https://transportnsw.info/alerts/details#/ems-80815
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
-DTEND:20261108T125926Z
-DTSTART:20261106T114000Z
-SUMMARY:City Circle: Trains do not run to Circular Quay\, St James or Museum
-UID:28cff137-47ba-5be0-abc4-3db52babdb97
-URL:https://transportnsw.info/alerts/details#/ems-80435
 END:VEVENT
 END:VCALENDAR

@@ -25,12 +25,4 @@ SUMMARY:You may need to change trains at Central or Town Hall to continue your j
 UID:770c223f-24f7-5fa4-96b8-a051dc0b8f16
 URL:https://transportnsw.info/alerts/details#/ems-80769
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80486\n\nSaturday 7 and Sunday 8 November \nAll Cronulla and some Waterfall trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.
-DTEND:20261108T125943Z
-DTSTART:20261106T150000Z
-SUMMARY:Some trains make extra stops at St Peters and Erskineville
-UID:93389f55-a163-5551-bb5b-7c49d32ddf78
-URL:https://transportnsw.info/alerts/details#/ems-80486
-END:VEVENT
 END:VCALENDAR

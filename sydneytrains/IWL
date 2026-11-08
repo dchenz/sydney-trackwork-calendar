@@ -10,14 +10,6 @@ UID:ac2eb2ef-018b-5f2c-969c-700850d3a429
 URL:https://transportnsw.info/alerts/details#/ems-80763
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80435\n\nFriday 6 to Sunday 8 November \n From 10:40PM Friday\, trains do not run around the City Circle but continue to run between Central\, Town Hall and Wynyard\, continuing to T1 North Shore Line stations.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk.\nTrackwork also affects trains on other lines.
-DTEND:20261108T125926Z
-DTSTART:20261106T114000Z
-SUMMARY:City Circle: Trains do not run to Circular Quay\, St James or Museum
-UID:28cff137-47ba-5be0-abc4-3db52babdb97
-URL:https://transportnsw.info/alerts/details#/ems-80435
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81157\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
 DTEND:20261121T233013Z
 DTSTART:20261121T192000Z
@@ -43,24 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-80761
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261110T143000Z
-DTSTART:20261110T105000Z
+DTEND:20261109T143000Z
+DTSTART:20261109T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80459\n\nSaturday 7 and Sunday 8 November \nBuses replace trains between Macarthur\, Glenfield and Fairfield.\nTrains run to a changed timetable and stopping pattern between:\n- Leppington and Central\, platforms 1-14 via Sydenham\n- Fairfield and Central\, platforms 1-14\n- Homebush and North Sydney\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe via Regents Park.\nFrom 9.40pm Saturday to 3am Sunday\, buses replace trains between Leppington and East Hills.\nTrains run between East Hills and the City\, to a changed timetable.\nTrackwork on the City Circle may also affect how you travel\nTrains do not run around the City Circle but continue to run between Central and Wynyard.\nFor travel to Circular Quay\, St James or Museum use light rail\, local buses or walk
-DTEND:20261108T125949Z
-DTSTART:20261106T150000Z
-SUMMARY:Buses replace trains between Macarthur\, Glenfield and Fairfield
-UID:dfd3f7c5-873d-5c23-8046-4c263349c823
-URL:https://transportnsw.info/alerts/details#/ems-80459
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261109T143000Z
-DTSTART:20261109T105000Z
+DTEND:20261110T143000Z
+DTSTART:20261110T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:29995024-1018-5566-b8b5-cd31e27464b4
 URL:https://transportnsw.info/alerts/details#/ems-80757
