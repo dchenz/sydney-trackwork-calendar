@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80755\n\nSaturday 14 November\nFrom 6:30AM to 10:30AM\, Penrith trains make an extra stop at Burwood.
-DTEND:20261113T233021Z
-DTSTART:20261113T193000Z
-SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
-UID:b18c005b-4b2e-5b93-ab47-0b8ab852bffb
-URL:https://transportnsw.info/alerts/details#/ems-80755
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81518\n\nWednesday 25 November\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
+DTEND:20261125T143045Z
+DTSTART:20261125T115000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
+UID:9b2eda42-dcf2-55cd-9edd-85e77ce1510c
+URL:https://transportnsw.info/alerts/details#/ems-81518
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81155\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and the City.\nSome Penrith trains make an extra stop at Burwood.
-DTEND:20261122T000046Z
-DTSTART:20261121T183000Z
-SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown or Schofields
-UID:6cc3c32e-459d-5f85-9ea4-fa728e21ea7d
-URL:https://transportnsw.info/alerts/details#/ems-81155
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81522\n\nFriday 27 November\nFrom 11:00PM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261127T150015Z
+DTSTART:20261127T120000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:9d70f287-aab5-58c8-987c-4c4099ed2588
+URL:https://transportnsw.info/alerts/details#/ems-81522
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80753\n\nWednesday 11 and Thursday 12 November\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
@@ -32,5 +32,45 @@ DTSTART:20261112T102000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
 UID:717adf8a-2c60-5ec4-8540-de592ce0c1b8
 URL:https://transportnsw.info/alerts/details#/ems-80753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80755\n\nSaturday 14 November\nFrom 6:30AM to 10:30AM\, Penrith trains make an extra stop at Burwood.
+DTEND:20261113T233021Z
+DTSTART:20261113T193000Z
+SUMMARY:T1 Western Line: Penrith trains make an extra stop at Burwood
+UID:b18c005b-4b2e-5b93-ab47-0b8ab852bffb
+URL:https://transportnsw.info/alerts/details#/ems-80755
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81525\n\nSaturday 28 and Sunday 29 November\nBuses replace trains between Emu Plains and Blacktown.\nTrains run to a changed timetable and stopping pattern between:\n- Richmond and Olympic Park\n- Blacktown and Central\, platforms 1-14\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261129T125932Z
+DTSTART:20261127T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and Blacktown
+UID:0f0b7204-309a-5c4d-a4ce-b3b5c1772519
+URL:https://transportnsw.info/alerts/details#/ems-81525
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81155\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and the City.\nSome Penrith trains make an extra stop at Burwood.
+DTEND:20261122T000046Z
+DTSTART:20261121T183000Z
+SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown or Schofields
+UID:6cc3c32e-459d-5f85-9ea4-fa728e21ea7d
+URL:https://transportnsw.info/alerts/details#/ems-81155
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81516\n\nMonday 23 and Tuesday 24 November\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261124T143000Z
+DTSTART:20261124T105000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:cb6654f3-41c2-5dad-8778-61681ce439f1
+URL:https://transportnsw.info/alerts/details#/ems-81516
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81516\n\nMonday 23 and Tuesday 24 November\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261123T143000Z
+DTSTART:20261123T105000Z
+SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
+UID:cb6654f3-41c2-5dad-8778-61681ce439f1
+URL:https://transportnsw.info/alerts/details#/ems-81516
 END:VEVENT
 END:VCALENDAR

@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81527\n\nWednesday 25 November\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.\nYou may need to change trains to continue your journey.
+DTEND:20261125T143010Z
+DTSTART:20261125T113000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:67b1dd14-318b-5162-b121-2ace07c15e54
+URL:https://transportnsw.info/alerts/details#/ems-81527
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81506\n\nFriday 27 to Sunday 29 November\nFrom 11:00PM Friday\, trains run in one direction only\, from Central first stop Museum.\nSome trains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.\nThe light rail runs in both directions between Circular Quay and Central.
+DTEND:20261129T125929Z
+DTSTART:20261127T120000Z
+SUMMARY:City Circle: Trains run in one direction only\, from Central first stop Museum
+UID:2a07aedc-9dab-57d4-8b3b-355ff2533b89
+URL:https://transportnsw.info/alerts/details#/ems-81506
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80763\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, Inner West trains run between Ashfield and the City Circle only. \nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
 DTEND:20261113T233022Z
 DTSTART:20261113T193000Z

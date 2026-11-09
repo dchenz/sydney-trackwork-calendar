@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81538\n\nMonday 23 and Tuesday 24 November\nBuses replace trains between Olympic Park and Lidcombe.
+DTEND:20261124T150057Z
+DTSTART:20261122T150000Z
+SUMMARY:Buses replace trains between Olympic Park and Lidcombe
+UID:76fa8932-a69a-5031-bf8d-773018d7b838
+URL:https://transportnsw.info/alerts/details#/ems-81538
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80978\n\nMonday 9 November\nFrom 11:40PM to 1AM\, buses replace trains between Olympic Park and Lidcombe.\nPlan your trip before you travel for up-to-date real time information. You can also subscribe to planned trackwork alerts.\nBus route\n40T7  Olympic Park\, Lidcombe and return
 DTEND:20261109T140017Z
 DTSTART:20261109T124000Z
