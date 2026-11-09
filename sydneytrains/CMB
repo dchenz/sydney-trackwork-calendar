@@ -27,14 +27,6 @@ URL:https://transportnsw.info/alerts/details#/ems-81170
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
-DTEND:20261112T143000Z
-DTSTART:20261112T105000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
-URL:https://transportnsw.info/alerts/details#/ems-80773
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
 DTEND:20261111T143000Z
 DTSTART:20261111T105000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
@@ -42,12 +34,12 @@ UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
 URL:https://transportnsw.info/alerts/details#/ems-80773
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80771\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
-DTEND:20261109T143000Z
-DTSTART:20261109T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:fdb9db28-aef0-50d7-a090-1337c79298c2
-URL:https://transportnsw.info/alerts/details#/ems-80771
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20261112T143000Z
+DTSTART:20261112T105000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
+URL:https://transportnsw.info/alerts/details#/ems-80773
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81536\n\nSaturday 28 and Sunday 29 November\nTrains may run to a changed timetable and stopping pattern.

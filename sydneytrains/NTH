@@ -2,20 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80819\n\nTuesday 10 November \nFrom 4:00PM to 7:30PM\, some trains between Hornsby\, Epping and Central run to a changed timetable and frequency.
-DTEND:20261110T083000Z
-DTSTART:20261110T050000Z
-SUMMARY:Some trains run to a changed timetable and reduced frequency
-UID:1aa22424-024e-526b-934e-67e16ecdce51
-URL:https://transportnsw.info/alerts/details#/ems-80819
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81555\n\nSaturday 28 and Sunday 29 November\nTrains run to a changed timetable between Berowra or Hornsby and Central\, platforms 1-14 only.\n If travelling to T1 North Shore Line stations\, change at Epping or Central for metro services to Victoria Cross\, Crows Nest or Chatswood\, then change for a bus.
+DTEND:20261129T125958Z
+DTSTART:20261127T150000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:a0d365c6-6267-5837-b52f-67e6bd1d8809
+URL:https://transportnsw.info/alerts/details#/ems-81555
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
-DTEND:20261109T143000Z
-DTSTART:20261109T102000Z
-SUMMARY:Buses replace trains between Hornsby and Epping
-UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
-URL:https://transportnsw.info/alerts/details#/ems-80817
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81550\n\nWednesday 25 November\nFrom 10:30PM to 1:30AM\, some trains make extra stops at Croydon and Ashfield.
+DTEND:20261125T143001Z
+DTSTART:20261125T113000Z
+SUMMARY:Some trains make extra stops at Croydon and Ashfield
+UID:9c8c1039-f8b9-5356-a231-93583ff42fa9
+URL:https://transportnsw.info/alerts/details#/ems-81550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81548\n\nMonday 23 and Tuesday 24 November\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261124T143000Z
+DTSTART:20261124T101000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:811ed5f1-a5ad-5e2f-92fb-e5cab6735903
+URL:https://transportnsw.info/alerts/details#/ems-81548
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80817\n\nMonday 9 and Wednesday 11 November\nNightly from 9:20PM to 1:30AM\, buses replace trains between Hornsby and Epping.\nTrains run to a changed timetable between Epping and the City.
@@ -24,5 +32,21 @@ DTSTART:20261111T102000Z
 SUMMARY:Buses replace trains between Hornsby and Epping
 UID:7ba7f84c-1c74-52a6-9572-7caacedce85f
 URL:https://transportnsw.info/alerts/details#/ems-80817
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81548\n\nMonday 23 and Tuesday 24 November\nNightly from 9:10PM to 1:30AM\, trains run between Berowra or Hornsby and Central\, platforms 1-14 only.\nFor travel to T1 North Shore Line stations change at Hornsby for replacement buses or use metro services from Epping or Central to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
+DTEND:20261123T143000Z
+DTSTART:20261123T101000Z
+SUMMARY:Trains run between Berowra or Hornsby and Central\, platforms 1-14
+UID:811ed5f1-a5ad-5e2f-92fb-e5cab6735903
+URL:https://transportnsw.info/alerts/details#/ems-81548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80819\n\nTuesday 10 November \nFrom 4:00PM to 7:30PM\, some trains between Hornsby\, Epping and Central run to a changed timetable and frequency.
+DTEND:20261110T083000Z
+DTSTART:20261110T050000Z
+SUMMARY:Some trains run to a changed timetable and reduced frequency
+UID:1aa22424-024e-526b-934e-67e16ecdce51
+URL:https://transportnsw.info/alerts/details#/ems-80819
 END:VEVENT
 END:VCALENDAR
