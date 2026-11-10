@@ -49,20 +49,4 @@ SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:665c6aec-7966-5668-b2ec-ad6e17faef03
 URL:https://transportnsw.info/alerts/details#/ems-80761
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80757\n\nMonday 9 and Tuesday 10 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable and stopping pattern between Macarthur\, Glenfield and the City via Granville. You may need to change trains to continue your journey.\nBuses also replace T8 Airport & South Line trains between Glenfield and Sydenham.
-DTEND:20261110T143000Z
-DTSTART:20261110T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:29995024-1018-5566-b8b5-cd31e27464b4
-URL:https://transportnsw.info/alerts/details#/ems-80757
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80759\n\nTuesday 10 November\nFrom 3:40PM to 11:00PM\, Inner West trains run between the City and Homebush only\, not Parramatta.\nYou may need to change trains to continue your journey.
-DTEND:20261110T120002Z
-DTSTART:20261110T044000Z
-SUMMARY:Inner West trains start and end at Homebush\, not Parramatta
-UID:91733952-0a13-545c-9286-a261d964350a
-URL:https://transportnsw.info/alerts/details#/ems-80759
-END:VEVENT
 END:VCALENDAR
