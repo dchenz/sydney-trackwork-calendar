@@ -41,12 +41,4 @@ SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Milso
 UID:4f979ffd-edd3-5be5-90e0-7ce974f2fd07
 URL:https://transportnsw.info/alerts/details#/ems-81511
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80751\n\nMonday 9 and Wednesday 11 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Berowra and Hornsby.\nTrains run between Hornsby and the City\, some to a changed timetable.\nBuses also replace T9 Northern Line trains between Hornsby and Epping\, and Central Coast & Newcastle Line trains between Gosford and Hornsby.
-DTEND:20261111T143000Z
-DTSTART:20261111T104000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
-UID:909dfc1e-fee9-5c27-9199-93e066d6e8e5
-URL:https://transportnsw.info/alerts/details#/ems-80751
-END:VEVENT
 END:VCALENDAR
