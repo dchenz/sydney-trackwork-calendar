@@ -41,12 +41,4 @@ SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:e3e152d7-dda1-595e-a6b1-42258ef543d6
 URL:https://transportnsw.info/alerts/details#/ems-81529
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80765\n\nWednesday 11 and Thursday 12 November\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\n Trains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
-DTEND:20261112T143000Z
-DTSTART:20261112T104000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:dba7973e-2308-5537-b935-43742bb40769
-URL:https://transportnsw.info/alerts/details#/ems-80765
-END:VEVENT
 END:VCALENDAR

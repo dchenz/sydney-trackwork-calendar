@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81536\n\nSaturday 28 and Sunday 29 November\nTrains may run to a changed timetable and stopping pattern.
+DTEND:20261129T125946Z
+DTSTART:20261127T150000Z
+SUMMARY:Trains may run to a changed timetable and stopping pattern
+UID:eaa30c4a-ffc7-5f16-b992-e701716d7f3d
+URL:https://transportnsw.info/alerts/details#/ems-81536
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81172\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
 DTEND:20261122T000052Z
 DTSTART:20261121T183000Z
@@ -24,21 +32,5 @@ DTSTART:20261118T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:e2bbd399-7ed9-5c67-a75b-969c7c73cde1
 URL:https://transportnsw.info/alerts/details#/ems-81170
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80773\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
-DTEND:20261112T143000Z
-DTSTART:20261112T105000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:5737b114-072c-520f-b1a5-c2fd7afedaa6
-URL:https://transportnsw.info/alerts/details#/ems-80773
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81536\n\nSaturday 28 and Sunday 29 November\nTrains may run to a changed timetable and stopping pattern.
-DTEND:20261129T125946Z
-DTSTART:20261127T150000Z
-SUMMARY:Trains may run to a changed timetable and stopping pattern
-UID:eaa30c4a-ffc7-5f16-b992-e701716d7f3d
-URL:https://transportnsw.info/alerts/details#/ems-81536
 END:VEVENT
 END:VCALENDAR

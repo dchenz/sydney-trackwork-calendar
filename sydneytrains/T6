@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80813\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20261113T233000Z
-DTSTART:20261113T193000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:05c5090a-39f2-5324-9d38-a30a29ccb771
-URL:https://transportnsw.info/alerts/details#/ems-80813
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80811\n\nWednesday 11 and Thursday 12 November\nNightly from 9:10PM to 1:30AM\, buses replace trains between Bankstown and Lidcombe.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
-DTEND:20261112T143000Z
-DTSTART:20261112T101000Z
-SUMMARY:Buses replace trains between Bankstown and Lidcombe
-UID:8acb01b6-e917-504f-88e3-a278c8f2c335
-URL:https://transportnsw.info/alerts/details#/ems-80811
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81176\n\nSunday 22 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.​
 DTEND:20261121T233028Z
 DTSTART:20261121T193000Z
 SUMMARY:Trains run to a changed timetable and reduced frequency
 UID:2003f6fa-4b34-5ae1-92ed-ff9a388fdc7d
 URL:https://transportnsw.info/alerts/details#/ems-81176
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80813\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
+DTEND:20261113T233000Z
+DTSTART:20261113T193000Z
+SUMMARY:Trains run to a changed timetable and reduced frequency
+UID:05c5090a-39f2-5324-9d38-a30a29ccb771
+URL:https://transportnsw.info/alerts/details#/ems-80813
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81174\n\nSaturday 21 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.​

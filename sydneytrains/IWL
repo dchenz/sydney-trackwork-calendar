@@ -33,12 +33,4 @@ SUMMARY:Buses replace Inner West trains between Ashfield and Central
 UID:28a01821-19fa-52d2-a279-95340eb4ba13
 URL:https://transportnsw.info/alerts/details#/ems-81157
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80761\n\nWednesday 11 and Thursday 12 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T3 Liverpool & Inner West Line trains between Liverpool and Lidcombe.
-DTEND:20261112T143000Z
-DTSTART:20261112T105000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:665c6aec-7966-5668-b2ec-ad6e17faef03
-URL:https://transportnsw.info/alerts/details#/ems-80761
-END:VEVENT
 END:VCALENDAR
