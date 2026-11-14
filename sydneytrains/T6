@@ -10,14 +10,6 @@ UID:2003f6fa-4b34-5ae1-92ed-ff9a388fdc7d
 URL:https://transportnsw.info/alerts/details#/ems-81176
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80813\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.
-DTEND:20261113T233000Z
-DTSTART:20261113T193000Z
-SUMMARY:Trains run to a changed timetable and reduced frequency
-UID:05c5090a-39f2-5324-9d38-a30a29ccb771
-URL:https://transportnsw.info/alerts/details#/ems-80813
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81174\n\nSaturday 21 November \nFrom 6:30AM to 10:30AM\, trains run to a changed timetable and reduced frequency\, every 30 minutes.​
 DTEND:20261120T233019Z
 DTSTART:20261120T193000Z

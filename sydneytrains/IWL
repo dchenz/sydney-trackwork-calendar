@@ -18,14 +18,6 @@ UID:2a07aedc-9dab-57d4-8b3b-355ff2533b89
 URL:https://transportnsw.info/alerts/details#/ems-81506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80763\n\nSaturday 14 November \nFrom 6:30AM to 10:30AM\, Inner West trains run between Ashfield and the City Circle only. \nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
-DTEND:20261113T233022Z
-DTSTART:20261113T193000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:ac2eb2ef-018b-5f2c-969c-700850d3a429
-URL:https://transportnsw.info/alerts/details#/ems-80763
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81157\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
 DTEND:20261121T233013Z
 DTSTART:20261121T192000Z
