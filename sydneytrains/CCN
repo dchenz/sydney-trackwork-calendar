@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-80823\n\nSunday 15 November \nFrom 3:00PM to 9:00PM\, some trains may run to a changed timetable due to trackwork between Gosford and Hawkesbury River.
-DTEND:20261115T100000Z
-DTSTART:20261115T040000Z
-SUMMARY:Some trains may run to a changed timetable
-UID:3d75547e-c0e2-57ec-a09f-263105ad8e89
-URL:https://transportnsw.info/alerts/details#/ems-80823
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81184\n\nSunday 22 November\nFrom 5:50AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
 DTEND:20261122T000055Z
 DTSTART:20261121T185000Z
