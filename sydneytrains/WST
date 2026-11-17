@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81939\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20261130T143000Z
+DTSTART:20261130T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:aa5ff6be-2bf1-50af-9f96-a716e14523d5
+URL:https://transportnsw.info/alerts/details#/ems-81939
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81939\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains run to a changed timetable between Penrith and Central\, platforms 1-14 only\, making extra stops at some stations between Parramatta and Burwood.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT1 North Shore Line trains start from Wynyard.
+DTEND:20261201T143000Z
+DTSTART:20261201T104000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
+UID:aa5ff6be-2bf1-50af-9f96-a716e14523d5
+URL:https://transportnsw.info/alerts/details#/ems-81939
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81518\n\nWednesday 25 November\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
 DTEND:20261125T143045Z
 DTSTART:20261125T115000Z
@@ -40,6 +56,14 @@ DTSTART:20261123T105000Z
 SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
 UID:cb6654f3-41c2-5dad-8778-61681ce439f1
 URL:https://transportnsw.info/alerts/details#/ems-81516
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81941\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong.\nFrequent metro services run between Tallawong and Bankstown\, except on Saturday until 9AM and from 9:10PM Sunday when buses also replace metro services between Tallawong and Chatswood\, and between Sydenham and Bankstown.
+DTEND:20261206T125943Z
+DTSTART:20261204T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
+UID:46509424-7f93-532a-9def-4da8ce273c60
+URL:https://transportnsw.info/alerts/details#/ems-81941
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81516\n\nMonday 23 and Tuesday 24 November\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.

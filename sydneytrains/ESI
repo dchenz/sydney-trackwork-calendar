@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20261130T143000Z
+DTSTART:20261130T103000Z
+SUMMARY:Trains make extra stops at St Peters and Erskineville
+UID:00902900-a654-5ca0-8be6-4e7511cc9ffc
+URL:https://transportnsw.info/alerts/details#/ems-81954
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
+DTEND:20261201T143000Z
+DTSTART:20261201T103000Z
+SUMMARY:Trains make extra stops at St Peters and Erskineville
+UID:00902900-a654-5ca0-8be6-4e7511cc9ffc
+URL:https://transportnsw.info/alerts/details#/ems-81954
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81533\n\nSaturday 28 and Sunday 29 November\nTrackwork on the City Circle and Airport Line may affect how you travel.\nCity Circle: If travelling to Circular Quay or Wynyard change at Central\, not Town Hall. Trains run in one direction only\, from Central first stop Museum.\nT8 Airport & South Line: If travelling to the Airport\, change at Central or Sydenham for a bus\, not Wolli Creek. Buses replace trains between Sydenham and Central via the Airport.
 DTEND:20261129T125910Z
 DTSTART:20261127T150000Z
@@ -10,12 +26,36 @@ UID:9c082145-6b08-5d76-ba00-83e28be027bf
 URL:https://transportnsw.info/alerts/details#/ems-81533
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81956\n\nWednesday 2 and Thursday 3 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20261202T143000Z
+DTSTART:20261202T105000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:dc004ea6-0ba4-5ab0-a792-bfc4a0f4aa36
+URL:https://transportnsw.info/alerts/details#/ems-81956
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81956\n\nWednesday 2 and Thursday 3 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
+DTEND:20261203T143000Z
+DTSTART:20261203T105000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:dc004ea6-0ba4-5ab0-a792-bfc4a0f4aa36
+URL:https://transportnsw.info/alerts/details#/ems-81956
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81166\n\nFriday 20 November \nFrom 9:30PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
 DTEND:20261120T150051Z
 DTSTART:20261120T103000Z
 SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
 UID:d25c2402-8000-5437-911a-fdab0c117f52
 URL:https://transportnsw.info/alerts/details#/ems-81166
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81958\n\nSaturday 5 December\nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
+DTEND:20261205T003052Z
+DTSTART:20261204T160000Z
+SUMMARY:Buses replace trains between Waterfall and Sutherland
+UID:5bdf61e2-4074-5437-899f-606ceff8cd29
+URL:https://transportnsw.info/alerts/details#/ems-81958
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81531\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.

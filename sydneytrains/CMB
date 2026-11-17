@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81536\n\nSaturday 28 and Sunday 29 November\nTrains may run to a changed timetable and stopping pattern.
-DTEND:20261129T125946Z
-DTSTART:20261127T150000Z
-SUMMARY:Trains may run to a changed timetable and stopping pattern
-UID:eaa30c4a-ffc7-5f16-b992-e701716d7f3d
-URL:https://transportnsw.info/alerts/details#/ems-81536
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81172\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
 DTEND:20261122T000052Z
 DTSTART:20261121T183000Z
@@ -32,5 +24,45 @@ DTSTART:20261118T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
 UID:e2bbd399-7ed9-5c67-a75b-969c7c73cde1
 URL:https://transportnsw.info/alerts/details#/ems-81170
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81964\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Richmond and Granville.\nT2 Leppington & Inner West Line trains run between Leppington\, Granville and the City.
+DTEND:20261206T125934Z
+DTSTART:20261204T150000Z
+SUMMARY:Buses replace trains between Richmond and Granville
+UID:9c4ea017-02fc-5735-8592-efcf1e578396
+URL:https://transportnsw.info/alerts/details#/ems-81964
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81962\n\nWednesday 2 and Thursday 3 December\nDaily from 10AM to 3PM\, trains run to a changed timetable between Schofields and Liverpool only.\nYou may need to change trains to continue your journey.
+DTEND:20261202T040000Z
+DTSTART:20261201T230000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:e4bb9e70-c357-563c-952e-77d193a0c1d4
+URL:https://transportnsw.info/alerts/details#/ems-81962
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81962\n\nWednesday 2 and Thursday 3 December\nDaily from 10AM to 3PM\, trains run to a changed timetable between Schofields and Liverpool only.\nYou may need to change trains to continue your journey.
+DTEND:20261203T040000Z
+DTSTART:20261202T230000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:e4bb9e70-c357-563c-952e-77d193a0c1d4
+URL:https://transportnsw.info/alerts/details#/ems-81962
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81536\n\nSaturday 28 and Sunday 29 November\nTrains may run to a changed timetable and stopping pattern.
+DTEND:20261129T125946Z
+DTSTART:20261127T150000Z
+SUMMARY:Trains may run to a changed timetable and stopping pattern
+UID:eaa30c4a-ffc7-5f16-b992-e701716d7f3d
+URL:https://transportnsw.info/alerts/details#/ems-81536
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81960\n\nTuesday 1 December\nFrom 10:30AM to 1:30PM\, buses replace trains between Leppington and Liverpool.\nTrains run between Liverpool and Schofields\, some to a changed timetable.
+DTEND:20261201T023020Z
+DTSTART:20261130T233000Z
+SUMMARY:Buses replace trains between Leppington and Liverpool
+UID:d6f309dc-71f5-5cf2-bbc4-a64a8ccbae21
+URL:https://transportnsw.info/alerts/details#/ems-81960
 END:VEVENT
 END:VCALENDAR

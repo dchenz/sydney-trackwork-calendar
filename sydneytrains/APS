@@ -26,6 +26,38 @@ UID:e4e49529-617c-5677-a40c-3ffe23f97f4b
 URL:https://transportnsw.info/alerts/details#/ems-81178
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81966\n\nMonday 30 November and Tuesday 1 December \nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central\, due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
+DTEND:20261130T143000Z
+DTSTART:20261130T103000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:f376c49c-e294-5ee1-b472-c04877da8856
+URL:https://transportnsw.info/alerts/details#/ems-81966
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81966\n\nMonday 30 November and Tuesday 1 December \nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central\, due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
+DTEND:20261201T143000Z
+DTSTART:20261201T103000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern
+UID:f376c49c-e294-5ee1-b472-c04877da8856
+URL:https://transportnsw.info/alerts/details#/ems-81966
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20261130T143000Z
+DTSTART:20261130T104000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:2c04d6f7-be70-5356-b078-195f6f9f8595
+URL:https://transportnsw.info/alerts/details#/ems-81933
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
+DTEND:20261201T143000Z
+DTSTART:20261201T104000Z
+SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
+UID:2c04d6f7-be70-5356-b078-195f6f9f8595
+URL:https://transportnsw.info/alerts/details#/ems-81933
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81540\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:.30AM\, trackwork at Wolli Creek may affect how you travel.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
 DTEND:20261125T143000Z
 DTSTART:20261125T105000Z

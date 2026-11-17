@@ -2,9 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81981\n\nWednesday 2 and Thursday 3 December\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20261202T143000Z
+DTSTART:20261202T105000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:f60247b5-c540-5e2a-a872-8786c79b3740
+URL:https://transportnsw.info/alerts/details#/ems-81981
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81981\n\nWednesday 2 and Thursday 3 December\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20261203T143000Z
+DTSTART:20261203T105000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:f60247b5-c540-5e2a-a872-8786c79b3740
+URL:https://transportnsw.info/alerts/details#/ems-81981
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81985\n\nSaturday 5 December \nFrom 3AM to 11:30AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.\nTrains run to a changed timetable between Bomaderry\, Kiama and Dapto\, and T4 Eastern Suburbs & Illawarra Line trains run between Sutherland and Bondi Junction.\nThe first train leaves Bondi Junction at 10:13\, Wollongong at 12:08\, arriving Kiama at 12:52.
+DTEND:20261205T003053Z
+DTSTART:20261204T160000Z
+SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
+UID:c99be217-4966-5818-9478-2110a7cab05f
+URL:https://transportnsw.info/alerts/details#/ems-81985
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81561\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20261125T143000Z
 DTSTART:20261125T105000Z
+SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
+UID:20f6f6f3-934e-5575-b6ce-ef49bee9b2ae
+URL:https://transportnsw.info/alerts/details#/ems-81561
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81561\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
+DTEND:20261126T143000Z
+DTSTART:20261126T105000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:20f6f6f3-934e-5575-b6ce-ef49bee9b2ae
 URL:https://transportnsw.info/alerts/details#/ems-81561
@@ -18,12 +50,12 @@ UID:2e9da4f2-7847-555c-8be8-4c4dc5cf02f7
 URL:https://transportnsw.info/alerts/details#/ems-81190
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81561\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
-DTEND:20261126T143000Z
-DTSTART:20261126T105000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:20f6f6f3-934e-5575-b6ce-ef49bee9b2ae
-URL:https://transportnsw.info/alerts/details#/ems-81561
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81983\n\nThursday 3 December\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
+DTEND:20261203T040043Z
+DTSTART:20261202T220000Z
+SUMMARY:Buses replace trains between Port Kembla and Wollongong
+UID:96252202-83af-5ef4-9ced-14627556e952
+URL:https://transportnsw.info/alerts/details#/ems-81983
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81188\n\nFriday 20 November\nFrom 9:30PM\, buses replace trains between Waterfall and Hurstville.\nTrains run between South Coast Line stations and Waterfall\, and between Hurstville and Bondi Junction\, to a changed timetable.

@@ -2,12 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81976\n\nSaturday 5 to Sunday 6 December\nFrom 8:20PM Saturday to 5AM Sunday\, buses replace trains between Gosford and Hornsby.\nTrains run to a changed timetable between Newcastle Interchange and Gosford.\nT1 North Shore and T9 Northern Line trains run between Hornsby and Central.
+DTEND:20261205T180034Z
+DTSTART:20261205T092000Z
+SUMMARY:Buses replace trains between Gosford and Hornsby
+UID:81fbd895-6338-538d-b07f-337826b41b85
+URL:https://transportnsw.info/alerts/details#/ems-81976
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81184\n\nSunday 22 November\nFrom 5:50AM to 11AM\, at Cowan and Hawkesbury River\, all trains leave from platform 1.
 DTEND:20261122T000055Z
 DTSTART:20261121T185000Z
 SUMMARY:At Cowan and Hawkesbury River\, trains may leave from different platforms
 UID:6e48405b-d3c7-568b-b4ac-a5e8dbd80f06
 URL:https://transportnsw.info/alerts/details#/ems-81184
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81974\n\nWednesday 2 and Thursday 3 December\nNightly from 9:40PM to 2AM\, trains run between Central Coast & Newcastle Line stations and Hornsby only.\nChange at Hornsby to continue your journey.\nBuses replace T9 trains between Hornsby and Strathfield. T1 trains run between Hornsby and the City via Chatswood.\nExpress buses run between Hornsby and Strathfield.\nThursday and Friday\, buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement bus leaves Central at 1:23AM\, 24 minutes earlier than the normal train timetable\, to connect with this service at Hornsby.
+DTEND:20261202T150000Z
+DTSTART:20261202T104000Z
+SUMMARY:Trains run between Central Coast & Newcastle stations and Hornsby only
+UID:c2258481-4bf4-5a7b-8ee1-fdd66890894e
+URL:https://transportnsw.info/alerts/details#/ems-81974
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81974\n\nWednesday 2 and Thursday 3 December\nNightly from 9:40PM to 2AM\, trains run between Central Coast & Newcastle Line stations and Hornsby only.\nChange at Hornsby to continue your journey.\nBuses replace T9 trains between Hornsby and Strathfield. T1 trains run between Hornsby and the City via Chatswood.\nExpress buses run between Hornsby and Strathfield.\nThursday and Friday\, buses replace the 01:47 Central to Newcastle Interchange service from Central to Hornsby. Replacement bus leaves Central at 1:23AM\, 24 minutes earlier than the normal train timetable\, to connect with this service at Hornsby.
+DTEND:20261203T150000Z
+DTSTART:20261203T104000Z
+SUMMARY:Trains run between Central Coast & Newcastle stations and Hornsby only
+UID:c2258481-4bf4-5a7b-8ee1-fdd66890894e
+URL:https://transportnsw.info/alerts/details#/ems-81974
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81182\n\nSaturday 21 November\nFrom 5:30AM to 11:10AM\, at Hawkesbury River and Cowan\, all trains leave from platform 2.\nFrom 7AM to 11:10AM\, trains towards Hornsby do not stop at Cowan.\nBuses run from Hawkesbury River to Cowan\, and from Cowan to Berowra\, in that direction only.\nIf travelling to Cowan\, change at Hawkesbury River for a bus.\nAt Cowan\, catch a bus to Berowra then change for a train to continue your journey.\nTrains towards Gosford continue to stop at Cowan.
