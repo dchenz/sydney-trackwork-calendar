@@ -11,14 +11,6 @@ URL:https://transportnsw.info/alerts/details#/ems-81172
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81170\n\nTuesday 17 and Wednesday 18 November\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
-DTEND:20261117T143000Z
-DTSTART:20261117T125000Z
-SUMMARY:You may need to change trains at Granville to continue your journey
-UID:e2bbd399-7ed9-5c67-a75b-969c7c73cde1
-URL:https://transportnsw.info/alerts/details#/ems-81170
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81170\n\nTuesday 17 and Wednesday 18 November\nNightly from 11:50PM to 1:30AM\, trains run to a changed timetable between Richmond or Leppington and Olympic Park. Some trains start and end at Granville.\nYou may need to change trains at Granville to continue your journey.
 DTEND:20261118T143000Z
 DTSTART:20261118T125000Z
 SUMMARY:You may need to change trains at Granville to continue your journey
