@@ -42,14 +42,6 @@ UID:dc004ea6-0ba4-5ab0-a792-bfc4a0f4aa36
 URL:https://transportnsw.info/alerts/details#/ems-81956
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81166\n\nFriday 20 November \nFrom 9:30PM\, buses replace trains between Waterfall\, Cronulla and Hurstville.\nTrains run between Hurstville and Bondi Junction\, some to a changed timetable.
-DTEND:20261120T150051Z
-DTSTART:20261120T103000Z
-SUMMARY:Buses replace trains between Waterfall\, Cronulla and Hurstville
-UID:d25c2402-8000-5437-911a-fdab0c117f52
-URL:https://transportnsw.info/alerts/details#/ems-81166
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81958\n\nSaturday 5 December\nFrom 3AM to 11:30AM\, buses replace trains between Waterfall and Sutherland.\nTrains run to a changed timetable between Cronulla\, Sutherland and Bondi Junction.
 DTEND:20261205T003052Z
 DTSTART:20261204T160000Z
