@@ -42,14 +42,6 @@ UID:20f6f6f3-934e-5575-b6ce-ef49bee9b2ae
 URL:https://transportnsw.info/alerts/details#/ems-81561
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81190\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Dapto\, Port Kembla and Central.\nYou may need to change buses to continue your journey.\nTrains run between Bomaderry\, Kiama and Dapto\, some to a changed timetable.\nFor travel to the Airport\, change at Central for a T8 Airport & South Line train.
-DTEND:20261122T125901Z
-DTSTART:20261120T150000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Central
-UID:2e9da4f2-7847-555c-8be8-4c4dc5cf02f7
-URL:https://transportnsw.info/alerts/details#/ems-81190
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81983\n\nThursday 3 December\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20261203T040043Z
 DTSTART:20261202T220000Z

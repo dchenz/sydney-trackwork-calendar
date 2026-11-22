@@ -18,14 +18,6 @@ UID:2a07aedc-9dab-57d4-8b3b-355ff2533b89
 URL:https://transportnsw.info/alerts/details#/ems-81506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81178\n\nSaturday 21 and Sunday 22 November \nBuses replace trains between Sydenham and Central.\nTrains run to the normal timetable between Macarthur\, Revesby and the City via the Airport.\nTrackwork may also affect how you travel to T4 Illawarra and South Coast Line stations.\nChange at Central for trains towards Bondi Junction\, buses to T4 Illawarra and South Coast Line stations\, or if you have luggage or accessibility needs.
-DTEND:20261122T125933Z
-DTSTART:20261120T150000Z
-SUMMARY:Buses replace trains between Sydenham and Central. Trackwork also affects T4 and South Coast Line trains
-UID:e4e49529-617c-5677-a40c-3ffe23f97f4b
-URL:https://transportnsw.info/alerts/details#/ems-81178
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81966\n\nMonday 30 November and Tuesday 1 December \nNightly from 9:30PM to 1:30AM\, trains via the Airport start and end at Central\, due to City Circle trackwork.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nT8 Airport & South Line trains do not run between Sydenham and the City. T4 Eastern Suburbs & Illawarra Line trains run between Sydenham and Bondi Junction\, making extra stops at St Peters and Erskineville.
 DTEND:20261130T143000Z
 DTSTART:20261130T103000Z

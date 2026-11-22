@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
-DTEND:20261130T143000Z
-DTSTART:20261130T103000Z
+DTEND:20261201T143000Z
+DTSTART:20261201T103000Z
 SUMMARY:Trains make extra stops at St Peters and Erskineville
 UID:00902900-a654-5ca0-8be6-4e7511cc9ffc
 URL:https://transportnsw.info/alerts/details#/ems-81954
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
-DTEND:20261201T143000Z
-DTSTART:20261201T103000Z
+DTEND:20261130T143000Z
+DTSTART:20261130T103000Z
 SUMMARY:Trains make extra stops at St Peters and Erskineville
 UID:00902900-a654-5ca0-8be6-4e7511cc9ffc
 URL:https://transportnsw.info/alerts/details#/ems-81954
@@ -64,13 +64,5 @@ DTSTART:20261125T105000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:8e0c95b8-9a7e-511b-a9e1-e76df36a3834
 URL:https://transportnsw.info/alerts/details#/ems-81531
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81168\n\nSaturday 21 and Sunday 22 November\nBuses replace trains between Cronulla\, Waterfall and Central.\nTrains run between Central and Bondi Junction\, to a changed timetable.\nIf travelling to the Airport change at Central for a T8 Airport train.
-DTEND:20261122T125929Z
-DTSTART:20261120T150000Z
-SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
-UID:f68576df-a1e1-5f66-85c8-a3db44cda5fe
-URL:https://transportnsw.info/alerts/details#/ems-81168
 END:VEVENT
 END:VCALENDAR
