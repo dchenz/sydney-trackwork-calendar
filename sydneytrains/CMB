@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81172\n\nSunday 22 November \nFrom 5:30AM to 9AM\, buses replace trains between Richmond and Blacktown.\nFrom 9AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
-DTEND:20261122T000052Z
-DTSTART:20261121T183000Z
-SUMMARY:Buses replace trains between Richmond and Blacktown or Schofields
-UID:3db52fa6-5507-57df-9e0b-8558d1da908e
-URL:https://transportnsw.info/alerts/details#/ems-81172
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81964\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Richmond and Granville.\nT2 Leppington & Inner West Line trains run between Leppington\, Granville and the City.
 DTEND:20261206T125934Z
 DTSTART:20261204T150000Z

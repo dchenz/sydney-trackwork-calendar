@@ -42,14 +42,6 @@ UID:2a07aedc-9dab-57d4-8b3b-355ff2533b89
 URL:https://transportnsw.info/alerts/details#/ems-81506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81157\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nLeppington trains make extra stops at Homebush and Croydon. T1 Western Line trains make an extra stop at Burwood.
-DTEND:20261121T233013Z
-DTSTART:20261121T192000Z
-SUMMARY:Buses replace Inner West trains between Ashfield and Central
-UID:28a01821-19fa-52d2-a279-95340eb4ba13
-URL:https://transportnsw.info/alerts/details#/ems-81157
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
 DTEND:20261130T143000Z
 DTSTART:20261130T104000Z

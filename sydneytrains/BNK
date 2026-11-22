@@ -42,14 +42,6 @@ UID:2c04d6f7-be70-5356-b078-195f6f9f8595
 URL:https://transportnsw.info/alerts/details#/ems-81933
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81161\n\nSunday 22 November \nFrom 6:20AM to 10:30AM\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable between Liverpool and Lidcombe only. You may need to change services to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
-DTEND:20261121T233045Z
-DTSTART:20261121T192000Z
-SUMMARY:Buses replace Inner West trains between Ashfield and Central. Trains run to a changed stopping pattern
-UID:ad34ba11-7c1b-575e-ac4a-4ec916df0171
-URL:https://transportnsw.info/alerts/details#/ems-81161
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81529\n\nWednesday 25 November\nFrom 10:20PM to 1:30AM\, trains run to a changed timetable between Liverpool and Lidcombe only. Change trains at Lidcombe to continue your journey.\n Inner West trains run between Ashfield and the City Circle.\nT1 Western Line trains run between Lidcombe and the City\, making extra stops at Homebush and Burwood.\nT9 Northern Line trains make extra stops at Croydon and Ashfield.
 DTEND:20261125T143022Z
 DTSTART:20261125T112000Z
