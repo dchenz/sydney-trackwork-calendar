@@ -42,14 +42,6 @@ UID:0f0b7204-309a-5c4d-a4ce-b3b5c1772519
 URL:https://transportnsw.info/alerts/details#/ems-81525
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81516\n\nMonday 23 and Tuesday 24 November\nNightly from 9:50PM to 1:30AM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
-DTEND:20261123T143000Z
-DTSTART:20261123T105000Z
-SUMMARY:T1 Western Line: Trains run between Penrith and Central\, platforms 1-14
-UID:cb6654f3-41c2-5dad-8778-61681ce439f1
-URL:https://transportnsw.info/alerts/details#/ems-81516
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81941\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong.\nFrequent metro services run between Tallawong and Bankstown\, except on Saturday until 9AM and from 9:10PM Sunday when buses also replace metro services between Tallawong and Chatswood\, and between Sydenham and Bankstown.
 DTEND:20261206T125943Z
 DTSTART:20261204T150000Z

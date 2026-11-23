@@ -34,14 +34,6 @@ UID:74c58d3c-8a57-5152-a8a1-94153f4bb51b
 URL:https://transportnsw.info/alerts/details#/ems-81508
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81508\n\nMonday 23 and Tuesday 24 November\nNightly from 9:20PM to 1:30AM\, buses replace trains from Hornsby to Milsons Point.\n• The last train from Hornsby to the City leaves Hornsby at 21:12PM\, arriving Wynyard at 21:55PM.\nNightly from 9:50PM to 1:30AM\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52PM\, arriving Hornsby at 22:34PM.\nThe last train to Gordon leaves Wynyard at 21:55PM\, arriving Gordon at 22:23PM.\nUse metro services between Chatswood and the City.\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.
-DTEND:20261123T143000Z
-DTSTART:20261123T102000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro services between Chatswood and the City
-UID:74c58d3c-8a57-5152-a8a1-94153f4bb51b
-URL:https://transportnsw.info/alerts/details#/ems-81508
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81935\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
 DTEND:20261130T143000Z
 DTSTART:20261130T104000Z
