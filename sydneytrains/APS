@@ -66,6 +66,14 @@ UID:2c04d6f7-be70-5356-b078-195f6f9f8595
 URL:https://transportnsw.info/alerts/details#/ems-81933
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82276\n\nMonday 7 December\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
+DTEND:20261207T143039Z
+DTSTART:20261207T105000Z
+SUMMARY:City Circle: Trains run in one direction only
+UID:dc960d28-3aaf-55e6-a135-7a9cdc9e05b0
+URL:https://dev.transportnsw.info/alerts/details#/ems-82276
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81540\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:.30AM\, trackwork at Wolli Creek may affect how you travel.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
 DTEND:20261125T143000Z
 DTSTART:20261125T105000Z

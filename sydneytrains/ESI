@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82289\n\nSaturday 12 and Sunday 13 December\nBuses replace trains between Cronulla and Sutherland.\nTrains run between Waterfall\, Sutherland and Bondi Junction\, some to a changed timetable.
+DTEND:20261213T125940Z
+DTSTART:20261211T150000Z
+SUMMARY:Buses replace trains between Cronulla and Sutherland
+UID:7f90191b-9418-5437-9a18-558af0a76750
+URL:https://dev.transportnsw.info/alerts/details#/ems-82289
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
 DTEND:20261201T143000Z
 DTSTART:20261201T103000Z
