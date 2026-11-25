@@ -34,11 +34,11 @@ UID:8a7d8136-5859-53da-bf22-f3cf0350070a
 URL:https://transportnsw.info/alerts/details#/ems-81346
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81972\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 60 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-81972\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 60 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20261206T125959Z
 DTSTART:20261204T150000Z
 SUMMARY:Buses replace trains between Penrith and Granville
 UID:e85e0a23-d219-5a6b-a8bd-6f9b04f37575
-URL:https://transportnsw.info/alerts/details#/ems-81972
+URL:https://dev.transportnsw.info/alerts/details#/ems-81972
 END:VEVENT
 END:VCALENDAR
