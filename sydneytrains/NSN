@@ -18,14 +18,6 @@ UID:2dd78465-2d1f-59a7-90c2-1f532e8cb255
 URL:https://transportnsw.info/alerts/details#/ems-81514
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81518\n\nWednesday 25 November\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20261125T143045Z
-DTSTART:20261125T115000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:9b2eda42-dcf2-55cd-9edd-85e77ce1510c
-URL:https://transportnsw.info/alerts/details#/ems-81518
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81935\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.
 DTEND:20261201T143000Z
 DTSTART:20261201T104000Z

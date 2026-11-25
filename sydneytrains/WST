@@ -18,14 +18,6 @@ UID:aa5ff6be-2bf1-50af-9f96-a716e14523d5
 URL:https://transportnsw.info/alerts/details#/ems-81939
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81518\n\nWednesday 25 November\nFrom 10:50PM to 1:30AM\, most trains make extra stops at Homebush and Burwood.
-DTEND:20261125T143045Z
-DTSTART:20261125T115000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern
-UID:9b2eda42-dcf2-55cd-9edd-85e77ce1510c
-URL:https://transportnsw.info/alerts/details#/ems-81518
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81522\n\nFriday 27 November\nFrom 11:00PM\, trains run between Penrith and Central\, platforms 1-14 only\, due to T1 North Shore Line trackwork.\nIf travelling to T1 North Shore Line stations use metro services to Victoria Cross\, Crows Nest or Chatswood then change for replacement buses.
 DTEND:20261127T150015Z
 DTSTART:20261127T120000Z

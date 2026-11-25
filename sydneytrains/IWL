@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81527\n\nWednesday 25 November\nFrom 10:30PM to 1:30AM\, Inner West trains run between Ashfield and the City Circle only.\nLeppington trains do not stop at Ashfield or Newtown.\nT1 Western Line trains make extra stops at Homebush and Burwood. T9 Northern Line trains make extra stops at Croydon and Ashfield.\nYou may need to change trains to continue your journey.
-DTEND:20261125T143010Z
-DTSTART:20261125T113000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern
-UID:67b1dd14-318b-5162-b121-2ace07c15e54
-URL:https://transportnsw.info/alerts/details#/ems-81527
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81945\n\nTuesday 1 December\nFrom 10:30AM to 1:30PM\, buses replace trains between Leppington and Liverpool.\nTrains run to a changed timetable between Liverpool and the City via Granville.\nT8 Airport & South Line trains run between Glenfield and the City via the Airport.
 DTEND:20261201T023001Z
 DTSTART:20261130T233000Z
@@ -67,16 +59,16 @@ URL:https://dev.transportnsw.info/alerts/details#/ems-82282
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261130T143000Z
-DTSTART:20261130T104000Z
+DTEND:20261201T143000Z
+DTSTART:20261201T104000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:2c04d6f7-be70-5356-b078-195f6f9f8595
 URL:https://transportnsw.info/alerts/details#/ems-81933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
-DTEND:20261201T143000Z
-DTSTART:20261201T104000Z
+DTEND:20261130T143000Z
+DTSTART:20261130T104000Z
 SUMMARY:City Circle: Trains do not run on the City Circle\, or between Central and Wynyard
 UID:2c04d6f7-be70-5356-b078-195f6f9f8595
 URL:https://transportnsw.info/alerts/details#/ems-81933
