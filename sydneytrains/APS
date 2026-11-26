@@ -74,14 +74,6 @@ UID:dc960d28-3aaf-55e6-a135-7a9cdc9e05b0
 URL:https://dev.transportnsw.info/alerts/details#/ems-82276
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82226\n\nSunday 13 December\nFrom 8:40AM to 3:00PM\, buses replace the all-stations trains between Wolli Creek and Revesby.\nExpress trains continue to run but do not stop at stations between Padstow and Turrella.
-DTEND:20261213T040022Z
-DTSTART:20261212T214000Z
-SUMMARY:Buses replace the all-stations trains between Wolli Creek and Revesby
-UID:aa2ceffb-9df2-5475-9c9d-60e9106303b8
-URL:https://dev.transportnsw.info/alerts/details#/ems-82226
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81540\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, trains between Sydenham and the City Circle run to a changed timetable.\nNightly from 10:10PM to 1:.30AM\, trackwork at Wolli Creek may affect how you travel.\nT4 Eastern Suburbs & Illawarra and South Coast Line trains do not stop at Wolli Creek. Buses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Central for T4 Eastern Suburbs & Illawarra or South Coast Line trains.
 DTEND:20261126T143000Z
 DTSTART:20261126T105000Z
