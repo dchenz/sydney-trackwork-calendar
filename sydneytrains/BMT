@@ -18,19 +18,11 @@ UID:eec65659-0c40-57eb-8b2d-de16998606fe
 URL:https://transportnsw.info/alerts/details#/ems-81341
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81339\n\nThursday 26 November\nBuses replace trains between Bathurst and Mount Victoria.\nNSW TrainLink also run coaches between Bathurst and Katoomba that do not require a booking.\nTrains run between Mount Victoria and Central\, some to a changed timetable.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.
-DTEND:20261126T150052Z
-DTSTART:20261125T150000Z
-SUMMARY:Buses replace trains between Bathurst and Mount Victoria
-UID:33d4c090-16fa-51f8-976e-c4eceecfa352
-URL:https://transportnsw.info/alerts/details#/ems-81339
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-81972\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 60 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81972\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith and Granville.\nT1 Western Line trains run between Granville and the City.\nTrains from Penrith to Blue Mountains Line stations run up to 60 minutes later than the normal timetable.\nBathurst trains run to a changed timetable between Bathurst and Lithgow or Central.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20261206T125959Z
 DTSTART:20261204T150000Z
 SUMMARY:Buses replace trains between Penrith and Granville
 UID:e85e0a23-d219-5a6b-a8bd-6f9b04f37575
-URL:https://dev.transportnsw.info/alerts/details#/ems-81972
+URL:https://transportnsw.info/alerts/details#/ems-81972
 END:VEVENT
 END:VCALENDAR

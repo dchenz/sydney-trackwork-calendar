@@ -2,36 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82291\n\nMonday 7 and Tuesday 8 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82291\n\nMonday 7 and Tuesday 8 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
 DTEND:20261207T143000Z
 DTSTART:20261207T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:95db8346-33ad-5b32-b13e-b0144bb3fafa
-URL:https://dev.transportnsw.info/alerts/details#/ems-82291
+URL:https://transportnsw.info/alerts/details#/ems-82291
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82291\n\nMonday 7 and Tuesday 8 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82291\n\nMonday 7 and Tuesday 8 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur or Liverpool and Richmond.
 DTEND:20261208T143000Z
 DTSTART:20261208T105000Z
 SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:95db8346-33ad-5b32-b13e-b0144bb3fafa
-URL:https://dev.transportnsw.info/alerts/details#/ems-82291
+URL:https://transportnsw.info/alerts/details#/ems-82291
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82293\n\nWednesday 9 and Thursday 10 December \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82293\n\nWednesday 9 and Thursday 10 December \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
 DTEND:20261209T143000Z
 DTSTART:20261209T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:e568fc4b-b1c8-5b35-88a2-88d8f8b97e07
-URL:https://dev.transportnsw.info/alerts/details#/ems-82293
+URL:https://transportnsw.info/alerts/details#/ems-82293
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82293\n\nWednesday 9 and Thursday 10 December \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82293\n\nWednesday 9 and Thursday 10 December \nNightly from 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
 DTEND:20261210T143000Z
 DTSTART:20261210T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:e568fc4b-b1c8-5b35-88a2-88d8f8b97e07
-URL:https://dev.transportnsw.info/alerts/details#/ems-82293
+URL:https://transportnsw.info/alerts/details#/ems-82293
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81964\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Richmond and Granville.\nT2 Leppington & Inner West Line trains run between Leppington\, Granville and the City.

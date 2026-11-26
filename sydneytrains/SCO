@@ -26,14 +26,6 @@ UID:c99be217-4966-5818-9478-2110a7cab05f
 URL:https://transportnsw.info/alerts/details#/ems-81985
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81561\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10:40PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Sydenham.\nBuses run between Sydenham and Wolli Creek.\nChange at Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
-DTEND:20261126T143000Z
-DTSTART:20261126T105000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:20f6f6f3-934e-5575-b6ce-ef49bee9b2ae
-URL:https://transportnsw.info/alerts/details#/ems-81561
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81983\n\nThursday 3 December\nFrom 9:20AM to 2:10PM\, buses replace trains between Port Kembla and Wollongong.\nBuses towards Wollongong may leave stations up to 15 minutes earlier than the normal train timetable.
 DTEND:20261203T040043Z
 DTSTART:20261202T220000Z
@@ -42,11 +34,11 @@ UID:96252202-83af-5ef4-9ced-14627556e952
 URL:https://transportnsw.info/alerts/details#/ems-81983
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82230\n\nFriday 11 December\nFrom 2:50PM\, buses replace trains from Wollongong to Bomaderry.\nFrom 3:50PM\, buses replace trains from Bomaderry to Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong\, you may need to catch an earlier bus to ensure you meet your train connection.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82230\n\nFriday 11 December\nFrom 2:50PM\, buses replace trains from Wollongong to Bomaderry.\nFrom 3:50PM\, buses replace trains from Bomaderry to Wollongong.\nTrains run between Port Kembla\, Wollongong and Bondi Junction\, some to a changed timetable.\nBuses do not run to the train timetable. If connecting with trains at Wollongong\, you may need to catch an earlier bus to ensure you meet your train connection.
 DTEND:20261211T150059Z
 DTSTART:20261211T035000Z
 SUMMARY:Buses replace trains between Bomaderry and Wollongong
 UID:1cae55ae-e578-538a-954c-e25d9c5c80eb
-URL:https://dev.transportnsw.info/alerts/details#/ems-82230
+URL:https://transportnsw.info/alerts/details#/ems-82230
 END:VEVENT
 END:VCALENDAR

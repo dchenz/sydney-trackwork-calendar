@@ -26,12 +26,12 @@ UID:576be138-d22f-5c19-90ee-cf38a7c4c22d
 URL:https://transportnsw.info/alerts/details#/ems-81935
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-81511\n\nFriday 27 November\nFrom 10:50PM\, buses replace trains between North Sydney and Milsons Point\, also stopping at Victoria Cross metro station.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, some to a changed timetable.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81511\n\nFriday 27 November\nFrom 10:50PM\, buses replace trains between North Sydney and Milsons Point\, also stopping at Victoria Cross metro station.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nTrains run between Berowra and North Sydney\, some to a changed timetable.
 DTEND:20261127T150030Z
 DTSTART:20261127T120000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between North Sydney and Milsons Point. Use metro services between Chatswood and the City
 UID:4f979ffd-edd3-5be5-90e0-7ce974f2fd07
-URL:https://dev.transportnsw.info/alerts/details#/ems-81511
+URL:https://transportnsw.info/alerts/details#/ems-81511
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81935\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains run between Berowra and Wynyard only\, due to City Circle trackwork.\nUse metro services between Chatswood and the City or change at Wynyard for the light rail.\nTrains do not run between Wynyard and Central\, or on the City Circle.

@@ -34,27 +34,27 @@ UID:0f0b7204-309a-5c4d-a4ce-b3b5c1772519
 URL:https://transportnsw.info/alerts/details#/ems-81525
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82278\n\nWednesday 9 and Thursday 10 December\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82278\n\nWednesday 9 and Thursday 10 December\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
 DTEND:20261209T143000Z
 DTSTART:20261209T102000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
 UID:ae758883-2ceb-565c-b067-8b3f56cd7604
-URL:https://dev.transportnsw.info/alerts/details#/ems-82278
+URL:https://transportnsw.info/alerts/details#/ems-82278
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82278\n\nWednesday 9 and Thursday 10 December\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82278\n\nWednesday 9 and Thursday 10 December\nNightly from 9:20PM to 1:30AM\, trains may run to a changed timetable and make extra stops at some stations between Seven Hills and Lidcombe.
 DTEND:20261210T143000Z
 DTSTART:20261210T102000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and make extra stops
 UID:ae758883-2ceb-565c-b067-8b3f56cd7604
-URL:https://dev.transportnsw.info/alerts/details#/ems-82278
+URL:https://transportnsw.info/alerts/details#/ems-82278
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-81941\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong.\nFrequent metro services run between Tallawong and Bankstown\, except on Saturday until 9AM and from 9:10PM Sunday when buses also replace metro services between Tallawong and Chatswood\, and between Sydenham and Bankstown.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81941\n\nSaturday 5 and Sunday 6 December\nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong.\nFrequent metro services run between Tallawong and Bankstown\, except on Saturday until 9AM and from 9:10PM Sunday when buses also replace metro services between Tallawong and Chatswood\, and between Sydenham and Bankstown.
 DTEND:20261206T125943Z
 DTSTART:20261204T150000Z
 SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
 UID:46509424-7f93-532a-9def-4da8ce273c60
-URL:https://dev.transportnsw.info/alerts/details#/ems-81941
+URL:https://transportnsw.info/alerts/details#/ems-81941
 END:VEVENT
 END:VCALENDAR

@@ -26,28 +26,28 @@ UID:2a07aedc-9dab-57d4-8b3b-355ff2533b89
 URL:https://transportnsw.info/alerts/details#/ems-81506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82287\n\nSaturday 12 December \nFrom 6:30AM to 10:30AM\, most trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82287\n\nSaturday 12 December \nFrom 6:30AM to 10:30AM\, most trains run to a changed timetable between Liverpool and Lidcombe\, and between Homebush and the City only.\nYou may need to change trains to continue your journey.\nT1 Western and T2 Leppington Line trains run between Lidcombe and the City.
 DTEND:20261211T233000Z
 DTSTART:20261211T193000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern
 UID:b39f85ff-f0e0-5f60-986a-f72bfbaca6a5
-URL:https://dev.transportnsw.info/alerts/details#/ems-82287
+URL:https://transportnsw.info/alerts/details#/ems-82287
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82285\n\nWednesday 9 and Thursday 10 December\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82285\n\nWednesday 9 and Thursday 10 December\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
 DTEND:20261209T143000Z
 DTSTART:20261209T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:a43e5800-2d57-5965-9dda-2ea0bd3392f7
-URL:https://dev.transportnsw.info/alerts/details#/ems-82285
+URL:https://transportnsw.info/alerts/details#/ems-82285
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82285\n\nWednesday 9 and Thursday 10 December\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82285\n\nWednesday 9 and Thursday 10 December\nNightly from 9:40PM to 1:30AM\, buses replace trains between Liverpool and Lidcombe.\nTrains run between Lidcombe and the City\, to a changed timetable. You may need to change trains to continue your journey.\nSome Inner West trains run to a changed timetable between Olympic Park or Homebush and the City.\nBuses also replace T2 Leppington & Inner West Line trains between Leppington and Fairfield or Granville\, and T6 Lidcombe & Bankstown Line trains between Bankstown and Lidcombe.
 DTEND:20261210T143000Z
 DTSTART:20261210T104000Z
 SUMMARY:Buses replace trains between Liverpool and Lidcombe
 UID:a43e5800-2d57-5965-9dda-2ea0bd3392f7
-URL:https://dev.transportnsw.info/alerts/details#/ems-82285
+URL:https://transportnsw.info/alerts/details#/ems-82285
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81933\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:40PM to 1:30AM\, trains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use T4 Eastern Suburbs Line trains\, metro\, light rail\, local buses or walk.\nFor travel to T1 North Shore Line stations change at Wynyard or use metro services.\nTrackwork also affects trains on other lines.
@@ -66,11 +66,11 @@ UID:2c04d6f7-be70-5356-b078-195f6f9f8595
 URL:https://transportnsw.info/alerts/details#/ems-81933
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82276\n\nMonday 7 December\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82276\n\nMonday 7 December\nFrom 9:50PM to 11:55PM\, trains run in one direction only\, from Central first stop Museum.\nFrom 11:55PM to 1:30AM\, trains run in one direction only\, from Central first stop Town Hall.\nTrains may start or end at Central\, run to a changed timetable or leave from different platforms.\nYou may need to change trains to continue your journey.
 DTEND:20261207T143039Z
 DTSTART:20261207T105000Z
 SUMMARY:City Circle: Trains run in one direction only
 UID:dc960d28-3aaf-55e6-a135-7a9cdc9e05b0
-URL:https://dev.transportnsw.info/alerts/details#/ems-82276
+URL:https://transportnsw.info/alerts/details#/ems-82276
 END:VEVENT
 END:VCALENDAR

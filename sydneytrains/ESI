@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://dev.transportnsw.info/alerts/details#/ems-82289\n\nSaturday 12 and Sunday 13 December\nBuses replace trains between Cronulla and Sutherland.\nTrains run between Waterfall\, Sutherland and Bondi Junction\, some to a changed timetable.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-82289\n\nSaturday 12 and Sunday 13 December\nBuses replace trains between Cronulla and Sutherland.\nTrains run between Waterfall\, Sutherland and Bondi Junction\, some to a changed timetable.
 DTEND:20261213T125940Z
 DTSTART:20261211T150000Z
 SUMMARY:Buses replace trains between Cronulla and Sutherland
 UID:7f90191b-9418-5437-9a18-558af0a76750
-URL:https://dev.transportnsw.info/alerts/details#/ems-82289
+URL:https://transportnsw.info/alerts/details#/ems-82289
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81954\n\nMonday 30 November and Tuesday 1 December\nNightly from 9:30PM to 1:30AM\, some trains make extra stops at St Peters and Erskineville.\nTrackwork on the City Circle may also affect how you travel.\nTrains do not run on the City Circle\, or between Central and Wynyard.\nFor travel in the City use metro\, light rail\, local buses or walk.
@@ -35,16 +35,16 @@ URL:https://transportnsw.info/alerts/details#/ems-81533
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81956\n\nWednesday 2 and Thursday 3 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
-DTEND:20261202T143000Z
-DTSTART:20261202T105000Z
+DTEND:20261203T143000Z
+DTSTART:20261203T105000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:dc004ea6-0ba4-5ab0-a792-bfc4a0f4aa36
 URL:https://transportnsw.info/alerts/details#/ems-81956
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81956\n\nWednesday 2 and Thursday 3 December \nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
-DTEND:20261203T143000Z
-DTSTART:20261203T105000Z
+DTEND:20261202T143000Z
+DTSTART:20261202T105000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:dc004ea6-0ba4-5ab0-a792-bfc4a0f4aa36
 URL:https://transportnsw.info/alerts/details#/ems-81956
@@ -56,13 +56,5 @@ DTSTART:20261204T160000Z
 SUMMARY:Buses replace trains between Waterfall and Sutherland
 UID:5bdf61e2-4074-5437-899f-606ceff8cd29
 URL:https://transportnsw.info/alerts/details#/ems-81958
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81531\n\nWednesday 25 and Thursday 26 November\nNightly from 9:50PM to 1:30AM\, buses replace trains between Central and Bondi Junction\, but do not stop at Martin Place.\nTrains run to a changed timetable between Cronulla\, Waterfall and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at:\n- Sydenham or Central for metro services to Martin Place\n- Central for buses to Kings Cross and Edgecliff\n- Town Hall for express buses to Bondi Junction.\nNightly from 10:10PM to 1:30AM\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport & South Line train if you have luggage or accessibility needs.
-DTEND:20261126T143000Z
-DTSTART:20261126T105000Z
-SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
-UID:8e0c95b8-9a7e-511b-a9e1-e76df36a3834
-URL:https://transportnsw.info/alerts/details#/ems-81531
 END:VEVENT
 END:VCALENDAR
