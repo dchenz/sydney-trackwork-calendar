@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains between Bathurst and Blacktown
 UID:8a7d8136-5859-53da-bf22-f3cf0350070a
 URL:https://transportnsw.info/alerts/details#/ems-81346
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-81341\n\nFriday 27 November\nBuses replace trains between Bathurst and Katoomba.\nNSW TrainLink also run coaches between Bathurst and Katoomba that do not require a booking.\nTrains run between Katoomba and Central\, some to a changed timetable.\nLimited morning trains run from Mount Victoria to Central\, leaving Mount Victoria at 02:26AM\, 03:26AM\, 03:56AM\, 04:26AM\, 04:56AM\, 05:18AM and 05:26AM.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches\, call 132 232 to confirm departure times.\nFriday from 9:40PM\, buses replace trains from Blacktown to Lithgow.\nThe last train leaves Central at 20:09PM\, arriving Katoomba at 22:08PM.\nT1 Western Line trains run between Central and Penrith\, to a changed timetable. Change at Blacktown for buses to Blue Mountains Line stations.
-DTEND:20261127T150010Z
-DTSTART:20261126T150000Z
-SUMMARY:Buses replace trains between Bathurst and Katoomba
-UID:eec65659-0c40-57eb-8b2d-de16998606fe
-URL:https://transportnsw.info/alerts/details#/ems-81341
-END:VEVENT
 END:VCALENDAR
